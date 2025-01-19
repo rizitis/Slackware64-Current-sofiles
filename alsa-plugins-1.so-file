@@ -1,0 +1,8 @@
+libasound.so.2
+libavcodec.so.61
+libavutil.so.59
+libc.so.6
+libpulse.so.0
+libsamplerate.so.0
+libspeexdsp.so.1
+libswresample.so.5
