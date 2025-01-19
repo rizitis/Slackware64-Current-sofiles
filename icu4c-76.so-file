@@ -1,0 +1,10 @@
+ld-linux-x86-64.so.2
+libc.so.6
+libgcc_s.so.1
+libicudata.so.76
+libicui18n.so.76
+libicuio.so.76
+libicutu.so.76
+libicuuc.so.76
+libm.so.6
+libstdc++.so.6

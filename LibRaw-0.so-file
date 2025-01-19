@@ -1,0 +1,11 @@
+libc.so.6
+libgcc_s.so.1
+libgomp.so.1
+libjasper.so.7
+libjpeg.so.62
+liblcms2.so.2
+libm.so.6
+libraw.so.23
+libraw_r.so.23
+libstdc++.so.6
+libz.so.1
