@@ -1,0 +1,12 @@
+libINIReader.so.0
+libbrotlicommon.so.1
+libbrotlidec.so.1
+libc.so.6
+libcurl.so.4
+libexiv2.so.28
+libexpat.so.1
+libgcc_s.so.1
+libinih.so.0
+libm.so.6
+libstdc++.so.6
+libz.so.1

@@ -1,0 +1,11 @@
+libc.so.6
+libcom_err.so.2
+libglib-2.0.so.0
+libgnutls.so.30
+libgobject-2.0.so.0
+libgssapi_krb5.so.2
+libidn.so.12
+libk5crypto.so.3
+libkrb5.so.3
+libnsl.so.3
+libresolv.so.2
