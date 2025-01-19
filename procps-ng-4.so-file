@@ -1,0 +1,9 @@
+ld-linux-x86-64.so.2
+libc.so.6
+libelogind.so.0
+libgcc_s.so.1
+libm.so.6
+libncursesw.so.6
+libproc2.so.1
+libstdc++.so.6
+libtinfo.so.6
