@@ -1,0 +1,11 @@
+libX11.so.6
+libXcursor.so.1
+libXrandr.so.2
+libasound.so.2
+libc.so.6
+libgmp.so.10
+libgnutls.so.30
+libhogweed.so.6
+libnettle.so.8
+libsamplerate.so.0
+libtasn1.so.6
