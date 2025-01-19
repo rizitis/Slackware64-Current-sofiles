@@ -1,0 +1,13 @@
+libGL.so.1
+libc.so.6
+libgif.so.7
+libglut.so.3
+libjpeg.so.62
+libm.so.6
+libpng16.so.16
+libsharpyuv.so.0
+libtiff.so.6
+libwebp.so.7
+libwebpdecoder.so.3
+libwebpdemux.so.2
+libwebpmux.so.3

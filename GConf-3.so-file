@@ -1,0 +1,13 @@
+libc.so.6
+libdbus-1.so.3
+libdbus-glib-1.so.2
+libgconf-2.so.4
+libgio-2.0.so.0
+libglib-2.0.so.0
+libgmodule-2.0.so.0
+libgobject-2.0.so.0
+libgthread-2.0.so.0
+liblber.so.2
+libldap.so.2
+libpolkit-gobject-1.so.0
+libxml2.so.2

@@ -1,0 +1,11 @@
+libc.so.6
+libfreetype.so.6
+libjpeg.so.62
+liblcms2.so.2
+libopenjp2.so.7
+libtiff.so.6
+libwebp.so.7
+libwebpdemux.so.2
+libwebpmux.so.3
+libxcb.so.1
+libz.so.1

@@ -1,0 +1,8 @@
+libc.so.6
+libfuse.so.2
+libgcc_s.so.1
+libm.so.6
+libmagic.so.1
+libmtp.so.9
+libpthread.so.0
+libstdc++.so.6
