@@ -1,1 +1,1 @@
-head -n 1 slackware64-current/ChangeLog.txt
+ChangeLog.txt: Sat Jan 18 18:33:10 UTC 2025
