@@ -1,0 +1,11 @@
+ld-linux-x86-64.so.2
+libQt5Core.so.5
+libQt6Core.so.6
+libassuan.so.9
+libc.so.6
+libgcc_s.so.1
+libgpg-error.so.0
+libgpgme.so.11
+libgpgmepp.so.6
+libm.so.6
+libstdc++.so.6

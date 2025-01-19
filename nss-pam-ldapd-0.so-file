@@ -1,0 +1,6 @@
+ld-linux-x86-64.so.2
+libc.so.6
+libgssapi_krb5.so.2
+liblber.so.2
+libldap.so.2
+libpam.so.0
