@@ -1,0 +1,12 @@
+libacl.so.1
+libattr.so.1
+libc.so.6
+libgettextlib-0.23.1.so
+libgettextsrc-0.23.1.so
+libgomp.so.1
+libm.so.6
+libncursesw.so.6
+libtextstyle.so.0
+libtinfo.so.6
+libunistring.so.5
+libxml2.so.2

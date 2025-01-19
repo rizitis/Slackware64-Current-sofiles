@@ -1,0 +1,11 @@
+libassuan.so.9
+libc.so.6
+libglib-2.0.so.0
+libgmodule-2.0.so.0
+libgpg-error.so.0
+libgpgme.so.11
+libidn.so.12
+libloudmouth-1.so.0
+libncursesw.so.6
+libpanelw.so.6
+libtinfo.so.6

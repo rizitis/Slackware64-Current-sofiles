@@ -1,0 +1,6 @@
+libc.so.6
+libcap.so.2
+libcrypt.so.1
+libcrypto.so.3
+libnsl.so.3
+libssl.so.3
