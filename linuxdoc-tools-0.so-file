@@ -1,0 +1,10 @@
+libc.so.6
+libfl.so.2
+libgcc_s.so.1
+libm.so.6
+libnsl.so.3
+libogrove.so.0
+libosp.so.5
+libospgrove.so.0
+libostyle.so.0
+libstdc++.so.6

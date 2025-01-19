@@ -1,0 +1,14 @@
+libX11.so.6
+libXext.so.6
+libXi.so.6
+libc.so.6
+libdl.so.2
+libgdk-1.2.so.0
+libglib-1.2.so.0
+libgmodule-1.2.so.0
+libgthread-1.2.so.0
+libgtk-1.2.so.0
+libm.so.6
+libmad.so.0
+libpthread.so.0
+libxmms.so.1

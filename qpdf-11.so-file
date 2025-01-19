@@ -1,0 +1,10 @@
+libc.so.6
+libcrypto.so.3
+libgcc_s.so.1
+libgnutls.so.30
+libjpeg.so.62
+libm.so.6
+libqpdf.so.29
+libssl.so.3
+libstdc++.so.6
+libz.so.1

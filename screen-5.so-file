@@ -1,0 +1,5 @@
+libc.so.6
+libcrypt.so.2
+libncursesw.so.6
+libpam.so.0
+libtinfo.so.6
