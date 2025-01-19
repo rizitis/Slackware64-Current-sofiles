@@ -1,0 +1,14 @@
+libX11.so.6
+libXau.so.6
+libXaw.so.7
+libXdmcp.so.6
+libXext.so.6
+libXft.so.2
+libXinerama.so.1
+libXmu.so.6
+libXpm.so.4
+libXrender.so.1
+libXt.so.6
+libc.so.6
+libcrypt.so.2
+libpam.so.0
