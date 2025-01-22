@@ -4,7 +4,6 @@ libGL.so.1
 libGLU.so.1
 libLLVM.so.19.1
 libLLVMSPIRVLib.so.19.1
-libOpenGL.so.0
 libSPIRV-Tools-link.so
 libSPIRV-Tools-opt.so
 libSPIRV-Tools.so
@@ -21,7 +20,7 @@ libdrm_nouveau.so.2
 libdrm_radeon.so.1
 libelf.so.1
 libexpat.so.1
-libgallium-24.3.3.so
+libgallium-24.3.4.so
 libgbm.so.1
 libgcc_s.so.1
 libglapi.so.0
