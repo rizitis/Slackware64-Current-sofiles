@@ -397,6 +397,7 @@
 [isl-0.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/isl-0.so-file) 
 [ispell-3.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/ispell-3.so-file) 
 [itinerary-23.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/itinerary-23.so-file) 
+[iucode_tool-2.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/iucode_tool-2.so-file) 
 [iw-6.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/iw-6.so-file) 
 [jansson-2.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/jansson-2.so-file) 
 [jasper-4.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/jasper-4.so-file) 
