@@ -1,9 +1,7 @@
 libc.so.6
-libcrypto.so.3
 libe2p.so.2
 libglib-2.0.so.0
 libgmodule-2.0.so.0
 libgpm.so.2
 libslang.so.2
 libssh2.so.1
-libssl.so.3
