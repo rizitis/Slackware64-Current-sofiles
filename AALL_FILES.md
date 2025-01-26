@@ -717,7 +717,7 @@
 [libcddb-1.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/libcddb-1.so-file) 
 [libcdio-2.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/libcdio-2.so-file) 
 [libcdio-paranoia-10.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/libcdio-paranoia-10.so-file) 
-[libcgroup-0.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/libcgroup-0.so-file) 
+[libcgroup-3.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/libcgroup-3.so-file) 
 [libcue-2.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/libcue-2.so-file) 
 [libcupsfilters-2.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/libcupsfilters-2.so-file) 
 [libdaemon-0.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/libdaemon-0.so-file) 
