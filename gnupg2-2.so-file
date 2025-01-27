@@ -10,5 +10,4 @@ libldap.so.2
 libnpth.so.0
 libreadline.so.8
 libsqlite3.so.0
-libusb-1.0.so.0
 libz.so.1
