@@ -1039,6 +1039,7 @@
 [openjpeg-2.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/openjpeg-2.so-file) 
 [openldap-2.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/openldap-2.so-file) 
 [openobex-1.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/openobex-1.so-file) 
+[opensc-0.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/opensc-0.so-file) 
 [openssh-9.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/openssh-9.so-file) 
 [openssl-3.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/openssl-3.so-file) 
 [openssl-solibs-3.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/openssl-solibs-3.so-file) 
