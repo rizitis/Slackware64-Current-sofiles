@@ -17,6 +17,7 @@
 [SDL2_mixer.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/SDL2_mixer.so-file) 
 [SDL2_net.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/SDL2_net.so-file) 
 [SDL2_ttf.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/SDL2_ttf.so-file) 
+[SDL3.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/SDL3.so-file) 
 [a2ps.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/a2ps.so-file) 
 [a52dec.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/a52dec.so-file) 
 [aaa_glibc-solibs.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/aaa_glibc-solibs.so-file) 
