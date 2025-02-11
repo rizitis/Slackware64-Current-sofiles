@@ -109,6 +109,7 @@
 [calligra.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/calligra.so-file) 
 [calligraplan.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/calligraplan.so-file) 
 [cantor.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/cantor.so-file) 
+[cargo-c.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/cargo-c.so-file) 
 [cargo-vendor-filterer.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/cargo-vendor-filterer.so-file) 
 [cbindgen.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/cbindgen.so-file) 
 [ccache.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/ccache.so-file) 
