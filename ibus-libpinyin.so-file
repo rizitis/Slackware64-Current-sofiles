@@ -1,11 +1,13 @@
 libc.so.6
 libgcc_s.so.1
+libgdk_pixbuf-2.0.so.0
 libgio-2.0.so.0
 libglib-2.0.so.0
 libgobject-2.0.so.0
 libibus-1.0.so.5
 liblua.so
 libm.so.6
+libnotify.so.4
 libopencc.so.1.1
 libpinyin.so.15
 libsqlite3.so.0
