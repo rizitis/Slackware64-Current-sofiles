@@ -326,6 +326,7 @@
 [grantleetheme.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/grantleetheme.so-file) 
 [graphene.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/graphene.so-file) 
 [graphite2.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/graphite2.so-file) 
+[graphviz.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/graphviz.so-file) 
 [grep.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/grep.so-file) 
 [groff.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/groff.so-file) 
 [grub.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/grub.so-file) 
