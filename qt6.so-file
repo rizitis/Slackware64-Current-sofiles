@@ -1,3 +1,4 @@
+  NEEDED               /usr/lib64/libsqlite3.so
 ld-linux-x86-64.so.2
 libEGL.so.1
 libGLX.so.0
@@ -321,7 +322,7 @@ libresolv.so.2
 libsmime3.so
 libsoftokn3.so
 libspeechd.so.2
-libsqlite3.so.0
+libsqlite3.so
 libssl.so.3
 libstdc++.so.6
 libswresample.so.5

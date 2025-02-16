@@ -5,6 +5,8 @@ libXaw.so.7
 libXft.so.2
 libXmu.so.6
 libXt.so.6
+libanthy-unicode.so.0
+libanthydic-unicode.so.0
 libc.so.6
 libfontconfig.so.1
 libfreetype.so.6
