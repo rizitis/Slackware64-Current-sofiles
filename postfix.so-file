@@ -16,6 +16,6 @@ libpostfix-tls.so
 libpostfix-util.so
 libresolv.so.2
 libsasl2.so.3
-libsqlite3.so.0
+libsqlite3.so
 libssl.so.3
 libz.so.1
