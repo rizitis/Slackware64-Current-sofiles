@@ -172,6 +172,7 @@ libtinfo.so.6
 libtirpc.so.3
 libtorture-private-samba.so
 liburing.so.2
+libutil-crypt-private-samba.so
 libutil-reg-private-samba.so
 libutil-setid-private-samba.so
 libutil-tdb-private-samba.so

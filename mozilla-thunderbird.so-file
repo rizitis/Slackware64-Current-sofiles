@@ -44,7 +44,7 @@ libresolv.so.2
 librnp.so
 libsmime3.so
 libsoftokn3.so
-libsqlite3.so.0
+libsqlite3.so
 libssl3.so
 libstdc++.so.6
 libxcb-shm.so.0
