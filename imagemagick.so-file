@@ -14,7 +14,11 @@ libXext.so.6
 libXt.so.6
 libbz2.so.1
 libc.so.6
+libcairo-gobject.so.2
 libcairo.so.2
+libcdt.so.5
+libcgraph.so.6
+libdav1d.so.7
 libdjvulibre.so.21
 libfftw3.so.3
 libfontconfig.so.1
@@ -23,8 +27,10 @@ libgcc_s.so.1
 libgdk_pixbuf-2.0.so.0
 libgio-2.0.so.0
 libglib-2.0.so.0
+libgmodule-2.0.so.0
 libgobject-2.0.so.0
 libgomp.so.1
+libgvc.so.6
 libharfbuzz.so.0
 libjpeg.so.62
 liblcms2.so.2
@@ -34,6 +40,7 @@ libm.so.6
 libopenjp2.so.7
 libpango-1.0.so.0
 libpangocairo-1.0.so.0
+libpangoft2-1.0.so.0
 libpng16.so.16
 libraw_r.so.23
 librsvg-2.so.2
