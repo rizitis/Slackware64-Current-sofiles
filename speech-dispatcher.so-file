@@ -15,9 +15,10 @@ libgmodule-2.0.so.0
 libgthread-2.0.so.0
 libltdl.so.7
 libm.so.6
-libpulse-simple.so.0
+libpipewire-0.3.so.0
 libpulse.so.0
 libsndfile.so.1
 libspeechd.so.2
+libspeechd_module.so.0
 libstdc++.so.6
 libvoxin.so

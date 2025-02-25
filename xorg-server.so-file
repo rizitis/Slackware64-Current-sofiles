@@ -3,6 +3,7 @@ libXau.so.6
 libXdmcp.so.6
 libXfont2.so.2
 libc.so.6
+libdbus-1.so.3
 libdrm.so.2
 libepoxy.so.0
 libgbm.so.1
