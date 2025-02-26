@@ -1,8 +1,8 @@
 libacl.so.1
 libattr.so.1
 libc.so.6
-libgettextlib-0.23.1.so
-libgettextsrc-0.23.1.so
+libgettextlib-0.24.so
+libgettextsrc-0.24.so
 libgomp.so.1
 libm.so.6
 libncursesw.so.6
