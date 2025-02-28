@@ -1314,6 +1314,7 @@
 [vulkan-sdk.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/vulkan-sdk.so-file) 
 [wacomtablet.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/wacomtablet.so-file) 
 [wavpack.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/wavpack.so-file) 
+[wayland-utils.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/wayland-utils.so-file) 
 [wayland.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/wayland.so-file) 
 [wcslib.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/wcslib.so-file) 
 [wget.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/wget.so-file) 
