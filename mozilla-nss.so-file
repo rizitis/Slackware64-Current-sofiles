@@ -5,6 +5,6 @@ libnssutil3.so
 libplc4.so
 libplds4.so
 libsmime3.so
-libsqlite3.so.0
+libsqlite3.so
 libssl3.so
 libz.so.1
