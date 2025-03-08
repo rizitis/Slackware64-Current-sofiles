@@ -104,7 +104,7 @@ libndr-nbt.so.0
 libndr-samba-private-samba.so
 libndr-samba4-private-samba.so
 libndr-standard.so.0
-libndr.so.5
+libndr.so.6
 libnet-keytab-private-samba.so
 libnetapi.so.1
 libnetif-private-samba.so
