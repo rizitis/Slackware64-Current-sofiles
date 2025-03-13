@@ -32,4 +32,5 @@ librsvg-2.so.2
 libstdc++.so.6
 libswscale.so.8
 libtiff.so.6
+libumfpack.so.6
 libwebp.so.7
