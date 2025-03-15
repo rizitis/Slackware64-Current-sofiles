@@ -71,9 +71,9 @@ libavfilter.so.10
 libavformat.so.61
 libavutil.so.59
 libc.so.6
-libdigikamcore.so.8.5.0
-libdigikamdatabase.so.8.5.0
-libdigikamgui.so.8.5.0
+libdigikamcore.so.8.7.0
+libdigikamdatabase.so.8.7.0
+libdigikamgui.so.8.7.0
 libexiv2.so.28
 libexpat.so.1
 libexslt.so.0
