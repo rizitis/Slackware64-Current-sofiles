@@ -1,3 +1,4 @@
+ld-linux-x86-64.so.2
 libKF5Auth.so.5
 libKF5AuthCore.so.5
 libKF5Codecs.so.5
@@ -50,5 +51,6 @@ libm.so.6
 libmarbledeclarative.so
 libmarblewidget-qt5.so.28
 libphonon4qt5.so.4
+libprotobuf.so.29
 libstdc++.so.6
 libz.so.1

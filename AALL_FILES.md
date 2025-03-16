@@ -657,7 +657,6 @@
 [labplot.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/labplot.so-file) 
 [labwc.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/labwc.so-file) 
 [lame.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/lame.so-file) 
-[latte-dock.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/latte-dock.so-file) 
 [layer-shell-qt.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/layer-shell-qt.so-file) 
 [lbzip2.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/lbzip2.so-file) 
 [lcms.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/lcms.so-file) 
