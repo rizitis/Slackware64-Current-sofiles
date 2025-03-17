@@ -8,9 +8,7 @@ libidn2.so.0
 liblber.so.2
 libldap.so.2
 libncursesw.so.6
-libnsl.so.3
 libpam.so.0
-libresolv.so.2
 libsodium.so.26
 libssl.so.3
 libtinfo.so.6
