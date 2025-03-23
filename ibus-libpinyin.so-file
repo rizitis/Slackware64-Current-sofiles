@@ -10,5 +10,5 @@ libm.so.6
 libnotify.so.4
 libopencc.so.1.1
 libpinyin.so.15
-libsqlite3.so.0
+libsqlite3.so
 libstdc++.so.6
