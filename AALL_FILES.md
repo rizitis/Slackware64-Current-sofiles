@@ -345,7 +345,7 @@
 [gtkmm2.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/gtkmm2.so-file) 
 [gtkmm3.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/gtkmm3.so-file) 
 [gtkmm4.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/gtkmm4.so-file) 
-[gtksourceview3.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/gtksourceview3.so-file) 
+[gtksourceview4.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/gtksourceview4.so-file) 
 [gtkspell.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/gtkspell.so-file) 
 [gucharmap.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/gucharmap.so-file) 
 [guile.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/guile.so-file) 

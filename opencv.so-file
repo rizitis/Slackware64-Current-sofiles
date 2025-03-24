@@ -25,6 +25,7 @@ libgstvideo-1.0.so.0
 libharfbuzz.so.0
 libjpeg.so.62
 libm.so.6
+libopenblas.so.0
 libopencv_calib3d.so.411
 libopencv_core.so.411
 libopencv_dnn.so.411
