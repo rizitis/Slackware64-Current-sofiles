@@ -15,7 +15,7 @@ libnl-3.so.200
 libnl-genl-3.so.200
 libreadline.so.8
 libresolv.so.2
-libsqlite3.so.0
+libsqlite3.so
 libtirpc.so.3
 libuuid.so.1
 libxml2.so.2
