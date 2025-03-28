@@ -289,9 +289,9 @@ libgtk-3.so.0
 libharfbuzz-subset.so.0
 libharfbuzz.so.0
 libhunspell-1.7.so.0
-libicudata.so.76
-libicui18n.so.76
-libicuuc.so.76
+libicudata.so.77
+libicui18n.so.77
+libicuuc.so.77
 libinput.so.10
 libiodbc.so.2
 libjasper.so.7

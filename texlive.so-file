@@ -18,10 +18,10 @@ libgmp.so.10
 libgraphite2.so.3
 libgs.so.10
 libharfbuzz.so.0
-libicudata.so.76
-libicui18n.so.76
-libicuio.so.76
-libicuuc.so.76
+libicudata.so.77
+libicui18n.so.77
+libicuio.so.77
+libicuuc.so.77
 libkpathsea.so.6
 libm.so.6
 libmpfr.so.6

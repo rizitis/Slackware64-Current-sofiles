@@ -17,9 +17,9 @@ libgd.so.3
 libgdbm.so.6
 libgmp.so.10
 libgssapi_krb5.so.2
-libicui18n.so.76
-libicuio.so.76
-libicuuc.so.76
+libicui18n.so.77
+libicuio.so.77
+libicuuc.so.77
 libiodbc.so.2
 libiodbcinst.so.2
 libk5crypto.so.3

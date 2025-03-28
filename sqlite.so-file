@@ -1,7 +1,7 @@
 libc.so.6
-libicudata.so.76
-libicui18n.so.76
-libicuuc.so.76
+libicudata.so.77
+libicui18n.so.77
+libicuuc.so.77
 libm.so.6
 libncursesw.so.6
 libreadline.so.8
