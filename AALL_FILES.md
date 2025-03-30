@@ -312,6 +312,7 @@
 [gnuplot.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/gnuplot.so-file) 
 [gnutls.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/gnutls.so-file) 
 [gobject-introspection.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/gobject-introspection.so-file) 
+[google-go-lang.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/google-go-lang.so-file) 
 [googletest.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/googletest.so-file) 
 [gpa.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/gpa.so-file) 
 [gparted.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/gparted.so-file) 
