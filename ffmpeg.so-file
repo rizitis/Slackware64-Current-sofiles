@@ -44,8 +44,8 @@ libspeex.so.1
 libssh.so.4
 libswresample.so.5
 libswscale.so.8
-libtheoradec.so.1
-libtheoraenc.so.1
+libtheoradec.so.2
+libtheoraenc.so.2
 libv4l2.so.0
 libva-drm.so.2
 libva-x11.so.2

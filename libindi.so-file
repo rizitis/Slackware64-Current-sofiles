@@ -14,7 +14,7 @@ libm.so.6
 libnova-0.15.so.0
 libogg.so.0
 libstdc++.so.6
-libtheoradec.so.1
-libtheoraenc.so.1
+libtheoradec.so.2
+libtheoraenc.so.2
 libusb-1.0.so.0
 libz.so.1

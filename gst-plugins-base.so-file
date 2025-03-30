@@ -39,8 +39,8 @@ liborc-0.4.so.0
 libpango-1.0.so.0
 libpangocairo-1.0.so.0
 libpng16.so.16
-libtheoradec.so.1
-libtheoraenc.so.1
+libtheoradec.so.2
+libtheoraenc.so.2
 libvisual-0.4.so.0
 libvorbis.so.0
 libvorbisenc.so.2
