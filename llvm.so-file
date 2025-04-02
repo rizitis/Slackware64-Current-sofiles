@@ -11,7 +11,7 @@ libffi.so.8
 libformw.so.6
 libgcc_s.so.1
 liblldb.so.20.1
-liblua.so
+liblua.so.5
 liblzma.so.5
 libm.so.6
 libmlir_float16_utils.so.20.1

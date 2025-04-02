@@ -1,4 +1,3 @@
-  NEEDED               /usr/lib64/liblua.so
 libarchive.so.13
 libc.so.6
 libcairo.so.2
@@ -11,9 +10,11 @@ libgdk_pixbuf-2.0.so.0
 libgio-2.0.so.0
 libglib-2.0.so.0
 libgobject-2.0.so.0
+libgspell-1.so.3
 libgtk-3.so.0
 libjpeg.so.62
 liblcms2.so.2
+liblua.so.5
 libm.so.6
 libopenjp2.so.7
 libpango-1.0.so.0

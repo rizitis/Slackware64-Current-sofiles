@@ -126,6 +126,8 @@
 [clisp.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/clisp.so-file) 
 [clucene.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/clucene.so-file) 
 [cmake.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/cmake.so-file) 
+[cmark-gfm.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/cmark-gfm.so-file) 
+[cmark.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/cmark.so-file) 
 [colord-kde.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/colord-kde.so-file) 
 [colord.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/colord.so-file) 
 [compiz.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/compiz.so-file) 

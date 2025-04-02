@@ -21,7 +21,7 @@ libdovecot.so.0
 libgcc_s.so.1
 libicui18n.so.77
 libldap.so.2
-liblua.so
+liblua.so.5
 liblz4.so.1
 liblzma.so.5
 libm.so.6
@@ -29,7 +29,7 @@ libmariadb.so.3
 libnsl.so.3
 libpam.so.0
 libsodium.so.26
-libsqlite3.so
+libsqlite3.so.0
 libssl.so.3
 libssl_iostream_openssl.so
 libstats_auth.so

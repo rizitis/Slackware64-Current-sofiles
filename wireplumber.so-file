@@ -1,10 +1,10 @@
-  NEEDED               /usr/lib64/liblua.so
 libc.so.6
 libelogind.so.0
 libgio-2.0.so.0
 libglib-2.0.so.0
 libgmodule-2.0.so.0
 libgobject-2.0.so.0
+liblua.so.5
 libm.so.6
 libpipewire-0.3.so.0
 libwireplumber-0.5.so.0
