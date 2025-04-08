@@ -1,4 +1,8 @@
+libImath-3_1.so.29
+libPyImath_Python3_12-3_1.so.29
+libboost_python312.so.1.87.0
 libc.so.6
 libgcc_s.so.1
 libm.so.6
+libpython3.12.so.1.0
 libstdc++.so.6
