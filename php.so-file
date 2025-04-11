@@ -34,7 +34,7 @@ libpam.so.0
 libpcre2-8.so.0
 libpspell.so.15
 libsodium.so.26
-libsqlite3.so
+libsqlite3.so.0
 libssl.so.3
 libstdc++.so.6
 libtidy.so.58
