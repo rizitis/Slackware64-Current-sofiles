@@ -58,7 +58,7 @@ libva-x11.so.2
 libva.so.2
 libvdpau.so.1
 libvorbis.so.0
-libvpx.so.9
+libvpx.so.11
 libwavpack.so.1
 libwayland-client.so.0
 libwayland-egl.so.1

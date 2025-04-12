@@ -158,12 +158,12 @@ libresolv.so.2
 libsmime3.so
 libsoftokn3.so
 libspeechd.so.2
-libsqlite3.so
+libsqlite3.so.0
 libssl.so.3
 libstdc++.so.6
 libtiff.so.6
 libudev.so.1
-libvpx.so.9
+libvpx.so.11
 libwayland-client.so.0
 libwayland-cursor.so.0
 libwayland-egl.so.1

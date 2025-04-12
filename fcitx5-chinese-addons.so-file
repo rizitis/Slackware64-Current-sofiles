@@ -11,7 +11,7 @@ libQt5Gui.so.5
 libQt5Network.so.5
 libQt5WebEngineWidgets.so.5
 libQt5Widgets.so.5
-libboost_iostreams.so.1.87.0
+libboost_iostreams.so.1.88.0
 libc.so.6
 libcurl.so.4
 libgcc_s.so.1
