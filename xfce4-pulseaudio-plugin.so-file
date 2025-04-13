@@ -19,9 +19,9 @@ libpango-1.0.so.0
 libpangocairo-1.0.so.0
 libpulse-mainloop-glib.so.0
 libpulse.so.0
-libwnck-3.so.0
 libxfce4panel-2.0.so.4
 libxfce4ui-2.so.0
 libxfce4util.so.7
+libxfce4windowing-0.so.0
 libxfconf-0.so.3
 libz.so.1
