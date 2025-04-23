@@ -8,8 +8,8 @@ libneon.so.27
 libnetsnmp.so.40
 libnsl.so.3
 libnutclient.so.2
-libnutscan.so.2
+libnutscan.so.3
 libssl.so.3
 libstdc++.so.6
-libupsclient.so.6
+libupsclient.so.7
 libusb-1.0.so.0
