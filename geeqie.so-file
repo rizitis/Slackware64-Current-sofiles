@@ -1,6 +1,9 @@
+libImath-3_1.so.29
+libOpenEXR-3_3.so.32
 libarchive.so.13
 libc.so.6
 libcairo.so.2
+libcfitsio.so.10
 libdjvulibre.so.21
 libexiv2.so.28
 libffmpegthumbnailer.so.4
