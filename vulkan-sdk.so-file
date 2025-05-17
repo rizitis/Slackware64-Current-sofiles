@@ -1,10 +1,15 @@
 ld-linux-x86-64.so.2
 libGL.so.1
+libGLX.so.0
+libOpenGL.so.0
 libQt5Core.so.5
 libQt5Gui.so.5
 libQt5Network.so.5
 libQt5Widgets.so.5
-libSDL3.so.0
+libQt6Core.so.6
+libQt6Gui.so.6
+libQt6Network.so.6
+libQt6Widgets.so.6
 libSPIRV-Tools-link.so
 libSPIRV-Tools-lint.so
 libSPIRV-Tools-opt.so
@@ -20,6 +25,7 @@ libglslang-default-resource-limits.so.15
 libglslang.so.15
 liblz4.so.1
 libm.so.6
+libopenxr_loader.so.1
 libstdc++.so.6
 libvulkan.so.1
 libwayland-client.so.0
