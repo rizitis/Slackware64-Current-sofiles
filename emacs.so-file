@@ -18,7 +18,6 @@ libattr.so.1
 libc.so.6
 libcairo-gobject.so.2
 libcairo.so.2
-libdav1d.so.7
 libdbus-1.so.3
 libfontconfig.so.1
 libfreetype.so.6
@@ -28,7 +27,6 @@ libgdk_pixbuf-2.0.so.0
 libgif.so.7
 libgio-2.0.so.0
 libglib-2.0.so.0
-libgmodule-2.0.so.0
 libgmp.so.10
 libgnutls.so.30
 libgobject-2.0.so.0
@@ -40,10 +38,9 @@ liblcms2.so.2
 libm.so.6
 libpango-1.0.so.0
 libpangocairo-1.0.so.0
-libpangoft2-1.0.so.0
 libpng16.so.16
 librsvg-2.so.2
-libsqlite3.so
+libsqlite3.so.0
 libtiff.so.6
 libtinfo.so.6
 libtree-sitter.so.0.25
