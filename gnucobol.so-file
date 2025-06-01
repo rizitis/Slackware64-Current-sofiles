@@ -5,4 +5,4 @@ libgmp.so.10
 libjson-c.so.5
 libncursesw.so.6
 libtinfo.so.6
-libxml2.so.2
+libxml2.so.16

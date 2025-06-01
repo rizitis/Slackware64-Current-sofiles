@@ -30,5 +30,5 @@ libreadline.so.8
 libsigsegv.so.2
 libtinfo.so.6
 libunistring.so.5
-libxml2.so.2
+libxml2.so.16
 libz.so.1

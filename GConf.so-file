@@ -10,4 +10,4 @@ libgthread-2.0.so.0
 liblber.so.2
 libldap.so.2
 libpolkit-gobject-1.so.0
-libxml2.so.2
+libxml2.so.16

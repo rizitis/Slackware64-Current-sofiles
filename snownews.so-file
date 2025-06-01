@@ -3,4 +3,4 @@ libcrypto.so.3
 libcurl.so.4
 libncursesw.so.6
 libtinfo.so.6
-libxml2.so.2
+libxml2.so.16

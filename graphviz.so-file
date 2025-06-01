@@ -61,5 +61,5 @@ libstdc++.so.6
 libtinfo.so.6
 libwebp.so.7
 libxdot.so.4
-libxml2.so.2
+libxml2.so.16
 libz.so.1

@@ -10,5 +10,5 @@ libplist-2.0.so.4
 libsgutils2-1.48.so.2
 libsqlite3.so.0
 libusb-1.0.so.0
-libxml2.so.2
+libxml2.so.16
 libz.so.1

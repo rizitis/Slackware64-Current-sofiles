@@ -9,4 +9,4 @@ libncursesw.so.6
 libtextstyle.so.0
 libtinfo.so.6
 libunistring.so.5
-libxml2.so.2
+libxml2.so.16

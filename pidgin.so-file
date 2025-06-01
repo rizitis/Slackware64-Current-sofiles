@@ -54,4 +54,4 @@ libssl3.so
 libtcl8.6.so
 libtinfo.so.6
 libtk8.6.so
-libxml2.so.2
+libxml2.so.16

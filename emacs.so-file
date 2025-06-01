@@ -48,5 +48,5 @@ libwebpdecoder.so.3
 libwebpdemux.so.2
 libxcb-shape.so.0
 libxcb.so.1
-libxml2.so.2
+libxml2.so.16
 libz.so.1

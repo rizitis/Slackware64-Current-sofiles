@@ -92,4 +92,4 @@ libwebpmux.so.3
 libxcb.so.1
 libxkbcommon-x11.so.0
 libxkbcommon.so.0
-libxml2.so.2
+libxml2.so.16

@@ -71,6 +71,6 @@ libqca-qt5.so.2
 libqgroupwise.so
 libstdc++.so.6
 libv4l2.so.0
-libxml2.so.2
+libxml2.so.16
 libxslt.so.1
 libz.so.1

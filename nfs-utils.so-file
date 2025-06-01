@@ -18,4 +18,4 @@ libresolv.so.2
 libsqlite3.so.0
 libtirpc.so.3
 libuuid.so.1
-libxml2.so.2
+libxml2.so.16

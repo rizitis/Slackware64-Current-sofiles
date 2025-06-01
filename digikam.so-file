@@ -105,6 +105,6 @@ libusb-1.0.so.0
 libva-drm.so.2
 libva.so.2
 libvdpau.so.1
-libxml2.so.2
+libxml2.so.16
 libxslt.so.1
 libz.so.1
