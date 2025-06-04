@@ -13,6 +13,7 @@ libQt63DQuick.so.6
 libQt63DQuickAnimation.so.6
 libQt63DQuickExtras.so.6
 libQt63DQuickInput.so.6
+libQt63DQuickLogic.so.6
 libQt63DQuickRender.so.6
 libQt63DQuickScene2D.so.6
 libQt63DQuickScene3D.so.6
@@ -129,6 +130,7 @@ libQt6Test.so.6
 libQt6TextToSpeech.so.6
 libQt6UiTools.so.6
 libQt6VirtualKeyboard.so.6
+libQt6VirtualKeyboardQml.so.6
 libQt6VirtualKeyboardSettings.so.6
 libQt6WaylandClient.so.6
 libQt6WaylandCompositor.so.6
@@ -270,7 +272,6 @@ libgdk-3.so.0
 libgdk_pixbuf-2.0.so.0
 libgio-2.0.so.0
 libglib-2.0.so.0
-libgmodule-2.0.so.0
 libgobject-2.0.so.0
 libgssapi_krb5.so.2
 libgstallocators-1.0.so.0
@@ -336,6 +337,7 @@ libwebp.so.7
 libwebpdemux.so.2
 libwebpmux.so.3
 libxcb-cursor.so.0
+libxcb-dri3.so.0
 libxcb-glx.so.0
 libxcb-icccm.so.4
 libxcb-image.so.0
@@ -353,6 +355,8 @@ libxcb.so.1
 libxkbcommon-x11.so.0
 libxkbcommon.so.0
 libxkbfile.so.1
+libxml2.so.16
 libxshmfence.so.1
+libxslt.so.1
 libz.so.1
 libzstd.so.1
