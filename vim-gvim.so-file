@@ -18,3 +18,4 @@ libpango-1.0.so.0
 libpangocairo-1.0.so.0
 libsodium.so.26
 libtinfo.so.6
+libwayland-client.so.0

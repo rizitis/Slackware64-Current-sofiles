@@ -51,9 +51,9 @@ libgslcblas.so.0
 libindiclient.so.2
 libm.so.6
 libnova-0.15.so.0
-libopencv_core.so.411
-libopencv_highgui.so.411
-libopencv_imgproc.so.411
+libopencv_core.so.412
+libopencv_highgui.so.412
+libopencv_imgproc.so.412
 libqt5keychain.so.1
 libraw.so.23
 libstdc++.so.6

@@ -2,6 +2,7 @@ libacl.so.1
 libatalk.so.19
 libavahi-client.so.3
 libavahi-common.so.3
+libbstring.so.1
 libc.so.6
 libcrack.so.2
 libcrypt.so.2
@@ -18,4 +19,5 @@ libldap.so.2
 libmariadb.so.3
 libnsl.so.3
 libpam.so.0
+libsqlite3.so.0
 libtirpc.so.3

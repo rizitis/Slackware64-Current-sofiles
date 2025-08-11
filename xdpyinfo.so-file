@@ -4,6 +4,8 @@ libXcomposite.so.1
 libXext.so.6
 libXi.so.6
 libXinerama.so.1
+libXpresent.so.1
+libXrandr.so.2
 libXrender.so.1
 libXtst.so.6
 libXxf86dga.so.1

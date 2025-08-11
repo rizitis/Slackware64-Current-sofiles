@@ -29,7 +29,7 @@ libplc4.so
 libplds4.so
 libsmime3.so
 libsoftokn3.so
-libsqlite3.so
+libsqlite3.so.0
 libssl3.so
 libudev.so.1
 libuuid.so.1

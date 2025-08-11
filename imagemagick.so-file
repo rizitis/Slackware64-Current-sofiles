@@ -15,8 +15,8 @@ libXt.so.6
 libbz2.so.1
 libc.so.6
 libcairo.so.2
-libcdt.so.5
-libcgraph.so.6
+libcdt.so.6
+libcgraph.so.7
 libdjvulibre.so.21
 libfftw3.so.3
 libfontconfig.so.1
@@ -27,7 +27,7 @@ libgio-2.0.so.0
 libglib-2.0.so.0
 libgobject-2.0.so.0
 libgomp.so.1
-libgvc.so.6
+libgvc.so.7
 libharfbuzz.so.0
 libjpeg.so.62
 liblcms2.so.2

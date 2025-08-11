@@ -1,11 +1,11 @@
 ld-linux-x86-64.so.2
 libFcitx5Config.so.6
 libFcitx5Core.so.7
-libFcitx5Qt5WidgetsAddons.so.2
+libFcitx5Qt6WidgetsAddons.so.2
 libFcitx5Utils.so.2
-libQt5Core.so.5
-libQt5Gui.so.5
-libQt5Widgets.so.5
+libQt6Core.so.6
+libQt6Gui.so.6
+libQt6Widgets.so.6
 libc.so.6
 libgcc_s.so.1
 libstdc++.so.6
