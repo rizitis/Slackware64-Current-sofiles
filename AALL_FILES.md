@@ -966,6 +966,7 @@
 [moc.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/moc.so-file) 
 [modemmanager-qt.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/modemmanager-qt.so-file) 
 [mold.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/mold.so-file) 
+[moreutils.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/moreutils.so-file) 
 [mosh.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/mosh.so-file) 
 [most.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/most.so-file) 
 [motif.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/motif.so-file) 
