@@ -1143,6 +1143,7 @@
 [python-PyYAML.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/python-PyYAML.so-file) 
 [python-cffi.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/python-cffi.so-file) 
 [python-lxml.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/python-lxml.so-file) 
+[python-numpy.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/python-numpy.so-file) 
 [python-pillow.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/python-pillow.so-file) 
 [python-psutil.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/python-psutil.so-file) 
 [python-sane.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/python-sane.so-file) 
