@@ -2,7 +2,7 @@ ld-linux-x86-64.so.2
 libICE.so.6
 libIex-3_3.so.32
 libIlmThread-3_3.so.32
-libImath-3_1.so.29
+libImath-3_2.so.30
 libKF5Completion.so.5
 libKF5ConfigCore.so.5
 libKF5ConfigGui.so.5

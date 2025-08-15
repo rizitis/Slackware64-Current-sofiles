@@ -1,6 +1,6 @@
 ld-linux-x86-64.so.2
 libIex-3_3.so.32
-libImath-3_1.so.29
+libImath-3_2.so.30
 libOpenEXR-3_3.so.32
 libX11.so.6
 libZXing.so.3
