@@ -99,6 +99,7 @@
 [brotli.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/brotli.so-file) 
 [bsd-finger.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/bsd-finger.so-file) 
 [bsd-games.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/bsd-games.so-file) 
+[bstring.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/bstring.so-file) 
 [btrfs-progs.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/btrfs-progs.so-file) 
 [bzip2.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/bzip2.so-file) 
 [c-ares.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/c-ares.so-file) 
