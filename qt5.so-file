@@ -99,7 +99,7 @@ libbluetooth.so.3
 libc.so.6
 libcairo-gobject.so.2
 libcairo.so.2
-libclang.so.20.1
+libclang.so.21.1
 libcrypto.so.3
 libcups.so.2
 libdbus-1.so.3
