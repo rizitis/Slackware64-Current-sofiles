@@ -19,7 +19,7 @@ libasound.so.2
 libavcodec.so.61
 libavformat.so.61
 libavutil.so.59
-libbluray.so.2
+libbluray.so.3
 libc.so.6
 libcaca.so.0
 libcrypto.so.3
