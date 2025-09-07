@@ -1,10 +1,12 @@
-libIex-3_3.so.32
-libIlmThread-3_3.so.32
+libIex-3_4.so.33
+libIlmThread-3_4.so.33
 libImath-3_2.so.30
-libOpenEXR-3_3.so.32
-libOpenEXRCore-3_3.so.32
+libOpenEXR-3_4.so.33
+libOpenEXRCore-3_4.so.33
+libOpenEXRUtil-3_4.so.33
 libc.so.6
 libdeflate.so.0
 libgcc_s.so.1
 libm.so.6
+libopenjph.so.0.22
 libstdc++.so.6

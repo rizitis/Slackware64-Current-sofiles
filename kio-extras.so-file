@@ -1,6 +1,6 @@
 ld-linux-x86-64.so.2
-libIex-3_3.so.32
-libIlmThread-3_3.so.32
+libIex-3_4.so.33
+libIlmThread-3_4.so.33
 libImath-3_2.so.30
 libKF5Activities.so.5
 libKF5ActivitiesStats.so.1
@@ -31,8 +31,8 @@ libKF5SyntaxHighlighting.so.5
 libKF5WidgetsAddons.so.5
 libKF5WindowSystem.so.5
 libKF5XmlGui.so.5
-libOpenEXR-3_3.so.32
-libOpenEXRCore-3_3.so.32
+libOpenEXR-3_4.so.33
+libOpenEXRCore-3_4.so.33
 libQt5Concurrent.so.5
 libQt5Core.so.5
 libQt5DBus.so.5
