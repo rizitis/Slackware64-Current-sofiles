@@ -77,7 +77,6 @@ libinterfaces-private-samba.so
 libiov-buf-private-samba.so
 libjansson.so.4
 libkdc-private-samba.so
-libkeyutils.so.1
 libkrb5-private-samba.so
 libkrb5samba-private-samba.so
 liblber.so.2
@@ -108,6 +107,8 @@ libndr.so.6
 libnet-keytab-private-samba.so
 libnetapi.so.1
 libnetif-private-samba.so
+libngtcp2-crypto-gnutls-private-samba.so
+libngtcp2-private-samba.so
 libnpa-tstream-private-samba.so
 libnss-info-private-samba.so
 libpac-private-samba.so
@@ -121,6 +122,7 @@ libprocess-model-private-samba.so
 libpyldb-util.cpython-312-x86-64-linux-gnu-private-samba.so
 libpytalloc-util.cpython-312-x86-64-linux-gnu.so.2
 libpython3.12.so.1.0
+libquic-private-samba.so
 libreadline.so.8
 libregistry-private-samba.so
 libreplace-private-samba.so
@@ -137,6 +139,7 @@ libsamba-passdb.so.0
 libsamba-policy.so.0
 libsamba-python.cpython-312-x86-64-linux-gnu-private-samba.so
 libsamba-security-private-samba.so
+libsamba-security-trusts-private-samba.so
 libsamba-sockets-private-samba.so
 libsamba-util.so.0
 libsamba3-util-private-samba.so
@@ -148,7 +151,6 @@ libserver-id-db-private-samba.so
 libserver-role-private-samba.so
 libservice-private-samba.so
 libshares-private-samba.so
-libsmb-transport-private-samba.so
 libsmbclient-raw-private-samba.so
 libsmbclient.so.0
 libsmbconf.so.0
@@ -161,6 +163,7 @@ libsocket-blocking-private-samba.so
 libstable-sort-private-samba.so
 libsys-rw-private-samba.so
 libtalloc-report-printf-private-samba.so
+libtalloc-report-private-samba.so
 libtalloc.so.2
 libtasn1.so.6
 libtdb-wrap-private-samba.so
