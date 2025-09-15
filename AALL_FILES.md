@@ -977,6 +977,7 @@
 [mozilla-nss.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/mozilla-nss.so-file) 
 [mozilla-thunderbird.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/mozilla-thunderbird.so-file) 
 [mozjs128.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/mozjs128.so-file) 
+[mozjs140.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/mozjs140.so-file) 
 [mpfr.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/mpfr.so-file) 
 [mpg123.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/mpg123.so-file) 
 [mpv.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/mpv.so-file) 
