@@ -83,6 +83,6 @@ libm.so.6
 libprotobuf.so.32
 libprotoc.so.32
 libstdc++.so.6
-libutf8_range.so.32.0.0
-libutf8_validity.so.32.0.0
+libutf8_range.so.32.1.0
+libutf8_validity.so.32.1.0
 libz.so.1

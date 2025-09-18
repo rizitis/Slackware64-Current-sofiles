@@ -323,7 +323,7 @@ libswresample.so.5
 libswscale.so.8
 libtiff.so.6
 libudev.so.1
-libutf8_range.so.32.0.0
+libutf8_range.so.32.1.0
 libwayland-client.so.0
 libwayland-cursor.so.0
 libwayland-egl.so.1

@@ -13,7 +13,6 @@ libKF5KIOCore.so.5
 libKF5Service.so.5
 libKF5WidgetsAddons.so.5
 libKF5XmlGui.so.5
-libKPim5AkonadiAgentBase.so.5
 libKPim5AkonadiCore.so.5
 libKPim5AkonadiPrivate.so.5
 libKPim5AkonadiWidgets.so.5
