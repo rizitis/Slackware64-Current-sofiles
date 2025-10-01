@@ -2,6 +2,7 @@ ld-linux-x86-64.so.2
 libEGL.so.1
 libGLX.so.0
 libICE.so.6
+libLLVM.so.21.1
 libOpenGL.so.0
 libQt63DAnimation.so.6
 libQt63DCore.so.6
@@ -252,6 +253,8 @@ libbrotlidec.so.1
 libc.so.6
 libcairo-gobject.so.2
 libcairo.so.2
+libclang-cpp.so.21.1
+libclang.so.21.1
 libcrypto.so.3
 libcups.so.2
 libdbus-1.so.3
