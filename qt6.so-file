@@ -18,7 +18,6 @@ libQt63DQuickRender.so.6
 libQt63DQuickScene2D.so.6
 libQt63DQuickScene3D.so.6
 libQt63DRender.so.6
-libQt6Bodymovin.so.6
 libQt6Charts.so.6
 libQt6ChartsQml.so.6
 libQt6Concurrent.so.6
@@ -44,8 +43,12 @@ libQt6LabsPlatform.so.6
 libQt6LabsQmlModels.so.6
 libQt6LabsSettings.so.6
 libQt6LabsSharedImage.so.6
+libQt6LabsSynchronizer.so.6
 libQt6LabsWavefrontMesh.so.6
 libQt6Location.so.6
+libQt6Lottie.so.6
+libQt6LottieVectorImageGenerator.so.6
+libQt6LottieVectorImageHelpers.so.6
 libQt6Multimedia.so.6
 libQt6MultimediaQuick.so.6
 libQt6Network.so.6
@@ -105,12 +108,14 @@ libQt6QuickEffects.so.6
 libQt6QuickLayouts.so.6
 libQt6QuickParticles.so.6
 libQt6QuickShapes.so.6
+libQt6QuickShapesDesignHelpers.so.6
 libQt6QuickTemplates2.so.6
 libQt6QuickTest.so.6
 libQt6QuickTimeline.so.6
 libQt6QuickTimelineBlendTrees.so.6
 libQt6QuickVectorImage.so.6
 libQt6QuickVectorImageGenerator.so.6
+libQt6QuickVectorImageHelpers.so.6
 libQt6QuickWidgets.so.6
 libQt6RemoteObjects.so.6
 libQt6RemoteObjectsQml.so.6
@@ -138,7 +143,6 @@ libQt6WaylandCompositorIviapplication.so.6
 libQt6WaylandCompositorPresentationTime.so.6
 libQt6WaylandCompositorWLShell.so.6
 libQt6WaylandCompositorXdgShell.so.6
-libQt6WaylandEglClientHwIntegration.so.6
 libQt6WaylandEglCompositorHwIntegration.so.6
 libQt6WebChannel.so.6
 libQt6WebChannelQuick.so.6
@@ -259,7 +263,6 @@ libcrypto.so.3
 libcups.so.2
 libdbus-1.so.3
 libdrm.so.2
-libevent-2.1.so.7
 libexpat.so.1
 libfontconfig.so.1
 libfreetype.so.6
