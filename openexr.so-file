@@ -8,5 +8,5 @@ libc.so.6
 libdeflate.so.0
 libgcc_s.so.1
 libm.so.6
-libopenjph.so.0.22
+libopenjph.so.0.24
 libstdc++.so.6
