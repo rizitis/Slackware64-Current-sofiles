@@ -314,8 +314,8 @@ libpcsclite.so.1
 libplc4.so
 libplds4.so
 libpng16.so.16
-libprotobuf.so.32
-libprotoc.so.32
+libprotobuf.so.33
+libprotoc.so.33
 libproxy.so.1
 libpulse.so.0
 libresolv.so.2
@@ -329,7 +329,8 @@ libswresample.so.5
 libswscale.so.8
 libtiff.so.6
 libudev.so.1
-libutf8_range.so.32.1.0
+libutf8_range.so.33.0.0
+libutf8_validity.so.33.0.0
 libwayland-client.so.0
 libwayland-cursor.so.0
 libwayland-egl.so.1
