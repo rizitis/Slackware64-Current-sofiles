@@ -14,7 +14,6 @@ libQt6Svg.so.6
 libQt6SvgWidgets.so.6
 libQt6Widgets.so.6
 libQt6Xml.so.6
-libSDL-1.2.so.0
 libSDL2-2.0.so.0
 libX11.so.6
 libarchive.so.13
@@ -41,6 +40,7 @@ libmlt-7.so.7
 libmovit.so.8
 libpango-1.0.so.0
 libpangoft2-1.0.so.0
+libpostproc.so.58
 libpulse-simple.so.0
 libpulse.so.0
 libsamplerate.so.0
