@@ -7,9 +7,9 @@ libgobject-2.0.so.0
 libical.so.3
 libical_cxx.so.3
 libicalss.so.3
-libicudata.so.77
-libicui18n.so.77
-libicuuc.so.77
+libicudata.so.78
+libicui18n.so.78
+libicuuc.so.78
 libm.so.6
 libstdc++.so.6
 libxml2.so.16

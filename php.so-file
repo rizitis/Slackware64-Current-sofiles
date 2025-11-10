@@ -13,9 +13,9 @@ libgcc_s.so.1
 libgd.so.3
 libgdbm.so.6
 libgmp.so.10
-libicui18n.so.77
-libicuio.so.77
-libicuuc.so.77
+libicui18n.so.78
+libicuio.so.78
+libicuuc.so.78
 libiodbc.so.2
 libiodbcinst.so.2
 liblber.so.2

@@ -16,9 +16,9 @@ libboost_thread.so.1.89.0
 libbz2.so.1
 libc.so.6
 libgcc_s.so.1
-libicudata.so.77
-libicui18n.so.77
-libicuuc.so.77
+libicudata.so.78
+libicui18n.so.78
+libicuuc.so.78
 liblzma.so.5
 libm.so.6
 libquadmath.so.0

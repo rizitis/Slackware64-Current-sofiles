@@ -129,9 +129,9 @@ libgthread-2.0.so.0
 libgtk-3.so.0
 libharfbuzz.so.0
 libhunspell-1.7.so.0
-libicudata.so.77
-libicui18n.so.77
-libicuuc.so.77
+libicudata.so.78
+libicui18n.so.78
+libicuuc.so.78
 libinput.so.10
 libjasper.so.7
 libjpeg.so.62
