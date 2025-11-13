@@ -1,5 +1,5 @@
 ld-linux-x86-64.so.2
-libbfd-2.45-slack151.so
+libbfd-2.45.1-slack151.so
 libc.so.6
 libctf-nobfd.so.0
 libctf.so.0
@@ -8,7 +8,7 @@ libfl.so.2
 libgcc_s.so.1
 libgprofng.so.0
 libm.so.6
-libopcodes-2.45-slack151.so
+libopcodes-2.45.1-slack151.so
 libsframe.so.2
 libstdc++.so.6
 libz.so.1
