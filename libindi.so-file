@@ -16,5 +16,6 @@ libogg.so.0
 libstdc++.so.6
 libtheoradec.so.2
 libtheoraenc.so.2
+libudev.so.1
 libusb-1.0.so.0
 libz.so.1
