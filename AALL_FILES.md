@@ -396,6 +396,8 @@
 [inih.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/inih.so-file) 
 [iniparser.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/iniparser.so-file) 
 [inotify-tools.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/inotify-tools.so-file) 
+[intel-gmmlib.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/intel-gmmlib.so-file) 
+[intel-media-driver.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/intel-media-driver.so-file) 
 [intel-vaapi-driver.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/intel-vaapi-driver.so-file) 
 [iproute2.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/iproute2.so-file) 
 [ipset.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/ipset.so-file) 
