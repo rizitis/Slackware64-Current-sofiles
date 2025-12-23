@@ -5,10 +5,11 @@ libedit.so.0
 libevent_core-2.1.so.7
 libevent_pthreads-2.1.so.7
 libm.so.6
-libnetsnmp.so.40
-libnetsnmpagent.so.40
-libnetsnmpmibs.so.40
+libnetsnmp.so.45
+libnetsnmpagent.so.45
+libnetsnmpmibs.so.45
 libnl-3.so.200
+libnl-route-3.so.200
 libnsl.so.3
 libpci.so.3
 libpcre.so.1

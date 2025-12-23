@@ -13,7 +13,7 @@ libhpipp.so.0
 libhpmud.so.0
 libjpeg.so.62
 libm.so.6
-libnetsnmp.so.40
+libnetsnmp.so.45
 libsane.so.1
 libstdc++.so.6
 libusb-1.0.so.0
