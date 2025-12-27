@@ -20,7 +20,7 @@ liblz4.so.1
 libm.so.6
 libmagic.so.1
 libperl.so
-libruby.so.3.4
+libruby.so.4.0
 libsasl2.so.3
 libsecret-1.so.0
 libserf-1.so.1

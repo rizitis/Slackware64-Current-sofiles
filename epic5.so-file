@@ -8,6 +8,6 @@ libncursesw.so.6
 libperl.so
 libpython3.12.so.1.0
 libresolv.so.2
-libruby.so.3.4
+libruby.so.4.0
 libssl.so.3
 libtinfo.so.6
