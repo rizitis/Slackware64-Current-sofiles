@@ -19,7 +19,6 @@ libgmodule-2.0.so.0
 libgobject-2.0.so.0
 libgtk-3.so.0
 libgtk-layer-shell.so.0
-libharfbuzz.so.0
 libm.so.6
 libnotify.so.4
 libpango-1.0.so.0
@@ -30,4 +29,3 @@ libxfce4ui-2.so.0
 libxfce4util.so.7
 libxfconf-0.so.3
 libxklavier.so.16
-libz.so.1
