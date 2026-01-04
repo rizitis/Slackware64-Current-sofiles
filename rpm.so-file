@@ -7,6 +7,7 @@ libcap.so.2
 libdbus-1.so.3
 libdw.so.1
 libelf.so.1
+libgcc_s.so.1
 libgcrypt.so.20
 libgomp.so.1
 liblua.so.5
@@ -20,5 +21,6 @@ librpmbuild.so.10
 librpmio.so.10
 librpmsign.so.10
 libsqlite3.so.0
+libstdc++.so.6
 libz.so.1
 libzstd.so.1
