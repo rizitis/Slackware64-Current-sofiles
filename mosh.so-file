@@ -85,6 +85,6 @@ libssl.so.3
 libstdc++.so.6
 libtinfo.so.6
 libutempter.so.0
-libutf8_range.so.33.2.0
-libutf8_validity.so.33.2.0
+libutf8_range.so.33.3.0
+libutf8_validity.so.33.3.0
 libz.so.1
