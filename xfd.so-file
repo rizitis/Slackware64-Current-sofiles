@@ -6,5 +6,4 @@ libXrender.so.1
 libXt.so.6
 libc.so.6
 libfontconfig.so.1
-libfreetype.so.6
 libxkbfile.so.1

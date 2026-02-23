@@ -34,7 +34,7 @@ libmp3lame.so.0
 libopenal.so.1
 libopenjp2.so.7
 libopus.so.0
-libplacebo.so.351
+libplacebo.so.360
 libpostproc.so.58
 libpulse.so.0
 librsvg-2.so.2
@@ -54,7 +54,7 @@ libvdpau.so.1
 libvidstab.so.1.2
 libvorbis.so.0
 libvorbisenc.so.2
-libvpx.so.11
+libvpx.so.12
 libwebp.so.7
 libwebpmux.so.3
 libxcb-shape.so.0

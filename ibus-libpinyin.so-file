@@ -8,7 +8,7 @@ libibus-1.0.so.5
 liblua.so.5
 libm.so.6
 libnotify.so.4
-libopencc.so.1.1
+libopencc.so.1.2
 libpinyin.so.15
 libsqlite3.so.0
 libstdc++.so.6

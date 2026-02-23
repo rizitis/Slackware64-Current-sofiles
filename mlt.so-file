@@ -44,7 +44,7 @@ libpostproc.so.58
 libpulse-simple.so.0
 libpulse.so.0
 libsamplerate.so.0
-libsox.so.3
+libsox_ng.so.3
 libstdc++.so.6
 libswresample.so.5
 libswscale.so.8
