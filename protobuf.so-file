@@ -80,9 +80,9 @@ libabsl_vlog_config_internal.so.2601.0.0
 libc.so.6
 libgcc_s.so.1
 libm.so.6
-libprotobuf.so.33
-libprotoc.so.33
+libprotobuf.so.34
+libprotoc.so.34
 libstdc++.so.6
-libutf8_range.so.33.5.0
-libutf8_validity.so.33.5.0
+libutf8_range.so.34.0.0
+libutf8_validity.so.34.0.0
 libz.so.1
