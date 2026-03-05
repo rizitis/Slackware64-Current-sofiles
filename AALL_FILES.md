@@ -1053,6 +1053,7 @@
 [opencv.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/opencv.so-file) 
 [openexr.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/openexr.so-file) 
 [openjpeg.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/openjpeg.so-file) 
+[openjph.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/openjph.so-file) 
 [openldap.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/openldap.so-file) 
 [openobex.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/openobex.so-file) 
 [opensc.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/opensc.so-file) 
