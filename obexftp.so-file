@@ -1,0 +1,9 @@
+ld-linux-x86-64.so.2
+libbfb.so.1
+libbluetooth.so.3
+libc.so.6
+libexpat.so.1
+libfuse.so.2
+libmulticobex.so.1
+libobexftp.so.0
+libopenobex.so.2

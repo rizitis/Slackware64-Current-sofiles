@@ -1,0 +1,9 @@
+libbrotlidec.so.1
+libbz2.so.1
+libc.so.6
+libcrypto.so.3
+libidn2.so.0
+libncursesw.so.6
+libssl.so.3
+libtinfo.so.6
+libz.so.1

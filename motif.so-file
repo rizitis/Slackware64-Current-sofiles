@@ -1,0 +1,15 @@
+libICE.so.6
+libMrm.so.4
+libSM.so.6
+libX11.so.6
+libXext.so.6
+libXft.so.2
+libXm.so.4
+libXmu.so.6
+libXp.so.6
+libXt.so.6
+libc.so.6
+libfontconfig.so.1
+libfreetype.so.6
+libjpeg.so.62
+libpng16.so.16

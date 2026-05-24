@@ -1,0 +1,15 @@
+ld-linux-x86-64.so.2
+ld-linux.so.2
+libCNS.so
+libGB.so
+libISOIR165.so
+libJIS.so
+libJISX0213.so
+libKSC.so
+libc.so.6
+libgd.so.3
+libm.so.6
+libnss_files.so.2
+libpng16.so.16
+libresolv.so.2
+libz.so.1

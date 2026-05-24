@@ -1,0 +1,5 @@
+libc.so.6
+libei.so.1
+libelogind.so.0
+libevdev.so.2
+libxkbcommon.so.0

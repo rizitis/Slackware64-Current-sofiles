@@ -1,0 +1,14 @@
+ld-linux-x86-64.so.2
+libQt5Concurrent.so.5
+libQt5Core.so.5
+libQt5Gui.so.5
+libQt5Network.so.5
+libQt5Widgets.so.5
+libc.so.6
+libcfitsio.so.10
+libgcc_s.so.1
+libgsl.so.28
+libgslcblas.so.0
+libm.so.6
+libstdc++.so.6
+libwcs.so.8

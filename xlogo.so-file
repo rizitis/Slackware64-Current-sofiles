@@ -1,0 +1,10 @@
+libSM.so.6
+libX11.so.6
+libXaw.so.7
+libXext.so.6
+libXft.so.2
+libXmu.so.6
+libXrender.so.1
+libXt.so.6
+libc.so.6
+libxkbfile.so.1

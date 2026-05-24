@@ -1,0 +1,10 @@
+libc.so.6
+libjansson.so.4
+libmariadb.so.3
+libmnl.so.0
+libnetfilter_acct.so.1
+libnetfilter_conntrack.so.3
+libnetfilter_log.so.1
+libnfnetlink.so.0
+libpcap.so.1
+libsqlite3.so.0

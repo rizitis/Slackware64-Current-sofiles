@@ -1,0 +1,6 @@
+libc.so.6
+libm.so.6
+libpcap.so.1
+libvdehist.so.0
+libvdemgmt.so.0
+libvdeplug.so.3

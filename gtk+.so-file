@@ -1,0 +1,8 @@
+libX11.so.6
+libXext.so.6
+libXi.so.6
+libc.so.6
+libgdk-1.2.so.0
+libglib-1.2.so.0
+libgmodule-1.2.so.0
+libm.so.6

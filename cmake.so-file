@@ -1,0 +1,16 @@
+ld-linux-x86-64.so.2
+libGLX.so.0
+libOpenGL.so.0
+libQt6Core.so.6
+libQt6Gui.so.6
+libQt6Widgets.so.6
+libarchive.so.13
+libc.so.6
+libcurl.so.4
+libexpat.so.1
+libgcc_s.so.1
+libm.so.6
+libncursesw.so.6
+libstdc++.so.6
+libtinfo.so.6
+libz.so.1

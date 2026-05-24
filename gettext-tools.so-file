@@ -1,0 +1,14 @@
+libacl.so.1
+libattr.so.1
+libc.so.6
+libcurl.so.4
+libgettextlib-1.0.so
+libgettextsrc-1.0.so
+libgomp.so.1
+libjson-c.so.5
+libm.so.6
+libncursesw.so.6
+libtextstyle.so.0
+libtinfo.so.6
+libunistring.so.5
+libxml2.so.16

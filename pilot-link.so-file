@@ -1,0 +1,8 @@
+ld-linux-x86-64.so.2
+libbluetooth.so.3
+libc.so.6
+libpisock.so.9
+libpng16.so.16
+libpopt.so.0
+libreadline.so.8
+libusb-0.1.so.4

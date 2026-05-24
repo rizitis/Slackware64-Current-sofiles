@@ -1,0 +1,7 @@
+libX11.so.6
+libXext.so.6
+libXft.so.2
+libXmu.so.6
+libXpm.so.4
+libXt.so.6
+libc.so.6

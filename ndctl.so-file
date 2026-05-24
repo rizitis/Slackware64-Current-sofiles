@@ -1,0 +1,12 @@
+libc.so.6
+libcxl.so.1
+libdaxctl.so.1
+libiniparser.so.4
+libjson-c.so.5
+libkeyutils.so.1
+libkmod.so.2
+libndctl.so.6
+libtraceevent.so.1
+libtracefs.so.1
+libudev.so.1
+libuuid.so.1

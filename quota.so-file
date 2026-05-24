@@ -1,0 +1,10 @@
+libc.so.6
+libcom_err.so.2
+libdbus-1.so.3
+libext2fs.so.2
+liblber.so.2
+libldap.so.2
+libnl-3.so.200
+libnl-genl-3.so.200
+libnsl.so.3
+libtirpc.so.3
