@@ -1141,6 +1141,7 @@
 [poppler.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/poppler.so-file) 
 [popt.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/popt.so-file) 
 [postfix.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/postfix.so-file) 
+[potrace.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/potrace.so-file) 
 [powerdevil.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/powerdevil.so-file) 
 [powertop.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/powertop.so-file) 
 [poxml.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/poxml.so-file) 
