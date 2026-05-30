@@ -3,6 +3,7 @@ libcom_err.so.2
 libcrypt.so.2
 libcrypto.so.3
 libedit.so.0
+libfido2.so.1
 libgssapi_krb5.so.2
 libk5crypto.so.3
 libkrb5.so.3
