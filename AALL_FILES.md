@@ -1068,6 +1068,7 @@
 [openjph.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/openjph.so-file) 
 [openldap.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/openldap.so-file) 
 [openobex.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/openobex.so-file) 
+[openrsync.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/openrsync.so-file) 
 [opensc.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/opensc.so-file) 
 [openssh.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/openssh.so-file) 
 [openssl-solibs.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/openssl-solibs.so-file) 

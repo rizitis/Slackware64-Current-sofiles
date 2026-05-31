@@ -8,6 +8,7 @@ libc.so.6
 libcacard.so.0
 libcairo.so.2
 libcap-ng.so.0
+libcbor.so.0.14
 libcurl.so.4
 libdaxctl.so.1
 libdw.so.1
