@@ -11,7 +11,6 @@
 [PyQt5_sip.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/PyQt5_sip.so-file) 
 [PyQt6.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/PyQt6.so-file) 
 [PyQt6_sip.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/PyQt6_sip.so-file) 
-[QScintilla.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/QScintilla.so-file) 
 [README.md](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/README.md) 
 [SDL2.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/SDL2.so-file) 
 [SDL2_gfx.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/SDL2_gfx.so-file) 
