@@ -1,9 +1,12 @@
+libGLX.so.0
 libICE.so.6
-libKF5WindowSystem.so.5
-libQt5Core.so.5
-libQt5Gui.so.5
-libQt5Widgets.so.5
-libQt5X11Extras.so.5
+libKF6WindowSystem.so.6
+libOpenGL.so.0
+libQt6Core.so.6
+libQt6Gui.so.6
+libQt6Network.so.6
+libQt6Qml.so.6
+libQt6WaylandClient.so.6
 libSM.so.6
 libX11.so.6
 libXext.so.6
@@ -12,6 +15,9 @@ libc.so.6
 libgcc_s.so.1
 libm.so.6
 libstdc++.so.6
+libwayland-client.so.0
+libwayland-cursor.so.0
 libxcb-keysyms.so.1
 libxcb-res.so.0
 libxcb.so.1
+libxkbcommon.so.0

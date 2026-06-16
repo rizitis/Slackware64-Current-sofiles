@@ -60,7 +60,7 @@ libformw.so.6
 libgenrand-private-samba.so
 libgensec-private-samba.so
 libgnutls.so.30
-libgpgme.so.11
+libgpgme.so.45
 libgpo-private-samba.so
 libgse-private-samba.so
 libgss-preauth-private-samba.so

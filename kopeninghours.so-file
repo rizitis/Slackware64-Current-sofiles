@@ -1,9 +1,9 @@
-libKF5Holidays.so.5
-libKF5I18n.so.5
+libKF6Holidays.so.6
+libKF6I18n.so.6
 libKOpeningHours.so.1
-libQt5Core.so.5
-libQt5Network.so.5
-libQt5Qml.so.5
+libQt6Core.so.6
+libQt6Network.so.6
+libQt6Qml.so.6
 libboost_container.so.1.91.0
 libboost_graph.so.1.91.0
 libboost_python312.so.1.91.0

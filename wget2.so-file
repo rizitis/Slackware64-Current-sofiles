@@ -1,7 +1,7 @@
 libbrotlidec.so.1
 libc.so.6
 libgnutls.so.30
-libgpgme.so.11
+libgpgme.so.45
 libidn2.so.0
 liblz.so.1
 libnghttp2.so.14

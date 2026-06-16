@@ -12,7 +12,7 @@ libfreetype.so.6
 libgio-2.0.so.0
 libglib-2.0.so.0
 libgobject-2.0.so.0
-libgpgmepp.so.6
+libgpgmepp.so.7
 libjpeg.so.62
 liblcms2.so.2
 libm.so.6
@@ -21,7 +21,7 @@ libnss3.so
 libopenjp2.so.7
 libplc4.so
 libpng16.so.16
-libpoppler.so.155
+libpoppler.so.161
 libsmime3.so
 libstdc++.so.6
 libtiff.so.6

@@ -1,7 +1,8 @@
 libc.so.6
 libgcc_s.so.1
+libicuuc.so.78
 libm.so.6
 libstdc++.so.6
 libuuid.so.1
-libxapian.so.30
+libxapian.so.45
 libz.so.1

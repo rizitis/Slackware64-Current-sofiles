@@ -12,9 +12,9 @@ libXrandr.so.2
 libXrender.so.1
 libXt.so.6
 libatk-1.0.so.0
-libavcodec.so.61
-libavformat.so.61
-libavutil.so.59
+libavcodec.so.62
+libavformat.so.62
+libavutil.so.60
 libc.so.6
 libcairo-gobject.so.2
 libcairo.so.2
@@ -34,8 +34,8 @@ libm.so.6
 libpam.so.0
 libpango-1.0.so.0
 libpangocairo-1.0.so.0
-libswresample.so.5
-libswscale.so.8
+libswresample.so.6
+libswscale.so.9
 libwayland-client.so.0
 libwayland-server.so.0
 libxml2.so.16

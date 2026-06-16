@@ -1,9 +1,10 @@
-libKF5CoreAddons.so.5
-libKF5I18n.so.5
-libQt5Core.so.5
-libQt5Gui.so.5
+libGLX.so.0
+libKF6I18n.so.6
+libOpenGL.so.0
+libQt6Core.so.6
+libQt6Gui.so.6
 libc.so.6
 libgcc_s.so.1
-libkdecorations2private.so.10
+libkdecorations3private.so.2
 libm.so.6
 libstdc++.so.6
