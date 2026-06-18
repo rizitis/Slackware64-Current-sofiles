@@ -28,7 +28,8 @@ libm.so.6
 libnl-3.so.200
 libnl-route-3.so.200
 libpcap.so.1
-libprocesscore.so.10
+libprocesscore.so.11
 libsensors.so.5
 libstdc++.so.6
+libudev.so.1
 libz.so.1

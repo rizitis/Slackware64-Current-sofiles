@@ -1,6 +1,5 @@
 libGLX.so.0
 libKF6Attica.so.6
-libKF6AuthCore.so.6
 libKF6Baloo.so.6
 libKF6Bookmarks.so.6
 libKF6Codecs.so.6
@@ -83,7 +82,7 @@ libklookandfeel.so.6
 libkworkspace6.so.6
 libm.so.6
 libnotificationmanager.so.1
-libprocesscore.so.10
+libprocesscore.so.11
 libstdc++.so.6
 libtaskmanager.so.6
 libudev.so.1

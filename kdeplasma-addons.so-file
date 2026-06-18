@@ -1,3 +1,4 @@
+ld-linux-x86-64.so.2
 libGLX.so.0
 libKF6AuthCore.so.6
 libKF6CalendarEvents.so.6
@@ -54,3 +55,4 @@ libplasmapotdprovidercore.so.2
 libplasmaweatherdata.so.6
 libplasmaweatherion.so.6
 libstdc++.so.6
+libudev.so.1

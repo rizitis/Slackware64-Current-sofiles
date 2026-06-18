@@ -29,7 +29,6 @@ libKF6ColorScheme.so.6
 libKF6Completion.so.6
 libKF6ConfigCore.so.6
 libKF6ConfigGui.so.6
-libKF6ConfigWidgets.so.6
 libKF6CoreAddons.so.6
 libKF6GuiAddons.so.6
 libKF6I18n.so.6
@@ -46,7 +45,6 @@ libKF6Solid.so.6
 libKF6StatusNotifierItem.so.6
 libKF6WidgetsAddons.so.6
 libKF6WindowSystem.so.6
-libKF6XmlGui.so.6
 libOpenGL.so.0
 libQt5Concurrent.so.5
 libQt5Core.so.5

@@ -84,7 +84,6 @@ libQt6Quick.so.6
 libQt6QuickWidgets.so.6
 libQt6Sql.so.6
 libQt6Svg.so.6
-libQt6Test.so.6
 libQt6WaylandClient.so.6
 libQt6Widgets.so.6
 libQt6Xml.so.6
@@ -122,7 +121,7 @@ libm.so.6
 libnm.so.0
 libnotificationmanager.so.1
 libpolkit-qt6-core-1.so.1
-libprocesscore.so.10
+libprocesscore.so.11
 libqalculate.so.23
 libstdc++.so.6
 libtaskmanager.so.6
@@ -132,6 +131,7 @@ libwayland-cursor.so.0
 libxcb-composite.so.0
 libxcb-cursor.so.0
 libxcb-damage.so.0
+libxcb-icccm.so.4
 libxcb-image.so.0
 libxcb-randr.so.0
 libxcb-render.so.0

@@ -4,6 +4,7 @@ libKF6Crash.so.6
 libKF6I18n.so.6
 libKF6KIOCore.so.6
 libKF6NetworkManagerQt.so.6
+libKF6Service.so.6
 libKF6Solid.so.6
 libKSysGuardFormatter.so.2
 libKSysGuardSystemStats.so.2
@@ -22,6 +23,7 @@ libm.so.6
 libnl-3.so.200
 libnl-route-3.so.200
 libnm.so.0
+libprocesscore.so.11
 libsensors.so.5
 libstdc++.so.6
 libudev.so.1

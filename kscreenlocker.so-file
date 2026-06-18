@@ -45,4 +45,5 @@ libstdc++.so.6
 libwayland-client.so.0
 libwayland-server.so.0
 libxcb-keysyms.so.1
+libxcb-util.so.1
 libxcb.so.1
