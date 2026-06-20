@@ -32,6 +32,7 @@
 [acl.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/acl.so-file) 
 [acpi.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/acpi.so-file) 
 [acpid.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/acpid.so-file) 
+[aha.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/aha.so-file) 
 [akonadi-calendar-tools.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/akonadi-calendar-tools.so-file) 
 [akonadi-calendar.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/akonadi-calendar.so-file) 
 [akonadi-contacts.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/akonadi-contacts.so-file) 
