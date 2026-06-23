@@ -2,8 +2,8 @@ libICE.so.6
 libIex-3_4.so.33
 libIlmThread-3_4.so.33
 libImath-3_2.so.30
-libMagickCore-7.Q16HDRI.so.10
-libMagickWand-7.Q16HDRI.so.10
+libMagickCore-7.Q16HDRI.so.11
+libMagickWand-7.Q16HDRI.so.11
 libOpenCL.so.1
 libOpenEXR-3_4.so.33
 libOpenEXRCore-3_4.so.33

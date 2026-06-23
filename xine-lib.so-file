@@ -3,8 +3,8 @@ libFLAC.so.14
 libGL.so.1
 libGLU.so.1
 libICE.so.6
-libMagickCore-7.Q16HDRI.so.10
-libMagickWand-7.Q16HDRI.so.10
+libMagickCore-7.Q16HDRI.so.11
+libMagickWand-7.Q16HDRI.so.11
 libSDL-1.2.so.0
 libSM.so.6
 libX11.so.6
