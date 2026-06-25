@@ -169,6 +169,7 @@
 [dconf-editor.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/dconf-editor.so-file) 
 [dconf.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/dconf.so-file) 
 [dcron.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/dcron.so-file) 
+[ddcutil.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/ddcutil.so-file) 
 [ddd.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/ddd.so-file) 
 [ddrescue.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/ddrescue.so-file) 
 [desktop-file-utils.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/desktop-file-utils.so-file) 

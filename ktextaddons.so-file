@@ -22,6 +22,7 @@ libKF6SyntaxHighlighting.so.6
 libKF6TextAddonsWidgets.so.1
 libKF6TextAutoCorrectionCore.so.1
 libKF6TextAutoGenerateText.so.1
+libKF6TextAutoGenerateTextMcpProtocolCore.so.1
 libKF6TextCustomEditor.so.1
 libKF6TextEditTextToSpeech.so.1
 libKF6TextEmoticonsCore.so.1
@@ -45,11 +46,16 @@ libQt6Xml.so.6
 libc.so.6
 libgcc_s.so.1
 libm.so.6
+libmcpprotocolclientplugin.so.0
+libmcpprotocolserverplugin.so.0
 libqt6keychain.so.1
 libstdc++.so.6
 libtextautogenerategenericnetwork.so.1
+libtextautogeneratellamacpp.so.1
+libtextautogeneratelmstudio.so.1
 libtextautogenerateollama.so.1
 libtextautogenerateollamacloud.so.1
 libtextautogenerateollamacommon.so.1
 libtextautogenerateollamaonline.so.1
+libtextautogenerateplugincommon.so.1
 libtextutils-cmark-rc-copy.so.0
