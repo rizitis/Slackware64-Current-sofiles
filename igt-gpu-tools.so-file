@@ -16,7 +16,6 @@ libm.so.6
 libpci.so.3
 libpciaccess.so.0
 libpixman-1.so.0
-libproc2.so.1
 libudev.so.1
 libunwind.so.8
 libxe_oa.so.1.5
