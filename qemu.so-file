@@ -24,6 +24,7 @@ libgmodule-2.0.so.0
 libgnutls.so.30
 libgobject-2.0.so.0
 libgtk-3.so.0
+libjack.so.0
 libjemalloc.so.2
 libjpeg.so.62
 libkeyutils.so.1

@@ -18,6 +18,6 @@ libQt6Network.so.6
 libQt6Qml.so.6
 libc.so.6
 libgcc_s.so.1
-liblmdb.so.0.0.0
+liblmdb.so.1
 libm.so.6
 libstdc++.so.6

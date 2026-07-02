@@ -91,7 +91,7 @@ libldbsamba-private-samba.so
 liblibcli-lsa3-private-samba.so
 liblibcli-netlogon3-private-samba.so
 liblibsmb-private-samba.so
-liblmdb.so.0.0.0
+liblmdb.so.1
 libmessages-dgm-private-samba.so
 libmessages-util-private-samba.so
 libmscat-private-samba.so

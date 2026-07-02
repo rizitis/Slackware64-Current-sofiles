@@ -14,7 +14,7 @@ libjemalloc.so.2
 libjson-c.so.5
 libk5crypto.so.3
 libkrb5.so.3
-liblmdb.so.0.0.0
+liblmdb.so.1
 libm.so.6
 libmaxminddb.so.0
 libnghttp2.so.14

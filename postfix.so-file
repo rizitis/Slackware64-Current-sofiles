@@ -5,7 +5,7 @@ libicui18n.so.78
 libicuuc.so.78
 liblber.so.2
 libldap.so.2
-liblmdb.so.0.0.0
+liblmdb.so.1
 libm.so.6
 libmariadb.so.3
 libnsl.so.3
