@@ -1,4 +1,6 @@
 libKF5WaylandClient.so.5
+libKF6GuiAddons.so.6
+libKF6WindowSystem.so.6
 libQt5Core.so.5
 libQt5Gui.so.5
 libQt5Widgets.so.5

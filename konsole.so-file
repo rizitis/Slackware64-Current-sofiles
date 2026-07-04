@@ -45,8 +45,8 @@ libc.so.6
 libgcc_s.so.1
 libicui18n.so.78
 libicuuc.so.78
-libkonsoleapp.so.26.04.2
-libkonsoleprivate.so.26.04.2
+libkonsoleapp.so.26.04.3
+libkonsoleprivate.so.26.04.3
 libm.so.6
 libstdc++.so.6
 libxkbcommon.so.0

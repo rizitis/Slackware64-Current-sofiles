@@ -1,3 +1,4 @@
+ld-linux-x86-64.so.2
 libGLX.so.0
 libKF6Archive.so.6
 libKF6CalendarCore.so.6
@@ -24,11 +25,13 @@ libKF6KIOGui.so.6
 libKF6KIOWidgets.so.6
 libKF6Prison.so.6
 libKF6Service.so.6
+libKF6SonnetUi.so.6
 libKF6SyntaxHighlighting.so.6
 libKF6TextAddonsWidgets.so.1
 libKF6TextAutoCorrectionCore.so.1
 libKF6TextAutoCorrectionWidgets.so.1
 libKF6TextAutoGenerateText.so.1
+libKF6TextAutoGenerateTextMcpProtocolCore.so.1
 libKF6TextCustomEditor.so.1
 libKF6TextGrammarCheck.so.1
 libKF6TextTemplate.so.6
@@ -93,11 +96,13 @@ libQt6Positioning.so.6
 libQt6PrintSupport.so.6
 libQt6Qml.so.6
 libQt6Quick.so.6
+libQt6Sql.so.6
 libQt6WebChannel.so.6
 libQt6WebEngineCore.so.6
 libQt6WebEngineWidgets.so.6
 libQt6Widgets.so.6
 libQt6Xml.so.6
+libadblockplugin.so.6
 libakonadidatasetools.so.6
 libc.so.6
 libdkimverifyconfigure.so.6

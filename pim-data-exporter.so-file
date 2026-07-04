@@ -24,7 +24,9 @@ libKF6KIOWidgets.so.6
 libKF6Notifications.so.6
 libKF6Service.so.6
 libKF6Solid.so.6
+libKF6SonnetUi.so.6
 libKF6StatusNotifierItem.so.6
+libKF6SyntaxHighlighting.so.6
 libKF6TextAddonsWidgets.so.1
 libKF6TextAutoCorrectionCore.so.1
 libKF6TextAutoCorrectionWidgets.so.1

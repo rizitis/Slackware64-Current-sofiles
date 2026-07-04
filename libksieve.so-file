@@ -21,6 +21,7 @@ libKF6TextAddonsWidgets.so.1
 libKF6TextAutoCorrectionCore.so.1
 libKF6TextAutoCorrectionWidgets.so.1
 libKF6TextAutoGenerateText.so.1
+libKF6TextAutoGenerateTextMcpProtocolCore.so.1
 libKF6TextCustomEditor.so.1
 libKF6TextEditTextToSpeech.so.1
 libKF6TextUtils.so.1
@@ -44,6 +45,7 @@ libQt6Positioning.so.6
 libQt6PrintSupport.so.6
 libQt6Qml.so.6
 libQt6Quick.so.6
+libQt6Sql.so.6
 libQt6TextToSpeech.so.6
 libQt6WebChannel.so.6
 libQt6WebEngineCore.so.6
