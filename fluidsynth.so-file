@@ -7,6 +7,7 @@ libgcc_s.so.1
 libglib-2.0.so.0
 libgomp.so.1
 libgthread-2.0.so.0
+libjack.so.0
 libm.so.6
 libpipewire-0.3.so.0
 libpulse-simple.so.0
