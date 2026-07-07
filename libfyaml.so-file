@@ -2,3 +2,4 @@ libLLVM.so.22.1
 libc.so.6
 libclang.so.22.1
 libfyaml.so.0
+libm.so.6
