@@ -1,3 +1,4 @@
+ld-linux-x86-64.so.2
 libGLX.so.0
 libOpenGL.so.0
 libQt6Core.so.6
@@ -50,6 +51,7 @@ libpango-1.0.so.0
 libpangoft2-1.0.so.0
 libpulse-simple.so.0
 libpulse.so.0
+librnnoise.so.0
 libsamplerate.so.0
 libsox_ng.so.3
 libstdc++.so.6

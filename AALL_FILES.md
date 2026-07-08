@@ -1304,6 +1304,7 @@
 [readstat.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/readstat.so-file) 
 [rendercheck.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/rendercheck.so-file) 
 [rgb.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/rgb.so-file) 
+[rnnoise.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/rnnoise.so-file) 
 [rocs.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/rocs.so-file) 
 [rp-pppoe.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/rp-pppoe.so-file) 
 [rpcbind.so-file](https://github.com/rizitis/Slackware64-Current-sofiles/blob/main/rpcbind.so-file) 
