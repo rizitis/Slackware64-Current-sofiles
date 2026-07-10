@@ -11,8 +11,8 @@ NetworkManager	exec	/usr/bin/dnsmasq	dnsmasq	guess
 NetworkManager	exec	/usr/bin/nft	nftables	guess
 NetworkManager	exec	/usr/bin/pppd	ppp	guess
 NetworkManager-openvpn	exec	/usr/bin/openvpn	openvpn	guess
+PyQt-builder	build	sipbuild	sip	guess
 PyQt-builder	import	packaging	python-packaging	guess
-PyQt-builder	import	sipbuild	sip	guess
 PyQt5	import	PyQt5	PyQt5_sip	guess
 PyQt6	import	PyQt6	PyQt6_sip	guess
 SDL2	dlopen	libEGL.so.1	libglvnd	guess
@@ -379,7 +379,7 @@ nfs-utils	import	yaml	python-PyYAML	guess
 nmap	import	cairo	pycairo	guess
 nmap	import	gi	pygobject3	guess
 nn	exec	/usr/bin/mailx	s-nail	guess
-nodejs	import	gyp	gyp	guess
+nodejs	build	gyp	gyp	guess
 nodejs	import	packaging	python-packaging	guess
 nvi	exec	/usr/bin/sendmail	postfix	guess
 openal-soft	dlopen	libasound.so.2	aaa_libraries	guess
@@ -434,16 +434,16 @@ python-html5lib	import	lxml	python-lxml	guess
 python-html5lib	import	six	python-six	guess
 python-html5lib	import	webencodings	python-webencodings	guess
 python-importlib_metadata	import	zipp	python-zipp	guess
-python-lxml	import	cython	Cython	guess
+python-lxml	build	cython	Cython	guess
 python-lxml	import	html5lib	python-html5lib	guess
 python-markdown	import	importlib_metadata	python-importlib_metadata	guess
 python-markdown	import	pygments	python-pygments	guess
 python-markdown	import	yaml	python-PyYAML	guess
 python-notify2	import	dbus	dbus-python	guess
-python-numpy	import	Cython	Cython	guess
+python-numpy	build	Cython	Cython	guess
+python-numpy	build	cython	Cython	guess
 python-numpy	import	cffi	python-cffi	guess
 python-numpy	import	charset_normalizer	python-charset-normalizer	guess
-python-numpy	import	cython	Cython	guess
 python-numpy	import	psutil	python-psutil	guess
 python-numpy	import	yaml	python-PyYAML	guess
 python-pbr	import	importlib_metadata	python-importlib_metadata	guess
@@ -474,7 +474,7 @@ python-scikit-build-core	import	packaging	python-packaging	guess
 python-scikit-build-core	import	pathspec	python-pathspec	guess
 python-scikit-build-core	import	pyproject_metadata	python-pyproject_metadata	guess
 python-scikit-build-core	import	setuptools_scm	python-setuptools_scm	guess
-python-setuptools	import	Cython	Cython	guess
+python-setuptools	build	Cython	Cython	guess
 python-setuptools	import	docutils	python-docutils	guess
 python-setuptools	import	importlib_metadata	python-importlib_metadata	guess
 python-setuptools	import	packaging	python-packaging	guess
@@ -504,7 +504,7 @@ python-urllib3	import	brotli	brotli	guess
 python-urllib3	import	idna	python-idna	guess
 python-vcs_versioning	import	packaging	python-packaging	guess
 python-wheel	import	packaging	python-packaging	guess
-python2	import	Cython	Cython	guess
+python2	build	Cython	Cython	guess
 python2	import	brotli	brotli	guess
 python2	import	com	libwebp	guess
 python2	import	docutils	python-docutils	guess
