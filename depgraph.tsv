@@ -11176,6 +11176,8 @@ kfilemetadata	libpoppler.so.162	poppler
 kfilemetadata	libstdc++.so.6	aaa_libraries
 kfilemetadata	libstdc++.so.6	gcc-g++
 kfilemetadata	libtag.so.2	taglib
+kfilemetadata	libxml2.so.16	libxml2
+kfilemetadata	libzip.so.5	libzip
 kfilemetadata5	libKF5Archive.so.5	karchive5
 kfilemetadata5	libKF5CoreAddons.so.5	kcoreaddons5
 kfilemetadata5	libKF5I18n.so.5	ki18n5

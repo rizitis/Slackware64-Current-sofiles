@@ -3092,7 +3092,7 @@ libpisock.so.9 pilot-link
 libpisync.so.1 pilot-link
 libpixman-1.so.0 pixman
 libpixmap.so gtk+2
-libpkgconf.so.7 pkgconf
+libpkgconf.so.8 pkgconf
 libplace.so compiz
 libplacebo.so.360 libplacebo
 libplain.so.3 cyrus-sasl
