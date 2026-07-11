@@ -27833,6 +27833,16 @@ tftp-hpa	libreadline.so.8	aaa_libraries
 tftp-hpa	libreadline.so.8	readline
 tftp-hpa	libtinfo.so.6	aaa_libraries
 tftp-hpa	libtinfo.so.6	ncurses
+thin-provisioning-tools	ld-linux-x86-64.so.2	aaa_glibc-solibs
+thin-provisioning-tools	ld-linux-x86-64.so.2	glibc
+thin-provisioning-tools	libc.so.6	aaa_glibc-solibs
+thin-provisioning-tools	libc.so.6	glibc
+thin-provisioning-tools	libgcc_s.so.1	aaa_libraries
+thin-provisioning-tools	libgcc_s.so.1	gcc
+thin-provisioning-tools	libm.so.6	aaa_glibc-solibs
+thin-provisioning-tools	libm.so.6	glibc
+thin-provisioning-tools	libudev.so.1	aaa_libraries
+thin-provisioning-tools	libudev.so.1	eudev
 threadweaver	libQt6Core.so.6	qt6
 threadweaver	libc.so.6	aaa_glibc-solibs
 threadweaver	libc.so.6	glibc
