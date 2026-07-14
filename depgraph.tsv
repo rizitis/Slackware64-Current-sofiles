@@ -5399,15 +5399,14 @@ geeqie	libexiv2.so.28	exiv2
 geeqie	libffmpegthumbnailer.so.4	ffmpegthumbnailer
 geeqie	libgcc_s.so.1	aaa_libraries
 geeqie	libgcc_s.so.1	gcc
-geeqie	libgdk-3.so.0	gtk+3
 geeqie	libgdk_pixbuf-2.0.so.0	gdk-pixbuf2
 geeqie	libgio-2.0.so.0	glib2
 geeqie	libglib-2.0.so.0	aaa_libraries
 geeqie	libglib-2.0.so.0	glib2
 geeqie	libgobject-2.0.so.0	aaa_libraries
 geeqie	libgobject-2.0.so.0	glib2
-geeqie	libgspell-1.so.3	gspell
-geeqie	libgtk-3.so.0	gtk+3
+geeqie	libgraphene-1.0.so.0	graphene
+geeqie	libgtk-4.so.1	gtk4
 geeqie	libjpeg.so.62	aaa_libraries
 geeqie	libjpeg.so.62	libjpeg-turbo
 geeqie	liblcms2.so.2	lcms2

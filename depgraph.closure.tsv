@@ -6736,16 +6736,17 @@ geeqie	LibRaw	linked
 geeqie	aaa_glibc-solibs	linked
 geeqie	aaa_libraries	linked
 geeqie	aom	lib
-geeqie	at-spi2-core	lib
+geeqie	avahi	lib
 geeqie	brotli	lib
 geeqie	cairo	linked
 geeqie	cfitsio	linked
+geeqie	colord	lib
 geeqie	cyrus-sasl	lib
 geeqie	dav1d	lib
 geeqie	dbus	lib
 geeqie	djvulibre	linked
 geeqie	e2fsprogs	lib
-geeqie	enchant	lib
+geeqie	elfutils	lib
 geeqie	exiv2	linked
 geeqie	ffmpeg	lib
 geeqie	ffmpegthumbnailer	linked
@@ -6757,9 +6758,12 @@ geeqie	glib2	linked
 geeqie	gnutls	lib
 geeqie	gpgme	lib
 geeqie	gpgmepp	lib
+geeqie	graphene	linked
 geeqie	graphite2	lib
-geeqie	gspell	linked
-geeqie	gtk+3	linked
+geeqie	gst-plugins-bad-free	lib
+geeqie	gst-plugins-base	lib
+geeqie	gstreamer	lib
+geeqie	gtk4	linked
 geeqie	harfbuzz	lib
 geeqie	icu4c	lib
 geeqie	inih	lib
@@ -6768,7 +6772,6 @@ geeqie	lame	lib
 geeqie	lcms2	linked
 geeqie	libX11	lib
 geeqie	libXau	lib
-geeqie	libXcomposite	lib
 geeqie	libXcursor	lib
 geeqie	libXdamage	lib
 geeqie	libXdmcp	lib
@@ -6778,7 +6781,6 @@ geeqie	libXi	lib
 geeqie	libXinerama	lib
 geeqie	libXrandr	lib
 geeqie	libXrender	lib
-geeqie	libXres	lib
 geeqie	libarchive	linked
 geeqie	libass	lib
 geeqie	libassuan	lib
@@ -6787,6 +6789,8 @@ geeqie	libdeflate	lib
 geeqie	libdrm	lib
 geeqie	libepoxy	lib
 geeqie	libgcrypt	lib
+geeqie	libglvnd	lib
+geeqie	libgudev	lib
 geeqie	libogg	lib
 geeqie	libplacebo	lib
 geeqie	librsvg	lib
@@ -6802,6 +6806,8 @@ geeqie	libxcb	lib
 geeqie	libxml2	lib
 geeqie	lua	linked
 geeqie	lz4	lib
+geeqie	lzo	lib
+geeqie	mesa	lib
 geeqie	mozilla-nss	lib
 geeqie	nettle	lib
 geeqie	nghttp2	lib
@@ -6814,6 +6820,7 @@ geeqie	openjph	lib
 geeqie	openssl	lib
 geeqie	openssl-solibs	lib
 geeqie	opus	lib
+geeqie	orc	lib
 geeqie	p11-kit	lib
 geeqie	pango	linked
 geeqie	pixman	lib
