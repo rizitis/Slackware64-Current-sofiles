@@ -2879,7 +2879,7 @@ libnss_wins.so.2 samba
 libnssckbi.so mozilla-nss
 libnsssysinit.so mozilla-nss
 libnssutil3.so mozilla-nss
-libntfs-3g.so.89 ntfs
+libntfs-3g.so.90 ntfs
 libntlm.so.3 cyrus-sasl
 libnutclient.so.2 nut
 libnutclientstub.so.1 nut
