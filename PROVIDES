@@ -776,7 +776,7 @@ libKirigamiPrivate.so.6 kirigami
 libKirigamiTemplates.so.6 kirigami
 libLIBWBCLIENT-OLD-private-samba.so samba
 libLLVM.so.22.1 llvm
-libLLVM.so.22.1-rust-1.97.0-stable rust
+libLLVM.so.22.1-rust-1.97.1-stable rust
 libLLVMSPIRVLib.so.22.1 spirv-llvm-translator
 libLTO.so.22.1 llvm
 libLayerShellQtInterface.so.6 layer-shell-qt
@@ -1861,7 +1861,7 @@ libfyaml.so.0 libfyaml
 libgail.so gtk+2
 libgailutil-3.so.0 gtk+3
 libgailutil.so.18 gtk+2
-libgallium-26.1.4.so mesa
+libgallium-26.1.5.so mesa
 libgarcon-1.so.0 garcon
 libgarcon-gtk3-1.so.0 garcon
 libgbm.so.1 mesa
@@ -3251,7 +3251,7 @@ librtp.so pulseaudio
 librttr_core.so.0.9.6 rttr
 libruby.so.4.0 ruby
 librunnermodelplugin.so krunner5
-librustc_driver-d75c47543bceb2de.so rust
+librustc_driver-b3d7f0df66e24fa0.so rust
 librva.so normalize
 libsamba-cluster-support-private-samba.so samba
 libsamba-credentials.so.1 samba
@@ -3398,7 +3398,7 @@ libssr-glinject.so ssr
 libstable-sort-private-samba.so samba
 libstartup-notification-1.so.0 startup-notification
 libstats_auth.so dovecot
-libstd-905e48a94e5fa925.so rust
+libstd-8c75923209452c5b.so rust
 libstdc++.so.5 aaa_libraries
 libstdc++.so.6 aaa_libraries
 libstdc++.so.6 gcc-g++
