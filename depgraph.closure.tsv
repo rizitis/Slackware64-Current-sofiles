@@ -196,6 +196,8 @@ OpenCC	aaa_glibc-solibs	linked
 OpenCC	aaa_libraries	linked
 OpenCC	marisa	linked
 PyQt-builder	python-packaging	hint:import
+PyQt-builder	python-setuptools	hint:import
+PyQt-builder	sip	hint:import
 PyQt5	PyQt5_sip	hint:import
 PyQt5	aaa_glibc-solibs	linked
 PyQt5	aaa_libraries	linked
@@ -7125,6 +7127,7 @@ gi-docgen	python-MarkupSafe	hint:import
 gi-docgen	python-markdown	hint:import
 gi-docgen	python-packaging	hint:import
 gi-docgen	python-pygments	hint:import
+gi-docgen	python-setuptools	hint:import
 gi-docgen	python-typogrify	hint:import
 giflib	aaa_glibc-solibs	linked
 gimp	Imath	lib
@@ -10929,6 +10932,8 @@ kanagram	wayland	lib
 kapidox	graphviz	hint:import
 kapidox	python-Jinja2	hint:import
 kapidox	python-PyYAML	hint:import
+kapidox	python-doxypypy	hint:import
+kapidox	python-doxyqml	hint:import
 kapidox	python-importlib_metadata	hint:import
 kapidox	python-requests	hint:import
 kapman	aaa_glibc-solibs	linked
@@ -30147,6 +30152,7 @@ okular	wayland	lib
 okular	xcb-util-keysyms	lib
 olm	aaa_glibc-solibs	linked
 olm	aaa_libraries	linked
+olm	python-cffi	hint:import
 oniguruma	aaa_glibc-solibs	linked
 openal-soft	aaa_glibc-solibs	linked
 openal-soft	aaa_libraries	linked
@@ -33590,6 +33596,7 @@ python-appdirs	libwebp	hint:import
 python-build	python-importlib_metadata	hint:import
 python-build	python-packaging	hint:import
 python-build	python-pyproject-hooks	hint:import
+python-build	python-setuptools	hint:import
 python-cffi	aaa_glibc-solibs	linked
 python-cffi	aaa_libraries	linked
 python-cffi	python-pycparser	hint:import
@@ -33607,11 +33614,13 @@ python-hatchling	python-editables	hint:import
 python-hatchling	python-packaging	hint:import
 python-hatchling	python-pathspec	hint:import
 python-hatchling	python-pluggy	hint:import
+python-hatchling	python-setuptools	hint:import
 python-hatchling	python-trove-classifiers	hint:import
 python-html5lib	python-chardet	hint:import
 python-html5lib	python-lxml	hint:import
 python-html5lib	python-six	hint:import
 python-html5lib	python-webencodings	hint:import
+python-importlib_metadata	python-setuptools	hint:import
 python-importlib_metadata	python-zipp	hint:import
 python-lxml	aaa_glibc-solibs	linked
 python-lxml	aaa_libraries	linked
@@ -33632,8 +33641,10 @@ python-numpy	python-charset-normalizer	hint:import
 python-numpy	python-psutil	hint:import
 python-pbr	python-importlib_metadata	hint:import
 python-pbr	python-packaging	hint:import
+python-pbr	python-setuptools	hint:import
 python-pbr	python-sphinx	hint:import
 python-pbr	python-wheel	hint:import
+python-pbr	python2	hint:import
 python-pillow	PyQt6_sip	hint:import
 python-pillow	aaa_glibc-solibs	linked
 python-pillow	aaa_libraries	linked
@@ -33658,6 +33669,7 @@ python-pygments	python-docutils	hint:import
 python-pygments	python-pillow	hint:import
 python-pygments	python-sphinx	hint:import
 python-pyproject_metadata	python-packaging	hint:import
+python-pyproject_metadata	python-setuptools	hint:import
 python-requests	python-certifi	hint:import
 python-requests	python-chardet	hint:import
 python-requests	python-charset-normalizer	hint:import
@@ -33713,7 +33725,10 @@ python-scikit-build-core	python-numpy	hint:import
 python-scikit-build-core	python-packaging	hint:import
 python-scikit-build-core	python-pathspec	hint:import
 python-scikit-build-core	python-pyproject_metadata	hint:import
+python-scikit-build-core	python-setuptools	hint:import
 python-scikit-build-core	python-setuptools_scm	hint:import
+python-setuptools-gettext	python-setuptools	hint:import
+python-setuptools-gettext	python2	hint:import
 python-setuptools	python-docutils	hint:import
 python-setuptools	python-importlib_metadata	hint:import
 python-setuptools	python-packaging	hint:import
@@ -33721,8 +33736,12 @@ python-setuptools	python-tomli-w	hint:import
 python-setuptools	python-trove-classifiers	hint:import
 python-setuptools	python-wheel	hint:import
 python-setuptools	python-zipp	hint:import
+python-setuptools_scm	python-packaging	hint:import
+python-setuptools_scm	python-setuptools	hint:import
 python-setuptools_scm	python-vcs_versioning	hint:import
+python-setuptools_scm	python2	hint:import
 python-sphinx	python-Jinja2	hint:import
+python-sphinx	python-alabaster	hint:import
 python-sphinx	python-babel	hint:import
 python-sphinx	python-docutils	hint:import
 python-sphinx	python-imagesize	hint:import
@@ -33731,8 +33750,10 @@ python-sphinx	python-pillow	hint:import
 python-sphinx	python-pygments	hint:import
 python-sphinx	python-requests	hint:import
 python-sphinx	python-roman-numerals	hint:import
+python-sphinx	python-setuptools	hint:import
 python-sphinx	python-snowballstemmer	hint:import
 python-sphinx	python-urllib3	hint:import
+python-sphinx_rtd_theme	python-docutils	hint:import
 python-sphinx_rtd_theme	python-sphinx	hint:import
 python-trove-classifiers	python-importlib_metadata	hint:import
 python-typogrify	python-Jinja2	hint:import
@@ -33741,7 +33762,9 @@ python-typogrify	python-smartypants	hint:import
 python-urllib3	brotli	hint:import
 python-urllib3	python-idna	hint:import
 python-vcs_versioning	python-packaging	hint:import
+python-vcs_versioning	python-setuptools	hint:import
 python-wheel	python-packaging	hint:import
+python-wheel	python-setuptools	hint:import
 python2	aaa_glibc-solibs	linked
 python2	aaa_libraries	linked
 python2	brotli	hint:import
@@ -34986,6 +35009,8 @@ showfont	libFS	linked
 simdutf	aaa_glibc-solibs	linked
 simdutf	aaa_libraries	linked
 sip	python-packaging	hint:import
+sip	python-setuptools	hint:import
+sip	python2	hint:import
 skanlite	aaa_glibc-solibs	linked
 skanlite	aaa_libraries	linked
 skanlite	avahi	lib
