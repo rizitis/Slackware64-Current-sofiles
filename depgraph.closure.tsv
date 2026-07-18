@@ -30925,6 +30925,7 @@ pcsc-lite	polkit	linked
 pcsc-lite	util-linux	lib
 perl	aaa_glibc-solibs	linked
 perl	aaa_libraries	linked
+perl	ca-certificates	hint:use
 perl	gdbm	linked
 perl	mariadb	linked
 perl	openssl	linked
@@ -31103,6 +31104,7 @@ phonon	qt6	linked
 php	aaa_glibc-solibs	linked
 php	aaa_libraries	linked
 php	brotli	lib
+php	ca-certificates	hint:use
 php	cyrus-sasl	lib
 php	e2fsprogs	lib
 php	enchant	linked
@@ -33766,6 +33768,7 @@ python2	python-zipp	hint:import
 python2	sqlite	linked
 python3	aaa_glibc-solibs	linked
 python3	aaa_libraries	linked
+python3	ca-certificates	hint:use
 python3	e2fsprogs	lib
 python3	gdbm	linked
 python3	icu4c	lib
@@ -34615,6 +34618,7 @@ rttr	aaa_glibc-solibs	linked
 rttr	aaa_libraries	linked
 ruby	aaa_glibc-solibs	linked
 ruby	aaa_libraries	linked
+ruby	ca-certificates	hint:use
 ruby	libyaml	linked
 ruby	openssl	linked
 ruby	openssl-solibs	linked
@@ -37168,6 +37172,7 @@ wget	util-linux	linked
 wget2	aaa_glibc-solibs	linked
 wget2	aaa_libraries	linked
 wget2	brotli	linked
+wget2	ca-certificates	hint:use
 wget2	gnutls	linked
 wget2	gpgme	linked
 wget2	libassuan	lib

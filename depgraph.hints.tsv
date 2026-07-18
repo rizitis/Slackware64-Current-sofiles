@@ -605,4 +605,9 @@ zlib	dlopen	libz.so.1	aaa_libraries	guess
 curl	use	/etc/ssl/certs	ca-certificates	manual
 git	use	/etc/ssl/certs	ca-certificates	manual
 openssl	use	/etc/ssl/certs	ca-certificates	manual
+perl	use	/etc/ssl/certs	ca-certificates	manual
+php	use	/etc/ssl/certs	ca-certificates	manual
+python3	use	/etc/ssl/certs	ca-certificates	manual
+ruby	use	/etc/ssl/certs	ca-certificates	manual
 wget	use	/etc/ssl/certs	ca-certificates	manual
+wget2	use	/etc/ssl/certs	ca-certificates	manual
