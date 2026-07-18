@@ -602,3 +602,7 @@ xrdb	exec	/usr/bin/cpp	gcc	guess
 xsm	exec	/usr/bin/ssh	openssh	guess
 xterm	exec	/usr/bin/luit	luit	guess
 zlib	dlopen	libz.so.1	aaa_libraries	guess
+curl	use	/etc/ssl/certs	ca-certificates	manual
+git	use	/etc/ssl/certs	ca-certificates	manual
+openssl	use	/etc/ssl/certs	ca-certificates	manual
+wget	use	/etc/ssl/certs	ca-certificates	manual
