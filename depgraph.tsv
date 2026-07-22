@@ -9791,10 +9791,12 @@ kddockwidgets	libQt6QuickControls2.so.6	qt6
 kddockwidgets	libQt6Widgets.so.6	qt6
 kddockwidgets	libc.so.6	aaa_glibc-solibs
 kddockwidgets	libc.so.6	glibc
+kddockwidgets	libfmt.so.12	fmt
 kddockwidgets	libgcc_s.so.1	aaa_libraries
 kddockwidgets	libgcc_s.so.1	gcc
 kddockwidgets	libm.so.6	aaa_glibc-solibs
 kddockwidgets	libm.so.6	glibc
+kddockwidgets	libspdlog.so.1.17	spdlog
 kddockwidgets	libstdc++.so.6	aaa_libraries
 kddockwidgets	libstdc++.so.6	gcc-g++
 kddockwidgets	libxkbcommon.so.0	aaa_libraries

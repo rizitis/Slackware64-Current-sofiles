@@ -25718,8 +25718,10 @@ libkddockwidgets-qt6.so.3	libQt6Quick.so.6
 libkddockwidgets-qt6.so.3	libQt6QuickControls2.so.6
 libkddockwidgets-qt6.so.3	libQt6Widgets.so.6
 libkddockwidgets-qt6.so.3	libc.so.6
+libkddockwidgets-qt6.so.3	libfmt.so.12
 libkddockwidgets-qt6.so.3	libgcc_s.so.1
 libkddockwidgets-qt6.so.3	libm.so.6
+libkddockwidgets-qt6.so.3	libspdlog.so.1.17
 libkddockwidgets-qt6.so.3	libstdc++.so.6
 libkddockwidgets-qt6.so.3	libxkbcommon.so.0
 libkdebugsettings.so.6	libGLX.so.0

@@ -12541,6 +12541,7 @@ kddockwidgets	cyrus-sasl	lib
 kddockwidgets	dbus	lib
 kddockwidgets	duktape	lib
 kddockwidgets	e2fsprogs	lib
+kddockwidgets	fmt	linked
 kddockwidgets	fontconfig	lib
 kddockwidgets	freetype	lib
 kddockwidgets	glib2	lib
@@ -12562,6 +12563,7 @@ kddockwidgets	openssl	lib
 kddockwidgets	openssl-solibs	lib
 kddockwidgets	pcre2	lib
 kddockwidgets	qt6	linked
+kddockwidgets	spdlog	linked
 kddockwidgets	util-linux	lib
 kde-cli-tools	aaa_glibc-solibs	linked
 kde-cli-tools	aaa_libraries	linked
@@ -13189,6 +13191,7 @@ kdenlive	duktape	lib
 kdenlive	e2fsprogs	lib
 kdenlive	ffmpeg	linked
 kdenlive	flac	lib
+kdenlive	fmt	lib
 kdenlive	fontconfig	lib
 kdenlive	freetype	lib
 kdenlive	fribidi	lib
@@ -13282,6 +13285,7 @@ kdenlive	qt6	linked
 kdenlive	samba	lib
 kdenlive	solid	linked
 kdenlive	sonnet	linked
+kdenlive	spdlog	lib
 kdenlive	speex	lib
 kdenlive	syndication	lib
 kdenlive	talloc	lib
