@@ -1695,7 +1695,7 @@ libdm.so.0 aaa_libraries
 libdm.so.0 dmapi
 libdmtx.so.0 libdmtx
 libdmx.so.1 libdmx
-libdns-9.20.24.so bind
+libdns-9.20.26.so bind
 libdns_sd.so.1 avahi
 libdnsserver-common-private-samba.so samba
 libdoclet.so vala
@@ -2401,9 +2401,9 @@ libipq.so.0 iptables
 libipset.so.13 ipset
 libir.so xmms
 libirc.so pidgin
-libisc-9.20.24.so bind
-libisccc-9.20.24.so bind
-libisccfg-9.20.24.so bind
+libisc-9.20.26.so bind
+libisccc-9.20.26.so bind
+libisccfg-9.20.26.so bind
 libisl.so.23 aaa_libraries
 libisl.so.23 isl
 libiso9660++.so.1 libcdio
@@ -2839,7 +2839,7 @@ libnova-0.15.so.0 libnova
 libnovell.so pidgin
 libnpa-tstream-private-samba.so samba
 libnpth.so.0 npth
-libns-9.20.24.so bind
+libns-9.20.26.so bind
 libnsl.so.1 aaa_glibc-solibs
 libnsl.so.1 glibc
 libnsl.so.2 aaa_libraries
@@ -3400,7 +3400,6 @@ libsuitesparse_mongoose.so.3 suitesparse
 libsuitesparseconfig.so.7 suitesparse
 libsvg.so compiz
 libsvn_auth_gnome_keyring-1.so.0 subversion
-libsvn_auth_kwallet-1.so.0 subversion
 libsvn_client-1.so.0 subversion
 libsvn_delta-1.so.0 subversion
 libsvn_diff-1.so.0 subversion

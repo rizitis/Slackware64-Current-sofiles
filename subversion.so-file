@@ -1,18 +1,10 @@
 ld-linux-x86-64.so.2
-libKF5CoreAddons.so.5
-libKF5I18n.so.5
-libKF5Wallet.so.5
-libQt5Core.so.5
-libQt5DBus.so.5
-libQt5Gui.so.5
 libapr-1.so.0
 libaprutil-1.so.0
 libc.so.6
 libcrypt.so.2
 libdb-4.8.so
-libdbus-1.so.3
 libexpat.so.1
-libgcc_s.so.1
 libgio-2.0.so.0
 libglib-2.0.so.0
 libgobject-2.0.so.0
@@ -25,7 +17,6 @@ libsasl2.so.3
 libsecret-1.so.0
 libserf-1.so.1
 libsqlite3.so.0
-libstdc++.so.6
 libsvn_client-1.so.0
 libsvn_delta-1.so.0
 libsvn_diff-1.so.0

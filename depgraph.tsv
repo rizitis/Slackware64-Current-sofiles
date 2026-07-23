@@ -27421,12 +27421,6 @@ subtitlecomposer	libxkbcommon.so.0	aaa_libraries
 subtitlecomposer	libxkbcommon.so.0	libxkbcommon
 subversion	ld-linux-x86-64.so.2	aaa_glibc-solibs
 subversion	ld-linux-x86-64.so.2	glibc
-subversion	libKF5CoreAddons.so.5	kcoreaddons5
-subversion	libKF5I18n.so.5	ki18n5
-subversion	libKF5Wallet.so.5	kwallet5
-subversion	libQt5Core.so.5	qt5
-subversion	libQt5DBus.so.5	qt5
-subversion	libQt5Gui.so.5	qt5
 subversion	libapr-1.so.0	apr
 subversion	libaprutil-1.so.0	apr-util
 subversion	libc.so.6	aaa_glibc-solibs
@@ -27435,11 +27429,8 @@ subversion	libcrypt.so.2	aaa_glibc-solibs
 subversion	libcrypt.so.2	glibc
 subversion	libdb-4.8.so	aaa_libraries
 subversion	libdb-4.8.so	db48
-subversion	libdbus-1.so.3	dbus
 subversion	libexpat.so.1	aaa_libraries
 subversion	libexpat.so.1	expat
-subversion	libgcc_s.so.1	aaa_libraries
-subversion	libgcc_s.so.1	gcc
 subversion	libgio-2.0.so.0	glib2
 subversion	libglib-2.0.so.0	aaa_libraries
 subversion	libglib-2.0.so.0	glib2
@@ -27454,8 +27445,6 @@ subversion	libsasl2.so.3	cyrus-sasl
 subversion	libsecret-1.so.0	libsecret
 subversion	libserf-1.so.1	serf
 subversion	libsqlite3.so.0	sqlite
-subversion	libstdc++.so.6	aaa_libraries
-subversion	libstdc++.so.6	gcc-g++
 subversion	libutf8proc.so.3	utf8proc
 subversion	libz.so.1	aaa_libraries
 subversion	libz.so.1	zlib
