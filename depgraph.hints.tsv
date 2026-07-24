@@ -91,6 +91,7 @@ accountsservice	exec	/usr/bin/usermod	shadow	guess
 alpine	exec	/usr/bin/hunspell	hunspell	guess
 alpine	exec	/usr/bin/rsh	netkit-rsh	guess
 alpine	exec	/usr/bin/sendmail	postfix	guess
+appstream	dlopen	libwayland-client.so.0	wayland	guess
 argon2	dlopen	libargon2.so.1	aaa_libraries	guess
 at	exec	/usr/bin/sendmail	postfix	guess
 at-spi2-core	exec	/usr/bin/dbus-daemon	dbus	guess

@@ -1909,6 +1909,7 @@ appstream	pcre2	lib
 appstream	pixman	lib
 appstream	qt6	linked
 appstream	util-linux	lib
+appstream	wayland	hint:dlopen
 apr-util	aaa_glibc-solibs	linked
 apr-util	aaa_libraries	linked
 apr-util	apr	linked
@@ -25398,7 +25399,6 @@ libcec	libXext	lib
 libcec	libXrandr	linked
 libcec	libXrender	lib
 libcec	libxcb	lib
-libcec	p8-platform	linked
 libcec	python3	linked
 libcgroup	aaa_glibc-solibs	linked
 libcgroup	pam	linked
@@ -31922,7 +31922,6 @@ plasma-bigscreen	openssl	lib
 plasma-bigscreen	openssl-solibs	lib
 plasma-bigscreen	opus	lib
 plasma-bigscreen	p11-kit	lib
-plasma-bigscreen	p8-platform	linked
 plasma-bigscreen	pango	lib
 plasma-bigscreen	pcre2	lib
 plasma-bigscreen	pixman	lib

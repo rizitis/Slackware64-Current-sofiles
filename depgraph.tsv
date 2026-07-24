@@ -1287,6 +1287,8 @@ appstream	libgdk_pixbuf-2.0.so.0	gdk-pixbuf2
 appstream	libgio-2.0.so.0	glib2
 appstream	libglib-2.0.so.0	aaa_libraries
 appstream	libglib-2.0.so.0	glib2
+appstream	libgmodule-2.0.so.0	aaa_libraries
+appstream	libgmodule-2.0.so.0	glib2
 appstream	libgobject-2.0.so.0	aaa_libraries
 appstream	libgobject-2.0.so.0	glib2
 appstream	libm.so.6	aaa_glibc-solibs
@@ -18062,7 +18064,6 @@ libcec	libm.so.6	aaa_glibc-solibs
 libcec	libm.so.6	glibc
 libcec	libncursesw.so.6	aaa_libraries
 libcec	libncursesw.so.6	ncurses
-libcec	libp8-platform.so.2	p8-platform
 libcec	libpython3.12.so.1.0	python3
 libcec	libstdc++.so.6	aaa_libraries
 libcec	libstdc++.so.6	gcc-g++
@@ -23757,13 +23758,12 @@ plasma-bigscreen	libSDL3.so.0	SDL3
 plasma-bigscreen	libX11.so.6	libX11
 plasma-bigscreen	libc.so.6	aaa_glibc-solibs
 plasma-bigscreen	libc.so.6	glibc
-plasma-bigscreen	libcec.so.7	libcec
+plasma-bigscreen	libcec.so.8	libcec
 plasma-bigscreen	libgcc_s.so.1	aaa_libraries
 plasma-bigscreen	libgcc_s.so.1	gcc
 plasma-bigscreen	libkworkspace6.so.6	plasma-workspace
 plasma-bigscreen	libm.so.6	aaa_glibc-solibs
 plasma-bigscreen	libm.so.6	glibc
-plasma-bigscreen	libp8-platform.so.2	p8-platform
 plasma-bigscreen	libstdc++.so.6	aaa_libraries
 plasma-bigscreen	libstdc++.so.6	gcc-g++
 plasma-bigscreen	libtaskmanager.so.6	plasma-workspace

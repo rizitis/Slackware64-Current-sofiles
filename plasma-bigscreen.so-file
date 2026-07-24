@@ -50,10 +50,9 @@ libQt6Widgets.so.6
 libSDL3.so.0
 libX11.so.6
 libc.so.6
-libcec.so.7
+libcec.so.8
 libgcc_s.so.1
 libkworkspace6.so.6
 libm.so.6
-libp8-platform.so.2
 libstdc++.so.6
 libtaskmanager.so.6

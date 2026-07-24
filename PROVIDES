@@ -1548,7 +1548,7 @@ libcdio.so.19 libcdio
 libcdio_cdda.so.2 libcdio-paranoia
 libcdio_paranoia.so.2 libcdio-paranoia
 libcdt.so.6 graphviz
-libcec.so.7 libcec
+libcec.so.8 libcec
 libcfitsio.so.10 cfitsio
 libcgraph.so.8 graphviz
 libcgroup.so.3 libcgroup
