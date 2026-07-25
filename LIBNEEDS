@@ -19941,8 +19941,8 @@ libdisk_writer.so	libgthread-1.2.so.0
 libdisk_writer.so	libgtk-1.2.so.0
 libdisk_writer.so	libm.so.6
 libdisk_writer.so	libpthread.so.0
-libdisplay-info.so.3	libc.so.6
-libdisplay-info.so.3	libm.so.6
+libdisplay-info.so.4	libc.so.6
+libdisplay-info.so.4	libm.so.6
 libdjvulibre.so.21	ld-linux-x86-64.so.2
 libdjvulibre.so.21	libc.so.6
 libdjvulibre.so.21	libgcc_s.so.1
@@ -29268,7 +29268,7 @@ libkwin-x11.so.6	libQt6Svg.so.6
 libkwin-x11.so.6	libQt6Widgets.so.6
 libkwin-x11.so.6	libX11.so.6
 libkwin-x11.so.6	libc.so.6
-libkwin-x11.so.6	libdisplay-info.so.3
+libkwin-x11.so.6	libdisplay-info.so.4
 libkwin-x11.so.6	libdrm.so.2
 libkwin-x11.so.6	libepoxy.so.0
 libkwin-x11.so.6	libgbm.so.1
@@ -29328,7 +29328,7 @@ libkwin.so.6	libQt6Svg.so.6
 libkwin.so.6	libQt6Widgets.so.6
 libkwin.so.6	libX11.so.6
 libkwin.so.6	libc.so.6
-libkwin.so.6	libdisplay-info.so.3
+libkwin.so.6	libdisplay-info.so.4
 libkwin.so.6	libdrm.so.2
 libkwin.so.6	libepoxy.so.0
 libkwin.so.6	libgbm.so.1
@@ -30215,10 +30215,11 @@ libmpv.so.2	libcaca.so.0
 libmpv.so.2	libcdio.so.19
 libmpv.so.2	libcdio_cdda.so.2
 libmpv.so.2	libcdio_paranoia.so.2
-libmpv.so.2	libdisplay-info.so.3
+libmpv.so.2	libdisplay-info.so.4
 libmpv.so.2	libdrm.so.2
 libmpv.so.2	libdvdnav.so.4
 libmpv.so.2	libgbm.so.1
+libmpv.so.2	libjack.so.0
 libmpv.so.2	libjpeg.so.62
 libmpv.so.2	liblcms2.so.2
 libmpv.so.2	libluajit-5.1.so.2
@@ -35819,7 +35820,7 @@ libvulkan.so.1	libm.so.6
 libvulkan_intel.so	libSPIRV-Tools.so
 libvulkan_intel.so	libX11-xcb.so.1
 libvulkan_intel.so	libc.so.6
-libvulkan_intel.so	libdisplay-info.so.3
+libvulkan_intel.so	libdisplay-info.so.4
 libvulkan_intel.so	libdrm.so.2
 libvulkan_intel.so	libexpat.so.1
 libvulkan_intel.so	libgcc_s.so.1
@@ -35841,7 +35842,7 @@ libvulkan_intel.so	libzstd.so.1
 libvulkan_intel_hasvk.so	libSPIRV-Tools.so
 libvulkan_intel_hasvk.so	libX11-xcb.so.1
 libvulkan_intel_hasvk.so	libc.so.6
-libvulkan_intel_hasvk.so	libdisplay-info.so.3
+libvulkan_intel_hasvk.so	libdisplay-info.so.4
 libvulkan_intel_hasvk.so	libdrm.so.2
 libvulkan_intel_hasvk.so	libexpat.so.1
 libvulkan_intel_hasvk.so	libgcc_s.so.1
@@ -35864,7 +35865,7 @@ libvulkan_lvp.so	libLLVM.so.22.1
 libvulkan_lvp.so	libSPIRV-Tools.so
 libvulkan_lvp.so	libX11-xcb.so.1
 libvulkan_lvp.so	libc.so.6
-libvulkan_lvp.so	libdisplay-info.so.3
+libvulkan_lvp.so	libdisplay-info.so.4
 libvulkan_lvp.so	libdrm.so.2
 libvulkan_lvp.so	libexpat.so.1
 libvulkan_lvp.so	libgcc_s.so.1
@@ -35887,7 +35888,7 @@ libvulkan_nouveau.so	ld-linux-x86-64.so.2
 libvulkan_nouveau.so	libSPIRV-Tools.so
 libvulkan_nouveau.so	libX11-xcb.so.1
 libvulkan_nouveau.so	libc.so.6
-libvulkan_nouveau.so	libdisplay-info.so.3
+libvulkan_nouveau.so	libdisplay-info.so.4
 libvulkan_nouveau.so	libdrm.so.2
 libvulkan_nouveau.so	libexpat.so.1
 libvulkan_nouveau.so	libgcc_s.so.1
@@ -35910,7 +35911,7 @@ libvulkan_radeon.so	libLLVM.so.22.1
 libvulkan_radeon.so	libSPIRV-Tools.so
 libvulkan_radeon.so	libX11-xcb.so.1
 libvulkan_radeon.so	libc.so.6
-libvulkan_radeon.so	libdisplay-info.so.3
+libvulkan_radeon.so	libdisplay-info.so.4
 libvulkan_radeon.so	libdrm.so.2
 libvulkan_radeon.so	libdrm_amdgpu.so.1
 libvulkan_radeon.so	libelf.so.1
@@ -35933,7 +35934,7 @@ libvulkan_radeon.so	libz.so.1
 libvulkan_radeon.so	libzstd.so.1
 libvulkan_virtio.so	libX11-xcb.so.1
 libvulkan_virtio.so	libc.so.6
-libvulkan_virtio.so	libdisplay-info.so.3
+libvulkan_virtio.so	libdisplay-info.so.4
 libvulkan_virtio.so	libdrm.so.2
 libvulkan_virtio.so	libexpat.so.1
 libvulkan_virtio.so	libgcc_s.so.1
@@ -36163,7 +36164,7 @@ libwireplumber-module-standard-event-source.so	libwireplumber-0.5.so.0
 libwlroots-0.20.so	libEGL.so.1
 libwlroots-0.20.so	libGLESv2.so.2
 libwlroots-0.20.so	libc.so.6
-libwlroots-0.20.so	libdisplay-info.so.3
+libwlroots-0.20.so	libdisplay-info.so.4
 libwlroots-0.20.so	libdrm.so.2
 libwlroots-0.20.so	libgbm.so.1
 libwlroots-0.20.so	libinput.so.10
@@ -36576,7 +36577,7 @@ libxfce4windowing-0.so.0	libatk-1.0.so.0
 libxfce4windowing-0.so.0	libc.so.6
 libxfce4windowing-0.so.0	libcairo-gobject.so.2
 libxfce4windowing-0.so.0	libcairo.so.2
-libxfce4windowing-0.so.0	libdisplay-info.so.3
+libxfce4windowing-0.so.0	libdisplay-info.so.4
 libxfce4windowing-0.so.0	libgdk-3.so.0
 libxfce4windowing-0.so.0	libgdk_pixbuf-2.0.so.0
 libxfce4windowing-0.so.0	libgio-2.0.so.0

@@ -17122,7 +17122,7 @@ kwin	libXext.so.6	libXext
 kwin	libc.so.6	aaa_glibc-solibs
 kwin	libc.so.6	glibc
 kwin	libcanberra.so.0	libcanberra
-kwin	libdisplay-info.so.3	libdisplay-info
+kwin	libdisplay-info.so.4	libdisplay-info
 kwin	libdrm.so.2	libdrm
 kwin	libeis.so.1	libei
 kwin	libepoxy.so.0	libepoxy
@@ -17220,7 +17220,7 @@ kwin-x11	libXi.so.6	libXi
 kwin-x11	libc.so.6	aaa_glibc-solibs
 kwin-x11	libc.so.6	glibc
 kwin-x11	libcanberra.so.0	libcanberra
-kwin-x11	libdisplay-info.so.3	libdisplay-info
+kwin-x11	libdisplay-info.so.4	libdisplay-info
 kwin-x11	libdrm.so.2	libdrm
 kwin-x11	libepoxy.so.0	libepoxy
 kwin-x11	libgbm.so.1	mesa
@@ -19929,7 +19929,7 @@ libxfce4windowing	libc.so.6	aaa_glibc-solibs
 libxfce4windowing	libc.so.6	glibc
 libxfce4windowing	libcairo-gobject.so.2	cairo
 libxfce4windowing	libcairo.so.2	cairo
-libxfce4windowing	libdisplay-info.so.3	libdisplay-info
+libxfce4windowing	libdisplay-info.so.4	libdisplay-info
 libxfce4windowing	libgdk-3.so.0	gtk+3
 libxfce4windowing	libgdk_pixbuf-2.0.so.0	gdk-pixbuf2
 libxfce4windowing	libgio-2.0.so.0	glib2
@@ -20934,7 +20934,7 @@ mesa	libXxf86vm.so.1	libXxf86vm
 mesa	libc.so.6	aaa_glibc-solibs
 mesa	libc.so.6	glibc
 mesa	libclang-cpp.so.22.1	llvm
-mesa	libdisplay-info.so.3	libdisplay-info
+mesa	libdisplay-info.so.4	libdisplay-info
 mesa	libdrm.so.2	libdrm
 mesa	libdrm_amdgpu.so.1	libdrm
 mesa	libdrm_intel.so.1	libdrm
@@ -21647,10 +21647,11 @@ mpv	libcaca.so.0	libcaca
 mpv	libcdio.so.19	libcdio
 mpv	libcdio_cdda.so.2	libcdio-paranoia
 mpv	libcdio_paranoia.so.2	libcdio-paranoia
-mpv	libdisplay-info.so.3	libdisplay-info
+mpv	libdisplay-info.so.4	libdisplay-info
 mpv	libdrm.so.2	libdrm
 mpv	libdvdnav.so.4	libdvdnav
 mpv	libgbm.so.1	mesa
+mpv	libjack.so.0	pipewire
 mpv	libjpeg.so.62	aaa_libraries
 mpv	libjpeg.so.62	libjpeg-turbo
 mpv	liblcms2.so.2	lcms2
@@ -28623,7 +28624,7 @@ wlroots	libEGL.so.1	libglvnd
 wlroots	libGLESv2.so.2	libglvnd
 wlroots	libc.so.6	aaa_glibc-solibs
 wlroots	libc.so.6	glibc
-wlroots	libdisplay-info.so.3	libdisplay-info
+wlroots	libdisplay-info.so.4	libdisplay-info
 wlroots	libdrm.so.2	libdrm
 wlroots	libgbm.so.1	mesa
 wlroots	libinput.so.10	libinput

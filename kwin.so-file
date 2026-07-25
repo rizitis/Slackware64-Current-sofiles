@@ -53,7 +53,7 @@ libX11.so.6
 libXext.so.6
 libc.so.6
 libcanberra.so.0
-libdisplay-info.so.3
+libdisplay-info.so.4
 libdrm.so.2
 libeis.so.1
 libepoxy.so.0

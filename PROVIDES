@@ -1685,7 +1685,7 @@ libdirectorymenu.so xfce4-panel
 libdiscid.so.0 libdiscid
 libdiscogsimport.so kid3
 libdisk_writer.so xmms
-libdisplay-info.so.3 libdisplay-info
+libdisplay-info.so.4 libdisplay-info
 libdjvulibre.so.21 djvulibre
 libdkimverifyconfigure.so.6 kdepim-addons
 libdl.so.2 aaa_glibc-solibs
