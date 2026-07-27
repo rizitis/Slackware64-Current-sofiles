@@ -3290,7 +3290,7 @@ libsfdo-desktop-file.so.0 libsfdo
 libsfdo-desktop.so.0 libsfdo
 libsfdo-icon.so.0 libsfdo
 libsframe.so.3 binutils
-libsgutils2-1.48.so.2 sg3_utils
+libsgutils2-1.49.so.2 sg3_utils
 libshaderc_shared.so.1 vulkan-sdk
 libshadow.so xorg-server
 libshadowfb.so xorg-server

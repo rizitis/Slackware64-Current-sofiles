@@ -33994,7 +33994,7 @@ libsfdo-icon.so.0	libc.so.6
 libsfdo-icon.so.0	libsfdo-basedir.so.0
 libsfdo-icon.so.0	libsfdo-desktop-file.so.0
 libsframe.so.3	libc.so.6
-libsgutils2-1.48.so.2	libc.so.6
+libsgutils2-1.49.so.2	libc.so.6
 libshaderc_shared.so.1	libSPIRV-Tools-opt.so
 libshaderc_shared.so.1	libSPIRV-Tools.so
 libshaderc_shared.so.1	libSPIRV.so.16

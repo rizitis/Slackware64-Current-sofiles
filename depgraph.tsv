@@ -18371,7 +18371,7 @@ libgpod	libimobiledevice-1.0.so.6	libimobiledevice
 libgpod	libm.so.6	aaa_glibc-solibs
 libgpod	libm.so.6	glibc
 libgpod	libplist-2.0.so.4	libplist
-libgpod	libsgutils2-1.48.so.2	sg3_utils
+libgpod	libsgutils2-1.49.so.2	sg3_utils
 libgpod	libsqlite3.so.0	sqlite
 libgpod	libusb-1.0.so.0	aaa_libraries
 libgpod	libusb-1.0.so.0	libusb
@@ -26621,7 +26621,7 @@ sdl	libz.so.1	aaa_libraries
 sdl	libz.so.1	zlib
 sdparm	libc.so.6	aaa_glibc-solibs
 sdparm	libc.so.6	glibc
-sdparm	libsgutils2-1.48.so.2	sg3_utils
+sdparm	libsgutils2-1.49.so.2	sg3_utils
 seamonkey	ld-linux-x86-64.so.2	aaa_glibc-solibs
 seamonkey	ld-linux-x86-64.so.2	glibc
 seamonkey	libX11-xcb.so.1	libX11
