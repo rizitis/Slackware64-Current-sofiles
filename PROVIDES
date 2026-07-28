@@ -775,8 +775,8 @@ libMESSAGING-private-samba.so samba
 libMLIR.so.22.1 llvm
 libMLIRExecutionEngineShared.so.22.1 llvm
 libMagick++-7.Q16HDRI.so.5 imagemagick
-libMagickCore-7.Q16HDRI.so.11 imagemagick
-libMagickWand-7.Q16HDRI.so.11 imagemagick
+libMagickCore-7.Q16HDRI.so.10 imagemagick
+libMagickWand-7.Q16HDRI.so.10 imagemagick
 libMerkuroComponents.so.6 merkuro
 libMpvQt.so.3 mpvqt
 libMrm.so.5 motif
@@ -2955,7 +2955,7 @@ libopencv_ximgproc.so.414 opencv
 libopencv_xobjdetect.so.414 opencv
 libopencv_xphoto.so.414 opencv
 libopenjp2.so.7 openjpeg
-libopenjph.so.0.30 openjph
+libopenjph.so.0.31 openjph
 libopenjpip.so.7 openjpeg
 libopenobex.so.2 openobex
 libopensc.so.13 opensc
@@ -4428,6 +4428,7 @@ xc.so imagemagick
 xcf.so imagemagick
 xineplug_ao_out_alsa.so xine-lib
 xineplug_ao_out_esd.so xine-lib
+xineplug_ao_out_jack.so xine-lib
 xineplug_ao_out_oss.so xine-lib
 xineplug_ao_out_pulseaudio.so xine-lib
 xineplug_decode_a52.so xine-lib

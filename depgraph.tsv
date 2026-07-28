@@ -3321,8 +3321,8 @@ digikam	libKPim6AkonadiPrivate.so.6	akonadi
 digikam	libKPim6GrantleeTheme.so.6	grantleetheme
 digikam	libKSaneWidgets6.so.6	libksane
 digikam	libMagick++-7.Q16HDRI.so.5	imagemagick
-digikam	libMagickCore-7.Q16HDRI.so.11	imagemagick
-digikam	libMagickWand-7.Q16HDRI.so.11	imagemagick
+digikam	libMagickCore-7.Q16HDRI.so.10	imagemagick
+digikam	libMagickWand-7.Q16HDRI.so.10	imagemagick
 digikam	libOpenGL.so.0	libglvnd
 digikam	libQt6Concurrent.so.6	qt6
 digikam	libQt6Core.so.6	qt6
@@ -3584,6 +3584,7 @@ dovecot	liblber.so.2	aaa_libraries
 dovecot	liblber.so.2	openldap
 dovecot	libldap.so.2	aaa_libraries
 dovecot	libldap.so.2	openldap
+dovecot	liblua.so.5	lua
 dovecot	liblz4.so.1	lz4
 dovecot	libm.so.6	aaa_glibc-solibs
 dovecot	libm.so.6	glibc
@@ -3596,7 +3597,6 @@ dovecot	libssl.so.3	openssl
 dovecot	libssl.so.3	openssl-solibs
 dovecot	libstdc++.so.6	aaa_libraries
 dovecot	libstdc++.so.6	gcc-g++
-dovecot	libtexlua53.so.5	texlive
 dovecot	libtirpc.so.3	aaa_libraries
 dovecot	libtirpc.so.3	libtirpc
 dovecot	libunwind-x86_64.so.8	libunwind
@@ -3676,7 +3676,7 @@ dvd+rw-tools	libpthread.so.0	aaa_glibc-solibs
 dvd+rw-tools	libpthread.so.0	glibc
 dvd+rw-tools	libstdc++.so.6	aaa_libraries
 dvd+rw-tools	libstdc++.so.6	gcc-g++
-dvdauthor	libMagickCore-7.Q16HDRI.so.11	imagemagick
+dvdauthor	libMagickCore-7.Q16HDRI.so.10	imagemagick
 dvdauthor	libc.so.6	aaa_glibc-solibs
 dvdauthor	libc.so.6	glibc
 dvdauthor	libdvdread.so.8	libdvdread
@@ -22498,7 +22498,7 @@ openexr	libgcc_s.so.1	aaa_libraries
 openexr	libgcc_s.so.1	gcc
 openexr	libm.so.6	aaa_glibc-solibs
 openexr	libm.so.6	glibc
-openexr	libopenjph.so.0.30	openjph
+openexr	libopenjph.so.0.31	openjph
 openexr	libstdc++.so.6	aaa_libraries
 openexr	libstdc++.so.6	gcc-g++
 openjpeg	libc.so.6	aaa_glibc-solibs
@@ -29779,8 +29779,8 @@ xine-lib	libFLAC.so.14	flac
 xine-lib	libGL.so.1	libglvnd
 xine-lib	libGLU.so.1	glu
 xine-lib	libICE.so.6	libICE
-xine-lib	libMagickCore-7.Q16HDRI.so.11	imagemagick
-xine-lib	libMagickWand-7.Q16HDRI.so.11	imagemagick
+xine-lib	libMagickCore-7.Q16HDRI.so.10	imagemagick
+xine-lib	libMagickWand-7.Q16HDRI.so.10	imagemagick
 xine-lib	libSDL-1.2.so.0	sdl
 xine-lib	libSM.so.6	libSM
 xine-lib	libX11.so.6	libX11
@@ -29816,6 +29816,7 @@ xine-lib	libgomp.so.1	aaa_libraries
 xine-lib	libgomp.so.1	gcc
 xine-lib	libgpm.so.2	aaa_libraries
 xine-lib	libgpm.so.2	gpm
+xine-lib	libjack.so.0	pipewire
 xine-lib	libjpeg.so.62	aaa_libraries
 xine-lib	libjpeg.so.62	libjpeg-turbo
 xine-lib	libm.so.6	aaa_glibc-solibs

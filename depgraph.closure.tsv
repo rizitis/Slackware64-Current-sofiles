@@ -4666,6 +4666,7 @@ dovecot	e2fsprogs	linked
 dovecot	icu4c	linked
 dovecot	libsodium	linked
 dovecot	libunwind	linked
+dovecot	lua	linked
 dovecot	lz4	linked
 dovecot	mariadb	linked
 dovecot	openssl	linked
@@ -4675,7 +4676,6 @@ dovecot	pcre2	linked
 dovecot	postfix	hint:exec
 dovecot	samba	hint:exec
 dovecot	sqlite	linked
-dovecot	texlive	linked
 dovecot	util-linux	lib
 dovecot	xapian-core	linked
 doxygen	aaa_glibc-solibs	linked
@@ -38887,6 +38887,7 @@ xine-lib	openssl-solibs	linked
 xine-lib	opus	lib
 xine-lib	p11-kit	lib
 xine-lib	pango	lib
+xine-lib	pipewire	linked
 xine-lib	pixman	lib
 xine-lib	pulseaudio	linked
 xine-lib	samba	linked
