@@ -18242,6 +18242,8 @@ libfprint	libcrypto.so.3	openssl-solibs
 libfprint	libgio-2.0.so.0	glib2
 libfprint	libglib-2.0.so.0	aaa_libraries
 libfprint	libglib-2.0.so.0	glib2
+libfprint	libgmodule-2.0.so.0	aaa_libraries
+libfprint	libgmodule-2.0.so.0	glib2
 libfprint	libgobject-2.0.so.0	aaa_libraries
 libfprint	libgobject-2.0.so.0	glib2
 libfprint	libgudev-1.0.so.0	libgudev

@@ -1368,6 +1368,7 @@ dns.so	libc.so.6
 dns.so	libcli-ldap-private-samba.so
 dns.so	libclidns-private-samba.so
 dns.so	libdnsserver-common-private-samba.so
+dns.so	libgenrand-private-samba.so
 dns.so	libgensec-private-samba.so
 dns.so	libldb.so.2
 dns.so	libndr-nbt.so.0
@@ -20873,6 +20874,7 @@ libfprint-2.so.2	libc.so.6
 libfprint-2.so.2	libcrypto.so.3
 libfprint-2.so.2	libgio-2.0.so.0
 libfprint-2.so.2	libglib-2.0.so.0
+libfprint-2.so.2	libgmodule-2.0.so.0
 libfprint-2.so.2	libgobject-2.0.so.0
 libfprint-2.so.2	libgudev-1.0.so.0
 libfprint-2.so.2	libgusb.so.2
@@ -34482,7 +34484,6 @@ libspeex_decoder.so	libpopt.so.0
 libspeex_decoder.so	libspeex.so.1
 libspeexdsp.so.1	libc.so.6
 libspeexdsp.so.1	libm.so.6
-libspex.so.3	ld-linux-x86-64.so.2
 libspex.so.3	libamd.so.3
 libspex.so.3	libc.so.6
 libspex.so.3	libcolamd.so.3
@@ -39784,6 +39785,7 @@ rmdir	libc.so.6
 rootdse.so	libMESSAGING-private-samba.so
 rootdse.so	libc.so.6
 rootdse.so	libcli-cldap-private-samba.so
+rootdse.so	libcommon-auth-private-samba.so
 rootdse.so	libdcerpc-binding.so.0
 rootdse.so	libdsdb-module-private-samba.so
 rootdse.so	libevents-private-samba.so
