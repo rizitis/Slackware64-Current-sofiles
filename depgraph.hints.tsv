@@ -81,7 +81,6 @@ SDL3	dlopen	libwayland-egl.so.1	wayland	guess
 SDL3	dlopen	libxkbcommon.so.0	aaa_libraries	guess
 aaa_glibc-solibs	dlopen	libgcc_s.so.1	aaa_libraries	guess
 aaa_glibc-solibs	dlopen	libidn2.so.0	aaa_libraries	guess
-aaa_libraries	dlopen	libvulkan.so.1	vulkan-sdk	guess
 accountsservice	exec	/usr/bin/chage	shadow	guess
 accountsservice	exec	/usr/bin/chpasswd	shadow	guess
 accountsservice	exec	/usr/bin/passwd	shadow	guess
@@ -316,7 +315,6 @@ mozilla-firefox	dlopen	libICE.so.6	libICE	guess
 mozilla-firefox	dlopen	libSM.so.6	libSM	guess
 mozilla-firefox	dlopen	libXss.so.1	libXScrnSaver	guess
 mozilla-firefox	dlopen	libatk-bridge-2.0.so.0	at-spi2-core	guess
-mozilla-firefox	dlopen	libavcodec.so.61	aaa_libraries	guess
 mozilla-firefox	dlopen	libavcodec.so.62	ffmpeg	guess
 mozilla-firefox	dlopen	libcanberra.so.0	libcanberra	guess
 mozilla-firefox	dlopen	libcurl.so.4	aaa_libraries	guess
@@ -345,7 +343,6 @@ mozilla-thunderbird	dlopen	libICE.so.6	libICE	guess
 mozilla-thunderbird	dlopen	libSM.so.6	libSM	guess
 mozilla-thunderbird	dlopen	libXss.so.1	libXScrnSaver	guess
 mozilla-thunderbird	dlopen	libatk-bridge-2.0.so.0	at-spi2-core	guess
-mozilla-thunderbird	dlopen	libavcodec.so.61	aaa_libraries	guess
 mozilla-thunderbird	dlopen	libavcodec.so.62	ffmpeg	guess
 mozilla-thunderbird	dlopen	libcanberra.so.0	libcanberra	guess
 mozilla-thunderbird	dlopen	libcurl.so.4	aaa_libraries	guess

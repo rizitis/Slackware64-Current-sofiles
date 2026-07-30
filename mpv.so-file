@@ -16,7 +16,7 @@ libavdevice.so.62
 libavfilter.so.11
 libavformat.so.62
 libavutil.so.60
-libbluray.so.3
+libbluray.so.4
 libc.so.6
 libcaca.so.0
 libcdio.so.19

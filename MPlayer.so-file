@@ -16,7 +16,7 @@ libatk-1.0.so.0
 libavcodec.so.62
 libavformat.so.62
 libavutil.so.60
-libbluray.so.3
+libbluray.so.4
 libbz2.so.1
 libc.so.6
 libcaca.so.0

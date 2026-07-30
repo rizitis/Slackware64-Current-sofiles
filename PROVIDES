@@ -1385,15 +1385,10 @@ libavahi-qt5.so.1 avahi
 libavahi-ui-gtk3.so.0 avahi
 libavahi-ui.so.0 avahi
 libavahi-wrap.so pulseaudio
-libavcodec.so.61 aaa_libraries
 libavcodec.so.62 ffmpeg
-libavdevice.so.61 aaa_libraries
 libavdevice.so.62 ffmpeg
-libavfilter.so.10 aaa_libraries
 libavfilter.so.11 ffmpeg
-libavformat.so.61 aaa_libraries
 libavformat.so.62 ffmpeg
-libavutil.so.59 aaa_libraries
 libavutil.so.60 ffmpeg
 libbabl-0.1.so.0 babl
 libbasicflakes.so.41 calligra
@@ -1421,7 +1416,7 @@ libblockdev.so.3 libblockdev
 libbluetooth.so.3 bluez
 libbluez5-util.so pulseaudio
 libblur.so compiz
-libbluray.so.3 libbluray
+libbluray.so.4 libbluray
 libbonjour.so pidgin
 libboost_atomic.so.1.91.0 boost
 libboost_charconv.so.1.91.0 boost
@@ -1853,7 +1848,7 @@ libfyaml.so.0 libfyaml
 libgail.so gtk+2
 libgailutil-3.so.0 gtk+3
 libgailutil.so.18 gtk+2
-libgallium-26.1.5.so mesa
+libgallium-26.1.6.so mesa
 libgarcon-1.so.0 garcon
 libgarcon-gtk3-1.so.0 garcon
 libgbm.so.1 mesa
@@ -3134,7 +3129,6 @@ libpostfix-global.so postfix
 libpostfix-master.so postfix
 libpostfix-tls.so postfix
 libpostfix-util.so postfix
-libpostproc.so.58 aaa_libraries
 libpotrace.so.0 potrace
 libpowerdevilcore.so.2 powerdevil
 libppd.so.2 libppd
@@ -3418,9 +3412,7 @@ libsvn_swig_perl-1.so.0 subversion
 libsvn_swig_ruby-1.so.0 subversion
 libsvn_wc-1.so.0 subversion
 libswitcher.so compiz
-libswresample.so.5 aaa_libraries
 libswresample.so.6 ffmpeg
-libswscale.so.8 aaa_libraries
 libswscale.so.9 ffmpeg
 libsyn123.so.0 mpg123
 libsynctex.so.2 texlive
