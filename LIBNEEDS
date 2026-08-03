@@ -6749,7 +6749,10 @@ libKF6TextCustomEditor.so.1	libstdc++.so.6
 libKF6TextEditTextToSpeech.so.1	libGLX.so.0
 libKF6TextEditTextToSpeech.so.1	libKF6ConfigCore.so.6
 libKF6TextEditTextToSpeech.so.1	libKF6ConfigGui.so.6
+libKF6TextEditTextToSpeech.so.1	libKF6CoreAddons.so.6
 libKF6TextEditTextToSpeech.so.1	libKF6I18n.so.6
+libKF6TextEditTextToSpeech.so.1	libKF6Service.so.6
+libKF6TextEditTextToSpeech.so.1	libKF6TextAddonsWidgets.so.1
 libKF6TextEditTextToSpeech.so.1	libKF6WidgetsAddons.so.6
 libKF6TextEditTextToSpeech.so.1	libOpenGL.so.0
 libKF6TextEditTextToSpeech.so.1	libQt6Core.so.6
@@ -6828,7 +6831,10 @@ libKF6TextGrammarCheck.so.1	libGLX.so.0
 libKF6TextGrammarCheck.so.1	libKF6ColorScheme.so.6
 libKF6TextGrammarCheck.so.1	libKF6ConfigCore.so.6
 libKF6TextGrammarCheck.so.1	libKF6ConfigGui.so.6
+libKF6TextGrammarCheck.so.1	libKF6CoreAddons.so.6
 libKF6TextGrammarCheck.so.1	libKF6I18n.so.6
+libKF6TextGrammarCheck.so.1	libKF6Service.so.6
+libKF6TextGrammarCheck.so.1	libKF6TextAddonsWidgets.so.1
 libKF6TextGrammarCheck.so.1	libKF6WidgetsAddons.so.6
 libKF6TextGrammarCheck.so.1	libOpenGL.so.0
 libKF6TextGrammarCheck.so.1	libQt6Core.so.6
@@ -35017,6 +35023,7 @@ libtdb-wrap-private-samba.so	libtalloc.so.2
 libtdb-wrap-private-samba.so	libtdb.so.1
 libtdb.so.1	libc.so.6
 libtermcap.so.2	libc.so.6
+libtesseract.so.5	ld-linux-x86-64.so.2
 libtesseract.so.5	libarchive.so.13
 libtesseract.so.5	libc.so.6
 libtesseract.so.5	libcurl.so.4
