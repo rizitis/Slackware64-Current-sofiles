@@ -3115,7 +3115,7 @@ libpoppler-cpp.so.3 poppler
 libpoppler-glib.so.8 poppler
 libpoppler-qt5.so.1 poppler
 libpoppler-qt6.so.3 poppler
-libpoppler.so.162 poppler
+libpoppler.so.163 poppler
 libpopt.so.0 aaa_libraries
 libpopt.so.0 popt
 libportal-gtk3.so.1 libportal

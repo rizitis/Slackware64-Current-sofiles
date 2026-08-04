@@ -1929,6 +1929,7 @@ arianna	libxslt	lib
 arianna	lmdb	lib
 arianna	mesa	lib
 arianna	mozilla-nss	lib
+arianna	mpg123	lib
 arianna	nettle	lib
 arianna	nghttp2	lib
 arianna	nghttp3	lib
@@ -3678,6 +3679,7 @@ cdrdao	libogg	lib
 cdrdao	libsigc++	linked
 cdrdao	libvorbis	linked
 cdrdao	libxcb	lib
+cdrdao	mpg123	lib
 cdrdao	pango	linked
 cdrdao	pangomm	linked
 cdrdao	pixman	lib
@@ -5310,6 +5312,7 @@ falkon	libxml2	lib
 falkon	libxslt	lib
 falkon	mesa	lib
 falkon	mozilla-nss	lib
+falkon	mpg123	lib
 falkon	nettle	lib
 falkon	nghttp2	lib
 falkon	nghttp3	lib
@@ -5413,6 +5416,7 @@ fcitx5-chinese-addons	libxslt	lib
 fcitx5-chinese-addons	marisa	lib
 fcitx5-chinese-addons	mesa	lib
 fcitx5-chinese-addons	mozilla-nss	lib
+fcitx5-chinese-addons	mpg123	lib
 fcitx5-chinese-addons	nettle	lib
 fcitx5-chinese-addons	nghttp2	lib
 fcitx5-chinese-addons	nghttp3	lib
@@ -5794,6 +5798,7 @@ ffmpegthumbnailer	libvpx	lib
 ffmpegthumbnailer	libwebp	lib
 ffmpegthumbnailer	libxcb	lib
 ffmpegthumbnailer	libxml2	lib
+ffmpegthumbnailer	mpg123	lib
 ffmpegthumbnailer	nettle	lib
 ffmpegthumbnailer	ocl-icd	lib
 ffmpegthumbnailer	openjpeg	lib
@@ -5870,6 +5875,7 @@ ffmpegthumbs	libvpx	lib
 ffmpegthumbs	libwebp	lib
 ffmpegthumbs	libxcb	lib
 ffmpegthumbs	libxml2	lib
+ffmpegthumbs	mpg123	lib
 ffmpegthumbs	nettle	lib
 ffmpegthumbs	nghttp2	lib
 ffmpegthumbs	nghttp3	lib
@@ -6740,6 +6746,7 @@ geeqie	libxml2	lib
 geeqie	lua	linked
 geeqie	lz4	lib
 geeqie	mozilla-nss	lib
+geeqie	mpg123	lib
 geeqie	nettle	lib
 geeqie	nghttp2	lib
 geeqie	nghttp3	lib
@@ -6820,6 +6827,7 @@ gegl	libxcb	lib
 gegl	libxml2	lib
 gegl	luajit	linked
 gegl	mozilla-nss	lib
+gegl	mpg123	lib
 gegl	nettle	lib
 gegl	nghttp2	lib
 gegl	nghttp3	lib
@@ -7028,6 +7036,7 @@ ghostwriter	libxml2	lib
 ghostwriter	libxslt	lib
 ghostwriter	mesa	lib
 ghostwriter	mozilla-nss	lib
+ghostwriter	mpg123	lib
 ghostwriter	nettle	lib
 ghostwriter	nghttp2	lib
 ghostwriter	nghttp3	lib
@@ -7311,6 +7320,7 @@ glaxnimate	libwebp	lib
 glaxnimate	libxcb	lib
 glaxnimate	libxml2	lib
 glaxnimate	lz4	lib
+glaxnimate	mpg123	lib
 glaxnimate	nettle	lib
 glaxnimate	nghttp2	lib
 glaxnimate	nghttp3	lib
@@ -8323,6 +8333,7 @@ gst-plugins-libav	libvpx	lib
 gst-plugins-libav	libwebp	lib
 gst-plugins-libav	libxcb	lib
 gst-plugins-libav	libxml2	lib
+gst-plugins-libav	mpg123	lib
 gst-plugins-libav	nettle	lib
 gst-plugins-libav	ocl-icd	lib
 gst-plugins-libav	openjpeg	lib
@@ -10520,6 +10531,7 @@ kalgebra	libxml2	lib
 kalgebra	libxslt	lib
 kalgebra	mesa	lib
 kalgebra	mozilla-nss	lib
+kalgebra	mpg123	lib
 kalgebra	nettle	lib
 kalgebra	nghttp2	lib
 kalgebra	nghttp3	lib
@@ -13648,6 +13660,7 @@ kdeplasma-addons	libxml2	lib
 kdeplasma-addons	libxslt	lib
 kdeplasma-addons	mesa	lib
 kdeplasma-addons	mozilla-nss	lib
+kdeplasma-addons	mpg123	lib
 kdeplasma-addons	nettle	lib
 kdeplasma-addons	nghttp2	lib
 kdeplasma-addons	nghttp3	lib
@@ -14702,6 +14715,7 @@ kfilemetadata	libxcb	lib
 kfilemetadata	libxml2	linked
 kfilemetadata	libzip	linked
 kfilemetadata	mozilla-nss	lib
+kfilemetadata	mpg123	lib
 kfilemetadata	nettle	lib
 kfilemetadata	nghttp2	lib
 kfilemetadata	nghttp3	lib
@@ -14778,6 +14792,7 @@ kfilemetadata5	libxcb	lib
 kfilemetadata5	libxml2	lib
 kfilemetadata5	libzip	lib
 kfilemetadata5	mozilla-nss	lib
+kfilemetadata5	mpg123	lib
 kfilemetadata5	nettle	lib
 kfilemetadata5	nghttp2	lib
 kfilemetadata5	nghttp3	lib
@@ -15586,6 +15601,7 @@ khelpcenter	libxml2	linked
 khelpcenter	libxslt	lib
 khelpcenter	mesa	lib
 khelpcenter	mozilla-nss	lib
+khelpcenter	mpg123	lib
 khelpcenter	nettle	lib
 khelpcenter	nghttp2	lib
 khelpcenter	nghttp3	lib
@@ -16402,6 +16418,7 @@ kimagemapeditor	libxml2	lib
 kimagemapeditor	libxslt	lib
 kimagemapeditor	mesa	lib
 kimagemapeditor	mozilla-nss	lib
+kimagemapeditor	mpg123	lib
 kimagemapeditor	nettle	lib
 kimagemapeditor	nghttp2	lib
 kimagemapeditor	nghttp3	lib
@@ -17655,6 +17672,7 @@ klevernotes	libxml2	lib
 klevernotes	libxslt	lib
 klevernotes	mesa	lib
 klevernotes	mozilla-nss	lib
+klevernotes	mpg123	lib
 klevernotes	nettle	lib
 klevernotes	nghttp2	lib
 klevernotes	nghttp3	lib
@@ -20883,6 +20901,7 @@ kpipewire	libwebp	lib
 kpipewire	libxcb	lib
 kpipewire	libxml2	lib
 kpipewire	mesa	linked
+kpipewire	mpg123	lib
 kpipewire	nettle	lib
 kpipewire	nghttp2	lib
 kpipewire	nghttp3	lib
@@ -24736,6 +24755,7 @@ labwc	xcb-util-renderutil	lib
 labwc	xcb-util-wm	linked
 lame	aaa_glibc-solibs	linked
 lame	aaa_libraries	linked
+lame	mpg123	linked
 layer-shell-qt	aaa_glibc-solibs	linked
 layer-shell-qt	aaa_libraries	linked
 layer-shell-qt	brotli	lib
@@ -31836,6 +31856,7 @@ plasma-bigscreen	libxml2	lib
 plasma-bigscreen	libxslt	lib
 plasma-bigscreen	mesa	lib
 plasma-bigscreen	mozilla-nss	lib
+plasma-bigscreen	mpg123	lib
 plasma-bigscreen	nettle	lib
 plasma-bigscreen	nghttp2	lib
 plasma-bigscreen	nghttp3	lib
@@ -36597,6 +36618,7 @@ tumbler	libxcb	lib
 tumbler	libxfce4util	linked
 tumbler	libxml2	lib
 tumbler	mozilla-nss	lib
+tumbler	mpg123	lib
 tumbler	nettle	lib
 tumbler	nghttp2	lib
 tumbler	nghttp3	lib
@@ -39434,6 +39456,7 @@ xscreensaver	libvpx	lib
 xscreensaver	libwebp	lib
 xscreensaver	libxcb	lib
 xscreensaver	libxml2	linked
+xscreensaver	mpg123	lib
 xscreensaver	nettle	lib
 xscreensaver	ocl-icd	lib
 xscreensaver	openjpeg	lib
