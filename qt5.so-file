@@ -95,9 +95,9 @@ libaom.so.3
 libasound.so.2
 libatk-1.0.so.0
 libatomic.so.1
-libavcodec.so.62
-libavformat.so.62
-libavutil.so.60
+libavcodec.so.63
+libavformat.so.63
+libavutil.so.61
 libbluetooth.so.3
 libbluray.so.4
 libbz2.so.1
@@ -178,7 +178,7 @@ libsqlite3.so.0
 libssh.so.4
 libssl.so.3
 libstdc++.so.6
-libswresample.so.6
+libswresample.so.7
 libtheoradec.so.2
 libtheoraenc.so.2
 libtiff.so.6

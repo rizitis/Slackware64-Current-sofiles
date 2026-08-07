@@ -15,9 +15,9 @@ liba52.so.0
 libaa.so.1
 libaom.so.3
 libasound.so.2
-libavcodec.so.62
-libavformat.so.62
-libavutil.so.60
+libavcodec.so.63
+libavformat.so.63
+libavutil.so.61
 libbluray.so.4
 libc.so.6
 libcaca.so.0

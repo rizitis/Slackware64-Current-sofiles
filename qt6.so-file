@@ -248,9 +248,9 @@ libabsl_utf8_for_code_point.so.2605.0.0
 libabsl_vlog_config_internal.so.2605.0.0
 libasound.so.2
 libatk-1.0.so.0
-libavcodec.so.62
-libavformat.so.62
-libavutil.so.60
+libavcodec.so.63
+libavformat.so.63
+libavutil.so.61
 libbluetooth.so.3
 libbrotlidec.so.1
 libc.so.6
@@ -320,8 +320,8 @@ libspeechd.so.2
 libsqlite3.so.0
 libssl.so.3
 libstdc++.so.6
-libswresample.so.6
-libswscale.so.9
+libswresample.so.7
+libswscale.so.10
 libtiff.so.6
 libudev.so.1
 liburing.so.2

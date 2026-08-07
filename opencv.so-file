@@ -6,10 +6,10 @@ libQt6Gui.so.6
 libQt6OpenGLWidgets.so.6
 libQt6Test.so.6
 libQt6Widgets.so.6
-libavcodec.so.62
-libavdevice.so.62
-libavformat.so.62
-libavutil.so.60
+libavcodec.so.63
+libavdevice.so.63
+libavformat.so.63
+libavutil.so.61
 libc.so.6
 libfreetype.so.6
 libgcc_s.so.1
@@ -79,7 +79,7 @@ libopencv_xphoto.so.414
 libopenjp2.so.7
 libpng16.so.16
 libstdc++.so.6
-libswscale.so.9
+libswscale.so.10
 libtesseract.so.5
 libtiff.so.6
 libwebp.so.7

@@ -5,9 +5,9 @@ libKF5I18n.so.5
 libQt5Core.so.5
 libQt5Gui.so.5
 libQt5Xml.so.5
-libavcodec.so.62
-libavformat.so.62
-libavutil.so.60
+libavcodec.so.63
+libavformat.so.63
+libavutil.so.61
 libc.so.6
 libepub.so.0
 libexiv2.so.28

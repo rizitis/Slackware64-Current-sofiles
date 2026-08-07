@@ -65,11 +65,11 @@ libQt6Xml.so.6
 libSM.so.6
 libX11.so.6
 libXext.so.6
-libavcodec.so.62
-libavdevice.so.62
-libavfilter.so.11
-libavformat.so.62
-libavutil.so.60
+libavcodec.so.63
+libavdevice.so.63
+libavfilter.so.12
+libavformat.so.63
+libavutil.so.61
 libc.so.6
 libdigikamcore.so.9.1.0
 libdigikamdatabase.so.9.1.0
@@ -98,8 +98,8 @@ libopencv_ml.so.414
 libopencv_objdetect.so.414
 libpng16.so.16
 libstdc++.so.6
-libswresample.so.6
-libswscale.so.9
+libswresample.so.7
+libswscale.so.10
 libtiff.so.6
 libusb-1.0.so.0
 libxml2.so.16
