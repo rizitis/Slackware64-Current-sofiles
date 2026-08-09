@@ -9,7 +9,6 @@ hfsutils	libtk8.6.so
 irssi	libperl.so
 net-snmp	libperl.so
 newt	libtcl8.6.so
-openldap	libperl.so
 perl	libperl.so
 pidgin	libperl.so
 pidgin	libtcl8.6.so

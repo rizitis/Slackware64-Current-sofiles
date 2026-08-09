@@ -30305,7 +30305,6 @@ openldap	aaa_glibc-solibs	linked
 openldap	aaa_libraries	linked
 openldap	cyrus-sasl	linked
 openldap	e2fsprogs	lib
-openldap	libiodbc	linked
 openldap	libsodium	linked
 openldap	openssl	linked
 openldap	openssl-solibs	linked
@@ -33746,7 +33745,6 @@ python-setuptools-gettext	python2	hint:import
 python-setuptools	python-docutils	hint:import
 python-setuptools	python-importlib_metadata	hint:import
 python-setuptools	python-packaging	hint:import
-python-setuptools	python-tomli-w	hint:import
 python-setuptools	python-trove-classifiers	hint:import
 python-setuptools	python-wheel	hint:import
 python-setuptools	python-zipp	hint:import
@@ -37319,7 +37317,12 @@ woff2	aaa_libraries	linked
 woff2	brotli	linked
 wpa_supplicant	aaa_glibc-solibs	linked
 wpa_supplicant	aaa_libraries	linked
+wpa_supplicant	brotli	lib
 wpa_supplicant	dbus	linked
+wpa_supplicant	fontconfig	lib
+wpa_supplicant	freetype	lib
+wpa_supplicant	graphite2	lib
+wpa_supplicant	harfbuzz	lib
 wpa_supplicant	icu4c	lib
 wpa_supplicant	libX11	lib
 wpa_supplicant	libXau	lib
@@ -37327,11 +37330,12 @@ wpa_supplicant	libXdmcp	lib
 wpa_supplicant	libXext	lib
 wpa_supplicant	libglvnd	linked
 wpa_supplicant	libnl3	linked
+wpa_supplicant	liburing	lib
 wpa_supplicant	libxcb	lib
 wpa_supplicant	openssl	linked
 wpa_supplicant	openssl-solibs	linked
 wpa_supplicant	pcre2	lib
-wpa_supplicant	qt5	linked
+wpa_supplicant	qt6	linked
 wsdd2	aaa_glibc-solibs	linked
 x11-ssh-askpass	aaa_glibc-solibs	linked
 x11-ssh-askpass	libICE	linked

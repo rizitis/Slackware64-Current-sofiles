@@ -64,7 +64,6 @@ back_null.so.2 openldap
 back_passwd.so.2 openldap
 back_relay.so.2 openldap
 back_sock.so.2 openldap
-back_sql.so.2 openldap
 basename bash
 basic.so libnl3
 bayer.so imagemagick
@@ -3242,7 +3241,7 @@ librtp.so pulseaudio
 librttr_core.so.0.9.6 rttr
 libruby.so.4.0 ruby
 librunnermodelplugin.so krunner5
-librustc_driver-b3d7f0df66e24fa0.so rust
+librustc_driver-9e353ee7b9e4b444.so rust
 librva.so normalize
 libsamba-cluster-support-private-samba.so samba
 libsamba-credentials.so.1 samba
@@ -3388,7 +3387,7 @@ libssl_iostream_openssl.so dovecot
 libssr-glinject.so ssr
 libstable-sort-private-samba.so samba
 libstartup-notification-1.so.0 startup-notification
-libstd-8c75923209452c5b.so rust
+libstd-cbc831628a7d3a75.so rust
 libstdc++.so.5 aaa_libraries
 libstdc++.so.6 aaa_libraries
 libstdc++.so.6 gcc-g++

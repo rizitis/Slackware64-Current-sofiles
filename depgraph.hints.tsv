@@ -477,7 +477,6 @@ python-setuptools	build	Cython	Cython	guess
 python-setuptools	import	docutils	python-docutils	guess
 python-setuptools	import	importlib_metadata	python-importlib_metadata	guess
 python-setuptools	import	packaging	python-packaging	guess
-python-setuptools	import	tomli_w	python-tomli-w	guess
 python-setuptools	import	trove_classifiers	python-trove-classifiers	guess
 python-setuptools	import	wheel	python-wheel	guess
 python-setuptools	import	zipp	python-zipp	guess
