@@ -1,4 +1,4 @@
-ChangeLog.txt: Sat Aug  8 22:28:13 UTC 2026
+ChangeLog.txt: Mon Aug 10 21:08:18 UTC 2026
 ---
 To easy explore database (depgraph.db): [Slackware64-current-DB](https://lite.datasette.io/?url=https://raw.githubusercontent.com/rizitis/Slackware64-Current-sofiles/main/depgraph.db)
 ---
