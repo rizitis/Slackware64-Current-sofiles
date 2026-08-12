@@ -1937,8 +1937,8 @@ libglslang.so.16 vulkan-sdk
 libglut.so.3 freeglut
 libglx.so xorg-server
 libgmime-3.0.so.0 gmime
-libgmock.so.1.17.0 googletest
-libgmock_main.so.1.17.0 googletest
+libgmock.so.1.18.0 googletest
+libgmock_main.so.1.18.0 googletest
 libgmodule-1.2.so.0 glib
 libgmodule-2.0.so.0 aaa_libraries
 libgmodule-2.0.so.0 glib2
@@ -2259,8 +2259,8 @@ libgstxingmux.so gst-plugins-good
 libgstxvimagesink.so gst-plugins-base
 libgsty4m.so gst-plugins-good
 libgstzxing.so gst-plugins-bad-free
-libgtest.so.1.17.0 googletest
-libgtest_main.so.1.17.0 googletest
+libgtest.so.1.18.0 googletest
+libgtest_main.so.1.18.0 googletest
 libgthread-1.2.so.0 glib
 libgthread-2.0.so.0 aaa_libraries
 libgthread-2.0.so.0 glib2

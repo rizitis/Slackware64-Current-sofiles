@@ -33628,6 +33628,7 @@ python-hatchling	python-packaging	hint:import
 python-hatchling	python-pathspec	hint:import
 python-hatchling	python-pluggy	hint:import
 python-hatchling	python-setuptools	hint:import
+python-hatchling	python-tomlkit	hint:import
 python-hatchling	python-trove-classifiers	hint:import
 python-html5lib	python-chardet	hint:import
 python-html5lib	python-lxml	hint:import
@@ -33676,6 +33677,7 @@ python-pillow	python-numpy	hint:import
 python-pip	python-attrs	hint:import
 python-pip	python-docutils	hint:import
 python-pip	python-sphinx	hint:import
+python-poetry-core	python-packaging	hint:import
 python-psutil	aaa_glibc-solibs	linked
 python-pygments	python-chardet	hint:import
 python-pygments	python-docutils	hint:import

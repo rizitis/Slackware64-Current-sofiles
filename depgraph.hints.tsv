@@ -427,6 +427,7 @@ python-hatchling	import	editables	python-editables	guess
 python-hatchling	import	packaging	python-packaging	guess
 python-hatchling	import	pathspec	python-pathspec	guess
 python-hatchling	import	pluggy	python-pluggy	guess
+python-hatchling	import	tomlkit	python-tomlkit	guess
 python-hatchling	import	trove_classifiers	python-trove-classifiers	guess
 python-html5lib	import	chardet	python-chardet	guess
 python-html5lib	import	lxml	python-lxml	guess
@@ -454,6 +455,7 @@ python-pillow	import	numpy	python-numpy	guess
 python-pip	import	attr	python-attrs	guess
 python-pip	import	docutils	python-docutils	guess
 python-pip	import	sphinx	python-sphinx	guess
+python-poetry-core	import	packaging	python-packaging	guess
 python-pygments	import	PIL	python-pillow	guess
 python-pygments	import	chardet	python-chardet	guess
 python-pygments	import	docutils	python-docutils	guess
@@ -635,6 +637,7 @@ python-hatchling	import	packaging	python-packaging	declared
 python-hatchling	import	packaging	python-setuptools	declared
 python-hatchling	import	pathspec	python-pathspec	declared
 python-hatchling	import	pluggy	python-pluggy	declared
+python-hatchling	import	tomlkit	python-tomlkit	declared
 python-hatchling	import	trove-classifiers	python-trove-classifiers	declared
 python-html5lib	import	six	python-six	declared
 python-html5lib	import	webencodings	python-webencodings	declared

@@ -34,6 +34,7 @@ python-hatchling	import	packaging	python-packaging	declared
 python-hatchling	import	packaging	python-setuptools	declared
 python-hatchling	import	pathspec	python-pathspec	declared
 python-hatchling	import	pluggy	python-pluggy	declared
+python-hatchling	import	tomlkit	python-tomlkit	declared
 python-hatchling	import	trove-classifiers	python-trove-classifiers	declared
 python-html5lib	import	six	python-six	declared
 python-html5lib	import	webencodings	python-webencodings	declared
