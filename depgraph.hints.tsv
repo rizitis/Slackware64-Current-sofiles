@@ -126,6 +126,8 @@ elogind	exec	/usr/bin/pkttyagent	polkit	guess
 eudev	dlopen	libudev.so.1	aaa_libraries	guess
 ffmpeg	dlopen	libvulkan.so.1	vulkan-sdk	guess
 flex	exec	/usr/bin/m4	m4	guess
+fluidsynth	dlopen	libglib-2.0.so.0	aaa_libraries	guess
+fluidsynth	dlopen	libgthread-2.0.so.0	aaa_libraries	guess
 freecell-solver	import	pysol_cards	python-pysol_cards	guess
 freerdp	dlopen	libpcsclite.so.1	pcsc-lite	guess
 freerdp	dlopen	opensc-pkcs11.so	opensc	guess
@@ -397,6 +399,8 @@ pidgin	import	dbus	dbus-python	guess
 poke	exec	/usr/bin/objdump	binutils	guess
 poppler	dlopen	libnssckbi.so	mozilla-nss	guess
 popt	dlopen	libpopt.so.0	aaa_libraries	guess
+powertop	dlopen	libresolv.so.2	aaa_glibc-solibs	guess
+powertop	dlopen	libz.so.1	aaa_libraries	guess
 procmail	exec	/usr/bin/sendmail	postfix	guess
 protobuf	import	numpy	python-numpy	guess
 pulseaudio	import	PyQt5	PyQt5_sip	guess

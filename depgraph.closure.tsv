@@ -33212,6 +33212,8 @@ powerdevil	xcb-util-keysyms	lib
 powertop	aaa_glibc-solibs	linked
 powertop	aaa_libraries	linked
 powertop	libnl3	linked
+powertop	libtraceevent	linked
+powertop	libtracefs	linked
 powertop	pciutils	linked
 poxml	aaa_glibc-solibs	linked
 poxml	aaa_libraries	linked

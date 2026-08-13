@@ -4632,6 +4632,8 @@ flex	libm.so.6	glibc
 floppy	libX11.so.6	libX11
 floppy	libc.so.6	aaa_glibc-solibs
 floppy	libc.so.6	glibc
+fluidsynth	ld-linux-x86-64.so.2	aaa_glibc-solibs
+fluidsynth	ld-linux-x86-64.so.2	glibc
 fluidsynth	libSDL3.so.0	SDL3
 fluidsynth	libasound.so.2	aaa_libraries
 fluidsynth	libasound.so.2	alsa-lib
@@ -4640,12 +4642,8 @@ fluidsynth	libc.so.6	glibc
 fluidsynth	libdbus-1.so.3	dbus
 fluidsynth	libgcc_s.so.1	aaa_libraries
 fluidsynth	libgcc_s.so.1	gcc
-fluidsynth	libglib-2.0.so.0	aaa_libraries
-fluidsynth	libglib-2.0.so.0	glib2
 fluidsynth	libgomp.so.1	aaa_libraries
 fluidsynth	libgomp.so.1	gcc
-fluidsynth	libgthread-2.0.so.0	aaa_libraries
-fluidsynth	libgthread-2.0.so.0	glib2
 fluidsynth	libjack.so.0	pipewire
 fluidsynth	libm.so.6	aaa_glibc-solibs
 fluidsynth	libm.so.6	glibc
@@ -24815,6 +24813,8 @@ powerdevil	libxcb-dpms.so.0	libxcb
 powerdevil	libxcb.so.1	libxcb
 powerdevil	libxkbcommon.so.0	aaa_libraries
 powerdevil	libxkbcommon.so.0	libxkbcommon
+powertop	ld-linux-x86-64.so.2	aaa_glibc-solibs
+powertop	ld-linux-x86-64.so.2	glibc
 powertop	libc.so.6	aaa_glibc-solibs
 powertop	libc.so.6	glibc
 powertop	libgcc_s.so.1	aaa_libraries
@@ -24826,14 +24826,12 @@ powertop	libncursesw.so.6	ncurses
 powertop	libnl-3.so.200	libnl3
 powertop	libnl-genl-3.so.200	libnl3
 powertop	libpci.so.3	pciutils
-powertop	libresolv.so.2	aaa_glibc-solibs
-powertop	libresolv.so.2	glibc
 powertop	libstdc++.so.6	aaa_libraries
 powertop	libstdc++.so.6	gcc-g++
 powertop	libtinfo.so.6	aaa_libraries
 powertop	libtinfo.so.6	ncurses
-powertop	libz.so.1	aaa_libraries
-powertop	libz.so.1	zlib
+powertop	libtraceevent.so.1	libtraceevent
+powertop	libtracefs.so.1	libtracefs
 poxml	libQt6Core.so.6	qt6
 poxml	libQt6Xml.so.6	qt6
 poxml	libc.so.6	aaa_glibc-solibs

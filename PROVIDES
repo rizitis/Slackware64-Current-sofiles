@@ -1854,6 +1854,7 @@ libgail.so gtk+2
 libgailutil-3.so.0 gtk+3
 libgailutil.so.18 gtk+2
 libgallium-26.1.6.so mesa
+libgallium-26.1.7.so mesa
 libgarcon-1.so.0 garcon
 libgarcon-gtk3-1.so.0 garcon
 libgbm.so.1 mesa
