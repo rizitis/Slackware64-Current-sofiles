@@ -4,7 +4,7 @@ libavahi-common.so.3
 libavahi-glib.so.1
 libbluray.so.4
 libc.so.6
-libcdio.so.19
+libcdio.so.21
 libcdio_cdda.so.2
 libcdio_paranoia.so.2
 libelogind.so.0

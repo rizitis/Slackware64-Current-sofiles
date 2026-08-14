@@ -356,13 +356,14 @@ aaa_libraries	fontconfig	linked
 aaa_libraries	freeglut	lib
 aaa_libraries	freetype	linked
 aaa_libraries	fribidi	lib
+aaa_libraries	gcc	linked
 aaa_libraries	gdk-pixbuf2	lib
 aaa_libraries	glib2	lib
 aaa_libraries	glu	lib
 aaa_libraries	gnutls	linked
 aaa_libraries	graphite2	lib
 aaa_libraries	harfbuzz	lib
-aaa_libraries	icu4c	lib
+aaa_libraries	icu4c	linked
 aaa_libraries	jansson	lib
 aaa_libraries	lame	linked
 aaa_libraries	lcms2	linked
