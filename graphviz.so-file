@@ -11,7 +11,7 @@ libc.so.6
 libcairo-gobject.so.2
 libcairo.so.2
 libcdt.so.6
-libcgraph.so.8
+libcgraph.so.10
 libedit.so.0
 libexpat.so.1
 libfontconfig.so.1
@@ -54,6 +54,6 @@ libsodium.so.26
 libstdc++.so.6
 libtinfo.so.6
 libwebp.so.7
-libxdot.so.4
+libxdot.so.5
 libxml2.so.16
 libz.so.1

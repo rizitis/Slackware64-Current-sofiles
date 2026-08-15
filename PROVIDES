@@ -745,6 +745,7 @@ libKasten4Okteta2Controllers.so.0 okteta
 libKasten4Okteta2Core.so.0 okteta
 libKasten4Okteta2Gui.so.0 okteta
 libKirigami.so.6 kirigami
+libKirigamiActionCollection.so.6 kirigami-app-components
 libKirigamiAddonsComponents.so.6 kirigami-addons
 libKirigamiAddonsStatefulApp.so.6 kirigami-addons
 libKirigamiApp.so.6 kirigami-addons
@@ -1593,7 +1594,7 @@ libcdio_paranoia.so.2 libcdio-paranoia
 libcdt.so.6 graphviz
 libcec.so.8 libcec
 libcfitsio.so.10 cfitsio
-libcgraph.so.8 graphviz
+libcgraph.so.10 graphviz
 libcgroup.so.3 libcgroup
 libcheck.so.0 check
 libchm.so.0 chmlib
@@ -3733,7 +3734,7 @@ libxcb-xv.so.0 libxcb
 libxcb-xvmc.so.0 libxcb
 libxcb.so.1 libxcb
 libxcvt.so.0 libxcvt
-libxdot.so.4 graphviz
+libxdot.so.5 graphviz
 libxe_oa.so.1.5 igt-gpu-tools
 libxfce4kbd-private-3.so.0 libxfce4ui
 libxfce4panel-2.0.so.4 xfce4-panel

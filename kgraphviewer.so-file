@@ -22,7 +22,7 @@ libQt6Widgets.so.6
 libQt6Xml.so.6
 libc.so.6
 libcdt.so.6
-libcgraph.so.8
+libcgraph.so.10
 libgcc_s.so.1
 libgvc.so.7
 libkgraphviewer.so.0

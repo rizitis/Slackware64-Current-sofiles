@@ -21,9 +21,11 @@ libgdk_pixbuf-2.0.so.0
 libgio-2.0.so.0
 libglib-2.0.so.0
 libgmodule-2.0.so.0
+libgmp.so.10
 libgnutls.so.30
 libgobject-2.0.so.0
 libgtk-3.so.0
+libhogweed.so.6
 libjack.so.0
 libjemalloc.so.2
 libjpeg.so.62
@@ -31,6 +33,7 @@ libkeyutils.so.1
 liblzo2.so.2
 libm.so.6
 libncursesw.so.6
+libnettle.so.8
 libpam.so.0
 libpipewire-0.3.so.0
 libpixman-1.so.0
