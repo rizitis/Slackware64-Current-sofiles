@@ -4269,7 +4269,6 @@ desktop-file-utils	aaa_libraries	linked
 desktop-file-utils	glib2	linked
 desktop-file-utils	util-linux	lib
 dev86	aaa_glibc-solibs	linked
-dhcp	aaa_glibc-solibs	linked
 dhcpcd	aaa_glibc-solibs	linked
 dhcpcd	aaa_libraries	linked
 dhcpcd	openssl	linked
@@ -14565,6 +14564,13 @@ kdsoap	openssl-solibs	lib
 kdsoap	pcre2	lib
 kdsoap	qt6	linked
 kdsoap	util-linux	lib
+kea	aaa_glibc-solibs	linked
+kea	aaa_libraries	linked
+kea	e2fsprogs	lib
+kea	log4cplus	linked
+kea	mariadb	linked
+kea	openssl	linked
+kea	openssl-solibs	linked
 keditbookmarks	aaa_glibc-solibs	linked
 keditbookmarks	aaa_libraries	linked
 keditbookmarks	breeze-icons	lib
@@ -27577,6 +27583,8 @@ llvm	python3	linked
 lm_sensors	aaa_glibc-solibs	linked
 lmdb	aaa_glibc-solibs	linked
 lndir	aaa_glibc-solibs	linked
+log4cplus	aaa_glibc-solibs	linked
+log4cplus	aaa_libraries	linked
 logrotate	aaa_glibc-solibs	linked
 logrotate	aaa_libraries	linked
 lokalize	aaa_glibc-solibs	linked
