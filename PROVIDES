@@ -2988,7 +2988,7 @@ libopagent.so.1 oprofile
 libopcodes-2.46.1-slack151.so binutils
 libopenal.so.1 openal-soft
 libopenblas.so.0 openblas
-libopencc.so.1.3 OpenCC
+libopencc.so.1.4 OpenCC
 libopencv_alphamat.so.414 opencv
 libopencv_aruco.so.414 opencv
 libopencv_bgsegm.so.414 opencv

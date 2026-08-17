@@ -4273,7 +4273,7 @@ fcitx5-chinese-addons	libgcc_s.so.1	aaa_libraries
 fcitx5-chinese-addons	libgcc_s.so.1	gcc
 fcitx5-chinese-addons	libm.so.6	aaa_glibc-solibs
 fcitx5-chinese-addons	libm.so.6	glibc
-fcitx5-chinese-addons	libopencc.so.1.3	OpenCC
+fcitx5-chinese-addons	libopencc.so.1.4	OpenCC
 fcitx5-chinese-addons	libstdc++.so.6	aaa_libraries
 fcitx5-chinese-addons	libstdc++.so.6	gcc-g++
 fcitx5-configtool	libFcitx5Config.so.6	fcitx5
@@ -7563,7 +7563,7 @@ ibus-libpinyin	liblua.so.5	lua
 ibus-libpinyin	libm.so.6	aaa_glibc-solibs
 ibus-libpinyin	libm.so.6	glibc
 ibus-libpinyin	libnotify.so.4	libnotify
-ibus-libpinyin	libopencc.so.1.3	OpenCC
+ibus-libpinyin	libopencc.so.1.4	OpenCC
 ibus-libpinyin	libpinyin.so.15	libpinyin
 ibus-libpinyin	libsqlite3.so.0	sqlite
 ibus-libpinyin	libstdc++.so.6	aaa_libraries
