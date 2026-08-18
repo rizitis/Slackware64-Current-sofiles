@@ -33128,8 +33128,8 @@ libpng14.so.14	libz.so.1
 libpng16.so.16	libc.so.6
 libpng16.so.16	libm.so.6
 libpng16.so.16	libz.so.1
-libpoke.so.1	libc.so.6
-libpoke.so.1	libgc.so.1
+libpoke.so.2	libc.so.6
+libpoke.so.2	libgc.so.1
 libpolkit-agent-1.so.0	libc.so.6
 libpolkit-agent-1.so.0	libgio-2.0.so.0
 libpolkit-agent-1.so.0	libglib-2.0.so.0
@@ -35291,6 +35291,7 @@ libspeex_decoder.so	libpopt.so.0
 libspeex_decoder.so	libspeex.so.1
 libspeexdsp.so.1	libc.so.6
 libspeexdsp.so.1	libm.so.6
+libspex.so.3	ld-linux-x86-64.so.2
 libspex.so.3	libamd.so.3
 libspex.so.3	libc.so.6
 libspex.so.3	libcolamd.so.3

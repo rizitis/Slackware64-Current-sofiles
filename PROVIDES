@@ -3197,7 +3197,7 @@ libpng.so compiz
 libpng14.so.14 aaa_libraries
 libpng16.so.16 aaa_libraries
 libpng16.so.16 libpng
-libpoke.so.1 poke
+libpoke.so.2 poke
 libpolkit-agent-1.so.0 polkit
 libpolkit-gobject-1.so.0 polkit
 libpolkit-qt5-agent-1.so.1 polkit-qt-1

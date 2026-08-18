@@ -1,7 +1,8 @@
 libc.so.6
 libgc.so.1
+libm.so.6
 libncursesw.so.6
-libpoke.so.1
+libpoke.so.2
 libreadline.so.8
 libtextstyle.so.0
 libtinfo.so.6
