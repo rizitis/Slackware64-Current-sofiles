@@ -695,3 +695,4 @@ python3	use	/etc/ssl/certs	ca-certificates	manual
 ruby	use	/etc/ssl/certs	ca-certificates	manual
 wget	use	/etc/ssl/certs	ca-certificates	manual
 wget2	use	/etc/ssl/certs	ca-certificates	manual
+layer-shell-qt	rebuild	Qt_6_PRIVATE_API	qt6	manual
