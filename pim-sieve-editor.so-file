@@ -12,12 +12,15 @@ libKF6GuiAddons.so.6
 libKF6I18n.so.6
 libKF6IconThemes.so.6
 libKF6KIOCore.so.6
+libKF6Mime.so.6
 libKF6Service.so.6
 libKF6SonnetUi.so.6
 libKF6SyntaxHighlighting.so.6
 libKF6TextAddonsWidgets.so.1
 libKF6TextAutoCorrectionCore.so.1
 libKF6TextAutoCorrectionWidgets.so.1
+libKF6TextAutoGenerateText.so.1
+libKF6TextAutoGenerateTextMcpProtocolCore.so.1
 libKF6TextCustomEditor.so.1
 libKF6WidgetsAddons.so.6
 libKF6WindowSystem.so.6
@@ -33,6 +36,7 @@ libQt6Core.so.6
 libQt6DBus.so.6
 libQt6Gui.so.6
 libQt6Network.so.6
+libQt6Sql.so.6
 libQt6Widgets.so.6
 libQt6Xml.so.6
 libX11.so.6

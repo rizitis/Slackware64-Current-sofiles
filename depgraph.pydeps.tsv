@@ -5,6 +5,7 @@ PyQt-builder	import	packaging	python-setuptools	declared
 PyQt-builder	import	sip	sip	declared
 PyQt5	import	pyqt5-sip	PyQt5_sip	declared
 PyQt6	import	pyqt6-sip	PyQt6_sip	declared
+aubio	import	numpy	python-numpy	declared
 gi-docgen	import	jinja2	python-Jinja2	declared
 gi-docgen	import	markdown	python-markdown	declared
 gi-docgen	import	markupsafe	python-MarkupSafe	declared

@@ -12,6 +12,7 @@ libKF6ConfigWidgets.so.6
 libKF6Contacts.so.6
 libKF6CoreAddons.so.6
 libKF6GuiAddons.so.6
+libKF6Holidays.so.6
 libKF6I18n.so.6
 libKF6IconThemes.so.6
 libKF6ItemModels.so.6
@@ -23,6 +24,7 @@ libKF6KCMUtilsQuick.so.6
 libKF6KIOCore.so.6
 libKF6KIOGui.so.6
 libKF6KIOWidgets.so.6
+libKF6Mime.so.6
 libKF6Prison.so.6
 libKF6Service.so.6
 libKF6SonnetUi.so.6
@@ -74,8 +76,8 @@ libKPim6MailImporterAkonadi.so.6
 libKPim6MailTransport.so.6
 libKPim6MessageComposer.so.6
 libKPim6MessageCore.so.6
+libKPim6MessageList.so.6
 libKPim6MessageViewer.so.6
-libKPim6Mime.so.6
 libKPim6MimeTreeParser.so.6
 libKPim6PimCommon.so.6
 libKPim6PimCommonActivities.so.6

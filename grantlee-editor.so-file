@@ -16,6 +16,7 @@ libKF6JobWidgets.so.6
 libKF6KIOCore.so.6
 libKF6KIOGui.so.6
 libKF6KIOWidgets.so.6
+libKF6Mime.so.6
 libKF6Service.so.6
 libKF6SonnetUi.so.6
 libKF6SyntaxHighlighting.so.6
@@ -32,10 +33,10 @@ libKPim6AkonadiCore.so.6
 libKPim6AkonadiMime.so.6
 libKPim6AkonadiPrivate.so.6
 libKPim6GrantleeTheme.so.6
+libKPim6IdentityManagementCore.so.6
 libKPim6Libkleo.so.6
 libKPim6MessageCore.so.6
 libKPim6MessageViewer.so.6
-libKPim6Mime.so.6
 libKPim6MimeTreeParser.so.6
 libKPim6PimCommon.so.6
 libOpenGL.so.0

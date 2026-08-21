@@ -2,6 +2,7 @@ libGLX.so.0
 libKF6CalendarCore.so.6
 libKF6Codecs.so.6
 libKF6ColorScheme.so.6
+libKF6Completion.so.6
 libKF6ConfigCore.so.6
 libKF6ConfigGui.so.6
 libKF6ConfigWidgets.so.6
@@ -15,6 +16,7 @@ libKF6ItemModels.so.6
 libKF6JobWidgets.so.6
 libKF6KIOCore.so.6
 libKF6KIOGui.so.6
+libKF6Mime.so.6
 libKF6Notifications.so.6
 libKF6Service.so.6
 libKF6SonnetUi.so.6
@@ -44,7 +46,8 @@ libKPim6Libkleo.so.6
 libKPim6MailTransport.so.6
 libKPim6MessageComposer.so.6
 libKPim6MessageCore.so.6
-libKPim6Mime.so.6
+libKPim6MessageList.so.6
+libKPim6MimeTreeParser.so.6
 libKPim6PimCommon.so.6
 libKPim6PimCommonAkonadi.so.6
 libKPim6TextEdit.so.6

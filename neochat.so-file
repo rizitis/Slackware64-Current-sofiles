@@ -22,6 +22,7 @@ libKF6WidgetsAddons.so.6
 libKF6WindowSystem.so.6
 libKUnifiedPush.so.1
 libKirigami.so.6
+libKirigamiAddonsComponents.so.6
 libKirigamiApp.so.6
 libKirigamiPlatform.so.6
 libOpenGL.so.0

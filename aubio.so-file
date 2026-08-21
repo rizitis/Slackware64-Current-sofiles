@@ -1,0 +1,11 @@
+libaubio.so.5
+libavcodec.so.63
+libavformat.so.63
+libavutil.so.61
+libc.so.6
+libfftw3f.so.3
+libjack.so.0
+libm.so.6
+libsamplerate.so.0
+libsndfile.so.1
+libswresample.so.7

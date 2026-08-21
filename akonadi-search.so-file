@@ -14,6 +14,7 @@ libKF6ItemModels.so.6
 libKF6KCMUtils.so.6
 libKF6KCMUtilsCore.so.6
 libKF6KCMUtilsQuick.so.6
+libKF6Mime.so.6
 libKF6Runner.so.6
 libKF6SyntaxHighlighting.so.6
 libKF6TextUtils.so.1
@@ -25,7 +26,6 @@ libKPim6AkonadiPrivate.so.6
 libKPim6AkonadiSearchCore.so.6
 libKPim6AkonadiSearchPIM.so.6
 libKPim6AkonadiSearchXapian.so.6
-libKPim6Mime.so.6
 libOpenGL.so.0
 libQt6Core.so.6
 libQt6DBus.so.6

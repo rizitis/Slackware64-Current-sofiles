@@ -22,6 +22,7 @@ libKF6KCMUtilsQuick.so.6
 libKF6KIOCore.so.6
 libKF6KIOGui.so.6
 libKF6KIOWidgets.so.6
+libKF6Mime.so.6
 libKF6Parts.so.6
 libKF6Service.so.6
 libKF6SonnetUi.so.6
@@ -54,7 +55,6 @@ libKPim6LdapCore.so.6
 libKPim6LdapWidgets.so.6
 libKPim6Libkdepim.so.6
 libKPim6MailTransport.so.6
-libKPim6Mime.so.6
 libKPim6PimCommon.so.6
 libKPim6PimCommonActivities.so.6
 libKPim6PimCommonAkonadi.so.6

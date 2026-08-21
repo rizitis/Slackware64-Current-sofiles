@@ -95,6 +95,8 @@ appstream	dlopen	libwayland-client.so.0	wayland	guess
 argon2	dlopen	libargon2.so.1	aaa_libraries	guess
 at	exec	/usr/bin/sendmail	postfix	guess
 at-spi2-core	exec	/usr/bin/dbus-daemon	dbus	guess
+aubio	import	importlib_metadata	python-importlib_metadata	guess
+aubio	import	numpy	python-numpy	guess
 autofs	dlopen	libxml2.so.2	aaa_libraries	guess
 avahi	dlopen	libnss_mdns.so.2	nss-mdns	guess
 avahi	dlopen	libnss_mdns4.so.2	nss-mdns	guess
@@ -608,6 +610,7 @@ PyQt-builder	import	packaging	python-setuptools	declared
 PyQt-builder	import	sip	sip	declared
 PyQt5	import	pyqt5-sip	PyQt5_sip	declared
 PyQt6	import	pyqt6-sip	PyQt6_sip	declared
+aubio	import	numpy	python-numpy	declared
 gi-docgen	import	jinja2	python-Jinja2	declared
 gi-docgen	import	markdown	python-markdown	declared
 gi-docgen	import	markupsafe	python-MarkupSafe	declared

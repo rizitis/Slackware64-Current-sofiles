@@ -12,15 +12,14 @@ libKF6I18nLocaleData.so.6
 libKF6I18nQml.so.6
 libKF6KIOCore.so.6
 libKF6KIOGui.so.6
+libKF6Mime.so.6
 libKF6Notifications.so.6
 libKF6Service.so.6
 libKF6UnitConversion.so.6
 libKF6WindowSystem.so.6
-libKHealthCertificate.so.1
 libKOSM.so.1
 libKOSMIndoorMap.so.1
 libKPim6Itinerary.so.6
-libKPim6Mime.so.6
 libKPim6PkPass.so.6
 libKPublicTransport.so.1
 libKPublicTransportOnboard.so.1
