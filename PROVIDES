@@ -766,7 +766,7 @@ libKirigamiPrivate.so.6 kirigami
 libKirigamiTemplates.so.6 kirigami
 libLIBWBCLIENT-OLD-private-samba.so samba
 libLLVM.so.22.1 llvm
-libLLVM.so.22.1-rust-1.97.1-stable rust
+libLLVM.so.22.1-rust-1.98.0-stable rust
 libLLVMSPIRVLib.so.22.1 spirv-llvm-translator
 libLTO.so.22.1 llvm
 libLayerShellQtInterface.so.6 layer-shell-qt
@@ -3238,9 +3238,9 @@ libprldap60.so seamonkey
 libproc2.so.1 procps-ng
 libprocess-model-private-samba.so samba
 libprocesscore.so.11 libksysguard
-libprotobuf-lite.so.35 protobuf
-libprotobuf.so.35 protobuf
-libprotoc.so.35 protobuf
+libprotobuf-lite.so.36 protobuf
+libprotobuf.so.36 protobuf
+libprotoc.so.36 protobuf
 libprotocol-cli.so pulseaudio
 libprotocol-http.so pulseaudio
 libprotocol-native.so pulseaudio
@@ -3332,7 +3332,7 @@ librtp.so pulseaudio
 librttr_core.so.0.9.6 rttr
 libruby.so.4.0 ruby
 librunnermodelplugin.so krunner5
-librustc_driver-9e353ee7b9e4b444.so rust
+librustc_driver-c00dc7a942b52601.so rust
 librva.so normalize
 libsamba-cluster-support-private-samba.so samba
 libsamba-credentials.so.1 samba
@@ -3478,7 +3478,7 @@ libssl_iostream_openssl.so dovecot
 libssr-glinject.so ssr
 libstable-sort-private-samba.so samba
 libstartup-notification-1.so.0 startup-notification
-libstd-cbc831628a7d3a75.so rust
+libstd-7f2708ce37122a56.so rust
 libstdc++.so.5 aaa_libraries
 libstdc++.so.6 aaa_libraries
 libstdc++.so.6 gcc-g++
@@ -3628,8 +3628,8 @@ libusbmuxd-2.0.so.6 libusbmuxd
 libusbredirhost.so.1 usbredir
 libusbredirparser.so.1 usbredir
 libutempter.so.0 utempter
-libutf8_range.so.35.1.0 protobuf
-libutf8_validity.so.35.1.0 protobuf
+libutf8_range.so.36.0.0 protobuf
+libutf8_validity.so.36.0.0 protobuf
 libutf8proc.so.3 utf8proc
 libutil-crypt-private-samba.so samba
 libutil-reg-private-samba.so samba
