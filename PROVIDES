@@ -42,6 +42,7 @@ analyze.so imagemagick
 anr.so samba
 argon2.so.2 openldap
 art.so imagemagick
+ase.so imagemagick
 ashlar.so imagemagick
 asq.so samba
 async_dns_krb5_locator.so samba
@@ -4496,6 +4497,7 @@ vmmouse_drv.so xf86-input-vmmouse
 voroni_diagram.so gegl
 vvconfig.so pidgin
 wacom_drv.so xf86-input-wacom
+wbinfo.so imagemagick
 wbmp.so imagemagick
 wc.so subversion
 webp-load.so gegl
