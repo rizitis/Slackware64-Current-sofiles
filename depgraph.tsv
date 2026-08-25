@@ -3968,7 +3968,7 @@ emacs	libtiff.so.6	libtiff
 emacs	libtinfo.so.6	aaa_libraries
 emacs	libtinfo.so.6	ncurses
 emacs	libtree-sitter.so.0.26	tree-sitter
-emacs	libwebpdecoder.so.3	libwebp
+emacs	libwebp.so.7	libwebp
 emacs	libwebpdemux.so.2	libwebp
 emacs	libxcb-shape.so.0	libxcb
 emacs	libxcb.so.1	libxcb
@@ -20773,6 +20773,8 @@ mariadb	ld-linux-x86-64.so.2	glibc
 mariadb	libJudy.so.1	judy
 mariadb	libaio.so.1	aaa_libraries
 mariadb	libaio.so.1	libaio
+mariadb	libatomic.so.1	aaa_libraries
+mariadb	libatomic.so.1	gcc
 mariadb	libbz2.so.1	aaa_libraries
 mariadb	libbz2.so.1	bzip2
 mariadb	libc.so.6	aaa_glibc-solibs
