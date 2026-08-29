@@ -174,6 +174,7 @@ NetworkManager	aaa_glibc-solibs	linked
 NetworkManager	aaa_libraries	linked
 NetworkManager	brotli	lib
 NetworkManager	cyrus-sasl	lib
+NetworkManager	dhcpcd	hint:exec
 NetworkManager	dnsmasq	hint:exec
 NetworkManager	e2fsprogs	lib
 NetworkManager	elogind	linked
@@ -182,6 +183,7 @@ NetworkManager	jansson	linked
 NetworkManager	libndp	linked
 NetworkManager	libnvme	hint:dlopen
 NetworkManager	mozilla-nss	linked
+NetworkManager	network-scripts	hint:exec
 NetworkManager	newt	linked
 NetworkManager	nftables	hint:exec
 NetworkManager	nghttp2	lib
@@ -356,6 +358,7 @@ aaa_libraries	fontconfig	linked
 aaa_libraries	freeglut	lib
 aaa_libraries	freetype	linked
 aaa_libraries	fribidi	lib
+aaa_libraries	fuse	hint:exec
 aaa_libraries	gcc	linked
 aaa_libraries	gdk-pixbuf2	lib
 aaa_libraries	glib2	lib
@@ -2560,6 +2563,7 @@ autofs	aaa_libraries	linked
 autofs	cyrus-sasl	lib
 autofs	e2fsprogs	lib
 autofs	libxml2	linked
+autofs	nfs-utils	hint:exec
 autofs	openssl	lib
 autofs	openssl-solibs	lib
 avahi	aaa_glibc-solibs	linked
@@ -4174,6 +4178,7 @@ curl	openssl	linked
 curl	openssl-solibs	linked
 cvs	aaa_glibc-solibs	linked
 cvs	aaa_libraries	linked
+cvs	coreutils	hint:exec
 cvs	e2fsprogs	linked
 cvs	openssl	linked
 cvs	openssl-solibs	linked
@@ -4190,6 +4195,7 @@ cyrus-sasl	pam	linked
 cyrus-sasl	sqlite	linked
 daemon	aaa_glibc-solibs	linked
 daemon	aaa_libraries	lib
+daemon	coreutils	hint:exec
 daemon	elogind	linked
 dash	aaa_glibc-solibs	linked
 dash	aaa_libraries	lib
@@ -4308,6 +4314,7 @@ dialog	aaa_glibc-solibs	linked
 dialog	aaa_libraries	linked
 diffstat	aaa_glibc-solibs	linked
 diffutils	aaa_glibc-solibs	linked
+diffutils	coreutils	hint:exec
 digikam	Imath	lib
 digikam	aaa_glibc-solibs	linked
 digikam	aaa_libraries	linked
@@ -4808,6 +4815,7 @@ dtc	libyaml	linked
 duktape	aaa_glibc-solibs	linked
 dvd+rw-tools	aaa_glibc-solibs	linked
 dvd+rw-tools	aaa_libraries	linked
+dvd+rw-tools	util-linux	hint:exec
 dvdauthor	aaa_glibc-solibs	linked
 dvdauthor	aaa_libraries	linked
 dvdauthor	brotli	lib
@@ -5008,8 +5016,11 @@ elm	ispell	hint:exec
 elm	postfix	hint:exec
 elogind	aaa_glibc-solibs	linked
 elogind	aaa_libraries	linked
+elogind	coreutils	hint:exec
 elogind	pam	linked
 elogind	polkit	hint:exec
+elogind	shadow	hint:exec
+elogind	sysvinit	hint:exec
 elogind	util-linux	linked
 elvis	aaa_glibc-solibs	linked
 elvis	aaa_libraries	linked
@@ -5324,6 +5335,7 @@ exo	xfconf	lib
 expat	aaa_glibc-solibs	linked
 expat	aaa_libraries	linked
 expect	aaa_glibc-solibs	linked
+expect	coreutils	hint:exec
 f2fs-tools	aaa_glibc-solibs	linked
 f2fs-tools	lz4	linked
 f2fs-tools	lzo	linked
@@ -6481,7 +6493,9 @@ fstobdf	libXdmcp	lib
 fstobdf	libxcb	lib
 fuse	aaa_glibc-solibs	linked
 fuse	aaa_libraries	hint:dlopen
+fuse	util-linux	hint:exec
 fuse3	aaa_glibc-solibs	linked
+fuse3	util-linux	hint:exec
 futuresql	aaa_glibc-solibs	linked
 futuresql	aaa_libraries	linked
 futuresql	icu4c	lib
@@ -6593,6 +6607,7 @@ gcc-rust	gcc	hint:dlopen
 gcc	aaa_glibc-solibs	linked
 gcc	aaa_libraries	linked
 gcc	gcc-go	linked
+gcc	sed	hint:exec
 gcompris-qt	aaa_glibc-solibs	linked
 gcompris-qt	aaa_libraries	linked
 gcompris-qt	brotli	lib
@@ -7166,6 +7181,7 @@ gimp	babl	linked
 gimp	brotli	lib
 gimp	cairo	linked
 gimp	cfitsio	linked
+gimp	coreutils	hint:exec
 gimp	cyrus-sasl	lib
 gimp	dav1d	lib
 gimp	dbus	lib
@@ -7589,13 +7605,16 @@ gnupg	openssl-solibs	lib
 gnupg	pcsc-lite	hint:dlopen
 gnupg2	aaa_glibc-solibs	linked
 gnupg2	aaa_libraries	linked
+gnupg2	coreutils	hint:exec
 gnupg2	cyrus-sasl	lib
 gnupg2	e2fsprogs	lib
+gnupg2	fuse	hint:exec
 gnupg2	gnutls	linked
 gnupg2	icu4c	lib
 gnupg2	libassuan	linked
 gnupg2	libgcrypt	linked
 gnupg2	libksba	linked
+gnupg2	lvm2	hint:exec
 gnupg2	nettle	lib
 gnupg2	npth	linked
 gnupg2	openssl	lib
@@ -7604,6 +7623,7 @@ gnupg2	p11-kit	lib
 gnupg2	pcsc-lite	hint:dlopen
 gnupg2	procps-ng	hint:exec
 gnupg2	sqlite	linked
+gnupg2	util-linux	hint:exec
 gnuplot	aaa_glibc-solibs	linked
 gnuplot	aaa_libraries	linked
 gnuplot	brotli	lib
@@ -8860,6 +8880,7 @@ gutenprint	pango	linked
 gutenprint	pixman	lib
 gutenprint	util-linux	lib
 gv	aaa_glibc-solibs	linked
+gv	coreutils	hint:exec
 gv	libICE	linked
 gv	libSM	linked
 gv	libX11	linked
@@ -9255,6 +9276,7 @@ hplip	util-linux	lib
 hplip	v4l-utils	lib
 htdig	aaa_glibc-solibs	linked
 htdig	aaa_libraries	linked
+htdig	coreutils	hint:exec
 htdig	openssl	linked
 htdig	openssl-solibs	linked
 htdig	postfix	hint:exec
@@ -9488,6 +9510,7 @@ iceauth	libICE	linked
 icecream	aaa_glibc-solibs	linked
 icecream	aaa_libraries	linked
 icecream	binutils	hint:exec
+icecream	coreutils	hint:exec
 icecream	libarchive	linked
 icecream	libcap-ng	linked
 icecream	libxml2	lib
@@ -9958,6 +9981,7 @@ jmtpfs	lzlib	lib
 joe	aaa_glibc-solibs	linked
 joe	aaa_libraries	linked
 jove	aaa_glibc-solibs	linked
+jove	coreutils	hint:exec
 jq	aaa_glibc-solibs	linked
 jq	oniguruma	linked
 json-c	aaa_glibc-solibs	linked
@@ -22460,6 +22484,7 @@ kservice5	libxcb	lib
 kservice5	pcre2	lib
 kservice5	qt5	linked
 ksh93	aaa_glibc-solibs	linked
+ksh93	ed	hint:exec
 ksh93	glibc	hint:exec
 kshisen	aaa_glibc-solibs	linked
 kshisen	aaa_libraries	linked
@@ -25240,6 +25265,7 @@ libXp	libXdmcp	lib
 libXp	libXext	linked
 libXp	libxcb	lib
 libXpm	aaa_glibc-solibs	linked
+libXpm	gzip	hint:exec
 libXpm	libICE	lib
 libXpm	libSM	lib
 libXpm	libX11	linked
@@ -26700,6 +26726,7 @@ libksieve	xcb-util-keysyms	lib
 libksysguard	aaa_glibc-solibs	linked
 libksysguard	aaa_libraries	linked
 libksysguard	brotli	lib
+libksysguard	coreutils	hint:exec
 libksysguard	cyrus-sasl	lib
 libksysguard	dbus	lib
 libksysguard	duktape	lib
@@ -27707,6 +27734,7 @@ listres	util-linux	lib
 llvm	aaa_glibc-solibs	linked
 llvm	aaa_libraries	linked
 llvm	binutils	hint:exec
+llvm	coreutils	hint:exec
 llvm	gcc	linked
 llvm	libedit	linked
 llvm	libxml2	linked
@@ -27720,6 +27748,7 @@ log4cplus	aaa_glibc-solibs	linked
 log4cplus	aaa_libraries	linked
 logrotate	aaa_glibc-solibs	linked
 logrotate	aaa_libraries	linked
+logrotate	gzip	hint:exec
 lokalize	aaa_glibc-solibs	linked
 lokalize	aaa_libraries	linked
 lokalize	breeze-icons	lib
@@ -27893,7 +27922,10 @@ lxc	pam	linked
 lynx	aaa_glibc-solibs	linked
 lynx	aaa_libraries	linked
 lynx	brotli	linked
+lynx	bzip2	hint:exec
+lynx	coreutils	hint:exec
 lynx	groff	hint:exec
+lynx	gzip	hint:exec
 lynx	infozip	hint:exec
 lynx	man-db	hint:exec
 lynx	ncompress	hint:exec
@@ -27902,6 +27934,8 @@ lynx	openssl	linked
 lynx	openssl-solibs	linked
 lynx	postfix	hint:exec
 lynx	sharutils	hint:exec
+lynx	tar	hint:exec
+lynx	telnet	hint:exec
 lynx	zstd	hint:exec
 lz4	aaa_glibc-solibs	linked
 lzip	aaa_glibc-solibs	linked
@@ -28652,10 +28686,13 @@ mbox-importer	zint	lib
 mbox-importer	zxing-cpp	lib
 mc	aaa_glibc-solibs	linked
 mc	aaa_libraries	linked
+mc	dash	hint:exec
 mc	e2fsprogs	linked
 mc	libX11	hint:dlopen
 mc	openssl	lib
 mc	openssl-solibs	lib
+mc	tcsh	hint:exec
+mc	zsh	hint:exec
 mcabber	aaa_glibc-solibs	linked
 mcabber	aaa_libraries	linked
 mcabber	e2fsprogs	lib
@@ -29238,6 +29275,7 @@ mkfontscale	freetype	linked
 mkfontscale	graphite2	lib
 mkfontscale	harfbuzz	lib
 mkfontscale	libfontenc	linked
+mkinitrd	glibc	hint:exec
 mlocate	aaa_glibc-solibs	linked
 mlt	Imath	lib
 mlt	SDL2	linked
@@ -29824,6 +29862,8 @@ nasm	aaa_libraries	linked
 nc	aaa_glibc-solibs	linked
 ncftp	aaa_glibc-solibs	linked
 ncftp	aaa_libraries	linked
+ncftp	coreutils	hint:exec
+ncftp	tar	hint:exec
 ncompress	aaa_glibc-solibs	linked
 ncurses	aaa_glibc-solibs	linked
 ncurses	aaa_libraries	linked
@@ -29972,7 +30012,9 @@ netkit-ntalk	aaa_glibc-solibs	linked
 netkit-ntalk	aaa_libraries	linked
 netkit-routed	aaa_glibc-solibs	linked
 netkit-rsh	aaa_glibc-solibs	linked
+netkit-rsh	coreutils	hint:exec
 netkit-rsh	pam	linked
+netkit-rsh	util-linux	hint:exec
 netkit-rusers	aaa_glibc-solibs	linked
 netkit-rusers	aaa_libraries	linked
 netkit-rusers	e2fsprogs	lib
@@ -30536,6 +30578,7 @@ opentimelineio	aaa_libraries	linked
 openvpn	aaa_glibc-solibs	linked
 openvpn	aaa_libraries	linked
 openvpn	e2fsprogs	lib
+openvpn	iproute2	hint:exec
 openvpn	libcap-ng	linked
 openvpn	lz4	linked
 openvpn	lzo	linked
@@ -30716,6 +30759,7 @@ pam-krb5	e2fsprogs	linked
 pam-krb5	pam	linked
 pam	aaa_glibc-solibs	linked
 pam	aaa_libraries	linked
+pam	coreutils	hint:exec
 pam	e2fsprogs	lib
 pam	elogind	linked
 pam	xauth	hint:exec
@@ -31031,6 +31075,7 @@ partitionmanager	wayland	lib
 partitionmanager	xcb-util-keysyms	lib
 patch	aaa_glibc-solibs	linked
 patch	aaa_libraries	linked
+patch	ed	hint:exec
 patchelf	aaa_glibc-solibs	linked
 patchelf	aaa_libraries	linked
 pavucontrol	aaa_glibc-solibs	linked
@@ -33398,6 +33443,7 @@ powertop	libnl3	linked
 powertop	libtraceevent	linked
 powertop	libtracefs	linked
 powertop	pciutils	linked
+powertop	util-linux	hint:exec
 poxml	aaa_glibc-solibs	linked
 poxml	aaa_libraries	linked
 poxml	gettext-tools	linked
@@ -34121,6 +34167,8 @@ qemu-guest-agent	aaa_glibc-solibs	linked
 qemu-guest-agent	aaa_libraries	linked
 qemu-guest-agent	jemalloc	linked
 qemu-guest-agent	liburing	linked
+qemu-guest-agent	sysvinit	hint:exec
+qemu-guest-agent	util-linux	hint:exec
 qemu	SDL2	linked
 qemu	SDL2_image	linked
 qemu	aaa_glibc-solibs	linked
@@ -34204,6 +34252,7 @@ qemu	pulseaudio	linked
 qemu	samba	hint:exec
 qemu	simdutf	lib
 qemu	spice	linked
+qemu	sysvinit	hint:exec
 qemu	usbredir	linked
 qemu	util-linux	lib
 qemu	vde2	linked
@@ -34892,6 +34941,7 @@ rust-bindgen	aaa_libraries	linked
 rust	aaa_glibc-solibs	linked
 rust	aaa_libraries	linked
 rust	brotli	lib
+rust	coreutils	hint:exec
 rust	cyrus-sasl	lib
 rust	e2fsprogs	lib
 rust	llvm	hint:import
@@ -34935,6 +34985,7 @@ s-nail	postfix	hint:exec
 samba	aaa_glibc-solibs	linked
 samba	aaa_libraries	linked
 samba	avahi	linked
+samba	coreutils	hint:exec
 samba	cyrus-sasl	lib
 samba	dbus	linked
 samba	e2fsprogs	lib
@@ -35240,6 +35291,7 @@ seyon	util-linux	lib
 sg3_utils	aaa_glibc-solibs	linked
 shadow	aaa_glibc-solibs	linked
 shadow	aaa_libraries	linked
+shadow	btrfs-progs	hint:exec
 shadow	glibc	hint:exec
 shadow	pam	linked
 shared-mime-info	aaa_glibc-solibs	linked
@@ -35498,6 +35550,7 @@ skladnik	syndication	lib
 skladnik	util-linux	lib
 skladnik	wayland	lib
 slacktrack	aaa_glibc-solibs	linked
+slacktrack	coreutils	hint:exec
 slang	aaa_glibc-solibs	linked
 slang	aaa_libraries	linked
 slang	oniguruma	linked
@@ -35839,9 +35892,11 @@ sqlite	aaa_libraries	linked
 sqlite	icu4c	linked
 squashfs-tools	aaa_glibc-solibs	linked
 squashfs-tools	aaa_libraries	linked
+squashfs-tools	coreutils	hint:exec
 squashfs-tools	less	hint:exec
 squashfs-tools	lz4	linked
 squashfs-tools	lzo	linked
+squashfs-tools	util-linux	hint:exec
 sshfs	aaa_glibc-solibs	linked
 sshfs	aaa_libraries	linked
 sshfs	fuse3	linked
@@ -35866,6 +35921,7 @@ ssr	gnutls	lib
 ssr	graphite2	lib
 ssr	harfbuzz	lib
 ssr	icu4c	lib
+ssr	iputils	hint:exec
 ssr	jansson	lib
 ssr	lame	lib
 ssr	lcms2	lib
@@ -36179,10 +36235,14 @@ subversion	utf8proc	linked
 subversion	util-linux	lib
 sudo	aaa_glibc-solibs	linked
 sudo	aaa_libraries	linked
+sudo	coreutils	hint:exec
+sudo	dash	hint:exec
 sudo	openssl	linked
 sudo	openssl-solibs	linked
 sudo	pam	linked
 sudo	postfix	hint:exec
+sudo	tcsh	hint:exec
+sudo	zsh	hint:exec
 suitesparse	aaa_glibc-solibs	linked
 suitesparse	aaa_libraries	linked
 suitesparse	gcc	linked
@@ -36454,6 +36514,8 @@ systemsettings	wayland	lib
 systemsettings	xcb-util-keysyms	lib
 sysvinit-functions	aaa_glibc-solibs	linked
 sysvinit	aaa_glibc-solibs	linked
+sysvinit	shadow	hint:exec
+sysvinit	util-linux	hint:exec
 t1lib	aaa_glibc-solibs	linked
 t1lib	libICE	lib
 t1lib	libSM	lib
@@ -36490,10 +36552,12 @@ tcpdump	openssl	linked
 tcpdump	openssl-solibs	linked
 tcsh	aaa_glibc-solibs	linked
 tcsh	aaa_libraries	linked
+tcsh	util-linux	hint:exec
 tdb	aaa_glibc-solibs	linked
 tdb	aaa_libraries	linked
 telnet	aaa_glibc-solibs	linked
 telnet	aaa_libraries	linked
+telnet	util-linux	hint:exec
 tesseract	aaa_glibc-solibs	linked
 tesseract	aaa_libraries	linked
 tesseract	brotli	lib
@@ -37089,10 +37153,12 @@ util-linux	aaa_libraries	linked
 util-linux	file	linked
 util-linux	icu4c	lib
 util-linux	libcap-ng	linked
+util-linux	lvm2	hint:exec
 util-linux	lzlib	lib
 util-linux	ntp	hint:exec
 util-linux	pam	linked
 util-linux	sqlite	linked
+util-linux	sysvinit	hint:exec
 uucp	aaa_glibc-solibs	linked
 uucp	aaa_libraries	linked
 uucp	e2fsprogs	lib
@@ -37583,6 +37649,7 @@ xaos	pcre2	lib
 xaos	qt6	linked
 xapian-core	aaa_glibc-solibs	linked
 xapian-core	aaa_libraries	linked
+xapian-core	coreutils	hint:exec
 xapian-core	icu4c	linked
 xapian-core	util-linux	linked
 xauth	aaa_glibc-solibs	linked
@@ -38630,6 +38697,7 @@ xfce4-terminal	aaa_libraries	linked
 xfce4-terminal	at-spi2-core	linked
 xfce4-terminal	brotli	lib
 xfce4-terminal	cairo	linked
+xfce4-terminal	dash	hint:exec
 xfce4-terminal	dbus	lib
 xfce4-terminal	fontconfig	lib
 xfce4-terminal	freetype	lib
@@ -38668,12 +38736,14 @@ xfce4-terminal	pango	linked
 xfce4-terminal	pixman	lib
 xfce4-terminal	simdutf	lib
 xfce4-terminal	startup-notification	lib
+xfce4-terminal	tcsh	hint:exec
 xfce4-terminal	utempter	linked
 xfce4-terminal	util-linux	lib
 xfce4-terminal	vte	linked
 xfce4-terminal	wayland	lib
 xfce4-terminal	xcb-util	lib
 xfce4-terminal	xfconf	linked
+xfce4-terminal	zsh	hint:exec
 xfce4-weather-plugin	aaa_glibc-solibs	linked
 xfce4-weather-plugin	aaa_libraries	linked
 xfce4-weather-plugin	at-spi2-core	linked
@@ -39349,6 +39419,7 @@ xmessage	libXt	linked
 xmessage	libxcb	lib
 xmessage	util-linux	lib
 xmh	aaa_glibc-solibs	linked
+xmh	coreutils	hint:exec
 xmh	libICE	lib
 xmh	libSM	lib
 xmh	libX11	linked
