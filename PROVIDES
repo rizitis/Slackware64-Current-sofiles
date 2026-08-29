@@ -1419,7 +1419,7 @@ libbd_swap.so.3 libblockdev
 libbd_utils.so.3 libblockdev
 libbeep.so mcabber
 libbfb.so.1 obexftp
-libbfd-2.46.1-slack151.so binutils
+libbfd-2.46.1-slack160.so binutils
 libblkid.so.1 util-linux
 libblockdev.so.3 libblockdev
 libbluetooth.so.3 bluez
@@ -2987,7 +2987,7 @@ libompd.so llvm
 libonig.so.5 oniguruma
 libonlinetask_interfaces.so.5 kmymoney
 libopagent.so.1 oprofile
-libopcodes-2.46.1-slack151.so binutils
+libopcodes-2.46.1-slack160.so binutils
 libopenal.so.1 openal-soft
 libopenblas.so.0 openblas
 libopencc.so.1.4 OpenCC

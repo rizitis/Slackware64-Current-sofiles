@@ -22813,7 +22813,7 @@ openvpn	libresolv.so.2	aaa_glibc-solibs
 openvpn	libresolv.so.2	glibc
 openvpn	libssl.so.3	openssl
 openvpn	libssl.so.3	openssl-solibs
-oprofile	libbfd-2.46.1-slack151.so	binutils
+oprofile	libbfd-2.46.1-slack160.so	binutils
 oprofile	libc.so.6	aaa_glibc-solibs
 oprofile	libc.so.6	glibc
 oprofile	libgcc_s.so.1	aaa_libraries
@@ -25620,6 +25620,7 @@ qca	libplds4.so	mozilla-nss
 qca	libsasl2.so.3	cyrus-sasl
 qca	libsmime3.so	mozilla-nss
 qca	libsoftokn3.so	mozilla-nss
+qca	libsqlite3.so.0	sqlite
 qca	libssl.so.3	openssl
 qca	libssl.so.3	openssl-solibs
 qca	libssl3.so	mozilla-nss

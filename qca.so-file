@@ -16,7 +16,7 @@ libqca-qt6.so.2
 libsasl2.so.3
 libsmime3.so
 libsoftokn3.so
-libsqlite3.so
+libsqlite3.so.0
 libssl.so.3
 libssl3.so
 libstdc++.so.6

@@ -34089,7 +34089,7 @@ qca	openssl-solibs	linked
 qca	pcre2	lib
 qca	qt5	linked
 qca	qt6	linked
-qca	sqlite	lib
+qca	sqlite	linked
 qcoro	aaa_glibc-solibs	linked
 qcoro	aaa_libraries	linked
 qcoro	brotli	lib
