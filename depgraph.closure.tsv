@@ -27892,9 +27892,7 @@ lxc	openssl-solibs	linked
 lxc	pam	linked
 lynx	aaa_glibc-solibs	linked
 lynx	aaa_libraries	linked
-lynx	binutils	hint:exec
 lynx	brotli	linked
-lynx	gettext-tools	hint:exec
 lynx	groff	hint:exec
 lynx	infozip	hint:exec
 lynx	man-db	hint:exec
@@ -33145,7 +33143,6 @@ plzip	lzlib	linked
 pmake	aaa_glibc-solibs	linked
 poke	aaa_glibc-solibs	linked
 poke	aaa_libraries	linked
-poke	binutils	hint:exec
 poke	gc	linked
 poke	gettext	linked
 polkit-gnome	aaa_glibc-solibs	linked
