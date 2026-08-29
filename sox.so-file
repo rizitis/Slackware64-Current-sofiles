@@ -17,7 +17,7 @@ libpng16.so.16
 libpulse-simple.so.0
 libpulse.so.0
 libsndfile.so.1
-libsox_ng.so.3
+libsox_ng.so.5
 libspeexdsp.so.1
 libvorbis.so.0
 libvorbisenc.so.2

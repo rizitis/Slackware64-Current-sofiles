@@ -53,7 +53,7 @@ libpulse-simple.so.0
 libpulse.so.0
 librnnoise.so.0
 libsamplerate.so.0
-libsox_ng.so.3
+libsox_ng.so.5
 libstdc++.so.6
 libswresample.so.7
 libswscale.so.10

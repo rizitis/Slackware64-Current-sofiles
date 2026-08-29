@@ -21431,7 +21431,7 @@ mlt	libpulse-simple.so.0	pulseaudio
 mlt	libpulse.so.0	pulseaudio
 mlt	librnnoise.so.0	rnnoise
 mlt	libsamplerate.so.0	libsamplerate
-mlt	libsox_ng.so.3	sox
+mlt	libsox_ng.so.5	sox
 mlt	libstdc++.so.6	aaa_libraries
 mlt	libstdc++.so.6	gcc-g++
 mlt	libswresample.so.7	ffmpeg
