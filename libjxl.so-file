@@ -1,0 +1,16 @@
+ld-linux-x86-64.so.2
+libbrotlicommon.so.1
+libbrotlidec.so.1
+libbrotlienc.so.1
+libc.so.6
+libgcc_s.so.1
+libgif.so.7
+libhwy.so.1
+libjpeg.so.62
+libjxl.so.0.12
+libjxl_cms.so.0.12
+libjxl_threads.so.0.12
+libm.so.6
+libpng16.so.16
+libstdc++.so.6
+libz.so.1

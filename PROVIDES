@@ -2406,6 +2406,9 @@ libhttp-private-samba.so samba
 libhtword-3.2.0.so htdig
 libhunspell-1.7.so.0 hunspell
 libhwasan.so.0 gcc
+libhwy.so.1 highway
+libhwy_contrib.so.1 highway
+libhwy_test.so.1 highway
 libhx509-private-samba.so samba
 libhyphen.so.0 hyphen
 libi915_perf.so.1.5 igt-gpu-tools
@@ -2491,6 +2494,9 @@ libjq.so.1 jq
 libjson-c.so.5 aaa_libraries
 libjson-c.so.5 json-c
 libjson-glib-1.0.so.0 json-glib
+libjxl.so.0.12 libjxl
+libjxl_cms.so.0.12 libjxl
+libjxl_threads.so.0.12 libjxl
 libk3bdevice.so.8 k3b
 libk3blib.so.8 k3b
 libk5crypto.so.3 aaa_libraries
@@ -3116,6 +3122,7 @@ libpcreposix.so.0 pcre
 libpcsclite.so.1 pcsc-lite
 libpcsclite_real.so.1 pcsc-lite
 libpcscspy.so.0 pcsc-lite
+libpdfio.so.1 pdfio
 libphabricatorquickplugin.so purpose
 libphabricatorquickplugin.so purpose5
 libphonon4qt5.so.4 phonon

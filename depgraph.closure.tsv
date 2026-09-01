@@ -50,6 +50,7 @@ MPlayer	gnutls	linked
 MPlayer	graphite2	lib
 MPlayer	gtk+2	linked
 MPlayer	harfbuzz	linked
+MPlayer	highway	lib
 MPlayer	icu4c	lib
 MPlayer	jansson	lib
 MPlayer	lame	linked
@@ -81,6 +82,7 @@ MPlayer	libdvdnav	linked
 MPlayer	libdvdread	linked
 MPlayer	libgcrypt	lib
 MPlayer	libglvnd	linked
+MPlayer	libjxl	lib
 MPlayer	libmad	linked
 MPlayer	libmng	linked
 MPlayer	libogg	linked
@@ -527,6 +529,7 @@ akonadi-calendar-tools	gpgmepp	lib
 akonadi-calendar-tools	grantleetheme	lib
 akonadi-calendar-tools	graphite2	lib
 akonadi-calendar-tools	harfbuzz	lib
+akonadi-calendar-tools	highway	lib
 akonadi-calendar-tools	icu4c	lib
 akonadi-calendar-tools	jansson	lib
 akonadi-calendar-tools	karchive	lib
@@ -592,6 +595,7 @@ akonadi-calendar-tools	libgravatar	lib
 akonadi-calendar-tools	libical	lib
 akonadi-calendar-tools	libimobiledevice	lib
 akonadi-calendar-tools	libimobiledevice-glue	lib
+akonadi-calendar-tools	libjxl	lib
 akonadi-calendar-tools	libkdepim	lib
 akonadi-calendar-tools	libkleo	lib
 akonadi-calendar-tools	libogg	lib
@@ -682,6 +686,7 @@ akonadi-calendar	gpgmepp	linked
 akonadi-calendar	grantleetheme	linked
 akonadi-calendar	graphite2	lib
 akonadi-calendar	harfbuzz	lib
+akonadi-calendar	highway	lib
 akonadi-calendar	icu4c	lib
 akonadi-calendar	jansson	lib
 akonadi-calendar	karchive	lib
@@ -747,6 +752,7 @@ akonadi-calendar	libgravatar	lib
 akonadi-calendar	libical	lib
 akonadi-calendar	libimobiledevice	lib
 akonadi-calendar	libimobiledevice-glue	lib
+akonadi-calendar	libjxl	lib
 akonadi-calendar	libkdepim	linked
 akonadi-calendar	libkleo	linked
 akonadi-calendar	libogg	lib
@@ -924,6 +930,7 @@ akonadi-import-wizard	gpgmepp	linked
 akonadi-import-wizard	grantleetheme	linked
 akonadi-import-wizard	graphite2	lib
 akonadi-import-wizard	harfbuzz	lib
+akonadi-import-wizard	highway	lib
 akonadi-import-wizard	icu4c	lib
 akonadi-import-wizard	jansson	lib
 akonadi-import-wizard	karchive	linked
@@ -988,6 +995,7 @@ akonadi-import-wizard	libgravatar	lib
 akonadi-import-wizard	libical	lib
 akonadi-import-wizard	libimobiledevice	lib
 akonadi-import-wizard	libimobiledevice-glue	lib
+akonadi-import-wizard	libjxl	lib
 akonadi-import-wizard	libkdepim	linked
 akonadi-import-wizard	libkleo	linked
 akonadi-import-wizard	libogg	lib
@@ -1244,6 +1252,7 @@ akonadiconsole	gpgmepp	linked
 akonadiconsole	grantleetheme	linked
 akonadiconsole	graphite2	lib
 akonadiconsole	harfbuzz	lib
+akonadiconsole	highway	lib
 akonadiconsole	icu4c	lib
 akonadiconsole	jansson	lib
 akonadiconsole	karchive	lib
@@ -1310,6 +1319,7 @@ akonadiconsole	libgravatar	lib
 akonadiconsole	libical	lib
 akonadiconsole	libimobiledevice	lib
 akonadiconsole	libimobiledevice-glue	lib
+akonadiconsole	libjxl	lib
 akonadiconsole	libkdepim	linked
 akonadiconsole	libkleo	linked
 akonadiconsole	libogg	lib
@@ -1398,6 +1408,7 @@ akregator	gpgmepp	linked
 akregator	grantleetheme	linked
 akregator	graphite2	lib
 akregator	harfbuzz	lib
+akregator	highway	lib
 akregator	icu4c	lib
 akregator	jansson	lib
 akregator	karchive	lib
@@ -1460,6 +1471,7 @@ akregator	libglvnd	linked
 akregator	libgravatar	lib
 akregator	libimobiledevice	lib
 akregator	libimobiledevice-glue	lib
+akregator	libjxl	lib
 akregator	libkdepim	linked
 akregator	libkleo	linked
 akregator	libogg	lib
@@ -1540,6 +1552,7 @@ alkimia	glib2	lib
 alkimia	gnutls	lib
 alkimia	graphite2	lib
 alkimia	harfbuzz	lib
+alkimia	highway	lib
 alkimia	icu4c	lib
 alkimia	jansson	lib
 alkimia	karchive	lib
@@ -1576,6 +1589,7 @@ alkimia	libdeflate	lib
 alkimia	libdrm	lib
 alkimia	libgcrypt	lib
 alkimia	libglvnd	linked
+alkimia	libjxl	lib
 alkimia	libogg	lib
 alkimia	libproxy	lib
 alkimia	librsvg	lib
@@ -1686,6 +1700,7 @@ alsa-plugins	gdk-pixbuf2	lib
 alsa-plugins	glib2	lib
 alsa-plugins	graphite2	lib
 alsa-plugins	harfbuzz	lib
+alsa-plugins	highway	lib
 alsa-plugins	lame	lib
 alsa-plugins	lcms2	lib
 alsa-plugins	libX11	lib
@@ -1697,6 +1712,7 @@ alsa-plugins	libXrender	lib
 alsa-plugins	libasyncns	lib
 alsa-plugins	libdrm	lib
 alsa-plugins	libgcrypt	lib
+alsa-plugins	libjxl	lib
 alsa-plugins	libogg	lib
 alsa-plugins	librsvg	lib
 alsa-plugins	libsamplerate	linked
@@ -1936,6 +1952,7 @@ arianna	glib2	lib
 arianna	gnutls	lib
 arianna	graphite2	lib
 arianna	harfbuzz	lib
+arianna	highway	lib
 arianna	icu4c	lib
 arianna	jansson	lib
 arianna	karchive	linked
@@ -1967,6 +1984,7 @@ arianna	libgcrypt	lib
 arianna	libglvnd	linked
 arianna	libimobiledevice	lib
 arianna	libimobiledevice-glue	lib
+arianna	libjxl	lib
 arianna	libogg	lib
 arianna	libplist	lib
 arianna	libproxy	lib
@@ -2197,6 +2215,7 @@ aubio	glib2	lib
 aubio	gnutls	lib
 aubio	graphite2	lib
 aubio	harfbuzz	lib
+aubio	highway	lib
 aubio	icu4c	lib
 aubio	jansson	lib
 aubio	lame	lib
@@ -2210,6 +2229,7 @@ aubio	libXrender	lib
 aubio	libbluray	lib
 aubio	libdrm	lib
 aubio	libgcrypt	lib
+aubio	libjxl	lib
 aubio	libogg	lib
 aubio	librsvg	lib
 aubio	libsamplerate	linked
@@ -2266,6 +2286,7 @@ audacious-plugins	gnutls	lib
 audacious-plugins	graphite2	lib
 audacious-plugins	gtk+3	linked
 audacious-plugins	harfbuzz	lib
+audacious-plugins	highway	lib
 audacious-plugins	icu4c	lib
 audacious-plugins	jansson	lib
 audacious-plugins	json-glib	linked
@@ -2294,6 +2315,7 @@ audacious-plugins	libdrm	lib
 audacious-plugins	libepoxy	lib
 audacious-plugins	libgcrypt	lib
 audacious-plugins	libglvnd	linked
+audacious-plugins	libjxl	lib
 audacious-plugins	libnotify	linked
 audacious-plugins	libogg	linked
 audacious-plugins	libproxy	lib
@@ -3258,6 +3280,7 @@ calendarsupport	gpgmepp	lib
 calendarsupport	grantleetheme	lib
 calendarsupport	graphite2	lib
 calendarsupport	harfbuzz	lib
+calendarsupport	highway	lib
 calendarsupport	icu4c	lib
 calendarsupport	jansson	lib
 calendarsupport	karchive	lib
@@ -3323,6 +3346,7 @@ calendarsupport	libgravatar	lib
 calendarsupport	libical	lib
 calendarsupport	libimobiledevice	lib
 calendarsupport	libimobiledevice-glue	lib
+calendarsupport	libjxl	lib
 calendarsupport	libkdepim	lib
 calendarsupport	libkleo	lib
 calendarsupport	libogg	lib
@@ -3408,6 +3432,7 @@ calligra	gpgmepp	lib
 calligra	graphite2	lib
 calligra	gsl	linked
 calligra	harfbuzz	lib
+calligra	highway	lib
 calligra	icu4c	lib
 calligra	jansson	lib
 calligra	karchive	linked
@@ -3457,6 +3482,7 @@ calligra	libgcrypt	lib
 calligra	libglvnd	linked
 calligra	libimobiledevice	lib
 calligra	libimobiledevice-glue	lib
+calligra	libjxl	lib
 calligra	libodfgen	linked
 calligra	libogg	lib
 calligra	libplist	lib
@@ -3622,6 +3648,7 @@ cantor	gpgme	lib
 cantor	gpgmepp	lib
 cantor	graphite2	lib
 cantor	harfbuzz	lib
+cantor	highway	lib
 cantor	icu4c	lib
 cantor	jansson	lib
 cantor	karchive	linked
@@ -3672,6 +3699,7 @@ cantor	libgcrypt	lib
 cantor	libglvnd	linked
 cantor	libimobiledevice	lib
 cantor	libimobiledevice-glue	lib
+cantor	libjxl	lib
 cantor	libogg	lib
 cantor	libplist	lib
 cantor	libproxy	lib
@@ -4095,68 +4123,44 @@ cups-browsed	aaa_glibc-solibs	linked
 cups-browsed	aaa_libraries	linked
 cups-browsed	avahi	linked
 cups-browsed	brotli	lib
-cups-browsed	cyrus-sasl	lib
 cups-browsed	dbus	lib
-cups-browsed	e2fsprogs	lib
 cups-browsed	fontconfig	lib
 cups-browsed	freetype	lib
 cups-browsed	glib2	linked
-cups-browsed	gnutls	lib
-cups-browsed	gpgme	lib
-cups-browsed	gpgmepp	lib
 cups-browsed	graphite2	lib
 cups-browsed	harfbuzz	lib
+cups-browsed	highway	lib
 cups-browsed	lcms2	lib
-cups-browsed	libassuan	lib
 cups-browsed	libcupsfilters	linked
 cups-browsed	libdeflate	lib
 cups-browsed	libexif	lib
+cups-browsed	libjxl	lib
 cups-browsed	libppd	linked
 cups-browsed	libwebp	lib
-cups-browsed	mozilla-nss	lib
-cups-browsed	nettle	lib
-cups-browsed	nghttp2	lib
-cups-browsed	nghttp3	lib
-cups-browsed	ngtcp2	lib
-cups-browsed	openjpeg	lib
 cups-browsed	openssl	lib
 cups-browsed	openssl-solibs	lib
-cups-browsed	p11-kit	lib
-cups-browsed	poppler	lib
-cups-browsed	qpdf	lib
+cups-browsed	pdfio	lib
 cups-browsed	util-linux	lib
 cups-filters	aaa_glibc-solibs	linked
 cups-filters	aaa_libraries	linked
 cups-filters	avahi	lib
 cups-filters	brotli	lib
-cups-filters	cyrus-sasl	lib
 cups-filters	dbus	lib
-cups-filters	e2fsprogs	lib
 cups-filters	fontconfig	lib
 cups-filters	freetype	lib
-cups-filters	gnutls	lib
-cups-filters	gpgme	lib
-cups-filters	gpgmepp	lib
 cups-filters	graphite2	lib
 cups-filters	harfbuzz	lib
+cups-filters	highway	lib
 cups-filters	lcms2	lib
-cups-filters	libassuan	lib
 cups-filters	libcupsfilters	linked
 cups-filters	libdeflate	lib
 cups-filters	libexif	lib
+cups-filters	libjxl	lib
 cups-filters	libppd	linked
 cups-filters	libwebp	lib
-cups-filters	mozilla-nss	lib
-cups-filters	nettle	lib
-cups-filters	nghttp2	lib
-cups-filters	nghttp3	lib
-cups-filters	ngtcp2	lib
-cups-filters	openjpeg	lib
 cups-filters	openssl	lib
 cups-filters	openssl-solibs	lib
-cups-filters	p11-kit	lib
-cups-filters	poppler	lib
-cups-filters	qpdf	lib
+cups-filters	pdfio	lib
 cups	aaa_glibc-solibs	linked
 cups	aaa_libraries	linked
 cups	avahi	linked
@@ -4350,6 +4354,7 @@ digikam	gpgmepp	lib
 digikam	grantleetheme	linked
 digikam	graphite2	lib
 digikam	harfbuzz	lib
+digikam	highway	lib
 digikam	icu4c	lib
 digikam	imagemagick	linked
 digikam	inih	lib
@@ -4424,6 +4429,7 @@ digikam	libical	lib
 digikam	libieee1284	lib
 digikam	libimobiledevice	lib
 digikam	libimobiledevice-glue	lib
+digikam	libjxl	lib
 digikam	libksane	linked
 digikam	libogg	lib
 digikam	libplacebo	lib
@@ -4760,6 +4766,7 @@ dragon	gdk-pixbuf2	lib
 dragon	glib2	lib
 dragon	graphite2	lib
 dragon	harfbuzz	lib
+dragon	highway	lib
 dragon	icu4c	lib
 dragon	kconfig	lib
 dragon	kcoreaddons	linked
@@ -4780,6 +4787,7 @@ dragon	libasyncns	lib
 dragon	libdrm	lib
 dragon	libgcrypt	lib
 dragon	libglvnd	linked
+dragon	libjxl	lib
 dragon	libogg	lib
 dragon	libproxy	lib
 dragon	librsvg	lib
@@ -5153,6 +5161,7 @@ eventviews	gpgmepp	lib
 eventviews	grantleetheme	lib
 eventviews	graphite2	lib
 eventviews	harfbuzz	lib
+eventviews	highway	lib
 eventviews	icu4c	lib
 eventviews	jansson	lib
 eventviews	karchive	lib
@@ -5219,6 +5228,7 @@ eventviews	libgravatar	lib
 eventviews	libical	lib
 eventviews	libimobiledevice	lib
 eventviews	libimobiledevice-glue	lib
+eventviews	libjxl	lib
 eventviews	libkdepim	linked
 eventviews	libkleo	lib
 eventviews	libogg	lib
@@ -5360,6 +5370,7 @@ falkon	glib2	lib
 falkon	gnutls	lib
 falkon	graphite2	lib
 falkon	harfbuzz	lib
+falkon	highway	lib
 falkon	icu4c	lib
 falkon	jansson	lib
 falkon	karchive	linked
@@ -5399,6 +5410,7 @@ falkon	libglvnd	linked
 falkon	libgnome-keyring	linked
 falkon	libimobiledevice	lib
 falkon	libimobiledevice-glue	lib
+falkon	libjxl	lib
 falkon	libogg	lib
 falkon	libplist	lib
 falkon	libproxy	lib
@@ -5482,6 +5494,7 @@ fcitx5-chinese-addons	glib2	lib
 fcitx5-chinese-addons	gnutls	lib
 fcitx5-chinese-addons	graphite2	lib
 fcitx5-chinese-addons	harfbuzz	lib
+fcitx5-chinese-addons	highway	lib
 fcitx5-chinese-addons	icu4c	lib
 fcitx5-chinese-addons	jansson	lib
 fcitx5-chinese-addons	lame	lib
@@ -5501,6 +5514,7 @@ fcitx5-chinese-addons	libdrm	lib
 fcitx5-chinese-addons	libgcrypt	lib
 fcitx5-chinese-addons	libglvnd	lib
 fcitx5-chinese-addons	libime	linked
+fcitx5-chinese-addons	libjxl	lib
 fcitx5-chinese-addons	libogg	lib
 fcitx5-chinese-addons	libproxy	lib
 fcitx5-chinese-addons	librsvg	lib
@@ -5801,6 +5815,7 @@ ffmpeg	glu	lib
 ffmpeg	gnutls	linked
 ffmpeg	graphite2	lib
 ffmpeg	harfbuzz	lib
+ffmpeg	highway	lib
 ffmpeg	icu4c	lib
 ffmpeg	jansson	lib
 ffmpeg	lame	linked
@@ -5824,6 +5839,7 @@ ffmpeg	libcdio-paranoia	linked
 ffmpeg	libdrm	linked
 ffmpeg	libgcrypt	linked
 ffmpeg	libglvnd	lib
+ffmpeg	libjxl	linked
 ffmpeg	libogg	lib
 ffmpeg	libplacebo	linked
 ffmpeg	librsvg	linked
@@ -5875,6 +5891,7 @@ ffmpegthumbnailer	glib2	lib
 ffmpegthumbnailer	gnutls	lib
 ffmpegthumbnailer	graphite2	lib
 ffmpegthumbnailer	harfbuzz	lib
+ffmpegthumbnailer	highway	lib
 ffmpegthumbnailer	icu4c	lib
 ffmpegthumbnailer	jansson	lib
 ffmpegthumbnailer	lame	lib
@@ -5889,6 +5906,7 @@ ffmpegthumbnailer	libass	lib
 ffmpegthumbnailer	libbluray	lib
 ffmpegthumbnailer	libdrm	lib
 ffmpegthumbnailer	libgcrypt	lib
+ffmpegthumbnailer	libjxl	lib
 ffmpegthumbnailer	libogg	lib
 ffmpegthumbnailer	libplacebo	lib
 ffmpegthumbnailer	librsvg	lib
@@ -5938,6 +5956,7 @@ ffmpegthumbs	glib2	lib
 ffmpegthumbs	gnutls	lib
 ffmpegthumbs	graphite2	lib
 ffmpegthumbs	harfbuzz	lib
+ffmpegthumbs	highway	lib
 ffmpegthumbs	icu4c	lib
 ffmpegthumbs	jansson	lib
 ffmpegthumbs	kconfig	linked
@@ -5962,6 +5981,7 @@ ffmpegthumbs	libgcrypt	lib
 ffmpegthumbs	libglvnd	linked
 ffmpegthumbs	libimobiledevice	lib
 ffmpegthumbs	libimobiledevice-glue	lib
+ffmpegthumbs	libjxl	lib
 ffmpegthumbs	libogg	lib
 ffmpegthumbs	libplacebo	lib
 ffmpegthumbs	libplist	lib
@@ -6309,6 +6329,7 @@ freerdp	glu	lib
 freerdp	gnutls	lib
 freerdp	graphite2	lib
 freerdp	harfbuzz	lib
+freerdp	highway	lib
 freerdp	icu4c	linked
 freerdp	jansson	linked
 freerdp	lame	linked
@@ -6338,6 +6359,7 @@ freerdp	libcdio-paranoia	lib
 freerdp	libdrm	lib
 freerdp	libgcrypt	lib
 freerdp	libglvnd	lib
+freerdp	libjxl	lib
 freerdp	libogg	lib
 freerdp	libplacebo	lib
 freerdp	librsvg	lib
@@ -6409,6 +6431,7 @@ frei0r-plugins	graphite2	lib
 frei0r-plugins	gst-plugins-base	lib
 frei0r-plugins	gstreamer	lib
 frei0r-plugins	harfbuzz	lib
+frei0r-plugins	highway	lib
 frei0r-plugins	icu4c	lib
 frei0r-plugins	jansson	lib
 frei0r-plugins	lame	lib
@@ -6435,6 +6458,7 @@ frei0r-plugins	libdeflate	lib
 frei0r-plugins	libdrm	lib
 frei0r-plugins	libgcrypt	lib
 frei0r-plugins	libglvnd	lib
+frei0r-plugins	libjxl	lib
 frei0r-plugins	libogg	lib
 frei0r-plugins	libplacebo	lib
 frei0r-plugins	librsvg	lib
@@ -6811,6 +6835,7 @@ geeqie	graphite2	lib
 geeqie	gspell	linked
 geeqie	gtk+3	linked
 geeqie	harfbuzz	lib
+geeqie	highway	lib
 geeqie	icu4c	lib
 geeqie	inih	lib
 geeqie	jansson	lib
@@ -6837,6 +6862,7 @@ geeqie	libdeflate	lib
 geeqie	libdrm	lib
 geeqie	libepoxy	lib
 geeqie	libgcrypt	lib
+geeqie	libjxl	lib
 geeqie	libogg	lib
 geeqie	libplacebo	lib
 geeqie	librsvg	lib
@@ -6902,6 +6928,7 @@ gegl	gpgme	lib
 gegl	gpgmepp	lib
 gegl	graphite2	lib
 gegl	harfbuzz	lib
+gegl	highway	lib
 gegl	icu4c	lib
 gegl	jansson	lib
 gegl	jasper	linked
@@ -6921,6 +6948,7 @@ gegl	libdeflate	lib
 gegl	libdrm	lib
 gegl	libgcrypt	lib
 gegl	libglvnd	hint:dlopen
+gegl	libjxl	lib
 gegl	libogg	lib
 gegl	librsvg	linked
 gegl	libssh	lib
@@ -7092,6 +7120,7 @@ ghostwriter	glib2	lib
 ghostwriter	gnutls	lib
 ghostwriter	graphite2	lib
 ghostwriter	harfbuzz	lib
+ghostwriter	highway	lib
 ghostwriter	icu4c	lib
 ghostwriter	jansson	lib
 ghostwriter	karchive	lib
@@ -7123,6 +7152,7 @@ ghostwriter	libdeflate	lib
 ghostwriter	libdrm	lib
 ghostwriter	libgcrypt	lib
 ghostwriter	libglvnd	linked
+ghostwriter	libjxl	lib
 ghostwriter	libogg	lib
 ghostwriter	libproxy	lib
 ghostwriter	librsvg	lib
@@ -7381,6 +7411,7 @@ glaxnimate	glib2	lib
 glaxnimate	gnutls	lib
 glaxnimate	graphite2	lib
 glaxnimate	harfbuzz	lib
+glaxnimate	highway	lib
 glaxnimate	icu4c	lib
 glaxnimate	jansson	lib
 glaxnimate	karchive	linked
@@ -7411,6 +7442,7 @@ glaxnimate	libbluray	lib
 glaxnimate	libdrm	lib
 glaxnimate	libgcrypt	lib
 glaxnimate	libglvnd	linked
+glaxnimate	libjxl	lib
 glaxnimate	libogg	lib
 glaxnimate	libproxy	lib
 glaxnimate	librsvg	lib
@@ -7870,6 +7902,7 @@ grantlee-editor	gpgmepp	linked
 grantlee-editor	grantleetheme	linked
 grantlee-editor	graphite2	lib
 grantlee-editor	harfbuzz	lib
+grantlee-editor	highway	lib
 grantlee-editor	icu4c	lib
 grantlee-editor	jansson	lib
 grantlee-editor	karchive	linked
@@ -7928,6 +7961,7 @@ grantlee-editor	libglvnd	linked
 grantlee-editor	libgravatar	lib
 grantlee-editor	libimobiledevice	lib
 grantlee-editor	libimobiledevice-glue	lib
+grantlee-editor	libjxl	lib
 grantlee-editor	libkleo	linked
 grantlee-editor	libogg	lib
 grantlee-editor	libplist	lib
@@ -8412,6 +8446,7 @@ gst-plugins-libav	graphite2	lib
 gst-plugins-libav	gst-plugins-base	linked
 gst-plugins-libav	gstreamer	linked
 gst-plugins-libav	harfbuzz	lib
+gst-plugins-libav	highway	lib
 gst-plugins-libav	icu4c	lib
 gst-plugins-libav	jansson	lib
 gst-plugins-libav	lame	lib
@@ -8426,6 +8461,7 @@ gst-plugins-libav	libass	lib
 gst-plugins-libav	libbluray	lib
 gst-plugins-libav	libdrm	lib
 gst-plugins-libav	libgcrypt	lib
+gst-plugins-libav	libjxl	lib
 gst-plugins-libav	libogg	lib
 gst-plugins-libav	libplacebo	lib
 gst-plugins-libav	librsvg	lib
@@ -9068,6 +9104,7 @@ haruna	glu	lib
 haruna	gnutls	lib
 haruna	graphite2	lib
 haruna	harfbuzz	lib
+haruna	highway	lib
 haruna	icu4c	lib
 haruna	jansson	lib
 haruna	karchive	lib
@@ -9119,6 +9156,7 @@ haruna	libgcrypt	lib
 haruna	libglvnd	linked
 haruna	libimobiledevice	lib
 haruna	libimobiledevice-glue	lib
+haruna	libjxl	lib
 haruna	libogg	lib
 haruna	libplacebo	lib
 haruna	libplist	lib
@@ -9230,6 +9268,8 @@ hfsutils	libXext	linked
 hfsutils	libXft	linked
 hfsutils	libXrender	lib
 hfsutils	libxcb	lib
+highway	aaa_glibc-solibs	linked
+highway	aaa_libraries	linked
 hostname	aaa_glibc-solibs	linked
 hplip	aaa_glibc-solibs	linked
 hplip	aaa_libraries	linked
@@ -9633,6 +9673,7 @@ incidenceeditor	gpgmepp	lib
 incidenceeditor	grantleetheme	linked
 incidenceeditor	graphite2	lib
 incidenceeditor	harfbuzz	lib
+incidenceeditor	highway	lib
 incidenceeditor	icu4c	lib
 incidenceeditor	jansson	lib
 incidenceeditor	karchive	lib
@@ -9699,6 +9740,7 @@ incidenceeditor	libgravatar	lib
 incidenceeditor	libical	lib
 incidenceeditor	libimobiledevice	lib
 incidenceeditor	libimobiledevice-glue	lib
+incidenceeditor	libjxl	lib
 incidenceeditor	libkdepim	linked
 incidenceeditor	libkleo	lib
 incidenceeditor	libogg	lib
@@ -10088,6 +10130,7 @@ k3b	glib2	lib
 k3b	gnutls	lib
 k3b	graphite2	lib
 k3b	harfbuzz	lib
+k3b	highway	lib
 k3b	icu4c	lib
 k3b	jansson	lib
 k3b	karchive	linked
@@ -10137,6 +10180,7 @@ k3b	libgcrypt	lib
 k3b	libglvnd	linked
 k3b	libimobiledevice	lib
 k3b	libimobiledevice-glue	lib
+k3b	libjxl	lib
 k3b	libkcddb	linked
 k3b	libmad	linked
 k3b	libogg	linked
@@ -10428,6 +10472,7 @@ kalarm	gnutls	lib
 kalarm	grantleetheme	linked
 kalarm	graphite2	lib
 kalarm	harfbuzz	lib
+kalarm	highway	lib
 kalarm	icu4c	lib
 kalarm	jansson	lib
 kalarm	karchive	lib
@@ -10501,6 +10546,7 @@ kalarm	libglvnd	linked
 kalarm	libical	lib
 kalarm	libimobiledevice	lib
 kalarm	libimobiledevice-glue	lib
+kalarm	libjxl	lib
 kalarm	libogg	lib
 kalarm	libplacebo	lib
 kalarm	libplist	lib
@@ -10583,6 +10629,7 @@ kalgebra	glib2	lib
 kalgebra	gnutls	lib
 kalgebra	graphite2	lib
 kalgebra	harfbuzz	lib
+kalgebra	highway	lib
 kalgebra	icu4c	lib
 kalgebra	jansson	lib
 kalgebra	karchive	lib
@@ -10617,6 +10664,7 @@ kalgebra	libdeflate	lib
 kalgebra	libdrm	lib
 kalgebra	libgcrypt	lib
 kalgebra	libglvnd	linked
+kalgebra	libjxl	lib
 kalgebra	libogg	lib
 kalgebra	libproxy	lib
 kalgebra	librsvg	lib
@@ -13236,6 +13284,7 @@ kdenlive	glu	linked
 kdenlive	gnutls	lib
 kdenlive	graphite2	lib
 kdenlive	harfbuzz	lib
+kdenlive	highway	lib
 kdenlive	icu4c	lib
 kdenlive	jansson	lib
 kdenlive	karchive	linked
@@ -13282,6 +13331,7 @@ kdenlive	libgcrypt	lib
 kdenlive	libglvnd	linked
 kdenlive	libimobiledevice	lib
 kdenlive	libimobiledevice-glue	lib
+kdenlive	libjxl	lib
 kdenlive	libogg	lib
 kdenlive	libplist	lib
 kdenlive	libproxy	lib
@@ -13362,6 +13412,7 @@ kdepim-addons	gpgmepp	linked
 kdepim-addons	grantleetheme	linked
 kdepim-addons	graphite2	lib
 kdepim-addons	harfbuzz	lib
+kdepim-addons	highway	lib
 kdepim-addons	icu4c	lib
 kdepim-addons	incidenceeditor	linked
 kdepim-addons	jansson	lib
@@ -13434,6 +13485,7 @@ kdepim-addons	libgravatar	linked
 kdepim-addons	libical	lib
 kdepim-addons	libimobiledevice	lib
 kdepim-addons	libimobiledevice-glue	lib
+kdepim-addons	libjxl	lib
 kdepim-addons	libkdepim	linked
 kdepim-addons	libkleo	linked
 kdepim-addons	libksieve	linked
@@ -13530,6 +13582,7 @@ kdepim-runtime	gpgmepp	lib
 kdepim-runtime	grantleetheme	linked
 kdepim-runtime	graphite2	lib
 kdepim-runtime	harfbuzz	lib
+kdepim-runtime	highway	lib
 kdepim-runtime	icu4c	lib
 kdepim-runtime	jansson	lib
 kdepim-runtime	karchive	lib
@@ -13597,6 +13650,7 @@ kdepim-runtime	libgravatar	lib
 kdepim-runtime	libical	lib
 kdepim-runtime	libimobiledevice	lib
 kdepim-runtime	libimobiledevice-glue	lib
+kdepim-runtime	libjxl	lib
 kdepim-runtime	libkdepim	linked
 kdepim-runtime	libkgapi	linked
 kdepim-runtime	libkleo	lib
@@ -13680,6 +13734,7 @@ kdeplasma-addons	glib2	lib
 kdeplasma-addons	gnutls	lib
 kdeplasma-addons	graphite2	lib
 kdeplasma-addons	harfbuzz	lib
+kdeplasma-addons	highway	lib
 kdeplasma-addons	icu4c	linked
 kdeplasma-addons	jansson	lib
 kdeplasma-addons	karchive	lib
@@ -13732,6 +13787,7 @@ kdeplasma-addons	libgcrypt	lib
 kdeplasma-addons	libglvnd	linked
 kdeplasma-addons	libimobiledevice	lib
 kdeplasma-addons	libimobiledevice-glue	lib
+kdeplasma-addons	libjxl	lib
 kdeplasma-addons	libogg	lib
 kdeplasma-addons	libplasma	linked
 kdeplasma-addons	libplist	lib
@@ -13924,6 +13980,7 @@ kdev-php	glib2	lib
 kdev-php	gnutls	lib
 kdev-php	graphite2	lib
 kdev-php	harfbuzz	lib
+kdev-php	highway	lib
 kdev-php	icu4c	lib
 kdev-php	jansson	lib
 kdev-php	karchive	lib
@@ -13978,6 +14035,7 @@ kdev-php	libgcrypt	lib
 kdev-php	libglvnd	linked
 kdev-php	libimobiledevice	lib
 kdev-php	libimobiledevice-glue	lib
+kdev-php	libjxl	lib
 kdev-php	libogg	lib
 kdev-php	libplist	lib
 kdev-php	libproxy	lib
@@ -14138,6 +14196,7 @@ kdevelop	glib2	lib
 kdevelop	gnutls	lib
 kdevelop	graphite2	lib
 kdevelop	harfbuzz	lib
+kdevelop	highway	lib
 kdevelop	icu4c	lib
 kdevelop	jansson	lib
 kdevelop	karchive	linked
@@ -14195,6 +14254,7 @@ kdevelop	libgcrypt	lib
 kdevelop	libglvnd	linked
 kdevelop	libimobiledevice	lib
 kdevelop	libimobiledevice-glue	lib
+kdevelop	libjxl	lib
 kdevelop	libkomparediff2	linked
 kdevelop	libksysguard	linked
 kdevelop	libogg	lib
@@ -14873,6 +14933,7 @@ kfilemetadata	gpgme	lib
 kfilemetadata	gpgmepp	lib
 kfilemetadata	graphite2	lib
 kfilemetadata	harfbuzz	lib
+kfilemetadata	highway	lib
 kfilemetadata	icu4c	lib
 kfilemetadata	inih	lib
 kfilemetadata	jansson	lib
@@ -14895,6 +14956,7 @@ kfilemetadata	libdeflate	lib
 kfilemetadata	libdrm	lib
 kfilemetadata	libgcrypt	lib
 kfilemetadata	libglvnd	linked
+kfilemetadata	libjxl	lib
 kfilemetadata	libogg	lib
 kfilemetadata	librsvg	lib
 kfilemetadata	libssh	lib
@@ -14953,6 +15015,7 @@ kfilemetadata5	gpgme	lib
 kfilemetadata5	gpgmepp	lib
 kfilemetadata5	graphite2	lib
 kfilemetadata5	harfbuzz	lib
+kfilemetadata5	highway	lib
 kfilemetadata5	icu4c	lib
 kfilemetadata5	inih	lib
 kfilemetadata5	jansson	lib
@@ -14973,6 +15036,7 @@ kfilemetadata5	libdeflate	lib
 kfilemetadata5	libdrm	lib
 kfilemetadata5	libgcrypt	lib
 kfilemetadata5	libglvnd	lib
+kfilemetadata5	libjxl	lib
 kfilemetadata5	libogg	lib
 kfilemetadata5	librsvg	lib
 kfilemetadata5	libssh	lib
@@ -15729,6 +15793,7 @@ khelpcenter	glib2	lib
 khelpcenter	gnutls	lib
 khelpcenter	graphite2	lib
 khelpcenter	harfbuzz	lib
+khelpcenter	highway	lib
 khelpcenter	icu4c	lib
 khelpcenter	jansson	lib
 khelpcenter	karchive	linked
@@ -15774,6 +15839,7 @@ khelpcenter	libgcrypt	lib
 khelpcenter	libglvnd	linked
 khelpcenter	libimobiledevice	lib
 khelpcenter	libimobiledevice-glue	lib
+khelpcenter	libjxl	lib
 khelpcenter	libogg	lib
 khelpcenter	libplist	lib
 khelpcenter	libproxy	lib
@@ -16547,6 +16613,7 @@ kimagemapeditor	glib2	lib
 kimagemapeditor	gnutls	lib
 kimagemapeditor	graphite2	lib
 kimagemapeditor	harfbuzz	lib
+kimagemapeditor	highway	lib
 kimagemapeditor	icu4c	lib
 kimagemapeditor	jansson	lib
 kimagemapeditor	karchive	lib
@@ -16589,6 +16656,7 @@ kimagemapeditor	libgcrypt	lib
 kimagemapeditor	libglvnd	linked
 kimagemapeditor	libimobiledevice	lib
 kimagemapeditor	libimobiledevice-glue	lib
+kimagemapeditor	libjxl	lib
 kimagemapeditor	libogg	lib
 kimagemapeditor	libplist	lib
 kimagemapeditor	libproxy	lib
@@ -17905,6 +17973,7 @@ klevernotes	glib2	lib
 klevernotes	gnutls	lib
 klevernotes	graphite2	lib
 klevernotes	harfbuzz	lib
+klevernotes	highway	lib
 klevernotes	icu4c	lib
 klevernotes	jansson	lib
 klevernotes	karchive	lib
@@ -17933,6 +18002,7 @@ klevernotes	libdeflate	lib
 klevernotes	libdrm	lib
 klevernotes	libgcrypt	lib
 klevernotes	libglvnd	linked
+klevernotes	libjxl	lib
 klevernotes	libogg	lib
 klevernotes	libproxy	lib
 klevernotes	librsvg	lib
@@ -18299,6 +18369,7 @@ kmail	gpgmepp	linked
 kmail	grantleetheme	linked
 kmail	graphite2	lib
 kmail	harfbuzz	lib
+kmail	highway	lib
 kmail	icu4c	lib
 kmail	jansson	lib
 kmail	karchive	lib
@@ -18369,6 +18440,7 @@ kmail	libgravatar	linked
 kmail	libical	lib
 kmail	libimobiledevice	lib
 kmail	libimobiledevice-glue	lib
+kmail	libjxl	lib
 kmail	libkdepim	linked
 kmail	libkleo	linked
 kmail	libksieve	linked
@@ -19046,6 +19118,7 @@ kmymoney	gpgme	lib
 kmymoney	gpgmepp	linked
 kmymoney	graphite2	lib
 kmymoney	harfbuzz	lib
+kmymoney	highway	lib
 kmymoney	icu4c	lib
 kmymoney	jansson	lib
 kmymoney	karchive	linked
@@ -19099,6 +19172,7 @@ kmymoney	libglvnd	lib
 kmymoney	libical	linked
 kmymoney	libimobiledevice	lib
 kmymoney	libimobiledevice-glue	lib
+kmymoney	libjxl	lib
 kmymoney	libogg	lib
 kmymoney	libplist	lib
 kmymoney	libproxy	lib
@@ -19633,10 +19707,10 @@ koko	e2fsprogs	lib
 koko	exiv2	linked
 koko	fontconfig	lib
 koko	freetype	lib
-koko	gcc-gfortran	lib
 koko	glib2	lib
 koko	graphite2	lib
 koko	harfbuzz	lib
+koko	highway	lib
 koko	icu4c	lib
 koko	inih	lib
 koko	karchive	lib
@@ -19681,8 +19755,6 @@ koko	libxcb	linked
 koko	nghttp2	lib
 koko	nghttp3	lib
 koko	ngtcp2	lib
-koko	openblas	lib
-koko	opencv	lib
 koko	openssl	lib
 koko	openssl-solibs	lib
 koko	pcre2	lib
@@ -20010,6 +20082,7 @@ konqueror	glib2	lib
 konqueror	gnutls	lib
 konqueror	graphite2	lib
 konqueror	harfbuzz	lib
+konqueror	highway	lib
 konqueror	icu4c	lib
 konqueror	jansson	lib
 konqueror	karchive	linked
@@ -20060,6 +20133,7 @@ konqueror	libgcrypt	lib
 konqueror	libglvnd	linked
 konqueror	libimobiledevice	lib
 konqueror	libimobiledevice-glue	lib
+konqueror	libjxl	lib
 konqueror	libogg	lib
 konqueror	libplist	lib
 konqueror	libproxy	lib
@@ -20270,6 +20344,7 @@ kontact	gnutls	lib
 kontact	grantleetheme	linked
 kontact	graphite2	lib
 kontact	harfbuzz	lib
+kontact	highway	lib
 kontact	icu4c	lib
 kontact	jansson	lib
 kontact	karchive	lib
@@ -20320,6 +20395,7 @@ kontact	libgcrypt	lib
 kontact	libglvnd	linked
 kontact	libimobiledevice	lib
 kontact	libimobiledevice-glue	lib
+kontact	libjxl	lib
 kontact	libkdepim	linked
 kontact	libogg	lib
 kontact	libplist	lib
@@ -20603,6 +20679,7 @@ korganizer	gpgmepp	lib
 korganizer	grantleetheme	linked
 korganizer	graphite2	lib
 korganizer	harfbuzz	lib
+korganizer	highway	lib
 korganizer	icu4c	lib
 korganizer	incidenceeditor	linked
 korganizer	jansson	lib
@@ -20672,6 +20749,7 @@ korganizer	libgravatar	lib
 korganizer	libical	lib
 korganizer	libimobiledevice	lib
 korganizer	libimobiledevice-glue	lib
+korganizer	libjxl	lib
 korganizer	libkdepim	linked
 korganizer	libkleo	lib
 korganizer	libogg	lib
@@ -21137,6 +21215,7 @@ kpipewire	glib2	lib
 kpipewire	gnutls	lib
 kpipewire	graphite2	lib
 kpipewire	harfbuzz	lib
+kpipewire	highway	lib
 kpipewire	icu4c	lib
 kpipewire	jansson	lib
 kpipewire	kcoreaddons	linked
@@ -21155,6 +21234,7 @@ kpipewire	libdrm	linked
 kpipewire	libepoxy	linked
 kpipewire	libgcrypt	lib
 kpipewire	libglvnd	linked
+kpipewire	libjxl	lib
 kpipewire	libogg	lib
 kpipewire	libplacebo	lib
 kpipewire	libproxy	lib
@@ -21411,10 +21491,10 @@ kquickimageeditor	duktape	lib
 kquickimageeditor	e2fsprogs	lib
 kquickimageeditor	fontconfig	lib
 kquickimageeditor	freetype	lib
-kquickimageeditor	gcc-gfortran	lib
 kquickimageeditor	glib2	lib
 kquickimageeditor	graphite2	lib
 kquickimageeditor	harfbuzz	lib
+kquickimageeditor	highway	linked
 kquickimageeditor	icu4c	lib
 kquickimageeditor	kconfig	linked
 kquickimageeditor	libX11	lib
@@ -21428,8 +21508,6 @@ kquickimageeditor	libxcb	lib
 kquickimageeditor	nghttp2	lib
 kquickimageeditor	nghttp3	lib
 kquickimageeditor	ngtcp2	lib
-kquickimageeditor	openblas	lib
-kquickimageeditor	opencv	linked
 kquickimageeditor	openssl	lib
 kquickimageeditor	openssl-solibs	lib
 kquickimageeditor	pcre2	lib
@@ -21469,6 +21547,7 @@ krdc	glu	lib
 krdc	gnutls	lib
 krdc	graphite2	lib
 krdc	harfbuzz	lib
+krdc	highway	lib
 krdc	icu4c	lib
 krdc	jansson	lib
 krdc	karchive	lib
@@ -21522,6 +21601,7 @@ krdc	libgcrypt	lib
 krdc	libglvnd	linked
 krdc	libimobiledevice	lib
 krdc	libimobiledevice-glue	lib
+krdc	libjxl	lib
 krdc	libogg	lib
 krdc	libplacebo	lib
 krdc	libplist	lib
@@ -21597,6 +21677,7 @@ krdp	glu	lib
 krdp	gnutls	lib
 krdp	graphite2	lib
 krdp	harfbuzz	lib
+krdp	highway	lib
 krdp	icu4c	lib
 krdp	jansson	lib
 krdp	karchive	lib
@@ -21642,6 +21723,7 @@ krdp	libdrm	lib
 krdp	libepoxy	lib
 krdp	libgcrypt	lib
 krdp	libglvnd	linked
+krdp	libjxl	lib
 krdp	libogg	lib
 krdp	libplacebo	lib
 krdp	libproxy	lib
@@ -23738,6 +23820,7 @@ ktorrent	glib2	lib
 ktorrent	gnutls	lib
 ktorrent	graphite2	lib
 ktorrent	harfbuzz	lib
+ktorrent	highway	lib
 ktorrent	icu4c	lib
 ktorrent	jansson	lib
 ktorrent	karchive	linked
@@ -23789,6 +23872,7 @@ ktorrent	libgcrypt	lib
 ktorrent	libglvnd	linked
 ktorrent	libimobiledevice	lib
 ktorrent	libimobiledevice-glue	lib
+ktorrent	libjxl	lib
 ktorrent	libktorrent	linked
 ktorrent	libmaxminddb	linked
 ktorrent	libogg	lib
@@ -25612,32 +25696,20 @@ libcupsfilters	aaa_glibc-solibs	linked
 libcupsfilters	aaa_libraries	linked
 libcupsfilters	avahi	lib
 libcupsfilters	brotli	lib
-libcupsfilters	cyrus-sasl	lib
 libcupsfilters	dbus	linked
-libcupsfilters	e2fsprogs	lib
 libcupsfilters	fontconfig	linked
 libcupsfilters	freetype	lib
-libcupsfilters	gnutls	lib
-libcupsfilters	gpgme	lib
-libcupsfilters	gpgmepp	lib
 libcupsfilters	graphite2	lib
 libcupsfilters	harfbuzz	lib
+libcupsfilters	highway	lib
 libcupsfilters	lcms2	linked
-libcupsfilters	libassuan	lib
 libcupsfilters	libdeflate	lib
 libcupsfilters	libexif	linked
+libcupsfilters	libjxl	linked
 libcupsfilters	libwebp	lib
-libcupsfilters	mozilla-nss	lib
-libcupsfilters	nettle	lib
-libcupsfilters	nghttp2	lib
-libcupsfilters	nghttp3	lib
-libcupsfilters	ngtcp2	lib
-libcupsfilters	openjpeg	lib
 libcupsfilters	openssl	lib
 libcupsfilters	openssl-solibs	lib
-libcupsfilters	p11-kit	lib
-libcupsfilters	poppler	linked
-libcupsfilters	qpdf	linked
+libcupsfilters	pdfio	linked
 libdaemon	aaa_glibc-solibs	linked
 libdbusmenu-qt	aaa_glibc-solibs	linked
 libdbusmenu-qt	aaa_libraries	linked
@@ -26130,6 +26202,11 @@ libiodbc	pixman	lib
 libiodbc	util-linux	lib
 libjpeg-turbo	aaa_glibc-solibs	linked
 libjpeg-turbo	aaa_libraries	linked
+libjxl	aaa_glibc-solibs	linked
+libjxl	aaa_libraries	linked
+libjxl	brotli	linked
+libjxl	giflib	linked
+libjxl	highway	linked
 libkarma	aaa_glibc-solibs	linked
 libkarma	aaa_libraries	linked
 libkarma	taglib	linked
@@ -26621,6 +26698,7 @@ libksieve	glib2	lib
 libksieve	gnutls	lib
 libksieve	graphite2	lib
 libksieve	harfbuzz	lib
+libksieve	highway	lib
 libksieve	icu4c	lib
 libksieve	jansson	lib
 libksieve	karchive	linked
@@ -26671,6 +26749,7 @@ libksieve	libgcrypt	lib
 libksieve	libglvnd	linked
 libksieve	libimobiledevice	lib
 libksieve	libimobiledevice-glue	lib
+libksieve	libjxl	lib
 libksieve	libkdepim	linked
 libksieve	libogg	lib
 libksieve	libplist	lib
@@ -27106,33 +27185,22 @@ libppd	aaa_glibc-solibs	linked
 libppd	aaa_libraries	linked
 libppd	avahi	lib
 libppd	brotli	lib
-libppd	cyrus-sasl	lib
 libppd	dbus	lib
-libppd	e2fsprogs	lib
 libppd	fontconfig	lib
 libppd	freetype	lib
-libppd	gnutls	lib
-libppd	gpgme	lib
-libppd	gpgmepp	lib
 libppd	graphite2	lib
 libppd	harfbuzz	lib
+libppd	highway	lib
 libppd	lcms2	lib
-libppd	libassuan	lib
 libppd	libcupsfilters	linked
 libppd	libdeflate	lib
 libppd	libexif	lib
+libppd	libjxl	lib
 libppd	libwebp	lib
-libppd	mozilla-nss	lib
-libppd	nettle	lib
-libppd	nghttp2	lib
-libppd	nghttp3	lib
-libppd	ngtcp2	lib
-libppd	openjpeg	lib
 libppd	openssl	lib
 libppd	openssl-solibs	lib
-libppd	p11-kit	lib
-libppd	poppler	lib
-libppd	qpdf	lib
+libppd	pdfio	lib
+libppd	poppler	hint:exec
 libproxy	aaa_glibc-solibs	linked
 libproxy	aaa_libraries	linked
 libproxy	brotli	lib
@@ -28008,6 +28076,7 @@ mailcommon	gpgmepp	linked
 mailcommon	grantleetheme	linked
 mailcommon	graphite2	lib
 mailcommon	harfbuzz	lib
+mailcommon	highway	lib
 mailcommon	icu4c	lib
 mailcommon	jansson	lib
 mailcommon	karchive	linked
@@ -28071,6 +28140,7 @@ mailcommon	libgravatar	lib
 mailcommon	libical	lib
 mailcommon	libimobiledevice	lib
 mailcommon	libimobiledevice-glue	lib
+mailcommon	libjxl	lib
 mailcommon	libkdepim	linked
 mailcommon	libkleo	linked
 mailcommon	libogg	lib
@@ -28245,6 +28315,7 @@ marble	glib2	lib
 marble	gnutls	lib
 marble	graphite2	lib
 marble	harfbuzz	lib
+marble	highway	lib
 marble	icu4c	lib
 marble	jansson	lib
 marble	karchive	lib
@@ -28290,6 +28361,7 @@ marble	libgcrypt	lib
 marble	libglvnd	linked
 marble	libimobiledevice	lib
 marble	libimobiledevice-glue	lib
+marble	libjxl	lib
 marble	libogg	lib
 marble	libplist	lib
 marble	libproxy	lib
@@ -28558,6 +28630,7 @@ mbox-importer	gpgmepp	linked
 mbox-importer	grantleetheme	linked
 mbox-importer	graphite2	lib
 mbox-importer	harfbuzz	lib
+mbox-importer	highway	lib
 mbox-importer	icu4c	lib
 mbox-importer	jansson	lib
 mbox-importer	karchive	linked
@@ -28621,6 +28694,7 @@ mbox-importer	libgravatar	lib
 mbox-importer	libical	lib
 mbox-importer	libimobiledevice	lib
 mbox-importer	libimobiledevice-glue	lib
+mbox-importer	libjxl	lib
 mbox-importer	libkdepim	linked
 mbox-importer	libkleo	linked
 mbox-importer	libogg	lib
@@ -28742,6 +28816,7 @@ merkuro	gpgmepp	linked
 merkuro	grantleetheme	linked
 merkuro	graphite2	lib
 merkuro	harfbuzz	lib
+merkuro	highway	lib
 merkuro	icu4c	lib
 merkuro	jansson	lib
 merkuro	karchive	lib
@@ -28811,6 +28886,7 @@ merkuro	libgravatar	lib
 merkuro	libical	lib
 merkuro	libimobiledevice	lib
 merkuro	libimobiledevice-glue	lib
+merkuro	libjxl	lib
 merkuro	libkdepim	linked
 merkuro	libkleo	linked
 merkuro	libogg	lib
@@ -28935,6 +29011,7 @@ messagelib	gpgmepp	linked
 messagelib	grantleetheme	linked
 messagelib	graphite2	lib
 messagelib	harfbuzz	lib
+messagelib	highway	lib
 messagelib	icu4c	lib
 messagelib	jansson	lib
 messagelib	karchive	linked
@@ -28998,6 +29075,7 @@ messagelib	libgravatar	linked
 messagelib	libical	lib
 messagelib	libimobiledevice	lib
 messagelib	libimobiledevice-glue	lib
+messagelib	libjxl	lib
 messagelib	libkdepim	linked
 messagelib	libkleo	linked
 messagelib	libogg	lib
@@ -29200,6 +29278,7 @@ minuet	glib2	lib
 minuet	gnutls	lib
 minuet	graphite2	lib
 minuet	harfbuzz	lib
+minuet	highway	lib
 minuet	icu4c	lib
 minuet	jansson	lib
 minuet	karchive	lib
@@ -29225,6 +29304,7 @@ minuet	libbluray	lib
 minuet	libdrm	lib
 minuet	libgcrypt	lib
 minuet	libglvnd	linked
+minuet	libjxl	lib
 minuet	libogg	lib
 minuet	libproxy	lib
 minuet	librsvg	lib
@@ -29308,6 +29388,7 @@ mlt	graphite2	lib
 mlt	gst-plugins-base	lib
 mlt	gstreamer	lib
 mlt	harfbuzz	linked
+mlt	highway	lib
 mlt	icu4c	lib
 mlt	jansson	lib
 mlt	lame	lib
@@ -29338,6 +29419,7 @@ mlt	libexif	linked
 mlt	libgcrypt	lib
 mlt	libglvnd	linked
 mlt	libid3tag	lib
+mlt	libjxl	lib
 mlt	libmad	lib
 mlt	libogg	lib
 mlt	libplacebo	lib
@@ -29666,6 +29748,7 @@ mpv	glu	lib
 mpv	gnutls	lib
 mpv	graphite2	lib
 mpv	harfbuzz	lib
+mpv	highway	lib
 mpv	icu4c	lib
 mpv	jansson	lib
 mpv	lame	lib
@@ -29695,6 +29778,7 @@ mpv	libdvdnav	linked
 mpv	libdvdread	lib
 mpv	libgcrypt	lib
 mpv	libglvnd	linked
+mpv	libjxl	lib
 mpv	libogg	lib
 mpv	libplacebo	linked
 mpv	librsvg	lib
@@ -29758,6 +29842,7 @@ mpvqt	glu	lib
 mpvqt	gnutls	lib
 mpvqt	graphite2	lib
 mpvqt	harfbuzz	lib
+mpvqt	highway	lib
 mpvqt	icu4c	lib
 mpvqt	jansson	lib
 mpvqt	lame	lib
@@ -29787,6 +29872,7 @@ mpvqt	libdvdnav	lib
 mpvqt	libdvdread	lib
 mpvqt	libgcrypt	lib
 mpvqt	libglvnd	linked
+mpvqt	libjxl	lib
 mpvqt	libogg	lib
 mpvqt	libplacebo	lib
 mpvqt	libproxy	lib
@@ -30452,6 +30538,7 @@ opencv	graphite2	lib
 opencv	gst-plugins-base	linked
 opencv	gstreamer	linked
 opencv	harfbuzz	linked
+opencv	highway	lib
 opencv	icu4c	lib
 opencv	jansson	lib
 opencv	lame	lib
@@ -30478,6 +30565,7 @@ opencv	libdeflate	lib
 opencv	libdrm	lib
 opencv	libgcrypt	lib
 opencv	libglvnd	linked
+opencv	libjxl	lib
 opencv	libogg	lib
 opencv	libplacebo	lib
 opencv	librsvg	lib
@@ -30910,6 +30998,7 @@ parley	glib2	lib
 parley	gnutls	lib
 parley	graphite2	lib
 parley	harfbuzz	lib
+parley	highway	lib
 parley	icu4c	lib
 parley	jansson	lib
 parley	karchive	lib
@@ -30957,6 +31046,7 @@ parley	libgcrypt	lib
 parley	libglvnd	linked
 parley	libimobiledevice	lib
 parley	libimobiledevice-glue	lib
+parley	libjxl	lib
 parley	libkeduvocdocument	linked
 parley	libogg	lib
 parley	libplist	lib
@@ -31177,6 +31267,8 @@ pcsc-lite	elogind	lib
 pcsc-lite	glib2	lib
 pcsc-lite	polkit	linked
 pcsc-lite	util-linux	lib
+pdfio	aaa_glibc-solibs	linked
+pdfio	aaa_libraries	linked
 perl	aaa_glibc-solibs	linked
 perl	aaa_libraries	linked
 perl	ca-certificates	hint:use
@@ -31251,6 +31343,7 @@ phonon-backend-mpv	glu	lib
 phonon-backend-mpv	gnutls	lib
 phonon-backend-mpv	graphite2	lib
 phonon-backend-mpv	harfbuzz	lib
+phonon-backend-mpv	highway	lib
 phonon-backend-mpv	icu4c	lib
 phonon-backend-mpv	jansson	lib
 phonon-backend-mpv	lame	lib
@@ -31280,6 +31373,7 @@ phonon-backend-mpv	libdvdnav	lib
 phonon-backend-mpv	libdvdread	lib
 phonon-backend-mpv	libgcrypt	lib
 phonon-backend-mpv	libglvnd	linked
+phonon-backend-mpv	libjxl	lib
 phonon-backend-mpv	libogg	lib
 phonon-backend-mpv	libplacebo	lib
 phonon-backend-mpv	librsvg	lib
@@ -31540,6 +31634,7 @@ pim-data-exporter	gpgmepp	linked
 pim-data-exporter	grantleetheme	linked
 pim-data-exporter	graphite2	lib
 pim-data-exporter	harfbuzz	lib
+pim-data-exporter	highway	lib
 pim-data-exporter	icu4c	lib
 pim-data-exporter	jansson	lib
 pim-data-exporter	karchive	linked
@@ -31605,6 +31700,7 @@ pim-data-exporter	libgravatar	lib
 pim-data-exporter	libical	lib
 pim-data-exporter	libimobiledevice	lib
 pim-data-exporter	libimobiledevice-glue	lib
+pim-data-exporter	libjxl	lib
 pim-data-exporter	libkdepim	linked
 pim-data-exporter	libkleo	linked
 pim-data-exporter	libogg	lib
@@ -31690,6 +31786,7 @@ pim-sieve-editor	glib2	lib
 pim-sieve-editor	gnutls	lib
 pim-sieve-editor	graphite2	lib
 pim-sieve-editor	harfbuzz	lib
+pim-sieve-editor	highway	lib
 pim-sieve-editor	icu4c	lib
 pim-sieve-editor	jansson	lib
 pim-sieve-editor	karchive	lib
@@ -31741,6 +31838,7 @@ pim-sieve-editor	libgcrypt	lib
 pim-sieve-editor	libglvnd	linked
 pim-sieve-editor	libimobiledevice	lib
 pim-sieve-editor	libimobiledevice-glue	lib
+pim-sieve-editor	libjxl	lib
 pim-sieve-editor	libkdepim	lib
 pim-sieve-editor	libksieve	linked
 pim-sieve-editor	libogg	lib
@@ -31965,6 +32063,7 @@ pipewire	graphite2	lib
 pipewire	gst-plugins-base	linked
 pipewire	gstreamer	linked
 pipewire	harfbuzz	lib
+pipewire	highway	lib
 pipewire	icu4c	lib
 pipewire	jansson	lib
 pipewire	lame	lib
@@ -31981,6 +32080,7 @@ pipewire	libbluray	lib
 pipewire	libcanberra	linked
 pipewire	libdrm	linked
 pipewire	libgcrypt	lib
+pipewire	libjxl	lib
 pipewire	libogg	lib
 pipewire	libplacebo	lib
 pipewire	librsvg	lib
@@ -32079,6 +32179,7 @@ plasma-bigscreen	glib2	lib
 plasma-bigscreen	gnutls	lib
 plasma-bigscreen	graphite2	lib
 plasma-bigscreen	harfbuzz	lib
+plasma-bigscreen	highway	lib
 plasma-bigscreen	icu4c	lib
 plasma-bigscreen	jansson	lib
 plasma-bigscreen	karchive	lib
@@ -32127,6 +32228,7 @@ plasma-bigscreen	libgcrypt	lib
 plasma-bigscreen	libglvnd	linked
 plasma-bigscreen	libimobiledevice	lib
 plasma-bigscreen	libimobiledevice-glue	lib
+plasma-bigscreen	libjxl	lib
 plasma-bigscreen	libkscreen	linked
 plasma-bigscreen	libogg	lib
 plasma-bigscreen	libplasma	linked
@@ -34507,6 +34609,7 @@ qt5	gst-plugins-base	linked
 qt5	gstreamer	linked
 qt5	gtk+3	linked
 qt5	harfbuzz	linked
+qt5	highway	lib
 qt5	hunspell	linked
 qt5	icu4c	linked
 qt5	jansson	lib
@@ -34541,6 +34644,7 @@ qt5	libgcrypt	linked
 qt5	libglvnd	linked
 qt5	libgudev	lib
 qt5	libinput	linked
+qt5	libjxl	lib
 qt5	libmng	linked
 qt5	libogg	linked
 qt5	librsvg	linked
@@ -34620,6 +34724,7 @@ qt6	gst-plugins-base	linked
 qt6	gstreamer	linked
 qt6	gtk+3	linked
 qt6	harfbuzz	linked
+qt6	highway	lib
 qt6	hunspell	linked
 qt6	icu4c	linked
 qt6	jansson	lib
@@ -34653,6 +34758,7 @@ qt6	libglvnd	linked
 qt6	libgudev	lib
 qt6	libinput	linked
 qt6	libiodbc	linked
+qt6	libjxl	lib
 qt6	libmng	linked
 qt6	libogg	lib
 qt6	libproxy	linked
@@ -35732,6 +35838,7 @@ spectacle	glib2	lib
 spectacle	gnutls	lib
 spectacle	graphite2	lib
 spectacle	harfbuzz	lib
+spectacle	highway	lib
 spectacle	icu4c	lib
 spectacle	jansson	lib
 spectacle	karchive	lib
@@ -35781,6 +35888,7 @@ spectacle	libgcrypt	lib
 spectacle	libglvnd	linked
 spectacle	libimobiledevice	lib
 spectacle	libimobiledevice-glue	lib
+spectacle	libjxl	lib
 spectacle	libogg	lib
 spectacle	libplacebo	lib
 spectacle	libplist	lib
@@ -35920,6 +36028,7 @@ ssr	glu	linked
 ssr	gnutls	lib
 ssr	graphite2	lib
 ssr	harfbuzz	lib
+ssr	highway	lib
 ssr	icu4c	lib
 ssr	iputils	hint:exec
 ssr	jansson	lib
@@ -35938,6 +36047,7 @@ ssr	libbluray	lib
 ssr	libdrm	lib
 ssr	libgcrypt	lib
 ssr	libglvnd	linked
+ssr	libjxl	lib
 ssr	libogg	lib
 ssr	librsvg	lib
 ssr	libsndfile	lib
@@ -36117,6 +36227,7 @@ subtitlecomposer	glu	lib
 subtitlecomposer	gnutls	lib
 subtitlecomposer	graphite2	lib
 subtitlecomposer	harfbuzz	lib
+subtitlecomposer	highway	lib
 subtitlecomposer	icu4c	linked
 subtitlecomposer	jansson	lib
 subtitlecomposer	karchive	lib
@@ -36165,6 +36276,7 @@ subtitlecomposer	libgcrypt	lib
 subtitlecomposer	libglvnd	linked
 subtitlecomposer	libimobiledevice	lib
 subtitlecomposer	libimobiledevice-glue	lib
+subtitlecomposer	libjxl	lib
 subtitlecomposer	libogg	lib
 subtitlecomposer	libplacebo	lib
 subtitlecomposer	libplist	lib
@@ -36897,6 +37009,7 @@ tumbler	graphite2	lib
 tumbler	gst-plugins-base	linked
 tumbler	gstreamer	linked
 tumbler	harfbuzz	lib
+tumbler	highway	lib
 tumbler	icu4c	lib
 tumbler	jansson	lib
 tumbler	lame	lib
@@ -36914,6 +37027,7 @@ tumbler	libdeflate	lib
 tumbler	libdrm	lib
 tumbler	libgcrypt	lib
 tumbler	libgsf	linked
+tumbler	libjxl	lib
 tumbler	libogg	lib
 tumbler	libplacebo	lib
 tumbler	librsvg	lib
@@ -39149,6 +39263,7 @@ xine-lib	glu	linked
 xine-lib	gnutls	linked
 xine-lib	graphite2	lib
 xine-lib	harfbuzz	lib
+xine-lib	highway	lib
 xine-lib	icu4c	lib
 xine-lib	imagemagick	linked
 xine-lib	jansson	lib
@@ -39176,6 +39291,7 @@ xine-lib	libdvdnav	linked
 xine-lib	libdvdread	linked
 xine-lib	libgcrypt	linked
 xine-lib	libglvnd	linked
+xine-lib	libjxl	lib
 xine-lib	libmad	linked
 xine-lib	libmng	linked
 xine-lib	libogg	linked
@@ -39743,6 +39859,7 @@ xscreensaver	gnutls	lib
 xscreensaver	graphite2	lib
 xscreensaver	gtk+3	linked
 xscreensaver	harfbuzz	linked
+xscreensaver	highway	lib
 xscreensaver	icu4c	lib
 xscreensaver	jansson	lib
 xscreensaver	lame	lib
@@ -39769,6 +39886,7 @@ xscreensaver	libdrm	lib
 xscreensaver	libepoxy	lib
 xscreensaver	libgcrypt	lib
 xscreensaver	libglvnd	linked
+xscreensaver	libjxl	lib
 xscreensaver	libogg	lib
 xscreensaver	librsvg	lib
 xscreensaver	libssh	lib
@@ -40049,6 +40167,7 @@ zanshin	gpgmepp	lib
 zanshin	grantleetheme	lib
 zanshin	graphite2	lib
 zanshin	harfbuzz	lib
+zanshin	highway	lib
 zanshin	icu4c	lib
 zanshin	jansson	lib
 zanshin	karchive	lib
@@ -40116,6 +40235,7 @@ zanshin	libgravatar	lib
 zanshin	libical	lib
 zanshin	libimobiledevice	lib
 zanshin	libimobiledevice-glue	lib
+zanshin	libjxl	lib
 zanshin	libkdepim	lib
 zanshin	libkleo	lib
 zanshin	libogg	lib
