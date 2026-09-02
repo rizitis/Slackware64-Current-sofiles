@@ -3636,8 +3636,8 @@ libusbmuxd-2.0.so.6 libusbmuxd
 libusbredirhost.so.1 usbredir
 libusbredirparser.so.1 usbredir
 libutempter.so.0 utempter
-libutf8_range.so.36.0.0 protobuf
-libutf8_validity.so.36.0.0 protobuf
+libutf8_range.so.36.1.0 protobuf
+libutf8_validity.so.36.1.0 protobuf
 libutf8proc.so.3 utf8proc
 libutil-crypt-private-samba.so samba
 libutil-reg-private-samba.so samba

@@ -324,8 +324,8 @@ libswscale.so.10
 libtiff.so.6
 libudev.so.1
 liburing.so.2
-libutf8_range.so.36.0.0
-libutf8_validity.so.36.0.0
+libutf8_range.so.36.1.0
+libutf8_validity.so.36.1.0
 libva-drm.so.2
 libva.so.2
 libwayland-client.so.0

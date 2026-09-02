@@ -21629,8 +21629,8 @@ mosh	libstdc++.so.6	gcc-g++
 mosh	libtinfo.so.6	aaa_libraries
 mosh	libtinfo.so.6	ncurses
 mosh	libutempter.so.0	utempter
-mosh	libutf8_range.so.36.0.0	protobuf
-mosh	libutf8_validity.so.36.0.0	protobuf
+mosh	libutf8_range.so.36.1.0	protobuf
+mosh	libutf8_validity.so.36.1.0	protobuf
 mosh	libz.so.1	aaa_libraries
 mosh	libz.so.1	zlib
 most	libc.so.6	aaa_glibc-solibs
@@ -26303,8 +26303,8 @@ qt6	libtiff.so.6	libtiff
 qt6	libudev.so.1	aaa_libraries
 qt6	libudev.so.1	eudev
 qt6	liburing.so.2	liburing
-qt6	libutf8_range.so.36.0.0	protobuf
-qt6	libutf8_validity.so.36.0.0	protobuf
+qt6	libutf8_range.so.36.1.0	protobuf
+qt6	libutf8_validity.so.36.1.0	protobuf
 qt6	libva-drm.so.2	libva
 qt6	libva.so.2	libva
 qt6	libwayland-client.so.0	wayland
