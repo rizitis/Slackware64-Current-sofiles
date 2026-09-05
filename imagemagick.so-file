@@ -30,6 +30,8 @@ libgomp.so.1
 libgvc.so.7
 libharfbuzz.so.0
 libjpeg.so.62
+libjxl.so.0.12
+libjxl_threads.so.0.12
 liblcms2.so.2
 libltdl.so.7
 liblzma.so.5

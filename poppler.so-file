@@ -13,6 +13,8 @@ libgio-2.0.so.0
 libglib-2.0.so.0
 libgobject-2.0.so.0
 libgpgmepp.so.7
+libharfbuzz-subset.so.0
+libharfbuzz.so.0
 libjpeg.so.62
 liblcms2.so.2
 libm.so.6
@@ -21,7 +23,7 @@ libnss3.so
 libopenjp2.so.7
 libplc4.so
 libpng16.so.16
-libpoppler.so.163
+libpoppler.so.164
 libsmime3.so
 libstdc++.so.6
 libtiff.so.6

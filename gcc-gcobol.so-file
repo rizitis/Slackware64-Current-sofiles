@@ -7,5 +7,6 @@ libm.so.6
 libmpc.so.3
 libmpfr.so.6
 libstdc++.so.6
+libxml2.so.16
 libz.so.1
 libzstd.so.1

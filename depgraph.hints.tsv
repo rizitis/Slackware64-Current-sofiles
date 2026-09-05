@@ -32,9 +32,11 @@ SDL2	dlopen	libXrandr.so.2	libXrandr	guess
 SDL2	dlopen	libXss.so.1	libXScrnSaver	guess
 SDL2	dlopen	libasound.so.2	aaa_libraries	guess
 SDL2	dlopen	libdbus-1.so.3	dbus	guess
+SDL2	dlopen	libdecor-0.so.0	libdecor	guess
 SDL2	dlopen	libdrm.so.2	libdrm	guess
 SDL2	dlopen	libesd.so.0	esound	guess
 SDL2	dlopen	libgbm.so.1	mesa	guess
+SDL2	dlopen	libjack.so.0	pipewire	guess
 SDL2	dlopen	libpipewire-0.3.so.0	pipewire	guess
 SDL2	dlopen	libpulse.so.0	pulseaudio	guess
 SDL2	dlopen	libsamplerate.so.0	libsamplerate	guess
@@ -44,6 +46,7 @@ SDL2	dlopen	libwayland-client.so.0	wayland	guess
 SDL2	dlopen	libwayland-cursor.so.0	wayland	guess
 SDL2	dlopen	libwayland-egl.so.1	wayland	guess
 SDL2	dlopen	libxkbcommon.so.0	aaa_libraries	guess
+SDL2_image	dlopen	libjxl.so.0.12	libjxl	guess
 SDL2_mixer	dlopen	libfluidsynth.so.3	fluidsynth	guess
 SDL2_mixer	dlopen	libopusfile.so.0	opusfile	guess
 SDL2_mixer	dlopen	libwavpack.so.1	wavpack	guess
@@ -323,7 +326,6 @@ libxml2	import	libxslt	libxslt	guess
 libxslt	import	libxml2	libxml2	guess
 linuxdoc-tools	import	libxml2	libxml2	guess
 llvm	build	/usr/bin/as	binutils	guess
-llvm	dlopen	ld-linux.so.2	aaa_glibc-solibs	guess
 llvm	exec	/usr/bin/env	coreutils	guess
 llvm	import	yaml	python-PyYAML	guess
 logrotate	exec	/usr/bin/gunzip	gzip	guess
@@ -376,13 +378,14 @@ mozilla-firefox	dlopen	libSM.so.6	libSM	guess
 mozilla-firefox	dlopen	libXss.so.1	libXScrnSaver	guess
 mozilla-firefox	dlopen	libatk-bridge-2.0.so.0	at-spi2-core	guess
 mozilla-firefox	dlopen	libavcodec.so.62	aaa_libraries	guess
+mozilla-firefox	dlopen	libavcodec.so.63	ffmpeg	guess
 mozilla-firefox	dlopen	libcanberra.so.0	libcanberra	guess
 mozilla-firefox	dlopen	libcurl.so.4	aaa_libraries	guess
 mozilla-firefox	dlopen	libdbusmenu-glib.so.4	libdbusmenu	guess
 mozilla-firefox	dlopen	libdbusmenu-gtk3.so.4	libdbusmenu	guess
 mozilla-firefox	dlopen	libdl.so.2	aaa_glibc-solibs	guess
 mozilla-firefox	dlopen	libdrm.so.2	libdrm	guess
-mozilla-firefox	dlopen	libfreeblpriv3.so	mozilla-nss	guess
+mozilla-firefox	dlopen	libfreebl3.so	mozilla-nss	guess
 mozilla-firefox	dlopen	libgbm.so.1	mesa	guess
 mozilla-firefox	dlopen	libgssapi_krb5.so.2	aaa_libraries	guess
 mozilla-firefox	dlopen	libnotify.so.4	libnotify	guess
@@ -396,6 +399,7 @@ mozilla-firefox	dlopen	libspeechd.so.2	speech-dispatcher	guess
 mozilla-firefox	dlopen	libudev.so.1	aaa_libraries	guess
 mozilla-firefox	dlopen	libva-drm.so.2	libva	guess
 mozilla-firefox	dlopen	libva.so.2	libva	guess
+mozilla-firefox	dlopen	libvulkan.so.1	vulkan-sdk	guess
 mozilla-thunderbird	dlopen	libEGL.so.1	libglvnd	guess
 mozilla-thunderbird	dlopen	libGL.so.1	libglvnd	guess
 mozilla-thunderbird	dlopen	libGLESv2.so.2	libglvnd	guess
@@ -404,16 +408,18 @@ mozilla-thunderbird	dlopen	libSM.so.6	libSM	guess
 mozilla-thunderbird	dlopen	libXss.so.1	libXScrnSaver	guess
 mozilla-thunderbird	dlopen	libatk-bridge-2.0.so.0	at-spi2-core	guess
 mozilla-thunderbird	dlopen	libavcodec.so.62	aaa_libraries	guess
+mozilla-thunderbird	dlopen	libavcodec.so.63	ffmpeg	guess
 mozilla-thunderbird	dlopen	libcanberra.so.0	libcanberra	guess
 mozilla-thunderbird	dlopen	libcurl.so.4	aaa_libraries	guess
 mozilla-thunderbird	dlopen	libdbusmenu-glib.so.4	libdbusmenu	guess
 mozilla-thunderbird	dlopen	libdbusmenu-gtk3.so.4	libdbusmenu	guess
 mozilla-thunderbird	dlopen	libdl.so.2	aaa_glibc-solibs	guess
 mozilla-thunderbird	dlopen	libdrm.so.2	libdrm	guess
-mozilla-thunderbird	dlopen	libfreeblpriv3.so	mozilla-nss	guess
+mozilla-thunderbird	dlopen	libfreebl3.so	mozilla-nss	guess
 mozilla-thunderbird	dlopen	libgbm.so.1	mesa	guess
 mozilla-thunderbird	dlopen	libgssapi_krb5.so.2	aaa_libraries	guess
 mozilla-thunderbird	dlopen	libmozavcodec.so	mozilla-firefox	guess
+mozilla-thunderbird	dlopen	libmozinference.so	mozilla-firefox	guess
 mozilla-thunderbird	dlopen	libnotify.so.4	libnotify	guess
 mozilla-thunderbird	dlopen	libpci.so.3	pciutils	guess
 mozilla-thunderbird	dlopen	libpipewire-0.3.so.0	pipewire	guess
@@ -425,6 +431,7 @@ mozilla-thunderbird	dlopen	libspeechd.so.2	speech-dispatcher	guess
 mozilla-thunderbird	dlopen	libudev.so.1	aaa_libraries	guess
 mozilla-thunderbird	dlopen	libva-drm.so.2	libva	guess
 mozilla-thunderbird	dlopen	libva.so.2	libva	guess
+mozilla-thunderbird	dlopen	libvulkan.so.1	vulkan-sdk	guess
 mozilla-thunderbird	dlopen	libxul.so	mozilla-firefox	guess
 mpfr	dlopen	libmpfr.so.6	aaa_libraries	guess
 mutt	exec	/usr/bin/ispell	ispell	guess
@@ -453,6 +460,7 @@ ntfs-3g	exec	/usr/bin/umount	util-linux	guess
 nvi	exec	/usr/bin/sendmail	postfix	guess
 openal-soft	dlopen	libasound.so.2	aaa_libraries	guess
 openal-soft	dlopen	libdbus-1.so.3	dbus	guess
+openal-soft	dlopen	libjack.so.0	pipewire	guess
 openal-soft	dlopen	libpipewire-0.3.so.0	pipewire	guess
 openal-soft	dlopen	libpulse.so.0	pulseaudio	guess
 opencv	dlopen	libOpenCL.so.1	ocl-icd	guess
@@ -470,7 +478,6 @@ pidgin	import	dbus	dbus-python	guess
 poke	build	/usr/bin/objdump	binutils	guess
 poppler	dlopen	libnssckbi.so	mozilla-nss	guess
 popt	dlopen	libpopt.so.0	aaa_libraries	guess
-powertop	exec	/usr/bin/mount	util-linux	guess
 procmail	exec	/usr/bin/sendmail	postfix	guess
 protobuf	import	numpy	python-numpy	guess
 pulseaudio	import	PyQt5	PyQt5_sip	guess
@@ -611,8 +618,6 @@ qt6	dlopen	libvulkan_radeon.so	mesa	guess
 qt6	dlopen	libxcb-present.so.0	libxcb	guess
 rcs	exec	/usr/bin/diff	diffutils	guess
 rcs	exec	/usr/bin/diff3	diffutils	guess
-rdist	exec	/usr/bin/rsh	netkit-rsh	guess
-rdist	exec	/usr/bin/sendmail	postfix	guess
 rp-pppoe	exec	/usr/bin/pppd	ppp	guess
 rust	exec	/usr/bin/env	coreutils	guess
 rust	import	lldb	llvm	guess
@@ -685,7 +690,6 @@ util-linux	exec	/usr/bin/dmsetup	lvm2	guess
 util-linux	exec	/usr/bin/ntpdate	ntp	guess
 util-linux	exec	/usr/bin/shutdown	sysvinit	guess
 valgrind	dlopen	ld-linux-x86-64.so.2	aaa_glibc-solibs	guess
-valgrind	dlopen	ld-linux.so.2	aaa_glibc-solibs	guess
 valgrind	dlopen	libpthread.so.0	aaa_glibc-solibs	guess
 vim	dlopen	libpython3.12.so.1.0	python3	guess
 vim	dlopen	libruby.so.4.0	ruby	guess

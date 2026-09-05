@@ -3,6 +3,7 @@ libao.so.4
 libc.so.6
 libcurl.so.4
 libm.so.6
+libmvec.so.1
 libnsl.so.3
 libogg.so.0
 libopusfile.so.0

@@ -282,6 +282,7 @@ SDL2	libXext	hint:dlopen
 SDL2	libXfixes	hint:dlopen
 SDL2	libXi	hint:dlopen
 SDL2	libXrandr	hint:dlopen
+SDL2	libdecor	hint:dlopen
 SDL2	libdrm	hint:dlopen
 SDL2	libglvnd	hint:dlopen
 SDL2	libsamplerate	hint:dlopen
@@ -296,6 +297,7 @@ SDL2_image	SDL2	linked
 SDL2_image	aaa_glibc-solibs	linked
 SDL2_image	aaa_libraries	linked
 SDL2_image	libdeflate	lib
+SDL2_image	libjxl	hint:dlopen
 SDL2_image	libwebp	linked
 SDL2_mixer	SDL2	linked
 SDL2_mixer	aaa_glibc-solibs	linked
@@ -3038,6 +3040,8 @@ boost	aaa_glibc-solibs	linked
 boost	aaa_libraries	linked
 boost	gcc	linked
 boost	icu4c	linked
+boost	openssl	linked
+boost	openssl-solibs	linked
 bootp	aaa_glibc-solibs	linked
 bovo	aaa_glibc-solibs	linked
 bovo	aaa_libraries	linked
@@ -3458,6 +3462,7 @@ calligra	knotifications	linked
 calligra	knotifyconfig	linked
 calligra	kservice	linked
 calligra	ktextwidgets	linked
+calligra	kwallet	lib
 calligra	kwidgetsaddons	linked
 calligra	kwindowsystem	linked
 calligra	kxmlgui	linked
@@ -3515,6 +3520,7 @@ calligra	nghttp2	lib
 calligra	nghttp3	lib
 calligra	ngtcp2	lib
 calligra	ocl-icd	lib
+calligra	okular	linked
 calligra	openjpeg	lib
 calligra	openssl	linked
 calligra	openssl-solibs	linked
@@ -3535,6 +3541,7 @@ calligra	sonnet	linked
 calligra	speex	lib
 calligra	talloc	lib
 calligra	tevent	lib
+calligra	threadweaver	lib
 calligra	util-linux	lib
 calligra	wayland	lib
 calligra	xcb-util-keysyms	lib
@@ -4429,7 +4436,7 @@ digikam	libical	lib
 digikam	libieee1284	lib
 digikam	libimobiledevice	lib
 digikam	libimobiledevice-glue	lib
-digikam	libjxl	lib
+digikam	libjxl	linked
 digikam	libksane	linked
 digikam	libogg	lib
 digikam	libplacebo	lib
@@ -6367,7 +6374,7 @@ freerdp	libsndfile	lib
 freerdp	libssh	lib
 freerdp	libtheora	lib
 freerdp	libunibreak	lib
-freerdp	libva	lib
+freerdp	libva	linked
 freerdp	libvdpau	lib
 freerdp	libvorbis	lib
 freerdp	libvpx	lib
@@ -6609,6 +6616,7 @@ gcc-g++	gcc	hint:dlopen
 gcc-gcobol	aaa_glibc-solibs	linked
 gcc-gcobol	aaa_libraries	linked
 gcc-gcobol	gcc	hint:dlopen
+gcc-gcobol	libxml2	linked
 gcc-gdc	aaa_glibc-solibs	linked
 gcc-gdc	aaa_libraries	linked
 gcc-gdc	gcc	hint:dlopen
@@ -6862,7 +6870,7 @@ geeqie	libdeflate	lib
 geeqie	libdrm	lib
 geeqie	libepoxy	lib
 geeqie	libgcrypt	lib
-geeqie	libjxl	lib
+geeqie	libjxl	linked
 geeqie	libogg	lib
 geeqie	libplacebo	lib
 geeqie	librsvg	lib
@@ -7220,6 +7228,7 @@ gimp	exiv2	lib
 gimp	fontconfig	linked
 gimp	freetype	linked
 gimp	fribidi	lib
+gimp	gd	lib
 gimp	gdk-pixbuf2	linked
 gimp	gegl	linked
 gimp	gexiv2	linked
@@ -7232,6 +7241,7 @@ gimp	gpgmepp	lib
 gimp	graphite2	lib
 gimp	gtk+3	linked
 gimp	harfbuzz	linked
+gimp	highway	lib
 gimp	inih	lib
 gimp	json-glib	linked
 gimp	lcms2	linked
@@ -7261,6 +7271,7 @@ gimp	libedit	lib
 gimp	libepoxy	lib
 gimp	libfyaml	lib
 gimp	libgudev	linked
+gimp	libjxl	linked
 gimp	libmng	linked
 gimp	libmypaint	linked
 gimp	libpaper	lib
@@ -9257,7 +9268,7 @@ hfsutils	aaa_glibc-solibs	linked
 hfsutils	aaa_libraries	linked
 hfsutils	brotli	lib
 hfsutils	fontconfig	linked
-hfsutils	freetype	linked
+hfsutils	freetype	lib
 hfsutils	graphite2	lib
 hfsutils	harfbuzz	lib
 hfsutils	libX11	linked
@@ -9614,6 +9625,7 @@ imagemagick	glib2	linked
 imagemagick	graphite2	lib
 imagemagick	graphviz	linked
 imagemagick	harfbuzz	linked
+imagemagick	highway	lib
 imagemagick	lcms2	linked
 imagemagick	libICE	linked
 imagemagick	libSM	linked
@@ -9624,6 +9636,7 @@ imagemagick	libXext	linked
 imagemagick	libXrender	lib
 imagemagick	libXt	linked
 imagemagick	libdeflate	lib
+imagemagick	libjxl	linked
 imagemagick	librsvg	linked
 imagemagick	libwebp	linked
 imagemagick	libwmf	linked
@@ -9927,6 +9940,7 @@ itinerary	kcoreaddons	linked
 itinerary	kcrash	linked
 itinerary	kdbusaddons	linked
 itinerary	kfilemetadata	linked
+itinerary	khealthcertificate	linked
 itinerary	kholidays	linked
 itinerary	ki18n	linked
 itinerary	kio	linked
@@ -10011,7 +10025,6 @@ jasper	util-linux	lib
 jed	aaa_glibc-solibs	linked
 jed	aaa_libraries	linked
 jemalloc	aaa_glibc-solibs	linked
-jemalloc	aaa_libraries	linked
 jfsutils	aaa_glibc-solibs	linked
 jfsutils	util-linux	linked
 jmtpfs	aaa_glibc-solibs	linked
@@ -16557,6 +16570,7 @@ kimageformats	fontconfig	lib
 kimageformats	freetype	lib
 kimageformats	graphite2	lib
 kimageformats	harfbuzz	lib
+kimageformats	highway	lib
 kimageformats	icu4c	lib
 kimageformats	karchive	linked
 kimageformats	lcms2	lib
@@ -16566,6 +16580,7 @@ kimageformats	libXdmcp	lib
 kimageformats	libXext	lib
 kimageformats	libdeflate	lib
 kimageformats	libglvnd	linked
+kimageformats	libjxl	linked
 kimageformats	liburing	lib
 kimageformats	libxcb	lib
 kimageformats	openexr	linked
@@ -16579,6 +16594,8 @@ kimageformats5	Imath	linked
 kimageformats5	LibRaw	linked
 kimageformats5	aaa_glibc-solibs	linked
 kimageformats5	aaa_libraries	linked
+kimageformats5	brotli	lib
+kimageformats5	highway	lib
 kimageformats5	icu4c	lib
 kimageformats5	karchive5	linked
 kimageformats5	lcms2	lib
@@ -16588,6 +16605,7 @@ kimageformats5	libXdmcp	lib
 kimageformats5	libXext	lib
 kimageformats5	libdeflate	lib
 kimageformats5	libglvnd	lib
+kimageformats5	libjxl	linked
 kimageformats5	libxcb	lib
 kimageformats5	openexr	linked
 kimageformats5	openjph	lib
@@ -22010,6 +22028,7 @@ krita	gpgmepp	lib
 krita	graphite2	lib
 krita	gsl	linked
 krita	harfbuzz	linked
+krita	highway	lib
 krita	icu4c	lib
 krita	inih	lib
 krita	kcodecs	lib
@@ -22031,6 +22050,7 @@ krita	libXext	lib
 krita	libassuan	lib
 krita	libdeflate	lib
 krita	libglvnd	linked
+krita	libjxl	linked
 krita	libkdcraw	linked
 krita	libmypaint	linked
 krita	libproxy	lib
@@ -27488,6 +27508,7 @@ libvisual-plugins	libxcb	lib
 libvisual-plugins	mpg123	lib
 libvisual-plugins	opus	lib
 libvisual-plugins	pango	linked
+libvisual-plugins	pipewire	linked
 libvisual-plugins	pixman	lib
 libvisual-plugins	pulseaudio	linked
 libvisual-plugins	util-linux	lib
@@ -27538,7 +27559,9 @@ libwebp	libxcb	lib
 libwmf	aaa_glibc-solibs	linked
 libwmf	aaa_libraries	linked
 libwmf	brotli	lib
+libwmf	fontconfig	lib
 libwmf	freetype	linked
+libwmf	gd	linked
 libwmf	gdk-pixbuf2	linked
 libwmf	glib2	lib
 libwmf	graphite2	lib
@@ -27546,6 +27569,9 @@ libwmf	harfbuzz	lib
 libwmf	libX11	linked
 libwmf	libXau	lib
 libwmf	libXdmcp	lib
+libwmf	libXpm	linked
+libwmf	libdeflate	lib
+libwmf	libwebp	lib
 libwmf	libxcb	lib
 libwmf	util-linux	lib
 libwnck	aaa_glibc-solibs	linked
@@ -28015,7 +28041,7 @@ m17n-lib	aaa_libraries	linked
 m17n-lib	anthy-unicode	linked
 m17n-lib	brotli	lib
 m17n-lib	fontconfig	linked
-m17n-lib	freetype	linked
+m17n-lib	freetype	lib
 m17n-lib	fribidi	linked
 m17n-lib	gd	linked
 m17n-lib	graphite2	lib
@@ -29502,6 +29528,7 @@ moc	openssl	lib
 moc	openssl-solibs	lib
 moc	opus	lib
 moc	opusfile	linked
+moc	pipewire	linked
 moc	speex	linked
 moc	wavpack	linked
 modemmanager-qt	aaa_glibc-solibs	linked
@@ -29601,6 +29628,7 @@ mozilla-firefox	at-spi2-core	linked
 mozilla-firefox	brotli	lib
 mozilla-firefox	cairo	linked
 mozilla-firefox	dbus	linked
+mozilla-firefox	ffmpeg	hint:dlopen
 mozilla-firefox	fontconfig	linked
 mozilla-firefox	freetype	linked
 mozilla-firefox	fribidi	lib
@@ -29647,6 +29675,7 @@ mozilla-firefox	seamonkey	linked
 mozilla-firefox	speech-dispatcher	hint:dlopen
 mozilla-firefox	sqlite	linked
 mozilla-firefox	util-linux	lib
+mozilla-firefox	vulkan-sdk	hint:dlopen
 mozilla-firefox	wayland	lib
 mozilla-nss	aaa_glibc-solibs	linked
 mozilla-nss	aaa_libraries	linked
@@ -29658,6 +29687,7 @@ mozilla-thunderbird	at-spi2-core	linked
 mozilla-thunderbird	brotli	lib
 mozilla-thunderbird	cairo	linked
 mozilla-thunderbird	dbus	linked
+mozilla-thunderbird	ffmpeg	hint:dlopen
 mozilla-thunderbird	fontconfig	linked
 mozilla-thunderbird	freetype	linked
 mozilla-thunderbird	fribidi	lib
@@ -29704,6 +29734,7 @@ mozilla-thunderbird	seamonkey	linked
 mozilla-thunderbird	speech-dispatcher	hint:dlopen
 mozilla-thunderbird	sqlite	linked
 mozilla-thunderbird	util-linux	lib
+mozilla-thunderbird	vulkan-sdk	hint:dlopen
 mozilla-thunderbird	wayland	lib
 mozjs140	aaa_glibc-solibs	linked
 mozjs140	aaa_libraries	linked
@@ -31315,7 +31346,7 @@ phonon-backend-gstreamer	pulseaudio	lib
 phonon-backend-gstreamer	qt5	linked
 phonon-backend-gstreamer	qt6	linked
 phonon-backend-gstreamer	util-linux	lib
-phonon-backend-gstreamer	xcb-util	lib
+phonon-backend-gstreamer	xcb-util	linked
 phonon-backend-gstreamer	xcb-util-cursor	linked
 phonon-backend-gstreamer	xcb-util-image	linked
 phonon-backend-gstreamer	xcb-util-keysyms	linked
@@ -33419,7 +33450,7 @@ poppler	glib2	linked
 poppler	gpgme	lib
 poppler	gpgmepp	linked
 poppler	graphite2	lib
-poppler	harfbuzz	lib
+poppler	harfbuzz	linked
 poppler	icu4c	lib
 poppler	lcms2	linked
 poppler	libX11	lib
@@ -33545,7 +33576,6 @@ powertop	libnl3	linked
 powertop	libtraceevent	linked
 powertop	libtracefs	linked
 powertop	pciutils	linked
-powertop	util-linux	hint:exec
 poxml	aaa_glibc-solibs	linked
 poxml	aaa_libraries	linked
 poxml	gettext-tools	linked
@@ -33769,6 +33799,7 @@ pulseaudio	openssl	linked
 pulseaudio	openssl-solibs	linked
 pulseaudio	opus	lib
 pulseaudio	orc	linked
+pulseaudio	pipewire	linked
 pulseaudio	sbc	linked
 pulseaudio	speexdsp	linked
 pulseaudio	util-linux	lib
@@ -34118,11 +34149,7 @@ python2	brotli	hint:import
 python2	e2fsprogs	lib
 python2	gdbm	linked
 python2	icu4c	lib
-python2	libX11	linked
-python2	libXau	lib
-python2	libXdmcp	lib
 python2	libwebp	hint:import
-python2	libxcb	lib
 python2	openssl	linked
 python2	openssl-solibs	linked
 python2	protobuf	hint:import
@@ -34868,9 +34895,6 @@ rdfind	aaa_glibc-solibs	linked
 rdfind	aaa_libraries	linked
 rdfind	nettle	linked
 rdfind	xxHash	linked
-rdist	aaa_glibc-solibs	linked
-rdist	netkit-rsh	hint:exec
-rdist	postfix	hint:exec
 re2c	aaa_glibc-solibs	linked
 re2c	aaa_libraries	linked
 readline	aaa_glibc-solibs	linked
@@ -37716,7 +37740,7 @@ x11perf	aaa_glibc-solibs	linked
 x11perf	aaa_libraries	lib
 x11perf	brotli	lib
 x11perf	fontconfig	linked
-x11perf	freetype	linked
+x11perf	freetype	lib
 x11perf	graphite2	lib
 x11perf	harfbuzz	lib
 x11perf	libX11	linked
@@ -38047,7 +38071,7 @@ xditview	aaa_glibc-solibs	linked
 xditview	aaa_libraries	lib
 xditview	brotli	lib
 xditview	fontconfig	linked
-xditview	freetype	linked
+xditview	freetype	lib
 xditview	graphite2	lib
 xditview	harfbuzz	lib
 xditview	libICE	lib
@@ -38189,6 +38213,7 @@ xf86-video-ati	aaa_libraries	linked
 xf86-video-ati	libdrm	linked
 xf86-video-ati	libpciaccess	linked
 xf86-video-ati	mesa	linked
+xf86-video-cirrus	aaa_glibc-solibs	linked
 xf86-video-dummy	aaa_glibc-solibs	linked
 xf86-video-intel	aaa_glibc-solibs	linked
 xf86-video-intel	aaa_libraries	linked
@@ -38345,6 +38370,7 @@ xfce4-notifyd	graphite2	lib
 xfce4-notifyd	gtk+3	linked
 xfce4-notifyd	gtk-layer-shell	linked
 xfce4-notifyd	harfbuzz	linked
+xfce4-notifyd	icu4c	lib
 xfce4-notifyd	libICE	lib
 xfce4-notifyd	libSM	lib
 xfce4-notifyd	libX11	linked
@@ -38370,6 +38396,7 @@ xfce4-notifyd	libxfce4ui	linked
 xfce4-notifyd	libxfce4util	linked
 xfce4-notifyd	pango	linked
 xfce4-notifyd	pixman	lib
+xfce4-notifyd	sqlite	linked
 xfce4-notifyd	startup-notification	lib
 xfce4-notifyd	util-linux	lib
 xfce4-notifyd	wayland	lib
@@ -39088,7 +39115,7 @@ xfig	cyrus-sasl	lib
 xfig	dbus	lib
 xfig	e2fsprogs	lib
 xfig	fontconfig	linked
-xfig	freetype	linked
+xfig	freetype	lib
 xfig	ghostscript	linked
 xfig	giflib	lib
 xfig	graphite2	lib
@@ -39330,7 +39357,6 @@ xine-lib	wavpack	linked
 xine-lib	wayland	linked
 xine-ui	aaa_glibc-solibs	linked
 xine-ui	aaa_libraries	linked
-xine-ui	aalib	linked
 xine-ui	brotli	lib
 xine-ui	cyrus-sasl	lib
 xine-ui	e2fsprogs	lib
@@ -39447,7 +39473,7 @@ xlockmore	aaa_glibc-solibs	linked
 xlockmore	aaa_libraries	linked
 xlockmore	glu	linked
 xlockmore	libICE	linked
-xlockmore	libSM	linked
+xlockmore	libSM	lib
 xlockmore	libX11	linked
 xlockmore	libXau	lib
 xlockmore	libXdmcp	lib

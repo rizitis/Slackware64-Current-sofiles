@@ -1,3 +1,4 @@
+libIex-3_4.so.33
 libImath-3_2.so.30
 libOpenEXR-3_4.so.33
 libarchive.so.13
@@ -16,6 +17,7 @@ libgobject-2.0.so.0
 libgspell-1.so.3
 libgtk-3.so.0
 libjpeg.so.62
+libjxl.so.0.12
 liblcms2.so.2
 liblua.so.5
 libm.so.6

@@ -55,6 +55,8 @@ libgslcblas.so.0
 libharfbuzz.so.0
 libjpeg.so.62
 libjson-c.so.5
+libjxl.so.0.12
+libjxl_threads.so.0.12
 libkritabasicflakes.so.21
 libkritacolor.so.21
 libkritacommand.so.21
@@ -92,7 +94,7 @@ libmypaint.so.0
 libopenjp2.so.7
 libpng16.so.16
 libpoppler-qt6.so.3
-libpoppler.so.163
+libpoppler.so.164
 libpython3.12.so.1.0
 libquazip1-qt6.so.1.7
 libstdc++.so.6

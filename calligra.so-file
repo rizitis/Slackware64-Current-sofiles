@@ -34,6 +34,7 @@ libKF6TextWidgets.so.6
 libKF6WidgetsAddons.so.6
 libKF6WindowSystem.so.6
 libKF6XmlGui.so.6
+libOkular6Core.so.4
 libOpenGL.so.0
 libQt6Core.so.6
 libQt6DBus.so.6
@@ -78,6 +79,8 @@ libkomsooxml.so.41
 libkoodf.so.41
 libkoodf2.so.41
 libkoodfreader.so.41
+libkookularGenerator_odp.so.41
+libkookularGenerator_odt.so.41
 libkopageapp.so.41
 libkoplugin.so.41
 libkostore.so.41
@@ -94,7 +97,7 @@ libphonon4qt6.so.4
 libphonon4qt6experimental.so.4
 libpigmentcms.so.41
 libpoppler-qt6.so.3
-libpoppler.so.163
+libpoppler.so.164
 libqca-qt6.so.2
 libqt6keychain.so.1
 librevenge-0.0.so.0

@@ -45,6 +45,8 @@ libgudev-1.0.so.0
 libharfbuzz.so.0
 libjpeg.so.62
 libjson-glib-1.0.so.0
+libjxl.so.0.12
+libjxl_threads.so.0.12
 liblcms2.so.2
 liblzma.so.5
 libm.so.6

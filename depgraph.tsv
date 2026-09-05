@@ -359,7 +359,6 @@ a52dec	libc.so.6	glibc
 a52dec	libm.so.6	aaa_glibc-solibs
 a52dec	libm.so.6	glibc
 aaa_glibc-solibs	ld-linux-x86-64.so.2	glibc
-aaa_glibc-solibs	ld-linux.so.2	glibc
 aaa_glibc-solibs	libCNS.so	glibc
 aaa_glibc-solibs	libGB.so	glibc
 aaa_glibc-solibs	libISOIR165.so	glibc
@@ -1147,12 +1146,8 @@ alsa-oss	libasound.so.2	aaa_libraries
 alsa-oss	libasound.so.2	alsa-lib
 alsa-oss	libc.so.6	aaa_glibc-solibs
 alsa-oss	libc.so.6	glibc
-alsa-oss	libdl.so.2	aaa_glibc-solibs
-alsa-oss	libdl.so.2	glibc
 alsa-oss	libm.so.6	aaa_glibc-solibs
 alsa-oss	libm.so.6	glibc
-alsa-oss	libpthread.so.0	aaa_glibc-solibs
-alsa-oss	libpthread.so.0	glibc
 alsa-plugins	libasound.so.2	aaa_libraries
 alsa-plugins	libasound.so.2	alsa-lib
 alsa-plugins	libavcodec.so.63	ffmpeg
@@ -2157,6 +2152,8 @@ boost	libbz2.so.1	aaa_libraries
 boost	libbz2.so.1	bzip2
 boost	libc.so.6	aaa_glibc-solibs
 boost	libc.so.6	glibc
+boost	libcrypto.so.3	openssl
+boost	libcrypto.so.3	openssl-solibs
 boost	libgcc_s.so.1	aaa_libraries
 boost	libgcc_s.so.1	gcc
 boost	libicudata.so.78	icu4c
@@ -2167,6 +2164,8 @@ boost	liblzma.so.5	xz
 boost	libm.so.6	aaa_glibc-solibs
 boost	libm.so.6	glibc
 boost	libquadmath.so.0	gcc
+boost	libssl.so.3	openssl
+boost	libssl.so.3	openssl-solibs
 boost	libstdc++.so.6	aaa_libraries
 boost	libstdc++.so.6	gcc-g++
 boost	libz.so.1	aaa_libraries
@@ -2446,6 +2445,7 @@ calligra	libKF6TextWidgets.so.6	ktextwidgets
 calligra	libKF6WidgetsAddons.so.6	kwidgetsaddons
 calligra	libKF6WindowSystem.so.6	kwindowsystem
 calligra	libKF6XmlGui.so.6	kxmlgui
+calligra	libOkular6Core.so.4	okular
 calligra	libOpenGL.so.0	libglvnd
 calligra	libQt6Core.so.6	qt6
 calligra	libQt6DBus.so.6	qt6
@@ -2481,7 +2481,7 @@ calligra	libodfgen-0.1.so.1	libodfgen
 calligra	libphonon4qt6.so.4	phonon
 calligra	libphonon4qt6experimental.so.4	phonon
 calligra	libpoppler-qt6.so.3	poppler
-calligra	libpoppler.so.163	poppler
+calligra	libpoppler.so.164	poppler
 calligra	libqca-qt6.so.2	qca
 calligra	libqt6keychain.so.1	qtkeychain
 calligra	librevenge-0.0.so.0	librevenge
@@ -2612,7 +2612,7 @@ cantor	libluajit-5.1.so.2	luajit
 cantor	libm.so.6	aaa_glibc-solibs
 cantor	libm.so.6	glibc
 cantor	libpoppler-qt6.so.3	poppler
-cantor	libpoppler.so.163	poppler
+cantor	libpoppler.so.164	poppler
 cantor	libpython3.12.so.1.0	python3
 cantor	libqalculate.so.23	libqalculate
 cantor	libstdc++.so.6	aaa_libraries
@@ -2669,8 +2669,6 @@ cdparanoia	libc.so.6	aaa_glibc-solibs
 cdparanoia	libc.so.6	glibc
 cdparanoia	libm.so.6	aaa_glibc-solibs
 cdparanoia	libm.so.6	glibc
-cdparanoia	librt.so.1	aaa_glibc-solibs
-cdparanoia	librt.so.1	glibc
 cdrdao	libao.so.4	libao
 cdrdao	libatk-1.0.so.0	at-spi2-core
 cdrdao	libatkmm-1.6.so.1	atkmm
@@ -2731,14 +2729,8 @@ check	libc.so.6	aaa_glibc-solibs
 check	libc.so.6	glibc
 check	libm.so.6	aaa_glibc-solibs
 check	libm.so.6	glibc
-check	libpthread.so.0	aaa_glibc-solibs
-check	libpthread.so.0	glibc
-check	librt.so.1	aaa_glibc-solibs
-check	librt.so.1	glibc
 chmlib	libc.so.6	aaa_glibc-solibs
 chmlib	libc.so.6	glibc
-chmlib	libpthread.so.0	aaa_glibc-solibs
-chmlib	libpthread.so.0	glibc
 cifs-utils	libc.so.6	aaa_glibc-solibs
 cifs-utils	libc.so.6	glibc
 cifs-utils	libcap-ng.so.0	libcap-ng
@@ -2809,8 +2801,6 @@ clucene	libgcc_s.so.1	aaa_libraries
 clucene	libgcc_s.so.1	gcc
 clucene	libm.so.6	aaa_glibc-solibs
 clucene	libm.so.6	glibc
-clucene	libpthread.so.0	aaa_glibc-solibs
-clucene	libpthread.so.0	glibc
 clucene	libstdc++.so.6	aaa_libraries
 clucene	libstdc++.so.6	gcc-g++
 clucene	libz.so.1	aaa_libraries
@@ -3183,8 +3173,6 @@ db48	libgcc_s.so.1	aaa_libraries
 db48	libgcc_s.so.1	gcc
 db48	libm.so.6	aaa_glibc-solibs
 db48	libm.so.6	glibc
-db48	libpthread.so.0	aaa_glibc-solibs
-db48	libpthread.so.0	glibc
 db48	libstdc++.so.6	aaa_libraries
 db48	libstdc++.so.6	gcc-g++
 dbus	libX11.so.6	libX11
@@ -3237,8 +3225,6 @@ ddcutil	libXext.so.6	libXext
 ddcutil	libXrandr.so.2	libXrandr
 ddcutil	libacl.so.1	aaa_libraries
 ddcutil	libacl.so.1	acl
-ddcutil	libatomic.so.1	aaa_libraries
-ddcutil	libatomic.so.1	gcc
 ddcutil	libc.so.6	aaa_glibc-solibs
 ddcutil	libc.so.6	glibc
 ddcutil	libdbus-1.so.3	dbus
@@ -3398,6 +3384,8 @@ digikam	libgphoto2_port.so.12	libgphoto2
 digikam	libjasper.so.7	jasper
 digikam	libjpeg.so.62	aaa_libraries
 digikam	libjpeg.so.62	libjpeg-turbo
+digikam	libjxl.so.0.12	libjxl
+digikam	libjxl_threads.so.0.12	libjxl
 digikam	liblcms2.so.2	lcms2
 digikam	liblensfun.so.1	lensfun
 digikam	libm.so.6	aaa_glibc-solibs
@@ -3698,8 +3686,6 @@ dvd+rw-tools	libgcc_s.so.1	aaa_libraries
 dvd+rw-tools	libgcc_s.so.1	gcc
 dvd+rw-tools	libm.so.6	aaa_glibc-solibs
 dvd+rw-tools	libm.so.6	glibc
-dvd+rw-tools	libpthread.so.0	aaa_glibc-solibs
-dvd+rw-tools	libpthread.so.0	glibc
 dvd+rw-tools	libstdc++.so.6	aaa_libraries
 dvd+rw-tools	libstdc++.so.6	gcc-g++
 dvdauthor	libMagickCore-7.Q16HDRI.so.10	imagemagick
@@ -3785,10 +3771,6 @@ efivar	ld-linux-x86-64.so.2	aaa_glibc-solibs
 efivar	ld-linux-x86-64.so.2	glibc
 efivar	libc.so.6	aaa_glibc-solibs
 efivar	libc.so.6	glibc
-efivar	libdl.so.2	aaa_glibc-solibs
-efivar	libdl.so.2	glibc
-efivar	libpthread.so.0	aaa_glibc-solibs
-efivar	libpthread.so.0	glibc
 egl-wayland	libc.so.6	aaa_glibc-solibs
 egl-wayland	libc.so.6	glibc
 egl-wayland	libdrm.so.2	libdrm
@@ -3967,7 +3949,7 @@ emacs	libtiff.so.6	aaa_libraries
 emacs	libtiff.so.6	libtiff
 emacs	libtinfo.so.6	aaa_libraries
 emacs	libtinfo.so.6	ncurses
-emacs	libtree-sitter.so.0.26	tree-sitter
+emacs	libtree-sitter.so.0.27	tree-sitter
 emacs	libwebp.so.7	libwebp
 emacs	libwebpdemux.so.2	libwebp
 emacs	libxcb-shape.so.0	libxcb
@@ -4023,8 +4005,6 @@ esound	libasound.so.2	alsa-lib
 esound	libaudiofile.so.1	audiofile
 esound	libc.so.6	aaa_glibc-solibs
 esound	libc.so.6	glibc
-esound	libdl.so.2	aaa_glibc-solibs
-esound	libdl.so.2	glibc
 esound	libm.so.6	aaa_glibc-solibs
 esound	libm.so.6	glibc
 espeak-ng	libc.so.6	aaa_glibc-solibs
@@ -4139,12 +4119,8 @@ expat	libm.so.6	aaa_glibc-solibs
 expat	libm.so.6	glibc
 expect	libc.so.6	aaa_glibc-solibs
 expect	libc.so.6	glibc
-expect	libdl.so.2	aaa_glibc-solibs
-expect	libdl.so.2	glibc
 expect	libm.so.6	aaa_glibc-solibs
 expect	libm.so.6	glibc
-expect	libutil.so.1	aaa_glibc-solibs
-expect	libutil.so.1	glibc
 f2fs-tools	libblkid.so.1	util-linux
 f2fs-tools	libc.so.6	aaa_glibc-solibs
 f2fs-tools	libc.so.6	glibc
@@ -4212,8 +4188,6 @@ farstream	libgstrtp-1.0.so.0	gst-plugins-base
 farstream	libm.so.6	aaa_glibc-solibs
 farstream	libm.so.6	glibc
 farstream	libnice.so.10	libnice
-farstream	libpthread.so.0	aaa_glibc-solibs
-farstream	libpthread.so.0	glibc
 fcitx5	ld-linux-x86-64.so.2	aaa_glibc-solibs
 fcitx5	ld-linux-x86-64.so.2	glibc
 fcitx5	libc.so.6	aaa_glibc-solibs
@@ -4405,8 +4379,6 @@ fcitx5-m17n	libc.so.6	aaa_glibc-solibs
 fcitx5-m17n	libc.so.6	glibc
 fcitx5-m17n	libgcc_s.so.1	aaa_libraries
 fcitx5-m17n	libgcc_s.so.1	gcc
-fcitx5-m17n	libm.so.6	aaa_glibc-solibs
-fcitx5-m17n	libm.so.6	glibc
 fcitx5-m17n	libm17n-core.so.0	m17n-lib
 fcitx5-m17n	libm17n.so.0	m17n-lib
 fcitx5-m17n	libstdc++.so.6	aaa_libraries
@@ -4885,6 +4857,7 @@ freerdp	libswresample.so.7	ffmpeg
 freerdp	libswscale.so.10	ffmpeg
 freerdp	libusb-1.0.so.0	aaa_libraries
 freerdp	libusb-1.0.so.0	libusb
+freerdp	libva.so.2	libva
 freerdp	libwayland-client.so.0	wayland
 freerdp	libwayland-cursor.so.0	wayland
 freerdp	libxkbcommon.so.0	aaa_libraries
@@ -5067,14 +5040,12 @@ gc	libstdc++.so.6	aaa_libraries
 gc	libstdc++.so.6	gcc-g++
 gcc	ld-linux-x86-64.so.2	aaa_glibc-solibs
 gcc	ld-linux-x86-64.so.2	glibc
-gcc	ld-linux.so.2	aaa_glibc-solibs
-gcc	ld-linux.so.2	glibc
 gcc	libc.so.6	aaa_glibc-solibs
 gcc	libc.so.6	glibc
 gcc	libgcc_s.so.1	aaa_libraries
 gcc	libgmp.so.10	aaa_libraries
 gcc	libgmp.so.10	gmp
-gcc	libgo.so.24	gcc-go
+gcc	libgo.so.25	gcc-go
 gcc	libisl.so.23	aaa_libraries
 gcc	libisl.so.23	isl
 gcc	libm.so.6	aaa_glibc-solibs
@@ -5091,8 +5062,6 @@ gcc	libzstd.so.1	aaa_libraries
 gcc	libzstd.so.1	zstd
 gcc-g++	ld-linux-x86-64.so.2	aaa_glibc-solibs
 gcc-g++	ld-linux-x86-64.so.2	glibc
-gcc-g++	ld-linux.so.2	aaa_glibc-solibs
-gcc-g++	ld-linux.so.2	glibc
 gcc-g++	libc.so.6	aaa_glibc-solibs
 gcc-g++	libc.so.6	glibc
 gcc-g++	libgcc_s.so.1	aaa_libraries
@@ -5129,14 +5098,13 @@ gcc-gcobol	libmpfr.so.6	aaa_libraries
 gcc-gcobol	libmpfr.so.6	mpfr
 gcc-gcobol	libstdc++.so.6	aaa_libraries
 gcc-gcobol	libstdc++.so.6	gcc-g++
+gcc-gcobol	libxml2.so.16	libxml2
 gcc-gcobol	libz.so.1	aaa_libraries
 gcc-gcobol	libz.so.1	zlib
 gcc-gcobol	libzstd.so.1	aaa_libraries
 gcc-gcobol	libzstd.so.1	zstd
 gcc-gdc	ld-linux-x86-64.so.2	aaa_glibc-solibs
 gcc-gdc	ld-linux-x86-64.so.2	glibc
-gcc-gdc	ld-linux.so.2	aaa_glibc-solibs
-gcc-gdc	ld-linux.so.2	glibc
 gcc-gdc	libc.so.6	aaa_glibc-solibs
 gcc-gdc	libc.so.6	glibc
 gcc-gdc	libgcc_s.so.1	aaa_libraries
@@ -5157,8 +5125,6 @@ gcc-gdc	libzstd.so.1	aaa_libraries
 gcc-gdc	libzstd.so.1	zstd
 gcc-gfortran	ld-linux-x86-64.so.2	aaa_glibc-solibs
 gcc-gfortran	ld-linux-x86-64.so.2	glibc
-gcc-gfortran	ld-linux.so.2	aaa_glibc-solibs
-gcc-gfortran	ld-linux.so.2	glibc
 gcc-gfortran	libc.so.6	aaa_glibc-solibs
 gcc-gfortran	libc.so.6	glibc
 gcc-gfortran	libgcc_s.so.1	aaa_libraries
@@ -5201,8 +5167,6 @@ gcc-gm2	libzstd.so.1	aaa_libraries
 gcc-gm2	libzstd.so.1	zstd
 gcc-gnat	ld-linux-x86-64.so.2	aaa_glibc-solibs
 gcc-gnat	ld-linux-x86-64.so.2	glibc
-gcc-gnat	ld-linux.so.2	aaa_glibc-solibs
-gcc-gnat	ld-linux.so.2	glibc
 gcc-gnat	libc.so.6	aaa_glibc-solibs
 gcc-gnat	libc.so.6	glibc
 gcc-gnat	libgcc_s.so.1	aaa_libraries
@@ -5223,8 +5187,6 @@ gcc-gnat	libzstd.so.1	aaa_libraries
 gcc-gnat	libzstd.so.1	zstd
 gcc-go	ld-linux-x86-64.so.2	aaa_glibc-solibs
 gcc-go	ld-linux-x86-64.so.2	glibc
-gcc-go	ld-linux.so.2	aaa_glibc-solibs
-gcc-go	ld-linux.so.2	glibc
 gcc-go	libc.so.6	aaa_glibc-solibs
 gcc-go	libc.so.6	glibc
 gcc-go	libgcc_s.so.1	aaa_libraries
@@ -5423,6 +5385,7 @@ gdk-pixbuf2-xlib	libc.so.6	glibc
 gdk-pixbuf2-xlib	libgdk_pixbuf-2.0.so.0	gdk-pixbuf2
 gdk-pixbuf2-xlib	libglib-2.0.so.0	aaa_libraries
 gdk-pixbuf2-xlib	libglib-2.0.so.0	glib2
+geeqie	libIex-3_4.so.33	openexr
 geeqie	libImath-3_2.so.30	Imath
 geeqie	libOpenEXR-3_4.so.33	openexr
 geeqie	libarchive.so.13	libarchive
@@ -5446,6 +5409,7 @@ geeqie	libgspell-1.so.3	gspell
 geeqie	libgtk-3.so.0	gtk+3
 geeqie	libjpeg.so.62	aaa_libraries
 geeqie	libjpeg.so.62	libjpeg-turbo
+geeqie	libjxl.so.0.12	libjxl
 geeqie	liblcms2.so.2	lcms2
 geeqie	liblua.so.5	lua
 geeqie	libm.so.6	aaa_glibc-solibs
@@ -5510,7 +5474,7 @@ gettext	libgcc_s.so.1	aaa_libraries
 gettext	libgcc_s.so.1	gcc
 gettext	libm.so.6	aaa_glibc-solibs
 gettext	libm.so.6	glibc
-gettext	libm2pim.so.20	gcc-gm2
+gettext	libm2pim.so.21	gcc-gm2
 gettext	libncursesw.so.6	aaa_libraries
 gettext	libncursesw.so.6	ncurses
 gettext	libstdc++.so.6	aaa_libraries
@@ -5718,6 +5682,8 @@ gimp	libharfbuzz.so.0	harfbuzz
 gimp	libjpeg.so.62	aaa_libraries
 gimp	libjpeg.so.62	libjpeg-turbo
 gimp	libjson-glib-1.0.so.0	json-glib
+gimp	libjxl.so.0.12	libjxl
+gimp	libjxl_threads.so.0.12	libjxl
 gimp	liblcms2.so.2	lcms2
 gimp	liblzma.so.5	aaa_libraries
 gimp	liblzma.so.5	xz
@@ -5880,10 +5846,6 @@ glew	libc.so.6	aaa_glibc-solibs
 glew	libc.so.6	glibc
 glib	libc.so.6	aaa_glibc-solibs
 glib	libc.so.6	glibc
-glib	libdl.so.2	aaa_glibc-solibs
-glib	libdl.so.2	glibc
-glib	libpthread.so.0	aaa_glibc-solibs
-glib	libpthread.so.0	glibc
 glib-networking	libc.so.6	aaa_glibc-solibs
 glib-networking	libc.so.6	glibc
 glib-networking	libgio-2.0.so.0	glib2
@@ -5910,7 +5872,6 @@ glib2	libpcre2-8.so.0	pcre2
 glib2	libz.so.1	aaa_libraries
 glib2	libz.so.1	zlib
 glibc	ld-linux-x86-64.so.2	aaa_glibc-solibs
-glibc	ld-linux.so.2	aaa_glibc-solibs
 glibc	libCNS.so	aaa_glibc-solibs
 glibc	libGB.so	aaa_glibc-solibs
 glibc	libISOIR165.so	aaa_glibc-solibs
@@ -6024,8 +5985,6 @@ gnome-themes-extra	libharfbuzz.so.0	harfbuzz
 gnome-themes-extra	libpango-1.0.so.0	pango
 gnome-themes-extra	libpangocairo-1.0.so.0	pango
 gnome-themes-extra	libpangoft2-1.0.so.0	pango
-gnome-themes-extra	libpthread.so.0	aaa_glibc-solibs
-gnome-themes-extra	libpthread.so.0	glibc
 gnuchess	libatk-1.0.so.0	at-spi2-core
 gnuchess	libc.so.6	aaa_glibc-solibs
 gnuchess	libc.so.6	glibc
@@ -6091,8 +6050,6 @@ gnupg	libc.so.6	aaa_glibc-solibs
 gnupg	libc.so.6	glibc
 gnupg	libcurl.so.4	aaa_libraries
 gnupg	libcurl.so.4	curl
-gnupg	libldap.so.2	aaa_libraries
-gnupg	libldap.so.2	openldap
 gnupg	libreadline.so.8	aaa_libraries
 gnupg	libreadline.so.8	readline
 gnupg	libusb-0.1.so.4	aaa_libraries
@@ -6635,6 +6592,7 @@ gst-plugins-bad-free	libopencv_bgsegm.so.414	opencv
 gst-plugins-bad-free	libopencv_calib3d.so.414	opencv
 gst-plugins-bad-free	libopencv_core.so.414	opencv
 gst-plugins-bad-free	libopencv_features2d.so.414	opencv
+gst-plugins-bad-free	libopencv_flann.so.414	opencv
 gst-plugins-bad-free	libopencv_imgcodecs.so.414	opencv
 gst-plugins-bad-free	libopencv_imgproc.so.414	opencv
 gst-plugins-bad-free	libopencv_objdetect.so.414	opencv
@@ -7075,8 +7033,6 @@ gtkspell	libharfbuzz.so.0	harfbuzz
 gtkspell	libpango-1.0.so.0	pango
 gtkspell	libpangocairo-1.0.so.0	pango
 gtkspell	libpangoft2-1.0.so.0	pango
-gtkspell	libpthread.so.0	aaa_glibc-solibs
-gtkspell	libpthread.so.0	glibc
 gucharmap	libatk-1.0.so.0	at-spi2-core
 gucharmap	libc.so.6	aaa_glibc-solibs
 gucharmap	libc.so.6	glibc
@@ -7371,14 +7327,9 @@ hfsutils	libXft.so.2	libXft
 hfsutils	libXss.so.1	libXScrnSaver
 hfsutils	libc.so.6	aaa_glibc-solibs
 hfsutils	libc.so.6	glibc
-hfsutils	libdl.so.2	aaa_glibc-solibs
-hfsutils	libdl.so.2	glibc
 hfsutils	libfontconfig.so.1	fontconfig
-hfsutils	libfreetype.so.6	freetype
 hfsutils	libm.so.6	aaa_glibc-solibs
 hfsutils	libm.so.6	glibc
-hfsutils	libpthread.so.0	aaa_glibc-solibs
-hfsutils	libpthread.so.0	glibc
 hfsutils	libz.so.1	aaa_libraries
 hfsutils	libz.so.1	zlib
 highway	ld-linux-x86-64.so.2	aaa_glibc-solibs
@@ -7575,8 +7526,6 @@ ibus-kkc	libjson-glib-1.0.so.0	json-glib
 ibus-kkc	libkkc.so.2	libkkc
 ibus-kkc	libpango-1.0.so.0	pango
 ibus-kkc	libpangocairo-1.0.so.0	pango
-ibus-kkc	libpthread.so.0	aaa_glibc-solibs
-ibus-kkc	libpthread.so.0	glibc
 ibus-kkc	libz.so.1	aaa_libraries
 ibus-kkc	libz.so.1	zlib
 ibus-libpinyin	libc.so.6	aaa_glibc-solibs
@@ -7642,8 +7591,6 @@ ibus-unikey	libm.so.6	glibc
 ibus-unikey	libpango-1.0.so.0	pango
 ibus-unikey	libpangocairo-1.0.so.0	pango
 ibus-unikey	libpangoft2-1.0.so.0	pango
-ibus-unikey	libpthread.so.0	aaa_glibc-solibs
-ibus-unikey	libpthread.so.0	glibc
 ibus-unikey	libstdc++.so.6	aaa_libraries
 ibus-unikey	libstdc++.so.6	gcc-g++
 iceauth	libICE.so.6	libICE
@@ -7762,6 +7709,8 @@ imagemagick	libgvc.so.7	graphviz
 imagemagick	libharfbuzz.so.0	harfbuzz
 imagemagick	libjpeg.so.62	aaa_libraries
 imagemagick	libjpeg.so.62	libjpeg-turbo
+imagemagick	libjxl.so.0.12	libjxl
+imagemagick	libjxl_threads.so.0.12	libjxl
 imagemagick	liblcms2.so.2	lcms2
 imagemagick	libltdl.so.7	aaa_libraries
 imagemagick	libltdl.so.7	libtool
@@ -8023,6 +7972,7 @@ itinerary	libKF6Notifications.so.6	knotifications
 itinerary	libKF6Service.so.6	kservice
 itinerary	libKF6UnitConversion.so.6	kunitconversion
 itinerary	libKF6WindowSystem.so.6	kwindowsystem
+itinerary	libKHealthCertificate.so.1	khealthcertificate
 itinerary	libKOSM.so.1	kosmindoormap
 itinerary	libKOSMIndoorMap.so.1	kosmindoormap
 itinerary	libKPim6Itinerary.so.6	kitinerary
@@ -8081,24 +8031,16 @@ jasper	libm.so.6	aaa_glibc-solibs
 jasper	libm.so.6	glibc
 jed	libc.so.6	aaa_glibc-solibs
 jed	libc.so.6	glibc
-jed	libdl.so.2	aaa_glibc-solibs
-jed	libdl.so.2	glibc
 jed	libgpm.so.2	aaa_libraries
 jed	libgpm.so.2	gpm
 jed	libm.so.6	aaa_glibc-solibs
 jed	libm.so.6	glibc
 jed	libslang.so.2	aaa_libraries
 jed	libslang.so.2	slang
-jed	libutil.so.1	aaa_glibc-solibs
-jed	libutil.so.1	glibc
 jemalloc	libc.so.6	aaa_glibc-solibs
 jemalloc	libc.so.6	glibc
-jemalloc	libgcc_s.so.1	aaa_libraries
-jemalloc	libgcc_s.so.1	gcc
 jemalloc	libm.so.6	aaa_glibc-solibs
 jemalloc	libm.so.6	glibc
-jemalloc	libstdc++.so.6	aaa_libraries
-jemalloc	libstdc++.so.6	gcc-g++
 jfsutils	libc.so.6	aaa_glibc-solibs
 jfsutils	libc.so.6	glibc
 jfsutils	libuuid.so.1	util-linux
@@ -8112,8 +8054,6 @@ jmtpfs	libm.so.6	aaa_glibc-solibs
 jmtpfs	libm.so.6	glibc
 jmtpfs	libmagic.so.1	file
 jmtpfs	libmtp.so.9	libmtp
-jmtpfs	libpthread.so.0	aaa_glibc-solibs
-jmtpfs	libpthread.so.0	glibc
 jmtpfs	libstdc++.so.6	aaa_libraries
 jmtpfs	libstdc++.so.6	gcc-g++
 joe	libc.so.6	aaa_glibc-solibs
@@ -11306,7 +11246,7 @@ kfilemetadata	libgcc_s.so.1	gcc
 kfilemetadata	libm.so.6	aaa_glibc-solibs
 kfilemetadata	libm.so.6	glibc
 kfilemetadata	libpoppler-qt6.so.3	poppler
-kfilemetadata	libpoppler.so.163	poppler
+kfilemetadata	libpoppler.so.164	poppler
 kfilemetadata	libstdc++.so.6	aaa_libraries
 kfilemetadata	libstdc++.so.6	gcc-g++
 kfilemetadata	libtag.so.2	taglib
@@ -11330,7 +11270,7 @@ kfilemetadata5	libgcc_s.so.1	gcc
 kfilemetadata5	libm.so.6	aaa_glibc-solibs
 kfilemetadata5	libm.so.6	glibc
 kfilemetadata5	libpoppler-qt5.so.1	poppler
-kfilemetadata5	libpoppler.so.163	poppler
+kfilemetadata5	libpoppler.so.164	poppler
 kfilemetadata5	libstdc++.so.6	aaa_libraries
 kfilemetadata5	libstdc++.so.6	gcc-g++
 kfilemetadata5	libtag.so.2	taglib
@@ -12254,7 +12194,7 @@ kile	libgcc_s.so.1	gcc
 kile	libm.so.6	aaa_glibc-solibs
 kile	libm.so.6	glibc
 kile	libpoppler-qt6.so.3	poppler
-kile	libpoppler.so.163	poppler
+kile	libpoppler.so.164	poppler
 kile	libstdc++.so.6	aaa_libraries
 kile	libstdc++.so.6	gcc-g++
 killbots	libGLX.so.0	libglvnd
@@ -12304,6 +12244,9 @@ kimageformats	libc.so.6	aaa_glibc-solibs
 kimageformats	libc.so.6	glibc
 kimageformats	libgcc_s.so.1	aaa_libraries
 kimageformats	libgcc_s.so.1	gcc
+kimageformats	libjxl.so.0.12	libjxl
+kimageformats	libjxl_cms.so.0.12	libjxl
+kimageformats	libjxl_threads.so.0.12	libjxl
 kimageformats	libm.so.6	aaa_glibc-solibs
 kimageformats	libm.so.6	glibc
 kimageformats	libopenjp2.so.7	openjpeg
@@ -12324,6 +12267,8 @@ kimageformats5	libc.so.6	aaa_glibc-solibs
 kimageformats5	libc.so.6	glibc
 kimageformats5	libgcc_s.so.1	aaa_libraries
 kimageformats5	libgcc_s.so.1	gcc
+kimageformats5	libjxl.so.0.12	libjxl
+kimageformats5	libjxl_threads.so.0.12	libjxl
 kimageformats5	libm.so.6	aaa_glibc-solibs
 kimageformats5	libm.so.6	glibc
 kimageformats5	libraw.so.25	LibRaw
@@ -12978,7 +12923,7 @@ kitinerary	libgcc_s.so.1	aaa_libraries
 kitinerary	libgcc_s.so.1	gcc
 kitinerary	libm.so.6	aaa_glibc-solibs
 kitinerary	libm.so.6	glibc
-kitinerary	libpoppler.so.163	poppler
+kitinerary	libpoppler.so.164	poppler
 kitinerary	libstdc++.so.6	aaa_libraries
 kitinerary	libstdc++.so.6	gcc-g++
 kitinerary	libxml2.so.16	libxml2
@@ -15628,6 +15573,8 @@ krita	libjpeg.so.62	aaa_libraries
 krita	libjpeg.so.62	libjpeg-turbo
 krita	libjson-c.so.5	aaa_libraries
 krita	libjson-c.so.5	json-c
+krita	libjxl.so.0.12	libjxl
+krita	libjxl_threads.so.0.12	libjxl
 krita	liblcms2.so.2	lcms2
 krita	libm.so.6	aaa_glibc-solibs
 krita	libm.so.6	glibc
@@ -15638,7 +15585,7 @@ krita	libopenjp2.so.7	openjpeg
 krita	libpng16.so.16	aaa_libraries
 krita	libpng16.so.16	libpng
 krita	libpoppler-qt6.so.3	poppler
-krita	libpoppler.so.163	poppler
+krita	libpoppler.so.164	poppler
 krita	libpython3.12.so.1.0	python3
 krita	libquazip1-qt6.so.1.7	quazip
 krita	libstdc++.so.6	aaa_libraries
@@ -17725,8 +17672,6 @@ layer-shell-qt	libxkbcommon.so.0	aaa_libraries
 layer-shell-qt	libxkbcommon.so.0	libxkbcommon
 lbzip2	libc.so.6	aaa_glibc-solibs
 lbzip2	libc.so.6	glibc
-lbzip2	libpthread.so.0	aaa_glibc-solibs
-lbzip2	libpthread.so.0	glibc
 lcms	libc.so.6	aaa_glibc-solibs
 lcms	libc.so.6	glibc
 lcms	libjpeg.so.62	aaa_libraries
@@ -18009,11 +17954,7 @@ libao	libasound.so.2	aaa_libraries
 libao	libasound.so.2	alsa-lib
 libao	libc.so.6	aaa_glibc-solibs
 libao	libc.so.6	glibc
-libao	libdl.so.2	aaa_glibc-solibs
-libao	libdl.so.2	glibc
 libao	libesd.so.0	esound
-libao	libpthread.so.0	aaa_glibc-solibs
-libao	libpthread.so.0	glibc
 libao	libpulse-simple.so.0	pulseaudio
 libao	libpulse.so.0	pulseaudio
 libappindicator	libatk-1.0.so.0	at-spi2-core
@@ -18195,8 +18136,6 @@ libcanberra	libm.so.6	glibc
 libcanberra	libpango-1.0.so.0	pango
 libcanberra	libpangocairo-1.0.so.0	pango
 libcanberra	libpangoft2-1.0.so.0	pango
-libcanberra	libpthread.so.0	aaa_glibc-solibs
-libcanberra	libpthread.so.0	glibc
 libcanberra	libpulse.so.0	pulseaudio
 libcanberra	libtdb.so.1	aaa_libraries
 libcanberra	libtdb.so.1	tdb
@@ -18307,8 +18246,6 @@ libdbusmenu	libharfbuzz.so.0	harfbuzz
 libdbusmenu	libpango-1.0.so.0	pango
 libdbusmenu	libpangocairo-1.0.so.0	pango
 libdbusmenu	libpangoft2-1.0.so.0	pango
-libdbusmenu	libpthread.so.0	aaa_glibc-solibs
-libdbusmenu	libpthread.so.0	glibc
 libdbusmenu	libz.so.1	aaa_libraries
 libdbusmenu	libz.so.1	zlib
 libdbusmenu-qt	libQt5Core.so.5	qt5
@@ -18508,8 +18445,6 @@ libgnome-keyring	libgobject-2.0.so.0	aaa_libraries
 libgnome-keyring	libgobject-2.0.so.0	glib2
 libgnome-keyring	libgpg-error.so.0	aaa_libraries
 libgnome-keyring	libgpg-error.so.0	libgpg-error
-libgnome-keyring	libpthread.so.0	aaa_glibc-solibs
-libgnome-keyring	libpthread.so.0	glibc
 libgnt	libc.so.6	aaa_glibc-solibs
 libgnt	libc.so.6	glibc
 libgnt	libglib-2.0.so.0	aaa_libraries
@@ -18752,8 +18687,6 @@ libindicator	libm.so.6	glibc
 libindicator	libpango-1.0.so.0	pango
 libindicator	libpangocairo-1.0.so.0	pango
 libindicator	libpangoft2-1.0.so.0	pango
-libindicator	libpthread.so.0	aaa_glibc-solibs
-libindicator	libpthread.so.0	glibc
 libindicator	libz.so.1	aaa_libraries
 libindicator	libz.so.1	zlib
 libinput	libX11.so.6	libX11
@@ -19321,14 +19254,13 @@ libnice	libgnutls.so.30	gnutls
 libnice	libgobject-2.0.so.0	aaa_libraries
 libnice	libgobject-2.0.so.0	glib2
 libnice	libgstbase-1.0.so.0	gstreamer
+libnice	libgstnet-1.0.so.0	gstreamer
 libnice	libgstreamer-1.0.so.0	gstreamer
 libnih	libc.so.6	aaa_glibc-solibs
 libnih	libc.so.6	glibc
 libnih	libdbus-1.so.3	dbus
 libnih	libexpat.so.1	aaa_libraries
 libnih	libexpat.so.1	expat
-libnih	librt.so.1	aaa_glibc-solibs
-libnih	librt.so.1	glibc
 libnjb	libc.so.6	aaa_glibc-solibs
 libnjb	libc.so.6	glibc
 libnjb	libncursesw.so.6	aaa_libraries
@@ -19345,8 +19277,6 @@ libnl	libc.so.6	aaa_glibc-solibs
 libnl	libc.so.6	glibc
 libnl	libm.so.6	aaa_glibc-solibs
 libnl	libm.so.6	glibc
-libnl	libpthread.so.0	aaa_glibc-solibs
-libnl	libpthread.so.0	glibc
 libnl3	libc.so.6	aaa_glibc-solibs
 libnl3	libc.so.6	glibc
 libnma	libc.so.6	aaa_glibc-solibs
@@ -19939,6 +19869,7 @@ libvisual-plugins	libgobject-2.0.so.0	glib2
 libvisual-plugins	libgstreamer-1.0.so.0	gstreamer
 libvisual-plugins	libgtk-3.so.0	gtk+3
 libvisual-plugins	libharfbuzz.so.0	harfbuzz
+libvisual-plugins	libjack.so.0	pipewire
 libvisual-plugins	libm.so.6	aaa_glibc-solibs
 libvisual-plugins	libm.so.6	glibc
 libvisual-plugins	libpango-1.0.so.0	pango
@@ -19967,6 +19898,8 @@ libvorbis	libc.so.6	aaa_glibc-solibs
 libvorbis	libc.so.6	glibc
 libvorbis	libm.so.6	aaa_glibc-solibs
 libvorbis	libm.so.6	glibc
+libvorbis	libmvec.so.1	aaa_glibc-solibs
+libvorbis	libmvec.so.1	glibc
 libvorbis	libogg.so.0	libogg
 libvpx	libc.so.6	aaa_glibc-solibs
 libvpx	libc.so.6	glibc
@@ -19998,11 +19931,13 @@ libwebp	libpng16.so.16	libpng
 libwebp	libtiff.so.6	aaa_libraries
 libwebp	libtiff.so.6	libtiff
 libwmf	libX11.so.6	libX11
+libwmf	libXpm.so.4	libXpm
 libwmf	libc.so.6	aaa_glibc-solibs
 libwmf	libc.so.6	glibc
 libwmf	libexpat.so.1	aaa_libraries
 libwmf	libexpat.so.1	expat
 libwmf	libfreetype.so.6	freetype
+libwmf	libgd.so.3	gd
 libwmf	libgdk_pixbuf-2.0.so.0	gdk-pixbuf2
 libwmf	libglib-2.0.so.0	aaa_libraries
 libwmf	libglib-2.0.so.0	glib2
@@ -20318,8 +20253,6 @@ lndir	libc.so.6	aaa_glibc-solibs
 lndir	libc.so.6	glibc
 log4cplus	ld-linux-x86-64.so.2	aaa_glibc-solibs
 log4cplus	ld-linux-x86-64.so.2	glibc
-log4cplus	libatomic.so.1	aaa_libraries
-log4cplus	libatomic.so.1	gcc
 log4cplus	libc.so.6	aaa_glibc-solibs
 log4cplus	libc.so.6	glibc
 log4cplus	libgcc_s.so.1	aaa_libraries
@@ -20554,7 +20487,6 @@ m17n-lib	libanthydic-unicode.so.0	anthy-unicode
 m17n-lib	libc.so.6	aaa_glibc-solibs
 m17n-lib	libc.so.6	glibc
 m17n-lib	libfontconfig.so.1	fontconfig
-m17n-lib	libfreetype.so.6	freetype
 m17n-lib	libfribidi.so.0	fribidi
 m17n-lib	libgd.so.3	gd
 m17n-lib	libm.so.6	aaa_glibc-solibs
@@ -21483,6 +21415,7 @@ moc	libcurl.so.4	curl
 moc	libdb-4.8.so	aaa_libraries
 moc	libdb-4.8.so	db48
 moc	libid3tag.so.0	libid3tag
+moc	libjack.so.0	pipewire
 moc	libltdl.so.7	aaa_libraries
 moc	libltdl.so.7	libtool
 moc	libm.so.6	aaa_glibc-solibs
@@ -21707,6 +21640,7 @@ mozilla-firefox	libcairo-gobject.so.2	cairo
 mozilla-firefox	libcairo.so.2	cairo
 mozilla-firefox	libdbus-1.so.3	dbus
 mozilla-firefox	libfontconfig.so.1	fontconfig
+mozilla-firefox	libfreeblpriv3.so	mozilla-nss
 mozilla-firefox	libfreetype.so.6	freetype
 mozilla-firefox	libgcc_s.so.1	aaa_libraries
 mozilla-firefox	libgcc_s.so.1	gcc
@@ -21778,6 +21712,7 @@ mozilla-thunderbird	libcairo-gobject.so.2	cairo
 mozilla-thunderbird	libcairo.so.2	cairo
 mozilla-thunderbird	libdbus-1.so.3	dbus
 mozilla-thunderbird	libfontconfig.so.1	fontconfig
+mozilla-thunderbird	libfreeblpriv3.so	mozilla-nss
 mozilla-thunderbird	libfreetype.so.6	freetype
 mozilla-thunderbird	libgcc_s.so.1	aaa_libraries
 mozilla-thunderbird	libgcc_s.so.1	gcc
@@ -22197,8 +22132,6 @@ netkit-rwho	libc.so.6	aaa_glibc-solibs
 netkit-rwho	libc.so.6	glibc
 netkit-timed	libc.so.6	aaa_glibc-solibs
 netkit-timed	libc.so.6	glibc
-netkit-timed	libutil.so.1	aaa_glibc-solibs
-netkit-timed	libutil.so.1	glibc
 netpbm	libX11.so.6	libX11
 netpbm	libc.so.6	aaa_glibc-solibs
 netpbm	libc.so.6	glibc
@@ -22403,8 +22336,6 @@ normalize	libXext.so.6	libXext
 normalize	libXi.so.6	libXi
 normalize	libc.so.6	aaa_glibc-solibs
 normalize	libc.so.6	glibc
-normalize	libdl.so.2	aaa_glibc-solibs
-normalize	libdl.so.2	glibc
 normalize	libgdk-1.2.so.0	gtk+
 normalize	libglib-1.2.so.0	glib
 normalize	libgmodule-1.2.so.0	glib
@@ -22413,8 +22344,6 @@ normalize	libgtk-1.2.so.0	gtk+
 normalize	libm.so.6	aaa_glibc-solibs
 normalize	libm.so.6	glibc
 normalize	libmad.so.0	libmad
-normalize	libpthread.so.0	aaa_glibc-solibs
-normalize	libpthread.so.0	glibc
 normalize	libxmms.so.1	xmms
 npth	libc.so.6	aaa_glibc-solibs
 npth	libc.so.6	glibc
@@ -22627,7 +22556,7 @@ okular	libm.so.6	aaa_glibc-solibs
 okular	libm.so.6	glibc
 okular	libphonon4qt6.so.4	phonon
 okular	libpoppler-qt6.so.3	poppler
-okular	libpoppler.so.163	poppler
+okular	libpoppler.so.164	poppler
 okular	libspectre.so.1	libspectre
 okular	libstdc++.so.6	aaa_libraries
 okular	libstdc++.so.6	gcc-g++
@@ -22842,7 +22771,7 @@ openvpn	libresolv.so.2	aaa_glibc-solibs
 openvpn	libresolv.so.2	glibc
 openvpn	libssl.so.3	openssl
 openvpn	libssl.so.3	openssl-solibs
-oprofile	libbfd-2.46.1-slack160.so	binutils
+oprofile	libbfd-2.47.so	binutils
 oprofile	libc.so.6	aaa_glibc-solibs
 oprofile	libc.so.6	glibc
 oprofile	libgcc_s.so.1	aaa_libraries
@@ -23288,8 +23217,6 @@ pcre	libm.so.6	aaa_glibc-solibs
 pcre	libm.so.6	glibc
 pcre	libpcre.so.1	aaa_libraries
 pcre	libpcreposix.so.0	aaa_libraries
-pcre	libpthread.so.0	aaa_glibc-solibs
-pcre	libpthread.so.0	glibc
 pcre	libstdc++.so.6	aaa_libraries
 pcre	libstdc++.so.6	gcc-g++
 pcre	libz.so.1	aaa_libraries
@@ -23423,6 +23350,7 @@ phonon-backend-gstreamer	libxcb-render.so.0	libxcb
 phonon-backend-gstreamer	libxcb-shape.so.0	libxcb
 phonon-backend-gstreamer	libxcb-shm.so.0	libxcb
 phonon-backend-gstreamer	libxcb-sync.so.1	libxcb
+phonon-backend-gstreamer	libxcb-util.so.1	xcb-util
 phonon-backend-gstreamer	libxcb-xfixes.so.0	libxcb
 phonon-backend-gstreamer	libxcb-xkb.so.1	libxcb
 phonon-backend-gstreamer	libxcb.so.1	libxcb
@@ -24860,8 +24788,6 @@ polkit-gnome	libpango-1.0.so.0	pango
 polkit-gnome	libpangocairo-1.0.so.0	pango
 polkit-gnome	libpolkit-agent-1.so.0	polkit
 polkit-gnome	libpolkit-gobject-1.so.0	polkit
-polkit-gnome	libpthread.so.0	aaa_glibc-solibs
-polkit-gnome	libpthread.so.0	glibc
 polkit-gnome	libz.so.1	aaa_libraries
 polkit-gnome	libz.so.1	zlib
 polkit-kde-agent-1	libGLX.so.0	libglvnd
@@ -24944,6 +24870,8 @@ poppler	libglib-2.0.so.0	glib2
 poppler	libgobject-2.0.so.0	aaa_libraries
 poppler	libgobject-2.0.so.0	glib2
 poppler	libgpgmepp.so.7	gpgmepp
+poppler	libharfbuzz-subset.so.0	harfbuzz
+poppler	libharfbuzz.so.0	harfbuzz
 poppler	libjpeg.so.62	aaa_libraries
 poppler	libjpeg.so.62	libjpeg-turbo
 poppler	liblcms2.so.2	lcms2
@@ -25354,6 +25282,7 @@ pulseaudio	libgobject-2.0.so.0	glib2
 pulseaudio	libgstapp-1.0.so.0	gst-plugins-base
 pulseaudio	libgstbase-1.0.so.0	gstreamer
 pulseaudio	libgstreamer-1.0.so.0	gstreamer
+pulseaudio	libjack.so.0	pipewire
 pulseaudio	libltdl.so.7	aaa_libraries
 pulseaudio	libltdl.so.7	libtool
 pulseaudio	libm.so.6	aaa_glibc-solibs
@@ -25520,7 +25449,6 @@ python-psutil	libc.so.6	glibc
 python-sane	libc.so.6	aaa_glibc-solibs
 python-sane	libc.so.6	glibc
 python-sane	libsane.so.1	sane
-python2	libX11.so.6	libX11
 python2	libbz2.so.1	aaa_libraries
 python2	libbz2.so.1	bzip2
 python2	libc.so.6	aaa_glibc-solibs
@@ -25941,10 +25869,6 @@ qrencode	libc.so.6	aaa_glibc-solibs
 qrencode	libc.so.6	glibc
 qrencode	libpng16.so.16	aaa_libraries
 qrencode	libpng16.so.16	libpng
-qrencode	libpthread.so.0	aaa_glibc-solibs
-qrencode	libpthread.so.0	glibc
-qrencode	libz.so.1	aaa_libraries
-qrencode	libz.so.1	zlib
 qt5	ld-linux-x86-64.so.2	aaa_glibc-solibs
 qt5	ld-linux-x86-64.so.2	glibc
 qt5	libEGL.so.1	libglvnd
@@ -26415,8 +26339,6 @@ rdfind	libnettle.so.8	nettle
 rdfind	libstdc++.so.6	aaa_libraries
 rdfind	libstdc++.so.6	gcc-g++
 rdfind	libxxhash.so.0	xxHash
-rdist	libc.so.6	aaa_glibc-solibs
-rdist	libc.so.6	glibc
 re2c	libc.so.6	aaa_glibc-solibs
 re2c	libc.so.6	glibc
 re2c	libgcc_s.so.1	aaa_libraries
@@ -26575,8 +26497,6 @@ rsync	libzstd.so.1	aaa_libraries
 rsync	libzstd.so.1	zstd
 rttr	libc.so.6	aaa_glibc-solibs
 rttr	libc.so.6	glibc
-rttr	libdl.so.2	aaa_glibc-solibs
-rttr	libdl.so.2	glibc
 rttr	libgcc_s.so.1	aaa_libraries
 rttr	libgcc_s.so.1	gcc
 rttr	libm.so.6	aaa_glibc-solibs
@@ -27171,8 +27091,6 @@ slang1	ld-linux-x86-64.so.2	aaa_glibc-solibs
 slang1	ld-linux-x86-64.so.2	glibc
 slang1	libc.so.6	aaa_glibc-solibs
 slang1	libc.so.6	glibc
-slang1	libdl.so.2	aaa_glibc-solibs
-slang1	libdl.so.2	glibc
 slang1	libm.so.6	aaa_glibc-solibs
 slang1	libm.so.6	glibc
 slrn	libc.so.6	aaa_glibc-solibs
@@ -28650,6 +28568,8 @@ vorbis-tools	libcurl.so.4	aaa_libraries
 vorbis-tools	libcurl.so.4	curl
 vorbis-tools	libm.so.6	aaa_glibc-solibs
 vorbis-tools	libm.so.6	glibc
+vorbis-tools	libmvec.so.1	aaa_glibc-solibs
+vorbis-tools	libmvec.so.1	glibc
 vorbis-tools	libnsl.so.3	aaa_libraries
 vorbis-tools	libnsl.so.3	libnsl
 vorbis-tools	libogg.so.0	libogg
@@ -28668,8 +28588,6 @@ vsftpd	libcrypto.so.3	openssl
 vsftpd	libcrypto.so.3	openssl-solibs
 vsftpd	libnsl.so.3	aaa_libraries
 vsftpd	libnsl.so.3	libnsl
-vsftpd	libresolv.so.2	aaa_glibc-solibs
-vsftpd	libresolv.so.2	glibc
 vsftpd	libssl.so.3	openssl
 vsftpd	libssl.so.3	openssl-solibs
 vte	ld-linux-x86-64.so.2	aaa_glibc-solibs
@@ -28982,7 +28900,6 @@ x11perf	libXrender.so.1	libXrender
 x11perf	libc.so.6	aaa_glibc-solibs
 x11perf	libc.so.6	glibc
 x11perf	libfontconfig.so.1	fontconfig
-x11perf	libfreetype.so.6	freetype
 x11perf	libm.so.6	aaa_glibc-solibs
 x11perf	libm.so.6	glibc
 x3270	libX11.so.6	libX11
@@ -29233,7 +29150,6 @@ xditview	libXt.so.6	libXt
 xditview	libc.so.6	aaa_glibc-solibs
 xditview	libc.so.6	glibc
 xditview	libfontconfig.so.1	fontconfig
-xditview	libfreetype.so.6	freetype
 xditview	libm.so.6	aaa_glibc-solibs
 xditview	libm.so.6	glibc
 xdm	libX11.so.6	libX11
@@ -29346,6 +29262,8 @@ xf86-video-ati	libgbm.so.1	mesa
 xf86-video-ati	libpciaccess.so.0	libpciaccess
 xf86-video-ati	libudev.so.1	aaa_libraries
 xf86-video-ati	libudev.so.1	eudev
+xf86-video-cirrus	libc.so.6	aaa_glibc-solibs
+xf86-video-cirrus	libc.so.6	glibc
 xf86-video-dummy	libc.so.6	aaa_glibc-solibs
 xf86-video-dummy	libc.so.6	glibc
 xf86-video-intel	libX11-xcb.so.1	libX11
@@ -29450,6 +29368,8 @@ xfce4-clipman-plugin	libgobject-2.0.so.0	aaa_libraries
 xfce4-clipman-plugin	libgobject-2.0.so.0	glib2
 xfce4-clipman-plugin	libgtk-3.so.0	gtk+3
 xfce4-clipman-plugin	libharfbuzz.so.0	harfbuzz
+xfce4-clipman-plugin	libm.so.6	aaa_glibc-solibs
+xfce4-clipman-plugin	libm.so.6	glibc
 xfce4-clipman-plugin	libpango-1.0.so.0	pango
 xfce4-clipman-plugin	libpangocairo-1.0.so.0	pango
 xfce4-clipman-plugin	libqrencode.so.4	qrencode
@@ -29487,6 +29407,7 @@ xfce4-notifyd	libharfbuzz.so.0	harfbuzz
 xfce4-notifyd	libnotify.so.4	libnotify
 xfce4-notifyd	libpango-1.0.so.0	pango
 xfce4-notifyd	libpangocairo-1.0.so.0	pango
+xfce4-notifyd	libsqlite3.so.0	sqlite
 xfce4-notifyd	libxfce4panel-2.0.so.4	xfce4-panel
 xfce4-notifyd	libxfce4ui-2.so.0	libxfce4ui
 xfce4-notifyd	libxfce4util.so.7	libxfce4util
@@ -29941,7 +29862,6 @@ xfig	libXt.so.6	libXt
 xfig	libc.so.6	aaa_glibc-solibs
 xfig	libc.so.6	glibc
 xfig	libfontconfig.so.1	fontconfig
-xfig	libfreetype.so.6	freetype
 xfig	libgs.so.10	ghostscript
 xfig	libjpeg.so.62	aaa_libraries
 xfig	libjpeg.so.62	libjpeg-turbo
@@ -30140,14 +30060,11 @@ xine-ui	libXss.so.1	libXScrnSaver
 xine-ui	libXtst.so.6	libXtst
 xine-ui	libXv.so.1	libXv
 xine-ui	libXxf86vm.so.1	libXxf86vm
-xine-ui	libaa.so.1	aalib
 xine-ui	libc.so.6	aaa_glibc-solibs
 xine-ui	libc.so.6	glibc
 xine-ui	libcaca.so.0	libcaca
 xine-ui	libcurl.so.4	aaa_libraries
 xine-ui	libcurl.so.4	curl
-xine-ui	libgpm.so.2	aaa_libraries
-xine-ui	libgpm.so.2	gpm
 xine-ui	libjpeg.so.62	aaa_libraries
 xine-ui	libjpeg.so.62	libjpeg-turbo
 xine-ui	libm.so.6	aaa_glibc-solibs
@@ -30160,8 +30077,6 @@ xine-ui	libpng16.so.16	aaa_libraries
 xine-ui	libpng16.so.16	libpng
 xine-ui	libreadline.so.8	aaa_libraries
 xine-ui	libreadline.so.8	readline
-xine-ui	libslang.so.1	aaa_libraries
-xine-ui	libslang.so.1	slang1
 xine-ui	libtinfo.so.6	aaa_libraries
 xine-ui	libtinfo.so.6	ncurses
 xine-ui	libxine.so.2	xine-lib
@@ -30219,7 +30134,6 @@ xload	libc.so.6	glibc
 xlockmore	libGL.so.1	libglvnd
 xlockmore	libGLU.so.1	glu
 xlockmore	libICE.so.6	libICE
-xlockmore	libSM.so.6	libSM
 xlockmore	libX11.so.6	libX11
 xlockmore	libXext.so.6	libXext
 xlockmore	libXinerama.so.1	libXinerama
@@ -30293,8 +30207,6 @@ xmms	libasound.so.2	aaa_libraries
 xmms	libasound.so.2	alsa-lib
 xmms	libc.so.6	aaa_glibc-solibs
 xmms	libc.so.6	glibc
-xmms	libdl.so.2	aaa_glibc-solibs
-xmms	libdl.so.2	glibc
 xmms	libesd.so.0	esound
 xmms	libgdk-1.2.so.0	gtk+
 xmms	libglib-1.2.so.0	glib
@@ -30302,9 +30214,9 @@ xmms	libgthread-1.2.so.0	glib
 xmms	libgtk-1.2.so.0	gtk+
 xmms	libm.so.6	aaa_glibc-solibs
 xmms	libm.so.6	glibc
+xmms	libmvec.so.1	aaa_glibc-solibs
+xmms	libmvec.so.1	glibc
 xmms	libogg.so.0	libogg
-xmms	libpthread.so.0	aaa_glibc-solibs
-xmms	libpthread.so.0	glibc
 xmms	libvorbis.so.0	libvorbis
 xmms	libvorbisfile.so.3	libvorbis
 xmms	libz.so.1	aaa_libraries

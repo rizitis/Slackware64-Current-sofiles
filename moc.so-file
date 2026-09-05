@@ -4,6 +4,7 @@ libc.so.6
 libcurl.so.4
 libdb-4.8.so
 libid3tag.so.0
+libjack.so.0
 libltdl.so.7
 libm.so.6
 libmad.so.0

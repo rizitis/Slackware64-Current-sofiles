@@ -3,7 +3,6 @@ libX11.so.6
 libXext.so.6
 libXrandr.so.2
 libacl.so.1
-libatomic.so.1
 libc.so.6
 libdbus-1.so.3
 libdrm.so.2

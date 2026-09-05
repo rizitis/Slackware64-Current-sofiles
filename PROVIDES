@@ -78,6 +78,7 @@ braille.so imagemagick
 btrfs.so samba
 buddynote.so pidgin
 bz2.so php
+c2pa.so imagemagick
 calendar.so php
 cals.so imagemagick
 canon.so libgphoto2
@@ -88,6 +89,7 @@ cgroup.so libnl3
 chmod bash
 cin.so imagemagick
 cip.so imagemagick
+cirrus_drv.so xf86-video-cirrus
 cldap.so samba
 client.so subversion
 clip.so imagemagick
@@ -284,6 +286,7 @@ inline.so imagemagick
 inplace.so gawk
 input_alsa.so libvisual-plugins
 input_debug.so libvisual-plugins
+input_jack.so libvisual-plugins
 input_mplayer.so libvisual-plugins
 input_pulseaudio.so libvisual-plugins
 inputtest_drv.so xorg-server
@@ -305,6 +308,7 @@ jpeg.so imagemagick
 jpg-load.so gegl
 jpg-save.so gegl
 json.so imagemagick
+jxl.so imagemagick
 k5tls.so.0 krb5
 kcc.so samba
 kdc.so samba
@@ -320,8 +324,6 @@ lazy_commit.so samba
 lcms-from-profile.so gegl
 ld-linux-x86-64.so.2 aaa_glibc-solibs
 ld-linux-x86-64.so.2 glibc
-ld-linux.so.2 aaa_glibc-solibs
-ld-linux.so.2 glibc
 ldap.so php
 ldap.so samba
 ldb.cpython-312-x86_64-linux-gnu.so samba
@@ -767,7 +769,7 @@ libKirigamiPrivate.so.6 kirigami
 libKirigamiTemplates.so.6 kirigami
 libLIBWBCLIENT-OLD-private-samba.so samba
 libLLVM.so.22.1 llvm
-libLLVM.so.22.1-rust-1.98.0-stable rust
+libLLVM.so.22.1-rust-1.98.1-stable rust
 libLLVMSPIRVLib.so.22.1 spirv-llvm-translator
 libLTO.so.22.1 llvm
 libLayerShellQtInterface.so.6 layer-shell-qt
@@ -1419,7 +1421,7 @@ libbd_swap.so.3 libblockdev
 libbd_utils.so.3 libblockdev
 libbeep.so mcabber
 libbfb.so.1 obexftp
-libbfd-2.46.1-slack160.so binutils
+libbfd-2.47.so binutils
 libblkid.so.1 util-linux
 libblockdev.so.3 libblockdev
 libbluetooth.so.3 bluez
@@ -1433,6 +1435,9 @@ libboost_charconv.so.1.91.0 aaa_libraries
 libboost_charconv.so.1.92.0 boost
 libboost_chrono.so.1.91.0 aaa_libraries
 libboost_chrono.so.1.92.0 boost
+libboost_cobalt.so.1.92.0 boost
+libboost_cobalt_io.so.1.92.0 boost
+libboost_cobalt_io_ssl.so.1.92.0 boost
 libboost_container.so.1.91.0 aaa_libraries
 libboost_container.so.1.92.0 boost
 libboost_context.so.1.91.0 aaa_libraries
@@ -1920,7 +1925,7 @@ libfyaml.so.0 libfyaml
 libgail.so gtk+2
 libgailutil-3.so.0 gtk+3
 libgailutil.so.18 gtk+2
-libgallium-26.2.1.so mesa
+libgallium-26.2.2.so mesa
 libgarcon-1.so.0 garcon
 libgarcon-gtk3-1.so.0 garcon
 libgbm.so.1 mesa
@@ -1931,7 +1936,7 @@ libgccjit.so.0 libgccjit
 libgccpp.so.1 gc
 libgck-1.so.0 gcr
 libgck-2.so.2 gcr4
-libgcobol.so.1 gcc-gcobol
+libgcobol.so.2 gcc-gcobol
 libgconf-2.so.4 GConf
 libgconfbackend-evoldap.so GConf
 libgconfbackend-oldxml.so GConf
@@ -1953,7 +1958,7 @@ libgdk_pixbuf-2.0.so.0 gdk-pixbuf2
 libgdk_pixbuf_xlib-2.0.so.0 gdk-pixbuf2-xlib
 libgdkmm-2.4.so.1 gtkmm2
 libgdkmm-3.0.so.1 gtkmm3
-libgdruntime.so.6 gcc-gdc
+libgdruntime.so.7 gcc-gdc
 libgdtclft.so graphviz
 libgee-0.8.so.2 libgee
 libgegl-0.4.so.0 gegl
@@ -2013,15 +2018,15 @@ libgmp.so.10 aaa_libraries
 libgmp.so.10 gmp
 libgmpxx.so.4 aaa_libraries
 libgmpxx.so.4 gmp
-libgnarl-15.so gcc-gnat
-libgnat-15.so gcc-gnat
+libgnarl-16.so gcc-gnat
+libgnat-16.so gcc-gnat
 libgnome-keyring.so.0 libgnome-keyring
 libgnt.so.0 libgnt
 libgnuintl.so.8 gettext
 libgnutls-openssl.so.27 gnutls
 libgnutls.so.30 gnutls
 libgnutlsxx.so.30 gnutls
-libgo.so.24 gcc-go
+libgo.so.25 gcc-go
 libgobject-2.0.so.0 aaa_libraries
 libgobject-2.0.so.0 glib2
 libgomp.so.1 aaa_libraries
@@ -2036,7 +2041,7 @@ libgpg-error.so.0 aaa_libraries
 libgpg-error.so.0 libgpg-error
 libgpgme.so.45 gpgme
 libgpgmepp.so.7 gpgmepp
-libgphobos.so.6 gcc-gdc
+libgphobos.so.7 gcc-gdc
 libgphoto2.so.6 libgphoto2
 libgphoto2_port.so.12 libgphoto2
 libgpm.so.2 aaa_libraries
@@ -2408,7 +2413,6 @@ libhunspell-1.7.so.0 hunspell
 libhwasan.so.0 gcc
 libhwy.so.1 highway
 libhwy_contrib.so.1 highway
-libhwy_test.so.1 highway
 libhx509-private-samba.so samba
 libhyphen.so.0 hyphen
 libi915_perf.so.1.5 igt-gpu-tools
@@ -2642,6 +2646,8 @@ libkontactprivate.so.6 kontact
 libkoodf.so.41 calligra
 libkoodf2.so.41 calligra
 libkoodfreader.so.41 calligra
+libkookularGenerator_odp.so.41 calligra
+libkookularGenerator_odt.so.41 calligra
 libkopageapp.so.41 calligra
 libkoplugin.so.41 calligra
 libkorganizer_core.so.6 korganizer
@@ -2770,11 +2776,11 @@ libm17n-flt.so.0 m17n-lib
 libm17n-gd.so m17n-lib
 libm17n-gui.so.0 m17n-lib
 libm17n.so.0 m17n-lib
-libm2cor.so.20 gcc-gm2
-libm2iso.so.20 gcc-gm2
-libm2log.so.20 gcc-gm2
-libm2min.so.20 gcc-gm2
-libm2pim.so.20 gcc-gm2
+libm2cor.so.21 gcc-gm2
+libm2iso.so.21 gcc-gm2
+libm2log.so.21 gcc-gm2
+libm2min.so.21 gcc-gm2
+libm2pim.so.21 gcc-gm2
 libmad.so.0 libmad
 libmagic.so.1 file
 libmaildir.so.6 kdepim-runtime
@@ -2835,6 +2841,7 @@ libmozavutil.so seamonkey
 libmozgtk.so mozilla-firefox
 libmozgtk.so mozilla-thunderbird
 libmozgtk.so seamonkey
+libmozinference.so mozilla-firefox
 libmozjs-140.so.0 mozjs140
 libmozsandbox.so mozilla-firefox
 libmozsandbox.so mozilla-thunderbird
@@ -2993,7 +3000,7 @@ libompd.so llvm
 libonig.so.5 oniguruma
 libonlinetask_interfaces.so.5 kmymoney
 libopagent.so.1 oprofile
-libopcodes-2.46.1-slack160.so binutils
+libopcodes-2.47.so binutils
 libopenal.so.1 openal-soft
 libopenblas.so.0 openblas
 libopencc.so.1.4 OpenCC
@@ -3219,7 +3226,7 @@ libpoppler-cpp.so.3 poppler
 libpoppler-glib.so.8 poppler
 libpoppler-qt5.so.1 poppler
 libpoppler-qt6.so.3 poppler
-libpoppler.so.163 poppler
+libpoppler.so.164 poppler
 libpopt.so.0 aaa_libraries
 libpopt.so.0 popt
 libportal-gtk3.so.1 libportal
@@ -3340,7 +3347,7 @@ librtp.so pulseaudio
 librttr_core.so.0.9.6 rttr
 libruby.so.4.0 ruby
 librunnermodelplugin.so krunner5
-librustc_driver-c00dc7a942b52601.so rust
+librustc_driver-8d8722ea8e7cf8bf.so rust
 librva.so normalize
 libsamba-cluster-support-private-samba.so samba
 libsamba-credentials.so.1 samba
@@ -3486,7 +3493,7 @@ libssl_iostream_openssl.so dovecot
 libssr-glinject.so ssr
 libstable-sort-private-samba.so samba
 libstartup-notification-1.so.0 startup-notification
-libstd-7f2708ce37122a56.so rust
+libstd-8b370b28be03a5cd.so rust
 libstdc++.so.5 aaa_libraries
 libstdc++.so.6 aaa_libraries
 libstdc++.so.6 gcc-g++
@@ -3593,7 +3600,7 @@ libtonegen.so xmms
 libtorture-private-samba.so samba
 libtraceevent.so.1 libtraceevent
 libtracefs.so.1 libtracefs
-libtree-sitter.so.0.26 tree-sitter
+libtree-sitter.so.0.27 tree-sitter
 libtsan.so.2 gcc
 libtumbler-1.so.0 tumbler
 libturbojpeg.so.0 aaa_libraries
@@ -4019,7 +4026,6 @@ odbc.so php
 offline.so samba
 offlinemsg.so pidgin
 okularpart.so okular
-opcache.so php
 openchrome_drv.so xf86-video-openchrome
 openl2tp.so ppp
 opensc-pkcs11.so opensc

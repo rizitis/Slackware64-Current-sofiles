@@ -17,6 +17,7 @@ libKF6Notifications.so.6
 libKF6Service.so.6
 libKF6UnitConversion.so.6
 libKF6WindowSystem.so.6
+libKHealthCertificate.so.1
 libKOSM.so.1
 libKOSMIndoorMap.so.1
 libKPim6Itinerary.so.6

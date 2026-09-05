@@ -13,8 +13,6 @@ perl	libperl.so
 pidgin	libperl.so
 pidgin	libtcl8.6.so
 pidgin	libtk8.6.so
-python2	libtcl8.6.so
-python2	libtk8.6.so
 python3	libtcl8.6.so
 python3	libtk8.6.so
 rxvt-unicode	libperl.so
@@ -30,4 +28,3 @@ tcl	libtcl8.6.so
 texinfo	libperl.so
 tk	libtcl8.6.so
 tk	libtk8.6.so
-xfce4-notifyd	libsqlite3.so
