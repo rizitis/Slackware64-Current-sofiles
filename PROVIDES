@@ -324,6 +324,8 @@ lazy_commit.so samba
 lcms-from-profile.so gegl
 ld-linux-x86-64.so.2 aaa_glibc-solibs
 ld-linux-x86-64.so.2 glibc
+ld-linux.so.2 aaa_glibc-solibs
+ld-linux.so.2 glibc
 ldap.so php
 ldap.so samba
 ldb.cpython-312-x86_64-linux-gnu.so samba

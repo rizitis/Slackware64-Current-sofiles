@@ -326,6 +326,7 @@ libxml2	import	libxslt	libxslt	guess
 libxslt	import	libxml2	libxml2	guess
 linuxdoc-tools	import	libxml2	libxml2	guess
 llvm	build	/usr/bin/as	binutils	guess
+llvm	dlopen	ld-linux.so.2	aaa_glibc-solibs	guess
 llvm	exec	/usr/bin/env	coreutils	guess
 llvm	import	yaml	python-PyYAML	guess
 logrotate	exec	/usr/bin/gunzip	gzip	guess
@@ -618,6 +619,8 @@ qt6	dlopen	libvulkan_radeon.so	mesa	guess
 qt6	dlopen	libxcb-present.so.0	libxcb	guess
 rcs	exec	/usr/bin/diff	diffutils	guess
 rcs	exec	/usr/bin/diff3	diffutils	guess
+rdist	exec	/usr/bin/rsh	netkit-rsh	guess
+rdist	exec	/usr/bin/sendmail	postfix	guess
 rp-pppoe	exec	/usr/bin/pppd	ppp	guess
 rust	exec	/usr/bin/env	coreutils	guess
 rust	import	lldb	llvm	guess
@@ -690,6 +693,7 @@ util-linux	exec	/usr/bin/dmsetup	lvm2	guess
 util-linux	exec	/usr/bin/ntpdate	ntp	guess
 util-linux	exec	/usr/bin/shutdown	sysvinit	guess
 valgrind	dlopen	ld-linux-x86-64.so.2	aaa_glibc-solibs	guess
+valgrind	dlopen	ld-linux.so.2	aaa_glibc-solibs	guess
 valgrind	dlopen	libpthread.so.0	aaa_glibc-solibs	guess
 vim	dlopen	libpython3.12.so.1.0	python3	guess
 vim	dlopen	libruby.so.4.0	ruby	guess

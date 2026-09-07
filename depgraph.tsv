@@ -359,6 +359,7 @@ a52dec	libc.so.6	glibc
 a52dec	libm.so.6	aaa_glibc-solibs
 a52dec	libm.so.6	glibc
 aaa_glibc-solibs	ld-linux-x86-64.so.2	glibc
+aaa_glibc-solibs	ld-linux.so.2	glibc
 aaa_glibc-solibs	libCNS.so	glibc
 aaa_glibc-solibs	libGB.so	glibc
 aaa_glibc-solibs	libISOIR165.so	glibc
@@ -4209,6 +4210,7 @@ fcitx5	libm.so.6	aaa_glibc-solibs
 fcitx5	libm.so.6	glibc
 fcitx5	libpango-1.0.so.0	pango
 fcitx5	libpangocairo-1.0.so.0	pango
+fcitx5	librsvg-2.so.2	librsvg
 fcitx5	libstdc++.so.6	aaa_libraries
 fcitx5	libstdc++.so.6	gcc-g++
 fcitx5	libuuid.so.1	util-linux
@@ -5040,6 +5042,8 @@ gc	libstdc++.so.6	aaa_libraries
 gc	libstdc++.so.6	gcc-g++
 gcc	ld-linux-x86-64.so.2	aaa_glibc-solibs
 gcc	ld-linux-x86-64.so.2	glibc
+gcc	ld-linux.so.2	aaa_glibc-solibs
+gcc	ld-linux.so.2	glibc
 gcc	libc.so.6	aaa_glibc-solibs
 gcc	libc.so.6	glibc
 gcc	libgcc_s.so.1	aaa_libraries
@@ -5062,6 +5066,8 @@ gcc	libzstd.so.1	aaa_libraries
 gcc	libzstd.so.1	zstd
 gcc-g++	ld-linux-x86-64.so.2	aaa_glibc-solibs
 gcc-g++	ld-linux-x86-64.so.2	glibc
+gcc-g++	ld-linux.so.2	aaa_glibc-solibs
+gcc-g++	ld-linux.so.2	glibc
 gcc-g++	libc.so.6	aaa_glibc-solibs
 gcc-g++	libc.so.6	glibc
 gcc-g++	libgcc_s.so.1	aaa_libraries
@@ -5105,6 +5111,8 @@ gcc-gcobol	libzstd.so.1	aaa_libraries
 gcc-gcobol	libzstd.so.1	zstd
 gcc-gdc	ld-linux-x86-64.so.2	aaa_glibc-solibs
 gcc-gdc	ld-linux-x86-64.so.2	glibc
+gcc-gdc	ld-linux.so.2	aaa_glibc-solibs
+gcc-gdc	ld-linux.so.2	glibc
 gcc-gdc	libc.so.6	aaa_glibc-solibs
 gcc-gdc	libc.so.6	glibc
 gcc-gdc	libgcc_s.so.1	aaa_libraries
@@ -5125,6 +5133,8 @@ gcc-gdc	libzstd.so.1	aaa_libraries
 gcc-gdc	libzstd.so.1	zstd
 gcc-gfortran	ld-linux-x86-64.so.2	aaa_glibc-solibs
 gcc-gfortran	ld-linux-x86-64.so.2	glibc
+gcc-gfortran	ld-linux.so.2	aaa_glibc-solibs
+gcc-gfortran	ld-linux.so.2	glibc
 gcc-gfortran	libc.so.6	aaa_glibc-solibs
 gcc-gfortran	libc.so.6	glibc
 gcc-gfortran	libgcc_s.so.1	aaa_libraries
@@ -5167,6 +5177,8 @@ gcc-gm2	libzstd.so.1	aaa_libraries
 gcc-gm2	libzstd.so.1	zstd
 gcc-gnat	ld-linux-x86-64.so.2	aaa_glibc-solibs
 gcc-gnat	ld-linux-x86-64.so.2	glibc
+gcc-gnat	ld-linux.so.2	aaa_glibc-solibs
+gcc-gnat	ld-linux.so.2	glibc
 gcc-gnat	libc.so.6	aaa_glibc-solibs
 gcc-gnat	libc.so.6	glibc
 gcc-gnat	libgcc_s.so.1	aaa_libraries
@@ -5187,6 +5199,8 @@ gcc-gnat	libzstd.so.1	aaa_libraries
 gcc-gnat	libzstd.so.1	zstd
 gcc-go	ld-linux-x86-64.so.2	aaa_glibc-solibs
 gcc-go	ld-linux-x86-64.so.2	glibc
+gcc-go	ld-linux.so.2	aaa_glibc-solibs
+gcc-go	ld-linux.so.2	glibc
 gcc-go	libc.so.6	aaa_glibc-solibs
 gcc-go	libc.so.6	glibc
 gcc-go	libgcc_s.so.1	aaa_libraries
@@ -5872,6 +5886,7 @@ glib2	libpcre2-8.so.0	pcre2
 glib2	libz.so.1	aaa_libraries
 glib2	libz.so.1	zlib
 glibc	ld-linux-x86-64.so.2	aaa_glibc-solibs
+glibc	ld-linux.so.2	aaa_glibc-solibs
 glibc	libCNS.so	aaa_glibc-solibs
 glibc	libGB.so	aaa_glibc-solibs
 glibc	libISOIR165.so	aaa_glibc-solibs
@@ -26339,6 +26354,8 @@ rdfind	libnettle.so.8	nettle
 rdfind	libstdc++.so.6	aaa_libraries
 rdfind	libstdc++.so.6	gcc-g++
 rdfind	libxxhash.so.0	xxHash
+rdist	libc.so.6	aaa_glibc-solibs
+rdist	libc.so.6	glibc
 re2c	libc.so.6	aaa_glibc-solibs
 re2c	libc.so.6	glibc
 re2c	libgcc_s.so.1	aaa_libraries

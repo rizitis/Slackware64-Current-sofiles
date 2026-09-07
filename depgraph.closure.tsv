@@ -5770,6 +5770,7 @@ fcitx5	aaa_glibc-solibs	linked
 fcitx5	aaa_libraries	linked
 fcitx5	brotli	lib
 fcitx5	cairo	linked
+fcitx5	dav1d	lib
 fcitx5	dbus	linked
 fcitx5	enchant	linked
 fcitx5	fontconfig	lib
@@ -5784,10 +5785,12 @@ fcitx5	libXau	lib
 fcitx5	libXdmcp	lib
 fcitx5	libXext	lib
 fcitx5	libXrender	lib
+fcitx5	librsvg	linked
 fcitx5	libuv	linked
 fcitx5	libxcb	linked
 fcitx5	libxkbcommon	linked
 fcitx5	libxkbfile	linked
+fcitx5	libxml2	lib
 fcitx5	pango	linked
 fcitx5	pixman	lib
 fcitx5	util-linux	linked
@@ -34895,6 +34898,9 @@ rdfind	aaa_glibc-solibs	linked
 rdfind	aaa_libraries	linked
 rdfind	nettle	linked
 rdfind	xxHash	linked
+rdist	aaa_glibc-solibs	linked
+rdist	netkit-rsh	hint:exec
+rdist	postfix	hint:exec
 re2c	aaa_glibc-solibs	linked
 re2c	aaa_libraries	linked
 readline	aaa_glibc-solibs	linked

@@ -16704,6 +16704,7 @@ libartikulatelearnerprofile.so.0	libc.so.6
 libartikulatelearnerprofile.so.0	libgcc_s.so.1
 libartikulatelearnerprofile.so.0	libm.so.6
 libartikulatelearnerprofile.so.0	libstdc++.so.6
+libasan.so.8	ld-linux.so.2
 libasan.so.8	libc.so.6
 libasan.so.8	libgcc_s.so.1
 libasan.so.8	libm.so.6
@@ -18293,7 +18294,9 @@ libc++abi.so.1	libc.so.6
 libc++abi.so.1	libgcc_s.so.1
 libc++abi.so.1	libm.so.6
 libc.so.6	ld-linux-x86-64.so.2
+libc.so.6	ld-linux.so.2
 libc_malloc_debug.so.0	ld-linux-x86-64.so.2
+libc_malloc_debug.so.0	ld-linux.so.2
 libc_malloc_debug.so.0	libc.so.6
 libcaca++.so.0	libc.so.6
 libcaca++.so.0	libcaca.so.0
@@ -21679,6 +21682,7 @@ libgbm.so.1	libm.so.6
 libgc.so.1	ld-linux-x86-64.so.2
 libgc.so.1	libc.so.6
 libgcc_s.so.1	ld-linux-x86-64.so.2
+libgcc_s.so.1	ld-linux.so.2
 libgcc_s.so.1	libc.so.6
 libgccjit.so.0	ld-linux-x86-64.so.2
 libgccjit.so.0	libc.so.6
@@ -21897,6 +21901,7 @@ libgdkmm-3.0.so.1	libgtk-3.so.0
 libgdkmm-3.0.so.1	libsigc-2.0.so.0
 libgdkmm-3.0.so.1	libstdc++.so.6
 libgdruntime.so.7	ld-linux-x86-64.so.2
+libgdruntime.so.7	ld-linux.so.2
 libgdruntime.so.7	libc.so.6
 libgdruntime.so.7	libgcc_s.so.1
 libgdruntime.so.7	libm.so.6
@@ -21982,6 +21987,7 @@ libgexiv2-0.16.so.4	libgobject-2.0.so.0
 libgexiv2-0.16.so.4	libm.so.6
 libgexiv2-0.16.so.4	libstdc++.so.6
 libgfortran.so.5	ld-linux-x86-64.so.2
+libgfortran.so.5	ld-linux.so.2
 libgfortran.so.5	libc.so.6
 libgfortran.so.5	libgcc_s.so.1
 libgfortran.so.5	libm.so.6
@@ -22277,9 +22283,11 @@ libgmpxx.so.4	libgmp.so.10
 libgmpxx.so.4	libm.so.6
 libgmpxx.so.4	libstdc++.so.6
 libgnarl-16.so	ld-linux-x86-64.so.2
+libgnarl-16.so	ld-linux.so.2
 libgnarl-16.so	libc.so.6
 libgnarl-16.so	libgcc_s.so.1
 libgnat-16.so	ld-linux-x86-64.so.2
+libgnat-16.so	ld-linux.so.2
 libgnat-16.so	libc.so.6
 libgnat-16.so	libgcc_s.so.1
 libgnat-16.so	libm.so.6
@@ -22315,6 +22323,7 @@ libgnutlsxx.so.30	libgnutls.so.30
 libgnutlsxx.so.30	libm.so.6
 libgnutlsxx.so.30	libstdc++.so.6
 libgo.so.25	ld-linux-x86-64.so.2
+libgo.so.25	ld-linux.so.2
 libgo.so.25	libc.so.6
 libgo.so.25	libgcc_s.so.1
 libgo.so.25	libm.so.6
@@ -22350,6 +22359,7 @@ libgpgmepp.so.7	libgpgme.so.45
 libgpgmepp.so.7	libm.so.6
 libgpgmepp.so.7	libstdc++.so.6
 libgphobos.so.7	ld-linux-x86-64.so.2
+libgphobos.so.7	ld-linux.so.2
 libgphobos.so.7	libc.so.6
 libgphobos.so.7	libgcc_s.so.1
 libgphobos.so.7	libm.so.6
@@ -30413,6 +30423,7 @@ liblz4.so.1	libc.so.6
 liblzma.so.5	libc.so.6
 liblzo2.so.2	libc.so.6
 libm.so.6	ld-linux-x86-64.so.2
+libm.so.6	ld-linux.so.2
 libm.so.6	libc.so.6
 libm17n-X.so	libICE.so.6
 libm17n-X.so	libSM.so.6
@@ -30680,6 +30691,7 @@ libmcpprotocolserverplugin.so.0	libm.so.6
 libmcpprotocolserverplugin.so.0	libstdc++.so.6
 libmcrypt.so.4	libc.so.6
 libmemusage.so	ld-linux-x86-64.so.2
+libmemusage.so	ld-linux.so.2
 libmemusage.so	libc.so.6
 libmenu.so.5	libc.so.6
 libmenu.so.5	libdl.so.2
@@ -34205,6 +34217,7 @@ librsvg-2.so.2	libpango-1.0.so.0
 librsvg-2.so.2	libpangocairo-1.0.so.0
 librsvg-2.so.2	libxml2.so.16
 librt.so.1	ld-linux-x86-64.so.2
+librt.so.1	ld-linux.so.2
 librt.so.1	libc.so.6
 librtp.so	libc.so.6
 librtp.so	libgio-2.0.so.0
@@ -35274,6 +35287,7 @@ libstdc++.so.5	libc.so.6
 libstdc++.so.5	libgcc_s.so.1
 libstdc++.so.5	libm.so.6
 libstdc++.so.6	ld-linux-x86-64.so.2
+libstdc++.so.6	ld-linux.so.2
 libstdc++.so.6	libc.so.6
 libstdc++.so.6	libgcc_s.so.1
 libstdc++.so.6	libm.so.6
@@ -36144,6 +36158,7 @@ libtumbler-1.so.0	libgobject-2.0.so.0
 libtumbler-1.so.0	libxfce4util.so.7
 libturbojpeg.so.0	ld-linux-x86-64.so.2
 libturbojpeg.so.0	libc.so.6
+libubsan.so.1	ld-linux.so.2
 libubsan.so.1	libc.so.6
 libubsan.so.1	libgcc_s.so.1
 libubsan.so.1	libm.so.6
