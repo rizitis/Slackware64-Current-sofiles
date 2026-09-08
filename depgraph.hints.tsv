@@ -176,7 +176,6 @@ gcr	exec	/usr/bin/ssh-agent	openssh	guess
 gcr4	exec	/usr/bin/ssh-add	openssh	guess
 gcr4	exec	/usr/bin/ssh-agent	openssh	guess
 gdb	dlopen	libthread_db.so.1	aaa_glibc-solibs	guess
-gegl	dlopen	libGL.so.1	libglvnd	guess
 gegl	dlopen	libOpenCL.so.1	ocl-icd	guess
 gi-docgen	import	jinja2	python-Jinja2	guess
 gi-docgen	import	markdown	python-markdown	guess

@@ -5440,9 +5440,7 @@ geeqie	libtiff.so.6	libtiff
 geeqie	libwebp.so.7	libwebp
 gegl	libOpenEXR-3_4.so.33	openexr
 gegl	libSDL2-2.0.so.0	SDL2
-gegl	libavcodec.so.63	ffmpeg
-gegl	libavformat.so.63	ffmpeg
-gegl	libavutil.so.61	ffmpeg
+gegl	libSDL3.so.0	SDL3
 gegl	libbabl-0.1.so.0	babl
 gegl	libc.so.6	aaa_glibc-solibs
 gegl	libc.so.6	glibc
@@ -5477,7 +5475,6 @@ gegl	libraw.so.25	LibRaw
 gegl	librsvg-2.so.2	librsvg
 gegl	libstdc++.so.6	aaa_libraries
 gegl	libstdc++.so.6	gcc-g++
-gegl	libswscale.so.10	ffmpeg
 gegl	libtiff.so.6	aaa_libraries
 gegl	libtiff.so.6	libtiff
 gegl	libumfpack.so.6	suitesparse
