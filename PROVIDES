@@ -1893,6 +1893,10 @@ libfuse3.so.3 fuse3
 libfuturesql5.so.0 futuresql
 libfuturesql6.so.0 futuresql
 libfuzzy-3.2.0.so htdig
+libfwupd.so.3 fwupd
+libfwupdengine.so fwupd
+libfwupdplugin.so fwupd
+libfwupdutil.so fwupd
 libfyaml.so.0 libfyaml
 libgail.so gtk+2
 libgailutil-3.so.0 gtk+3
@@ -2139,8 +2143,8 @@ libgstgoom.so gst-plugins-good
 libgstgoom2k1.so gst-plugins-good
 libgstgtk.so gst-plugins-good
 libgstgtkwayland.so gst-plugins-bad-free
+libgsthip-1.0.so.0 gst-plugins-bad-free
 libgsthip.so gst-plugins-bad-free
-libgsthip.so.0 gst-plugins-bad-free
 libgsthls.so gst-plugins-bad-free
 libgsticydemux.so gst-plugins-good
 libgstid3demux.so gst-plugins-good
