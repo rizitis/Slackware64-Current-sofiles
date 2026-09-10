@@ -2775,6 +2775,7 @@ k5tls.so.0	libssl.so.3
 kcc.so	libMESSAGING-private-samba.so
 kcc.so	libc.so.6
 kcc.so	libdb-glue-private-samba.so
+kcc.so	libdnsserver-common-private-samba.so
 kcc.so	libdsdb-garbage-collect-tombstones-private-samba.so
 kcc.so	libgenrand-private-samba.so
 kcc.so	libldb.so.2
@@ -20413,8 +20414,10 @@ libdnsserver-common-private-samba.so	libc.so.6
 libdnsserver-common-private-samba.so	libldb.so.2
 libdnsserver-common-private-samba.so	libndr-nbt.so.0
 libdnsserver-common-private-samba.so	libndr.so.6
+libdnsserver-common-private-samba.so	libnetif-private-samba.so
 libdnsserver-common-private-samba.so	libsamba-debug-private-samba.so
 libdnsserver-common-private-samba.so	libsamba-errors.so.1
+libdnsserver-common-private-samba.so	libsamba-hostconfig.so.0
 libdnsserver-common-private-samba.so	libsamba-util.so.0
 libdnsserver-common-private-samba.so	libsamdb-common-private-samba.so
 libdnsserver-common-private-samba.so	libtalloc.so.2

@@ -30743,6 +30743,16 @@ zanshin	libm.so.6	aaa_glibc-solibs
 zanshin	libm.so.6	glibc
 zanshin	libstdc++.so.6	aaa_libraries
 zanshin	libstdc++.so.6	gcc-g++
+zenity	libadwaita-1.so.0	libadwaita
+zenity	libc.so.6	aaa_glibc-solibs
+zenity	libc.so.6	glibc
+zenity	libgio-2.0.so.0	glib2
+zenity	libglib-2.0.so.0	aaa_libraries
+zenity	libglib-2.0.so.0	glib2
+zenity	libgobject-2.0.so.0	aaa_libraries
+zenity	libgobject-2.0.so.0	glib2
+zenity	libgtk-4.so.1	gtk4
+zenity	libpango-1.0.so.0	pango
 zerofree	libc.so.6	aaa_glibc-solibs
 zerofree	libc.so.6	glibc
 zerofree	libext2fs.so.2	e2fsprogs
