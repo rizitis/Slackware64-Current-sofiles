@@ -2494,7 +2494,7 @@ libkalarmplugin.so.6 kalarm
 libkarboncommon.so.41 calligra
 libkarbonui.so.41 calligra
 libkarma.so.0 libkarma
-libkateprivate.so.26.08.0 kate
+libkateprivate.so.26.08.1 kate
 libkbdfile.so.1 kbd
 libkbookmarkmodel_private.so.6 keditbookmarks
 libkcardgame.so kpat
@@ -2616,8 +2616,8 @@ libkompareinterface.so.6 kompare
 libkomsooxml.so.41 calligra
 libkonqsidebarplugin.so.6 konqueror
 libkonquerorprivate.so.5 konqueror
-libkonsoleapp.so.26.08.0 konsole
-libkonsoleprivate.so.26.08.0 konsole
+libkonsoleapp.so.26.08.1 konsole
+libkonsoleprivate.so.26.08.1 konsole
 libkontactprivate.so.6 kontact
 libkoodf.so.41 calligra
 libkoodf2.so.41 calligra
