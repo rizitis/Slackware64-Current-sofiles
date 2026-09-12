@@ -7156,7 +7156,6 @@ gv	libc.so.6	aaa_glibc-solibs
 gv	libc.so.6	glibc
 gv	libm.so.6	aaa_glibc-solibs
 gv	libm.so.6	glibc
-gvfs	libarchive.so.13	libarchive
 gvfs	libavahi-client.so.3	avahi
 gvfs	libavahi-common.so.3	avahi
 gvfs	libavahi-glib.so.1	avahi
@@ -7169,7 +7168,6 @@ gvfs	libcdio_paranoia.so.2	libcdio-paranoia
 gvfs	libelogind.so.0	elogind
 gvfs	libfuse3.so.3	fuse3
 gvfs	libgcr-4.so.4	gcr4
-gvfs	libgcrypt.so.20	libgcrypt
 gvfs	libgio-2.0.so.0	glib2
 gvfs	libglib-2.0.so.0	aaa_libraries
 gvfs	libglib-2.0.so.0	glib2

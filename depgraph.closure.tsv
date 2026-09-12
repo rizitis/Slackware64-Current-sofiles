@@ -8985,12 +8985,11 @@ gvfs	graphite2	lib
 gvfs	harfbuzz	lib
 gvfs	icu4c	lib
 gvfs	jansson	lib
-gvfs	libarchive	linked
 gvfs	libbluray	linked
 gvfs	libcdio	linked
 gvfs	libcdio-paranoia	linked
 gvfs	libexif	lib
-gvfs	libgcrypt	linked
+gvfs	libgcrypt	lib
 gvfs	libgphoto2	linked
 gvfs	libgudev	linked
 gvfs	libimobiledevice	linked
@@ -9001,7 +9000,6 @@ gvfs	libsecret	linked
 gvfs	libsoup3	linked
 gvfs	libusbmuxd	lib
 gvfs	libxml2	linked
-gvfs	lz4	lib
 gvfs	nettle	lib
 gvfs	nghttp2	lib
 gvfs	openssl	lib
