@@ -20285,8 +20285,6 @@ llvm	libtinfo.so.6	ncurses
 llvm	libxml2.so.16	libxml2
 llvm	libz.so.1	aaa_libraries
 llvm	libz.so.1	zlib
-llvm	libzstd.so.1	aaa_libraries
-llvm	libzstd.so.1	zstd
 lm_sensors	libc.so.6	aaa_glibc-solibs
 lm_sensors	libc.so.6	glibc
 lm_sensors	libm.so.6	aaa_glibc-solibs

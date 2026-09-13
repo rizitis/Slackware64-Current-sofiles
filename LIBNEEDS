@@ -9378,7 +9378,6 @@ libLLVM.so.22.1	libm.so.6
 libLLVM.so.22.1	libstdc++.so.6
 libLLVM.so.22.1	libxml2.so.16
 libLLVM.so.22.1	libz.so.1
-libLLVM.so.22.1	libzstd.so.1
 libLLVM.so.22.1-rust-1.98.1-stable	ld-linux-x86-64.so.2
 libLLVM.so.22.1-rust-1.98.1-stable	libc.so.6
 libLLVM.so.22.1-rust-1.98.1-stable	libgcc_s.so.1
