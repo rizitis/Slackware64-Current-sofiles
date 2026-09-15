@@ -15780,7 +15780,6 @@ libads-private-samba.so	libsmbconf.so.0
 libads-private-samba.so	libsmbldap.so.2
 libads-private-samba.so	libtalloc.so.2
 libads-private-samba.so	libutil-tdb-private-samba.so
-libadwaita-1.so.0	libappstream.so.5
 libadwaita-1.so.0	libc.so.6
 libadwaita-1.so.0	libfribidi.so.0
 libadwaita-1.so.0	libgio-2.0.so.0

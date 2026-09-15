@@ -17974,7 +17974,6 @@ libXxf86vm	libX11.so.6	libX11
 libXxf86vm	libXext.so.6	libXext
 libXxf86vm	libc.so.6	aaa_glibc-solibs
 libXxf86vm	libc.so.6	glibc
-libadwaita	libappstream.so.5	appstream
 libadwaita	libc.so.6	aaa_glibc-solibs
 libadwaita	libc.so.6	glibc
 libadwaita	libfribidi.so.0	fribidi
