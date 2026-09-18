@@ -15573,6 +15573,7 @@ krita	libOpenGL.so.0	libglvnd
 krita	libQt6Concurrent.so.6	qt6
 krita	libQt6Core.so.6	qt6
 krita	libQt6Core5Compat.so.6	qt6
+krita	libQt6DBus.so.6	qt6
 krita	libQt6Gui.so.6	qt6
 krita	libQt6Network.so.6	qt6
 krita	libQt6OpenGL.so.6	qt6
@@ -18785,10 +18786,16 @@ libjxl	libc.so.6	aaa_glibc-solibs
 libjxl	libc.so.6	glibc
 libjxl	libgcc_s.so.1	aaa_libraries
 libjxl	libgcc_s.so.1	gcc
+libjxl	libgdk_pixbuf-2.0.so.0	gdk-pixbuf2
 libjxl	libgif.so.7	giflib
+libjxl	libglib-2.0.so.0	aaa_libraries
+libjxl	libglib-2.0.so.0	glib2
+libjxl	libgobject-2.0.so.0	aaa_libraries
+libjxl	libgobject-2.0.so.0	glib2
 libjxl	libhwy.so.1	highway
 libjxl	libjpeg.so.62	aaa_libraries
 libjxl	libjpeg.so.62	libjpeg-turbo
+libjxl	liblcms2.so.2	lcms2
 libjxl	libm.so.6	aaa_glibc-solibs
 libjxl	libm.so.6	glibc
 libjxl	libpng16.so.16	aaa_libraries

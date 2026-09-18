@@ -26250,8 +26250,12 @@ libjpeg-turbo	aaa_libraries	linked
 libjxl	aaa_glibc-solibs	linked
 libjxl	aaa_libraries	linked
 libjxl	brotli	linked
+libjxl	gdk-pixbuf2	linked
 libjxl	giflib	linked
+libjxl	glib2	lib
 libjxl	highway	linked
+libjxl	lcms2	linked
+libjxl	util-linux	lib
 libkarma	aaa_glibc-solibs	linked
 libkarma	aaa_libraries	linked
 libkarma	taglib	linked
