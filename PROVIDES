@@ -1320,7 +1320,7 @@ libass.so.9 libass
 libassuan.so.9 libassuan
 libastro.so.1 marble
 libasyncns.so.0 libasyncns
-libatalk.so.21 netatalk
+libatalk.so.22 netatalk
 libatasmart.so.4 libatasmart
 libatk-1.0.so.0 at-spi2-core
 libatk-bridge-2.0.so.0 at-spi2-core
@@ -3035,7 +3035,7 @@ libopencv_ximgproc.so.414 opencv
 libopencv_xobjdetect.so.414 opencv
 libopencv_xphoto.so.414 opencv
 libopenjp2.so.7 openjpeg
-libopenjph.so.0.31 openjph
+libopenjph.so.0.32 openjph
 libopenjpip.so.7 openjpeg
 libopenobex.so.2 openobex
 libopensc.so.13 opensc
@@ -3384,7 +3384,7 @@ libsigc-2.0.so.0 libsigc++
 libsigc-3.0.so.0 libsigc++3
 libsigsegv.so.2 aaa_libraries
 libsigsegv.so.2 libsigsegv
-libsimdutf.so.35 simdutf
+libsimdutf.so.36 simdutf
 libsimple.so pidgin
 libslang.so.1 aaa_libraries
 libslang.so.1 slang1
@@ -3589,7 +3589,7 @@ libudisks2_btrfs.so udisks2
 libudisks2_lvm2.so udisks2
 libulockmgr.so.1 fuse
 libumfpack.so.6 suitesparse
-libunibreak.so.7 libunibreak
+libunibreak.so.8 libunibreak
 libunistring.so.5 aaa_libraries
 libunistring.so.5 libunistring
 libunwind-coredump.so.0 libunwind
@@ -3618,8 +3618,8 @@ libusbmuxd-2.0.so.6 libusbmuxd
 libusbredirhost.so.1 usbredir
 libusbredirparser.so.1 usbredir
 libutempter.so.0 utempter
-libutf8_range.so.36.1.0 protobuf
-libutf8_validity.so.36.1.0 protobuf
+libutf8_range.so.36.2.0 protobuf
+libutf8_validity.so.36.2.0 protobuf
 libutf8proc.so.3 utf8proc
 libutil-crypt-private-samba.so samba
 libutil-reg-private-samba.so samba

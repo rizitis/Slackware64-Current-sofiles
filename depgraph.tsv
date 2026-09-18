@@ -15635,7 +15635,7 @@ krita	libtiff.so.6	aaa_libraries
 krita	libtiff.so.6	libtiff
 krita	libturbojpeg.so.0	aaa_libraries
 krita	libturbojpeg.so.0	libjpeg-turbo
-krita	libunibreak.so.7	libunibreak
+krita	libunibreak.so.8	libunibreak
 krita	libwayland-client.so.0	wayland
 krita	libwayland-cursor.so.0	wayland
 krita	libwebp.so.7	libwebp
@@ -18047,7 +18047,7 @@ libass	libfribidi.so.0	fribidi
 libass	libharfbuzz.so.0	harfbuzz
 libass	libm.so.6	aaa_glibc-solibs
 libass	libm.so.6	glibc
-libass	libunibreak.so.7	libunibreak
+libass	libunibreak.so.8	libunibreak
 libassuan	libc.so.6	aaa_glibc-solibs
 libassuan	libc.so.6	glibc
 libassuan	libgpg-error.so.0	aaa_libraries
@@ -21610,8 +21610,8 @@ mosh	libstdc++.so.6	gcc-g++
 mosh	libtinfo.so.6	aaa_libraries
 mosh	libtinfo.so.6	ncurses
 mosh	libutempter.so.0	utempter
-mosh	libutf8_range.so.36.1.0	protobuf
-mosh	libutf8_validity.so.36.1.0	protobuf
+mosh	libutf8_range.so.36.2.0	protobuf
+mosh	libutf8_validity.so.36.2.0	protobuf
 mosh	libz.so.1	aaa_libraries
 mosh	libz.so.1	zlib
 most	libc.so.6	aaa_glibc-solibs
@@ -22103,6 +22103,8 @@ net-snmp	libtinfo.so.6	aaa_libraries
 net-snmp	libtinfo.so.6	ncurses
 net-tools	libc.so.6	aaa_glibc-solibs
 net-tools	libc.so.6	glibc
+netatalk	ld-linux-x86-64.so.2	aaa_glibc-solibs
+netatalk	ld-linux-x86-64.so.2	glibc
 netatalk	libacl.so.1	aaa_libraries
 netatalk	libacl.so.1	acl
 netatalk	libavahi-client.so.3	avahi
@@ -22139,6 +22141,8 @@ netatalk	libstdc++.so.6	gcc-g++
 netatalk	libtalloc.so.2	talloc
 netatalk	libtirpc.so.3	aaa_libraries
 netatalk	libtirpc.so.3	libtirpc
+netatalk	libunwind.so.8	aaa_libraries
+netatalk	libunwind.so.8	libunwind
 netatalk	libxapian.so.45	xapian-core
 netdate	libc.so.6	aaa_glibc-solibs
 netdate	libc.so.6	glibc
@@ -22709,7 +22713,7 @@ openexr	libgcc_s.so.1	aaa_libraries
 openexr	libgcc_s.so.1	gcc
 openexr	libm.so.6	aaa_glibc-solibs
 openexr	libm.so.6	glibc
-openexr	libopenjph.so.0.31	openjph
+openexr	libopenjph.so.0.32	openjph
 openexr	libstdc++.so.6	aaa_libraries
 openexr	libstdc++.so.6	gcc-g++
 openjpeg	libc.so.6	aaa_glibc-solibs
@@ -26275,8 +26279,8 @@ qt6	libtiff.so.6	libtiff
 qt6	libudev.so.1	aaa_libraries
 qt6	libudev.so.1	eudev
 qt6	liburing.so.2	liburing
-qt6	libutf8_range.so.36.1.0	protobuf
-qt6	libutf8_validity.so.36.1.0	protobuf
+qt6	libutf8_range.so.36.2.0	protobuf
+qt6	libutf8_validity.so.36.2.0	protobuf
 qt6	libva-drm.so.2	libva
 qt6	libva.so.2	libva
 qt6	libwayland-client.so.0	wayland
@@ -28665,7 +28669,7 @@ vte	libpango-1.0.so.0	pango
 vte	libpangocairo-1.0.so.0	pango
 vte	libpcre2-8.so.0	aaa_libraries
 vte	libpcre2-8.so.0	pcre2
-vte	libsimdutf.so.35	simdutf
+vte	libsimdutf.so.36	simdutf
 vte	libstdc++.so.6	aaa_libraries
 vte	libstdc++.so.6	gcc-g++
 vulkan-sdk	ld-linux-x86-64.so.2	aaa_glibc-solibs

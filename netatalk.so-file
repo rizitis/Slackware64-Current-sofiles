@@ -1,5 +1,6 @@
+ld-linux-x86-64.so.2
 libacl.so.1
-libatalk.so.21
+libatalk.so.22
 libavahi-client.so.3
 libavahi-common.so.3
 libbstring.so.1
@@ -23,4 +24,5 @@ libsqlite3.so.0
 libstdc++.so.6
 libtalloc.so.2
 libtirpc.so.3
+libunwind.so.8
 libxapian.so.45
