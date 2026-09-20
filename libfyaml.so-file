@@ -1,5 +1,5 @@
-libLLVM.so.22.1
+libLLVM.so.23.1
 libc.so.6
-libclang.so.22.1
+libclang.so.23.1
 libfyaml.so.0
 libm.so.6

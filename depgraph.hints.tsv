@@ -326,6 +326,7 @@ libxslt	import	libxml2	libxml2	guess
 linuxdoc-tools	import	libxml2	libxml2	guess
 llvm	build	/usr/bin/as	binutils	guess
 llvm	dlopen	ld-linux.so.2	aaa_glibc-solibs	guess
+llvm	dlopen	libpython3.so	python3	guess
 llvm	exec	/usr/bin/env	coreutils	guess
 llvm	import	yaml	python-PyYAML	guess
 logrotate	exec	/usr/bin/gunzip	gzip	guess
