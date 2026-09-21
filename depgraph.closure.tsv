@@ -34330,7 +34330,6 @@ qcoro	ngtcp2	lib
 qcoro	openssl	lib
 qcoro	openssl-solibs	lib
 qcoro	pcre2	lib
-qcoro	qt5	linked
 qcoro	qt6	linked
 qcoro	util-linux	lib
 qemu-guest-agent	aaa_glibc-solibs	linked
