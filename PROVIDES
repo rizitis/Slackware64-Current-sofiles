@@ -374,8 +374,6 @@ libGLU.so.1 glu
 libGLX.so.0 libglvnd
 libGLX_mesa.so.0 mesa
 libGLdispatch.so.0 libglvnd
-libGrantlee_Templates.so.5 grantlee
-libGrantlee_TextDocument.so.5 grantlee
 libHDB-SAMBA4-private-samba.so samba
 libICE.so.6 libICE
 libIDL-2.so.0 libidl
@@ -2953,6 +2951,7 @@ libnutscan.so.4 nut
 libnvidia-egl-wayland.so.1 egl-wayland
 libnvme-mi.so.1 libnvme
 libnvme.so.1 libnvme
+libnvme3.so.1 nvme-cli
 libobexftp.so.0 obexftp
 libobjc.so.4 gcc-objc
 libobs.so compiz
@@ -3692,7 +3691,7 @@ libwebpdecoder.so.3 libwebp
 libwebpdemux.so.2 libwebp
 libwebpmux.so.3 libwebp
 libwfb.so xorg-server
-libwget.so.4 wget2
+libwget.so.5 wget2
 libwind-private-samba.so samba
 libwindowmenu.so xfce4-panel
 libwinpr-tools3.so.3 freerdp
