@@ -1,7 +1,7 @@
 ld-linux-x86-64.so.2
 libGLX.so.0
-libIex-3_4.so.33
-libIlmThread-3_4.so.33
+libIex-3_5.so.34
+libIlmThread-3_5.so.34
 libImath-3_2.so.30
 libKDSoapWSDiscoveryClient.so.0
 libKExiv2Qt6.so.0
@@ -31,8 +31,8 @@ libKF6Service.so.6
 libKF6Solid.so.6
 libKF6SyntaxHighlighting.so.6
 libKF6WidgetsAddons.so.6
-libOpenEXR-3_4.so.33
-libOpenEXRCore-3_4.so.33
+libOpenEXR-3_5.so.34
+libOpenEXRCore-3_5.so.34
 libOpenGL.so.0
 libPlasmaActivities.so.7
 libPlasmaActivitiesStats.so.1

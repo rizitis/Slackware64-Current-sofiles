@@ -383,8 +383,8 @@ libIMETable.so.0 libime
 libINIReader.so.0 inih
 libISOIR165.so aaa_glibc-solibs
 libISOIR165.so glibc
-libIex-3_4.so.33 openexr
-libIlmThread-3_4.so.33 openexr
+libIex-3_5.so.34 openexr
+libIlmThread-3_5.so.34 openexr
 libImath-3_2.so.30 Imath
 libIntelXvMC.so.1 xf86-video-intel
 libJIS.so aaa_glibc-solibs
@@ -758,9 +758,9 @@ libOkteta3Core.so.0 okteta
 libOkteta3Gui.so.0 okteta
 libOkular6Core.so.4 okular
 libOpenCL.so.1 ocl-icd
-libOpenEXR-3_4.so.33 openexr
-libOpenEXRCore-3_4.so.33 openexr
-libOpenEXRUtil-3_4.so.33 openexr
+libOpenEXR-3_5.so.34 openexr
+libOpenEXRCore-3_5.so.34 openexr
+libOpenEXRUtil-3_5.so.34 openexr
 libOpenGL.so.0 libglvnd
 libPhabricatorHelpers.so.5 purpose5
 libPlasma.so.7 libplasma
@@ -2943,7 +2943,7 @@ libnss_wins.so.2 samba
 libnssckbi.so mozilla-nss
 libnsssysinit.so mozilla-nss
 libnssutil3.so mozilla-nss
-libntfs-3g.so.90 ntfs-3g
+libntfs-3g.so.91 ntfs-3g
 libntlm.so.3 cyrus-sasl
 libnutclient.so.2 nut
 libnutclientstub.so.1 nut

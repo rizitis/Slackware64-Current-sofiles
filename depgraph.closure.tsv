@@ -6401,7 +6401,7 @@ freerdp	libsndfile	lib
 freerdp	libssh	lib
 freerdp	libtheora	lib
 freerdp	libunibreak	lib
-freerdp	libva	linked
+freerdp	libva	lib
 freerdp	libvdpau	lib
 freerdp	libvorbis	lib
 freerdp	libvpx	lib
