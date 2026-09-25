@@ -20818,8 +20818,6 @@ mariadb	liburing.so.2	liburing
 mariadb	libxml2.so.16	libxml2
 mariadb	libz.so.1	aaa_libraries
 mariadb	libz.so.1	zlib
-mariadb	libzstd.so.1	aaa_libraries
-mariadb	libzstd.so.1	zstd
 marisa	libc.so.6	aaa_glibc-solibs
 marisa	libc.so.6	glibc
 marisa	libgcc_s.so.1	aaa_libraries
