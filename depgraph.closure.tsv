@@ -34033,7 +34033,6 @@ python-lxml	libxml2	linked
 python-lxml	libxslt	linked
 python-lxml	python-html5lib	hint:import
 python-markdown	python-PyYAML	hint:import
-python-markdown	python-importlib_metadata	hint:import
 python-markdown	python-pygments	hint:import
 python-notify2	dbus-python	hint:import
 python-numpy	aaa_glibc-solibs	linked

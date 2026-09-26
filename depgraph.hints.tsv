@@ -518,7 +518,6 @@ python-html5lib	import	webencodings	python-webencodings	guess
 python-importlib_metadata	import	zipp	python-zipp	guess
 python-lxml	build	cython	Cython	guess
 python-lxml	import	html5lib	python-html5lib	guess
-python-markdown	import	importlib_metadata	python-importlib_metadata	guess
 python-markdown	import	pygments	python-pygments	guess
 python-markdown	import	yaml	python-PyYAML	guess
 python-notify2	import	dbus	dbus-python	guess
