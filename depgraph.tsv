@@ -5365,6 +5365,8 @@ gd	libz.so.1	aaa_libraries
 gd	libz.so.1	zlib
 gdb	ld-linux-x86-64.so.2	aaa_glibc-solibs
 gdb	ld-linux-x86-64.so.2	glibc
+gdb	libatomic.so.1	aaa_libraries
+gdb	libatomic.so.1	gcc
 gdb	libc.so.6	aaa_glibc-solibs
 gdb	libc.so.6	glibc
 gdb	libdebuginfod.so.1	elfutils
@@ -7855,14 +7857,12 @@ inih	libstdc++.so.6	aaa_libraries
 inih	libstdc++.so.6	gcc-g++
 iniparser	libc.so.6	aaa_glibc-solibs
 iniparser	libc.so.6	glibc
+inotify-tools	ld-linux-x86-64.so.2	aaa_glibc-solibs
+inotify-tools	ld-linux-x86-64.so.2	glibc
 inotify-tools	libc.so.6	aaa_glibc-solibs
 inotify-tools	libc.so.6	glibc
 inotify-tools	libgcc_s.so.1	aaa_libraries
 inotify-tools	libgcc_s.so.1	gcc
-inotify-tools	libm.so.6	aaa_glibc-solibs
-inotify-tools	libm.so.6	glibc
-inotify-tools	libstdc++.so.6	aaa_libraries
-inotify-tools	libstdc++.so.6	gcc-g++
 intel-gmmlib	libc.so.6	aaa_glibc-solibs
 intel-gmmlib	libc.so.6	glibc
 intel-gmmlib	libgcc_s.so.1	aaa_libraries

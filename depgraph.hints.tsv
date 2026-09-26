@@ -628,7 +628,6 @@ s-nail	exec	/usr/bin/sendmail	postfix	guess
 samba	exec	/usr/bin/false	coreutils	guess
 samba	import	dns	python-dnspython	guess
 samba	import	markdown	python-markdown	guess
-samba	import	requests	python-requests	guess
 scons	import	importlib_metadata	python-importlib_metadata	guess
 scons	import	libxml2	libxml2	guess
 scons	import	libxslt	libxslt	guess

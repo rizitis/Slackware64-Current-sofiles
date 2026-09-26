@@ -4196,10 +4196,12 @@ samba/dcerpc/drsblobs.cpython-312-x86_64-linux-gnu.so samba
 samba/dcerpc/drsuapi.cpython-312-x86_64-linux-gnu.so samba
 samba/dcerpc/echo.cpython-312-x86_64-linux-gnu.so samba
 samba/dcerpc/epmapper.cpython-312-x86_64-linux-gnu.so samba
+samba/dcerpc/file_id.cpython-312-x86_64-linux-gnu.so samba
 samba/dcerpc/gkdi.cpython-312-x86_64-linux-gnu.so samba
 samba/dcerpc/gmsa.cpython-312-x86_64-linux-gnu.so samba
 samba/dcerpc/idmap.cpython-312-x86_64-linux-gnu.so samba
 samba/dcerpc/initshutdown.cpython-312-x86_64-linux-gnu.so samba
+samba/dcerpc/ioctl.cpython-312-x86_64-linux-gnu.so samba
 samba/dcerpc/irpc.cpython-312-x86_64-linux-gnu.so samba
 samba/dcerpc/keycredlink.cpython-312-x86_64-linux-gnu.so samba
 samba/dcerpc/krb5ccache.cpython-312-x86_64-linux-gnu.so samba

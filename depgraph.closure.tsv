@@ -35166,7 +35166,6 @@ samba	p11-kit	lib
 samba	pam	linked
 samba	python-dnspython	hint:import
 samba	python-markdown	hint:import
-samba	python-requests	hint:import
 samba	python3	linked
 samba	talloc	linked
 samba	tevent	linked

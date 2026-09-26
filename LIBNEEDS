@@ -660,6 +660,7 @@ canon.so	libm.so.6
 cap.so	libc.so.6
 cap.so	libreplace-private-samba.so
 cap.so	libsamba-debug-private-samba.so
+cap.so	libsamba-errors.so.1
 cap.so	libsamba-util.so.0
 cap.so	libsmbd-base-private-samba.so
 cap.so	libtalloc.so.2
@@ -1860,6 +1861,7 @@ ftxt.so	libzip.so.5
 full_audit.so	libc.so.6
 full_audit.so	libgenrand-private-samba.so
 full_audit.so	libsamba-debug-private-samba.so
+full_audit.so	libsamba-errors.so.1
 full_audit.so	libsamba-security-private-samba.so
 full_audit.so	libsamba-util.so.0
 full_audit.so	libsamba3-util-private-samba.so
@@ -13246,6 +13248,7 @@ libRPC-WORKER-private-samba.so	libsmbd-shim-private-samba.so
 libRPC-WORKER-private-samba.so	libtalloc.so.2
 libRPC-WORKER-private-samba.so	libtevent-util.so.0
 libRPC-WORKER-private-samba.so	libtevent.so.0
+libRPC-WORKER-private-samba.so	libtime-basic-private-samba.so
 libRemarks.so.23.1	libLLVM.so.23.1
 libRemarks.so.23.1	libc.so.6
 libRemarks.so.23.1	libgcc_s.so.1
@@ -15647,8 +15650,6 @@ libadblockplugin.so.6	libm.so.6
 libadblockplugin.so.6	libstdc++.so.6
 libaddns-private-samba.so	libc.so.6
 libaddns-private-samba.so	libclidns-private-samba.so
-libaddns-private-samba.so	libgenrand-private-samba.so
-libaddns-private-samba.so	libgensec-private-samba.so
 libaddns-private-samba.so	libndr.so.6
 libaddns-private-samba.so	libsamba-debug-private-samba.so
 libaddns-private-samba.so	libsamba-errors.so.1
@@ -15659,7 +15660,6 @@ libaddns-private-samba.so	libtevent.so.0
 libads-private-samba.so	libaddns-private-samba.so
 libads-private-samba.so	libauthkrb5-private-samba.so
 libads-private-samba.so	libc.so.6
-libads-private-samba.so	libcli-cldap-private-samba.so
 libads-private-samba.so	libcli-ldap-common-private-samba.so
 libads-private-samba.so	libcom-err-private-samba.so
 libads-private-samba.so	libdcerpc-binding.so.0
@@ -15670,6 +15670,7 @@ libads-private-samba.so	libkrb5-private-samba.so
 libads-private-samba.so	libkrb5samba-private-samba.so
 libads-private-samba.so	liblber.so.2
 libads-private-samba.so	libldap.so.2
+libads-private-samba.so	libldbsamba-private-samba.so
 libads-private-samba.so	liblibsmb-private-samba.so
 libads-private-samba.so	libmsrpc3-private-samba.so
 libads-private-samba.so	libndr-nbt.so.0
@@ -19063,9 +19064,6 @@ libcli-cldap-private-samba.so	libasn1util-private-samba.so
 libcli-cldap-private-samba.so	libc.so.6
 libcli-cldap-private-samba.so	libcli-ldap-common-private-samba.so
 libcli-cldap-private-samba.so	libldb.so.2
-libcli-cldap-private-samba.so	libndr-nbt.so.0
-libcli-cldap-private-samba.so	libndr.so.6
-libcli-cldap-private-samba.so	libsamba-debug-private-samba.so
 libcli-cldap-private-samba.so	libsamba-errors.so.1
 libcli-cldap-private-samba.so	libsamba-sockets-private-samba.so
 libcli-cldap-private-samba.so	libsamba-util.so.0
@@ -19090,6 +19088,7 @@ libcli-ldap-private-samba.so	libcli-nbt-private-samba.so
 libcli-ldap-private-samba.so	libgensec-private-samba.so
 libcli-ldap-private-samba.so	libldb.so.2
 libcli-ldap-private-samba.so	libndr-nbt.so.0
+libcli-ldap-private-samba.so	libndr.so.6
 libcli-ldap-private-samba.so	libnetif-private-samba.so
 libcli-ldap-private-samba.so	libsamba-credentials.so.1
 libcli-ldap-private-samba.so	libsamba-debug-private-samba.so
@@ -19163,6 +19162,7 @@ libclidns-private-samba.so	libgenrand-private-samba.so
 libclidns-private-samba.so	libndr-nbt.so.0
 libclidns-private-samba.so	libndr.so.6
 libclidns-private-samba.so	libsamba-debug-private-samba.so
+libclidns-private-samba.so	libsamba-errors.so.1
 libclidns-private-samba.so	libsamba-sockets-private-samba.so
 libclidns-private-samba.so	libsamba-util.so.0
 libclidns-private-samba.so	libtalloc.so.2
@@ -19631,7 +19631,6 @@ libdcerpc-server.so.0	libtevent-util.so.0
 libdcerpc-server.so.0	libtevent.so.0
 libdcerpc.so.0	libauthkrb5-private-samba.so
 libdcerpc.so.0	libc.so.6
-libdcerpc.so.0	libcli-cldap-private-samba.so
 libdcerpc.so.0	libcli-ldap-private-samba.so
 libdcerpc.so.0	libcli-smb-common-private-samba.so
 libdcerpc.so.0	libcliauth-private-samba.so
@@ -19642,6 +19641,7 @@ libdcerpc.so.0	libgenrand-private-samba.so
 libdcerpc.so.0	libgensec-private-samba.so
 libdcerpc.so.0	libgse-private-samba.so
 libdcerpc.so.0	libhttp-private-samba.so
+libdcerpc.so.0	libldbsamba-private-samba.so
 libdcerpc.so.0	libndr-nbt.so.0
 libdcerpc.so.0	libndr-samba-private-samba.so
 libdcerpc.so.0	libndr-standard.so.0
@@ -22242,6 +22242,7 @@ libgse-private-samba.so	libgssapi-private-samba.so
 libgse-private-samba.so	libkrb5-private-samba.so
 libgse-private-samba.so	libkrb5samba-private-samba.so
 libgse-private-samba.so	libldap.so.2
+libgse-private-samba.so	libldbsamba-private-samba.so
 libgse-private-samba.so	libndr-nbt.so.0
 libgse-private-samba.so	libndr.so.6
 libgse-private-samba.so	libsamba-credentials.so.1
@@ -25056,10 +25057,9 @@ libinih.so.0	libc.so.6
 libiniparser.so.4	libc.so.6
 libinotify.so	libc.so.6
 libinotify.so	libm.so.6
+libinotifytools.so.0	ld-linux-x86-64.so.2
 libinotifytools.so.0	libc.so.6
 libinotifytools.so.0	libgcc_s.so.1
-libinotifytools.so.0	libm.so.6
-libinotifytools.so.0	libstdc++.so.6
 libinproctrace.so	ld-linux-x86-64.so.2
 libinproctrace.so	libc.so.6
 libinproctrace.so	libgcc_s.so.1
@@ -34101,7 +34101,6 @@ libsamba-net-join.cpython-312-x86-64-linux-gnu-private-samba.so	libsamdb.so.0
 libsamba-net-join.cpython-312-x86-64-linux-gnu-private-samba.so	libserver-role-private-samba.so
 libsamba-net-join.cpython-312-x86-64-linux-gnu-private-samba.so	libtalloc.so.2
 libsamba-net-private-samba.so	libc.so.6
-libsamba-net-private-samba.so	libcli-cldap-private-samba.so
 libsamba-net-private-samba.so	libcli-ldap-private-samba.so
 libsamba-net-private-samba.so	libcliauth-private-samba.so
 libsamba-net-private-samba.so	libdcerpc-binding.so.0
@@ -37451,6 +37450,7 @@ mdb.so	libldb-mdb-int-private-samba.so
 mdb.so	libldb.so.2
 media_harmony.so	libc.so.6
 media_harmony.so	libsamba-debug-private-samba.so
+media_harmony.so	libsamba-errors.so.1
 media_harmony.so	libsamba-sockets-private-samba.so
 media_harmony.so	libsamba-util.so.0
 media_harmony.so	libsmbconf.so.0
@@ -40130,7 +40130,6 @@ rm	libc.so.6
 rmdir	libc.so.6
 rootdse.so	libMESSAGING-private-samba.so
 rootdse.so	libc.so.6
-rootdse.so	libcli-cldap-private-samba.so
 rootdse.so	libcommon-auth-private-samba.so
 rootdse.so	libdcerpc-binding.so.0
 rootdse.so	libdsdb-module-private-samba.so
@@ -40375,6 +40374,12 @@ samba/dcerpc/epmapper.cpython-312-x86_64-linux-gnu.so	libpython3.12.so.1.0
 samba/dcerpc/epmapper.cpython-312-x86_64-linux-gnu.so	libsamba-python.cpython-312-x86-64-linux-gnu-private-samba.so
 samba/dcerpc/epmapper.cpython-312-x86_64-linux-gnu.so	libsamba-util.so.0
 samba/dcerpc/epmapper.cpython-312-x86_64-linux-gnu.so	libtalloc.so.2
+samba/dcerpc/file_id.cpython-312-x86_64-linux-gnu.so	libc.so.6
+samba/dcerpc/file_id.cpython-312-x86_64-linux-gnu.so	libndr-standard.so.0
+samba/dcerpc/file_id.cpython-312-x86_64-linux-gnu.so	libndr.so.6
+samba/dcerpc/file_id.cpython-312-x86_64-linux-gnu.so	libpytalloc-util.cpython-312-x86-64-linux-gnu.so.2
+samba/dcerpc/file_id.cpython-312-x86_64-linux-gnu.so	libpython3.12.so.1.0
+samba/dcerpc/file_id.cpython-312-x86_64-linux-gnu.so	libtalloc.so.2
 samba/dcerpc/gkdi.cpython-312-x86_64-linux-gnu.so	libc.so.6
 samba/dcerpc/gkdi.cpython-312-x86_64-linux-gnu.so	libdcerpc-samba-private-samba.so
 samba/dcerpc/gkdi.cpython-312-x86_64-linux-gnu.so	libndr-samba-private-samba.so
@@ -40407,6 +40412,14 @@ samba/dcerpc/initshutdown.cpython-312-x86_64-linux-gnu.so	libpython3.12.so.1.0
 samba/dcerpc/initshutdown.cpython-312-x86_64-linux-gnu.so	libsamba-errors.so.1
 samba/dcerpc/initshutdown.cpython-312-x86_64-linux-gnu.so	libsamba-python.cpython-312-x86-64-linux-gnu-private-samba.so
 samba/dcerpc/initshutdown.cpython-312-x86_64-linux-gnu.so	libtalloc.so.2
+samba/dcerpc/ioctl.cpython-312-x86_64-linux-gnu.so	libc.so.6
+samba/dcerpc/ioctl.cpython-312-x86_64-linux-gnu.so	libcli-smb-common-private-samba.so
+samba/dcerpc/ioctl.cpython-312-x86_64-linux-gnu.so	libndr.so.6
+samba/dcerpc/ioctl.cpython-312-x86_64-linux-gnu.so	libpytalloc-util.cpython-312-x86-64-linux-gnu.so.2
+samba/dcerpc/ioctl.cpython-312-x86_64-linux-gnu.so	libpython3.12.so.1.0
+samba/dcerpc/ioctl.cpython-312-x86_64-linux-gnu.so	libsamba-python.cpython-312-x86-64-linux-gnu-private-samba.so
+samba/dcerpc/ioctl.cpython-312-x86_64-linux-gnu.so	libsamba-util.so.0
+samba/dcerpc/ioctl.cpython-312-x86_64-linux-gnu.so	libtalloc.so.2
 samba/dcerpc/irpc.cpython-312-x86_64-linux-gnu.so	libc.so.6
 samba/dcerpc/irpc.cpython-312-x86_64-linux-gnu.so	libdcerpc-binding.so.0
 samba/dcerpc/irpc.cpython-312-x86_64-linux-gnu.so	libndr-samba4-private-samba.so
@@ -40777,6 +40790,7 @@ samba/net_s3.cpython-312-x86_64-linux-gnu.so	libads-private-samba.so
 samba/net_s3.cpython-312-x86_64-linux-gnu.so	libc.so.6
 samba/net_s3.cpython-312-x86_64-linux-gnu.so	libcli-smb-common-private-samba.so
 samba/net_s3.cpython-312-x86_64-linux-gnu.so	libcliauth-private-samba.so
+samba/net_s3.cpython-312-x86_64-linux-gnu.so	libclidns-private-samba.so
 samba/net_s3.cpython-312-x86_64-linux-gnu.so	libcmdline-contexts-private-samba.so
 samba/net_s3.cpython-312-x86_64-linux-gnu.so	libdcerpc-binding.so.0
 samba/net_s3.cpython-312-x86_64-linux-gnu.so	libdcerpc-samba-private-samba.so
@@ -40900,6 +40914,7 @@ samba/samba3/passdb.cpython-312-x86_64-linux-gnu.so	libtalloc.so.2
 samba/samba3/smbconf.cpython-312-x86_64-linux-gnu.so	libc.so.6
 samba/samba3/smbconf.cpython-312-x86_64-linux-gnu.so	libsmbconf.so.0
 samba/samba3/smbd.cpython-312-x86_64-linux-gnu.so	libc.so.6
+samba/samba3/smbd.cpython-312-x86_64-linux-gnu.so	libgenrand-private-samba.so
 samba/samba3/smbd.cpython-312-x86_64-linux-gnu.so	libpytalloc-util.cpython-312-x86-64-linux-gnu.so.2
 samba/samba3/smbd.cpython-312-x86_64-linux-gnu.so	libpython3.12.so.1.0
 samba/samba3/smbd.cpython-312-x86_64-linux-gnu.so	libsamba-debug-private-samba.so
@@ -41177,7 +41192,6 @@ shadow_copy.so	libsamba-util.so.0
 shadow_copy.so	libsmbd-base-private-samba.so
 shadow_copy.so	libtalloc.so.2
 shadow_copy2.so	libc.so.6
-shadow_copy2.so	libgenrand-private-samba.so
 shadow_copy2.so	libsamba-debug-private-samba.so
 shadow_copy2.so	libsamba-errors.so.1
 shadow_copy2.so	libsamba-util.so.0
@@ -42131,6 +42145,7 @@ unique_object_sids.so	libsamdb-common-private-samba.so
 unique_object_sids.so	libtalloc.so.2
 unityed_media.so	libc.so.6
 unityed_media.so	libsamba-debug-private-samba.so
+unityed_media.so	libsamba-errors.so.1
 unityed_media.so	libsamba-sockets-private-samba.so
 unityed_media.so	libsamba-util.so.0
 unityed_media.so	libsamba3-util-private-samba.so
@@ -42539,6 +42554,7 @@ x.so	libzip.so.5
 xattr_tdb.so	libc.so.6
 xattr_tdb.so	libgenrand-private-samba.so
 xattr_tdb.so	libsamba-debug-private-samba.so
+xattr_tdb.so	libsamba-errors.so.1
 xattr_tdb.so	libsamba-util.so.0
 xattr_tdb.so	libsmbconf.so.0
 xattr_tdb.so	libsmbd-base-private-samba.so
