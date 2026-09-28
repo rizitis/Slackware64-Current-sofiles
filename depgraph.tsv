@@ -4877,6 +4877,10 @@ freetype	libz.so.1	aaa_libraries
 freetype	libz.so.1	zlib
 frei0r-plugins	ld-linux-x86-64.so.2	aaa_glibc-solibs
 frei0r-plugins	ld-linux-x86-64.so.2	glibc
+frei0r-plugins	libEGL.so.1	libglvnd
+frei0r-plugins	libGLU.so.1	glu
+frei0r-plugins	libGLX.so.0	libglvnd
+frei0r-plugins	libOpenGL.so.0	libglvnd
 frei0r-plugins	libc.so.6	aaa_glibc-solibs
 frei0r-plugins	libc.so.6	glibc
 frei0r-plugins	libcairo.so.2	cairo
@@ -16441,6 +16445,7 @@ ktextaddons	libKF6ConfigGui.so.6	kconfig
 ktextaddons	libKF6CoreAddons.so.6	kcoreaddons
 ktextaddons	libKF6I18n.so.6	ki18n
 ktextaddons	libKF6IconThemes.so.6	kiconthemes
+ktextaddons	libKF6IconWidgets.so.6	kiconthemes
 ktextaddons	libKF6ItemViews.so.6	kitemviews
 ktextaddons	libKF6JobWidgets.so.6	kjobwidgets
 ktextaddons	libKF6KIOCore.so.6	kio
@@ -28039,6 +28044,8 @@ texlive	libz.so.1	aaa_libraries
 texlive	libz.so.1	zlib
 tftp-hpa	libc.so.6	aaa_glibc-solibs
 tftp-hpa	libc.so.6	glibc
+tftp-hpa	libcap.so.2	aaa_libraries
+tftp-hpa	libcap.so.2	libcap
 tftp-hpa	libreadline.so.8	aaa_libraries
 tftp-hpa	libreadline.so.8	readline
 thin-provisioning-tools	ld-linux-x86-64.so.2	aaa_glibc-solibs

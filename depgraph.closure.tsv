@@ -6459,7 +6459,7 @@ frei0r-plugins	gcc-gfortran	lib
 frei0r-plugins	gdk-pixbuf2	lib
 frei0r-plugins	giflib	lib
 frei0r-plugins	glib2	lib
-frei0r-plugins	glu	lib
+frei0r-plugins	glu	linked
 frei0r-plugins	gnutls	lib
 frei0r-plugins	graphite2	lib
 frei0r-plugins	gst-plugins-base	lib
@@ -6491,7 +6491,7 @@ frei0r-plugins	libcdio-paranoia	lib
 frei0r-plugins	libdeflate	lib
 frei0r-plugins	libdrm	lib
 frei0r-plugins	libgcrypt	lib
-frei0r-plugins	libglvnd	lib
+frei0r-plugins	libglvnd	linked
 frei0r-plugins	libjxl	lib
 frei0r-plugins	libogg	lib
 frei0r-plugins	libplacebo	lib
@@ -23428,6 +23428,7 @@ ktextaddons	openssl-solibs	lib
 ktextaddons	opus	lib
 ktextaddons	pcre2	lib
 ktextaddons	pulseaudio	lib
+ktextaddons	python-numpy	hint:import
 ktextaddons	qt6	linked
 ktextaddons	qtkeychain	linked
 ktextaddons	solid	linked

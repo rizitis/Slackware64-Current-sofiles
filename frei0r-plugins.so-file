@@ -1,4 +1,8 @@
 ld-linux-x86-64.so.2
+libEGL.so.1
+libGLU.so.1
+libGLX.so.0
+libOpenGL.so.0
 libc.so.6
 libcairo.so.2
 libgcc_s.so.1
