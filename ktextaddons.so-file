@@ -8,7 +8,6 @@ libKF6ConfigGui.so.6
 libKF6CoreAddons.so.6
 libKF6I18n.so.6
 libKF6IconThemes.so.6
-libKF6IconWidgets.so.6
 libKF6ItemViews.so.6
 libKF6JobWidgets.so.6
 libKF6KIOCore.so.6
@@ -46,14 +45,10 @@ libQt6Widgets.so.6
 libQt6Xml.so.6
 libc.so.6
 libgcc_s.so.1
-libkokoroinstalltexttospeech.so.1
-libkokorotexttospeech.so.1
 libm.so.6
 libmcpprotocolclientplugin.so.0
 libmcpprotocolserverplugin.so.0
 libqt6keychain.so.1
-libspeechtotextwhisper.so.1
-libspeechtotextwhisperinstall.so.1
 libstdc++.so.6
 libtextautogenerategenericnetwork.so.1
 libtextautogeneratellamacpp.so.1

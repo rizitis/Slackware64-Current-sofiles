@@ -19,7 +19,7 @@ libgvfscommon.so
 libgvfsdaemon.so
 libimobiledevice-1.0.so.6
 libmtp.so.9
-libplist-2.0.so.4
+libplist-2.0.so.12
 libpolkit-gobject-1.so.0
 libsecret-1.so.0
 libsmbclient.so.0

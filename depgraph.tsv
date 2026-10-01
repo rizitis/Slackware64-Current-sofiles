@@ -7174,7 +7174,7 @@ gvfs	libgphoto2_port.so.12	libgphoto2
 gvfs	libgudev-1.0.so.0	libgudev
 gvfs	libimobiledevice-1.0.so.6	libimobiledevice
 gvfs	libmtp.so.9	libmtp
-gvfs	libplist-2.0.so.4	libplist
+gvfs	libplist-2.0.so.12	libplist
 gvfs	libpolkit-gobject-1.so.0	polkit
 gvfs	libsecret-1.so.0	libsecret
 gvfs	libsmbclient.so.0	samba
@@ -12568,7 +12568,7 @@ kio-extras	libkdsoap-qt6.so.2	kdsoap
 kio-extras	libm.so.6	aaa_glibc-solibs
 kio-extras	libm.so.6	glibc
 kio-extras	libmtp.so.9	libmtp
-kio-extras	libplist-2.0.so.4	libplist
+kio-extras	libplist-2.0.so.12	libplist
 kio-extras	libproxy.so.1	libproxy
 kio-extras	libsmbclient.so.0	samba
 kio-extras	libssh.so.4	libssh
@@ -16445,7 +16445,6 @@ ktextaddons	libKF6ConfigGui.so.6	kconfig
 ktextaddons	libKF6CoreAddons.so.6	kcoreaddons
 ktextaddons	libKF6I18n.so.6	ki18n
 ktextaddons	libKF6IconThemes.so.6	kiconthemes
-ktextaddons	libKF6IconWidgets.so.6	kiconthemes
 ktextaddons	libKF6ItemViews.so.6	kitemviews
 ktextaddons	libKF6JobWidgets.so.6	kjobwidgets
 ktextaddons	libKF6KIOCore.so.6	kio
@@ -18533,7 +18532,7 @@ libgpod	libgobject-2.0.so.0	glib2
 libgpod	libimobiledevice-1.0.so.6	libimobiledevice
 libgpod	libm.so.6	aaa_glibc-solibs
 libgpod	libm.so.6	glibc
-libgpod	libplist-2.0.so.4	libplist
+libgpod	libplist-2.0.so.12	libplist
 libgpod	libsgutils2-1.49.so.2	sg3_utils
 libgpod	libsqlite3.so.0	sqlite
 libgpod	libusb-1.0.so.0	aaa_libraries
@@ -18671,13 +18670,16 @@ libimobiledevice	libc.so.6	glibc
 libimobiledevice	libcrypto.so.3	openssl
 libimobiledevice	libcrypto.so.3	openssl-solibs
 libimobiledevice	libimobiledevice-glue-1.0.so.0	libimobiledevice-glue
-libimobiledevice	libplist-2.0.so.4	libplist
+libimobiledevice	libplist-2.0.so.12	libplist
+libimobiledevice	libreadline.so.8	aaa_libraries
+libimobiledevice	libreadline.so.8	readline
 libimobiledevice	libssl.so.3	openssl
 libimobiledevice	libssl.so.3	openssl-solibs
-libimobiledevice	libusbmuxd-2.0.so.6	libusbmuxd
+libimobiledevice	libtatsu.so.0	libtatsu
+libimobiledevice	libusbmuxd-2.0.so.7	libusbmuxd
 libimobiledevice-glue	libc.so.6	aaa_glibc-solibs
 libimobiledevice-glue	libc.so.6	glibc
-libimobiledevice-glue	libplist-2.0.so.4	libplist
+libimobiledevice-glue	libplist-2.0.so.12	libplist
 libindi	libc.so.6	aaa_glibc-solibs
 libindi	libc.so.6	glibc
 libindi	libcfitsio.so.10	cfitsio
@@ -19775,6 +19777,11 @@ libssh2	libz.so.1	aaa_libraries
 libssh2	libz.so.1	zlib
 libtasn1	libc.so.6	aaa_glibc-solibs
 libtasn1	libc.so.6	glibc
+libtatsu	libc.so.6	aaa_glibc-solibs
+libtatsu	libc.so.6	glibc
+libtatsu	libcurl.so.4	aaa_libraries
+libtatsu	libcurl.so.4	curl
+libtatsu	libplist-2.0.so.12	libplist
 libtheora	libc.so.6	aaa_glibc-solibs
 libtheora	libc.so.6	glibc
 libtheora	libogg.so.0	libogg
@@ -19843,7 +19850,7 @@ libusb-compat	libc.so.6	glibc
 libusbmuxd	libc.so.6	aaa_glibc-solibs
 libusbmuxd	libc.so.6	glibc
 libusbmuxd	libimobiledevice-glue-1.0.so.0	libimobiledevice-glue
-libusbmuxd	libplist-2.0.so.4	libplist
+libusbmuxd	libplist-2.0.so.12	libplist
 libuv	libc.so.6	aaa_glibc-solibs
 libuv	libc.so.6	glibc
 libva	libGL.so.1	libglvnd
@@ -27172,7 +27179,7 @@ solid	libimobiledevice-1.0.so.6	libimobiledevice
 solid	libm.so.6	aaa_glibc-solibs
 solid	libm.so.6	glibc
 solid	libmount.so.1	util-linux
-solid	libplist-2.0.so.4	libplist
+solid	libplist-2.0.so.12	libplist
 solid	libstdc++.so.6	aaa_libraries
 solid	libstdc++.so.6	gcc-g++
 solid	libudev.so.1	aaa_libraries
@@ -27191,7 +27198,7 @@ solid5	libimobiledevice-1.0.so.6	libimobiledevice
 solid5	libm.so.6	aaa_glibc-solibs
 solid5	libm.so.6	glibc
 solid5	libmount.so.1	util-linux
-solid5	libplist-2.0.so.4	libplist
+solid5	libplist-2.0.so.12	libplist
 solid5	libstdc++.so.6	aaa_libraries
 solid5	libstdc++.so.6	gcc-g++
 solid5	libudev.so.1	aaa_libraries
@@ -28397,7 +28404,7 @@ upower	libgobject-2.0.so.0	aaa_libraries
 upower	libgobject-2.0.so.0	glib2
 upower	libgudev-1.0.so.0	libgudev
 upower	libimobiledevice-1.0.so.6	libimobiledevice
-upower	libplist-2.0.so.4	libplist
+upower	libplist-2.0.so.12	libplist
 upower	libpolkit-gobject-1.so.0	polkit
 usb_modeswitch	libc.so.6	aaa_glibc-solibs
 usb_modeswitch	libc.so.6	glibc
@@ -28407,7 +28414,7 @@ usbmuxd	libc.so.6	aaa_glibc-solibs
 usbmuxd	libc.so.6	glibc
 usbmuxd	libimobiledevice-1.0.so.6	libimobiledevice
 usbmuxd	libimobiledevice-glue-1.0.so.0	libimobiledevice-glue
-usbmuxd	libplist-2.0.so.4	libplist
+usbmuxd	libplist-2.0.so.12	libplist
 usbmuxd	libusb-1.0.so.0	aaa_libraries
 usbmuxd	libusb-1.0.so.0	libusb
 usbredir	libc.so.6	aaa_glibc-solibs

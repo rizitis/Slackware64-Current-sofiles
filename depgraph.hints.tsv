@@ -285,7 +285,6 @@ krita	import	PyQt6	PyQt6_sip	guess
 ksh93	exec	/usr/bin/ed	ed	guess
 ksh93	exec	/usr/bin/getconf	glibc	guess
 kstars	exec	/usr/bin/indiserver	libindi	guess
-ktextaddons	import	numpy	python-numpy	guess
 kwallet-pam	exec	/usr/bin/ksecretd	kwallet	guess
 libX11	dlopen	libXcursor.so.1	libXcursor	guess
 libXpm	exec	/usr/bin/compress	ncompress	guess
