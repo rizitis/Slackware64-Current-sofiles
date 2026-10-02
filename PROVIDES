@@ -1893,7 +1893,7 @@ libfyaml.so.0 libfyaml
 libgail.so gtk+2
 libgailutil-3.so.0 gtk+3
 libgailutil.so.18 gtk+2
-libgallium-26.2.3.so mesa
+libgallium-26.2.4.so mesa
 libgarcon-1.so.0 garcon
 libgarcon-gtk3-1.so.0 garcon
 libgbm.so.1 mesa

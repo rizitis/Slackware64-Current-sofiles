@@ -22992,6 +22992,7 @@ kstars	kconfig	linked
 kstars	kconfigwidgets	linked
 kstars	kcoreaddons	linked
 kstars	kcrash	lib
+kstars	kdbusaddons	linked
 kstars	kglobalaccel	lib
 kstars	kguiaddons	linked
 kstars	ki18n	linked
