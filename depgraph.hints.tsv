@@ -621,6 +621,7 @@ rcs	exec	/usr/bin/diff3	diffutils	guess
 rdist	exec	/usr/bin/rsh	netkit-rsh	guess
 rdist	exec	/usr/bin/sendmail	postfix	guess
 rp-pppoe	exec	/usr/bin/pppd	ppp	guess
+rust	build	/usr/bin/as	binutils	guess
 rust	exec	/usr/bin/env	coreutils	guess
 rust	import	lldb	llvm	guess
 s-nail	exec	/usr/bin/sendmail	postfix	guess
