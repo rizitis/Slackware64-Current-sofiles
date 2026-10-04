@@ -5381,6 +5381,10 @@ f2fs-tools	aaa_glibc-solibs	linked
 f2fs-tools	lz4	linked
 f2fs-tools	lzo	linked
 f2fs-tools	util-linux	linked
+f3	aaa_glibc-solibs	linked
+f3	aaa_libraries	linked
+f3	parted	linked
+f3	util-linux	lib
 falkon	aaa_glibc-solibs	linked
 falkon	aaa_libraries	linked
 falkon	aom	lib

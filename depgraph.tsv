@@ -4128,6 +4128,13 @@ f2fs-tools	libc.so.6	glibc
 f2fs-tools	liblz4.so.1	lz4
 f2fs-tools	liblzo2.so.2	lzo
 f2fs-tools	libuuid.so.1	util-linux
+f3	libc.so.6	aaa_glibc-solibs
+f3	libc.so.6	glibc
+f3	libm.so.6	aaa_glibc-solibs
+f3	libm.so.6	glibc
+f3	libparted.so.2	parted
+f3	libudev.so.1	aaa_libraries
+f3	libudev.so.1	eudev
 falkon	libGLX.so.0	libglvnd
 falkon	libKF6Archive.so.6	karchive
 falkon	libKF6Completion.so.6	kcompletion
