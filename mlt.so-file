@@ -49,6 +49,7 @@ libopencv_video.so.500
 libopencv_videoio.so.500
 libpango-1.0.so.0
 libpangoft2-1.0.so.0
+libplacebo.so.360
 libpulse-simple.so.0
 libpulse.so.0
 librnnoise.so.0

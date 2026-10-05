@@ -29498,7 +29498,7 @@ mlt	libid3tag	lib
 mlt	libjxl	lib
 mlt	libmad	lib
 mlt	libogg	lib
-mlt	libplacebo	lib
+mlt	libplacebo	linked
 mlt	libproxy	lib
 mlt	librsvg	lib
 mlt	libsamplerate	linked
@@ -33489,7 +33489,7 @@ popa3d	openssl-solibs	linked
 popa3d	pam	linked
 poppler	aaa_glibc-solibs	linked
 poppler	aaa_libraries	linked
-poppler	brotli	lib
+poppler	brotli	linked
 poppler	cairo	linked
 poppler	cyrus-sasl	lib
 poppler	dbus	lib
@@ -37559,6 +37559,7 @@ vulkan-sdk	libX11	linked
 vulkan-sdk	libXau	lib
 vulkan-sdk	libXdmcp	lib
 vulkan-sdk	libXext	lib
+vulkan-sdk	libXinerama	hint:dlopen
 vulkan-sdk	libglvnd	linked
 vulkan-sdk	libproxy	lib
 vulkan-sdk	liburing	lib

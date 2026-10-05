@@ -4,6 +4,7 @@ libQt5Gui.so.5
 libQt5Xml.so.5
 libQt6Core.so.6
 libQt6Gui.so.6
+libbrotlidec.so.1
 libc.so.6
 libcairo.so.2
 libcurl.so.4
@@ -23,7 +24,7 @@ libnss3.so
 libopenjp2.so.7
 libplc4.so
 libpng16.so.16
-libpoppler.so.164
+libpoppler.so.165
 libsmime3.so
 libstdc++.so.6
 libtiff.so.6

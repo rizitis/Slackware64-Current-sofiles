@@ -698,6 +698,7 @@ vim	dlopen	libpython3.12.so.1.0	python3	guess
 vim	dlopen	libruby.so.4.0	ruby	guess
 vim-gvim	dlopen	libpython3.12.so.1.0	python3	guess
 vim-gvim	dlopen	libruby.so.4.0	ruby	guess
+vulkan-sdk	dlopen	libXinerama.so.1	libXinerama	guess
 wlroots	exec	/usr/bin/Xwayland	xorg-server-xwayland	guess
 xapian-core	exec	/usr/bin/cat	coreutils	guess
 xdm	exec	/usr/bin/xrdb	xrdb	guess
