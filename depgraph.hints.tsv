@@ -126,7 +126,6 @@ bsd-games	exec	/usr/bin/less	less	guess
 c-ares	dlopen	libcares.so.2	aaa_libraries	guess
 compiz	exec	/usr/bin/xfwm4	xfwm4	guess
 cups	dlopen	libcupsimage.so.2	aaa_libraries	guess
-cups	exec	/usr/bin/sendmail	postfix	guess
 cvs	exec	/usr/bin/pr	coreutils	guess
 daemon	exec	/usr/bin/env	coreutils	guess
 dbus-python	import	gi	pygobject3	guess
@@ -285,6 +284,7 @@ krita	import	PyQt6	PyQt6_sip	guess
 ksh93	exec	/usr/bin/ed	ed	guess
 ksh93	exec	/usr/bin/getconf	glibc	guess
 kstars	exec	/usr/bin/indiserver	libindi	guess
+ktextaddons	import	numpy	python-numpy	guess
 kwallet-pam	exec	/usr/bin/ksecretd	kwallet	guess
 libX11	dlopen	libXcursor.so.1	libXcursor	guess
 libXpm	exec	/usr/bin/compress	ncompress	guess

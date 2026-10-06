@@ -2600,6 +2600,8 @@ libkmod.so.2 kmod
 libkmpris.so.6 plasma-workspace
 libknotificationqmlplugin.so knotifications5
 libkoformula.so.41 calligra
+libkokoroinstalltexttospeech.so.1 ktextaddons
+libkokorotexttospeech.so.1 ktextaddons
 libkolourpaint_lgpl.so.5 kolourpaint
 libkomain.so.41 calligra
 libkomparedialogpages.so.6 kompare
@@ -3441,6 +3443,8 @@ libspdlog.so.1.17 spdlog
 libspectre.so.1 libspectre
 libspeechd.so.2 speech-dispatcher
 libspeechd_module.so.0 speech-dispatcher
+libspeechtotextwhisper.so.1 ktextaddons
+libspeechtotextwhisperinstall.so.1 ktextaddons
 libspeex.so.1 speex
 libspeex_decoder.so moc
 libspeexdsp.so.1 speexdsp
