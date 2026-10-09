@@ -12003,7 +12003,6 @@ kid3	libc.so.6	aaa_glibc-solibs
 kid3	libc.so.6	glibc
 kid3	libgcc_s.so.1	aaa_libraries
 kid3	libgcc_s.so.1	gcc
-kid3	libid3-3.8.so.3	id3lib
 kid3	libm.so.6	aaa_glibc-solibs
 kid3	libm.so.6	glibc
 kid3	libogg.so.0	libogg
@@ -12014,8 +12013,6 @@ kid3	libstdc++.so.6	gcc-g++
 kid3	libtag.so.2	taglib
 kid3	libvorbis.so.0	libvorbis
 kid3	libvorbisfile.so.3	libvorbis
-kid3	libz.so.1	aaa_libraries
-kid3	libz.so.1	zlib
 kidentitymanagement	libGLX.so.0	libglvnd
 kidentitymanagement	libKF6Codecs.so.6	kcodecs
 kidentitymanagement	libKF6ColorScheme.so.6	kcolorscheme
@@ -21525,16 +21522,10 @@ modemmanager-qt	libstdc++.so.6	aaa_libraries
 modemmanager-qt	libstdc++.so.6	gcc-g++
 mold	ld-linux-x86-64.so.2	aaa_glibc-solibs
 mold	ld-linux-x86-64.so.2	glibc
-mold	libatomic.so.1	aaa_libraries
-mold	libatomic.so.1	gcc
 mold	libc.so.6	aaa_glibc-solibs
 mold	libc.so.6	glibc
 mold	libgcc_s.so.1	aaa_libraries
 mold	libgcc_s.so.1	gcc
-mold	libm.so.6	aaa_glibc-solibs
-mold	libm.so.6	glibc
-mold	libstdc++.so.6	aaa_libraries
-mold	libstdc++.so.6	gcc-g++
 mold	libz.so.1	aaa_libraries
 mold	libz.so.1	zlib
 mold	libzstd.so.1	aaa_libraries

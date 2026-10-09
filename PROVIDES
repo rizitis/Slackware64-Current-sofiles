@@ -2399,7 +2399,6 @@ libicutest.so.78 icu4c
 libicutu.so.78 icu4c
 libicuuc.so.78 icu4c
 libid3-3.8.so.3 id3lib
-libid3libmetadata.so kid3
 libid3tag.so.0 libid3tag
 libidmap-private-samba.so samba
 libidn.so.12 aaa_libraries
@@ -2486,7 +2485,7 @@ libkalarmplugin.so.6 kalarm
 libkarboncommon.so.41 calligra
 libkarbonui.so.41 calligra
 libkarma.so.0 libkarma
-libkateprivate.so.26.08.1 kate
+libkateprivate.so.26.08.2 kate
 libkbdfile.so.1 kbd
 libkbookmarkmodel_private.so.6 keditbookmarks
 libkcardgame.so kpat
@@ -2610,8 +2609,8 @@ libkompareinterface.so.6 kompare
 libkomsooxml.so.41 calligra
 libkonqsidebarplugin.so.6 konqueror
 libkonquerorprivate.so.5 konqueror
-libkonsoleapp.so.26.08.1 konsole
-libkonsoleprivate.so.26.08.1 konsole
+libkonsoleapp.so.26.08.2 konsole
+libkonsoleprivate.so.26.08.2 konsole
 libkontactprivate.so.6 kontact
 libkoodf.so.41 calligra
 libkoodf2.so.41 calligra
@@ -3961,7 +3960,6 @@ mod_vhost_alias.so httpd
 mod_watchdog.so httpd
 mod_xml2enc.so httpd
 modesetting_drv.so xorg-server
-mold-wrapper.so mold
 mono.so imagemagick
 morph_alphablend.so libvisual-plugins
 morph_flash.so libvisual-plugins

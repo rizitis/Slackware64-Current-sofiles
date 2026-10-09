@@ -16120,7 +16120,6 @@ kid3	glib2	lib
 kid3	graphite2	lib
 kid3	harfbuzz	lib
 kid3	icu4c	lib
-kid3	id3lib	linked
 kid3	karchive	lib
 kid3	kcodecs	lib
 kid3	kcolorscheme	linked
