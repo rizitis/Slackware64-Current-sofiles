@@ -37444,7 +37444,6 @@ vim-gvim	wayland	linked
 vim	aaa_glibc-solibs	linked
 vim	aaa_libraries	linked
 vim	libsodium	linked
-vim	pixman	linked
 vim	python3	hint:dlopen
 vim	ruby	hint:dlopen
 virglrenderer	aaa_glibc-solibs	linked

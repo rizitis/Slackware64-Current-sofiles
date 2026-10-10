@@ -9653,6 +9653,8 @@ kcontacts5	libm.so.6	aaa_glibc-solibs
 kcontacts5	libm.so.6	glibc
 kcontacts5	libstdc++.so.6	aaa_libraries
 kcontacts5	libstdc++.so.6	gcc-g++
+kcoreaddons	ld-linux-x86-64.so.2	aaa_glibc-solibs
+kcoreaddons	ld-linux-x86-64.so.2	glibc
 kcoreaddons	libQt6Core.so.6	qt6
 kcoreaddons	libQt6DBus.so.6	qt6
 kcoreaddons	libQt6Network.so.6	qt6
@@ -28543,7 +28545,6 @@ vim	libgpm.so.2	aaa_libraries
 vim	libgpm.so.2	gpm
 vim	libm.so.6	aaa_glibc-solibs
 vim	libm.so.6	glibc
-vim	libpixman-1.so.0	pixman
 vim	libsodium.so.26	libsodium
 vim	libtinfo.so.6	aaa_libraries
 vim	libtinfo.so.6	ncurses
