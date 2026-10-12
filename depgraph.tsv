@@ -18355,6 +18355,9 @@ libdmx	libc.so.6	aaa_glibc-solibs
 libdmx	libc.so.6	glibc
 libdrm	libc.so.6	aaa_glibc-solibs
 libdrm	libc.so.6	glibc
+libdrm	libcairo.so.2	cairo
+libdrm	libm.so.6	aaa_glibc-solibs
+libdrm	libm.so.6	glibc
 libdrm	libpciaccess.so.0	libpciaccess
 libdvdnav	libc.so.6	aaa_glibc-solibs
 libdvdnav	libc.so.6	glibc
