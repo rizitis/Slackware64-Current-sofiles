@@ -3197,6 +3197,8 @@ bsd-games	less	hint:exec
 bsd-games	openssl	linked
 bsd-games	openssl-solibs	linked
 bstring	aaa_glibc-solibs	linked
+btop	aaa_glibc-solibs	linked
+btop	aaa_libraries	linked
 btrfs-progs	aaa_glibc-solibs	linked
 btrfs-progs	aaa_libraries	linked
 btrfs-progs	e2fsprogs	linked
@@ -17153,8 +17155,8 @@ kio-snapshot	openssl	lib
 kio-snapshot	openssl-solibs	lib
 kio-snapshot	pcre2	lib
 kio-snapshot	qt6	linked
-kio-snapshot	solid	linked
-kio-snapshot	util-linux	lib
+kio-snapshot	solid	lib
+kio-snapshot	util-linux	linked
 kio-snapshot	wayland	lib
 kio-snapshot	xcb-util-keysyms	lib
 kio-zeroconf	aaa_glibc-solibs	linked
@@ -25918,6 +25920,10 @@ libgee	aaa_glibc-solibs	linked
 libgee	aaa_libraries	linked
 libgee	glib2	linked
 libgee	util-linux	lib
+libgit2	aaa_glibc-solibs	linked
+libgit2	aaa_libraries	linked
+libgit2	openssl	linked
+libgit2	openssl-solibs	linked
 libglade	aaa_glibc-solibs	linked
 libglade	aaa_libraries	linked
 libglade	at-spi2-core	linked
@@ -30320,8 +30326,11 @@ nghttp2	aaa_glibc-solibs	linked
 nghttp3	aaa_glibc-solibs	linked
 ngtcp2	aaa_glibc-solibs	linked
 ngtcp2	aaa_libraries	lib
+ngtcp2	gnutls	linked
+ngtcp2	nettle	lib
 ngtcp2	openssl	linked
 ngtcp2	openssl-solibs	linked
+ngtcp2	p11-kit	lib
 ninja	aaa_glibc-solibs	linked
 ninja	aaa_libraries	linked
 nmap	aaa_glibc-solibs	linked

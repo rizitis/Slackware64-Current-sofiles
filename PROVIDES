@@ -1893,7 +1893,7 @@ libfyaml.so.0 libfyaml
 libgail.so gtk+2
 libgailutil-3.so.0 gtk+3
 libgailutil.so.18 gtk+2
-libgallium-26.2.4.so mesa
+libgallium-26.2.5.so mesa
 libgarcon-1.so.0 garcon
 libgarcon-gtk3-1.so.0 garcon
 libgbm.so.1 mesa
@@ -1956,6 +1956,7 @@ libgiomm-2.4.so.1 glibmm
 libgiomm-2.68.so.1 glibmm2
 libgirepository-1.0.so.1 gobject-introspection
 libgirepository-2.0.so.0 glib2
+libgit2.so.1.9 libgit2
 libgjs.so.0 gjs
 libgkcodecs.so mozilla-firefox
 libgkcodecs.so mozilla-thunderbird
@@ -2884,6 +2885,7 @@ libnghttp3.so.9 nghttp3
 libngtcp2-crypto-gnutls-private-samba.so samba
 libngtcp2-private-samba.so samba
 libngtcp2.so.16 ngtcp2
+libngtcp2_crypto_gnutls.so.8 ngtcp2
 libngtcp2_crypto_ossl.so.0 ngtcp2
 libnice-transmitter.so farstream
 libnice.so.10 libnice
@@ -3379,7 +3381,7 @@ libsigc-2.0.so.0 libsigc++
 libsigc-3.0.so.0 libsigc++3
 libsigsegv.so.2 aaa_libraries
 libsigsegv.so.2 libsigsegv
-libsimdutf.so.36 simdutf
+libsimdutf.so.37 simdutf
 libsimple.so pidgin
 libslang.so.1 aaa_libraries
 libslang.so.1 slang1
