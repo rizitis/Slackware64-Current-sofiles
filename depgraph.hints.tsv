@@ -141,6 +141,7 @@ elm	exec	/usr/bin/ispell	ispell	guess
 elm	exec	/usr/bin/sendmail	postfix	guess
 elogind	exec	/usr/bin/false	coreutils	guess
 elogind	exec	/usr/bin/halt	sysvinit	guess
+elogind	exec	/usr/bin/kexec	kexec-tools	guess
 elogind	exec	/usr/bin/nologin	shadow	guess
 elogind	exec	/usr/bin/pkttyagent	polkit	guess
 elogind	exec	/usr/bin/true	coreutils	guess
@@ -276,6 +277,7 @@ kbd	dlopen	libz.so.1	aaa_libraries	guess
 kbd	dlopen	libzstd.so.1	aaa_libraries	guess
 kernel-firmware	dlopen	libc++.so.1	llvm	guess
 kernel-firmware	dlopen	libc++abi.so.1	llvm	guess
+kexec-tools	exec	/usr/bin/shutdown	sysvinit	guess
 kinit5	dlopen	libKF5Parts.so.5	kparts5	guess
 kinit5	dlopen	libKF5Plasma.so.5	plasma-framework5	guess
 krb5	dlopen	opensc-pkcs11.so	opensc	guess
