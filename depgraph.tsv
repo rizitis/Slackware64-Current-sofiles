@@ -2665,6 +2665,7 @@ cbindgen	libgcc_s.so.1	aaa_libraries
 cbindgen	libgcc_s.so.1	gcc
 ccache	ld-linux-x86-64.so.2	aaa_glibc-solibs
 ccache	ld-linux-x86-64.so.2	glibc
+ccache	libblake3.so.0	blake3
 ccache	libc.so.6	aaa_glibc-solibs
 ccache	libc.so.6	glibc
 ccache	libfmt.so.12	fmt

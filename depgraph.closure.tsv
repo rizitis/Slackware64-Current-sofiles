@@ -3794,6 +3794,7 @@ cbindgen	aaa_glibc-solibs	linked
 cbindgen	aaa_libraries	linked
 ccache	aaa_glibc-solibs	linked
 ccache	aaa_libraries	linked
+ccache	blake3	linked
 ccache	fmt	linked
 ccache	xxHash	linked
 ccid	aaa_glibc-solibs	linked
