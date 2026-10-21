@@ -22213,6 +22213,7 @@ libgs.so.10	libidn.so.12
 libgs.so.10	libjpeg.so.62
 libgs.so.10	libleptonica.so.6
 libgs.so.10	libm.so.6
+libgs.so.10	libopenjp2.so.7
 libgs.so.10	libpaper.so.2
 libgs.so.10	libpng16.so.16
 libgs.so.10	libstdc++.so.6

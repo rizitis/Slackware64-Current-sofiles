@@ -4105,6 +4105,7 @@ conntrack-tools	libnfnetlink	linked
 coreutils	aaa_glibc-solibs	linked
 coreutils	aaa_libraries	linked
 cpio	aaa_glibc-solibs	linked
+cpufetch	aaa_glibc-solibs	linked
 cpufrequtils	aaa_glibc-solibs	linked
 cracklib	aaa_glibc-solibs	linked
 cracklib	aaa_libraries	linked
@@ -7158,7 +7159,7 @@ ghostscript	lz4	lib
 ghostscript	nghttp2	lib
 ghostscript	nghttp3	lib
 ghostscript	ngtcp2	lib
-ghostscript	openjpeg	lib
+ghostscript	openjpeg	linked
 ghostscript	openssl	lib
 ghostscript	openssl-solibs	lib
 ghostscript	pango	linked

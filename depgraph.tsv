@@ -2969,6 +2969,8 @@ coreutils	libgmp.so.10	aaa_libraries
 coreutils	libgmp.so.10	gmp
 cpio	libc.so.6	aaa_glibc-solibs
 cpio	libc.so.6	glibc
+cpufetch	libc.so.6	aaa_glibc-solibs
+cpufetch	libc.so.6	glibc
 cpufrequtils	libc.so.6	aaa_glibc-solibs
 cpufrequtils	libc.so.6	glibc
 cracklib	libc.so.6	aaa_glibc-solibs
@@ -5656,6 +5658,7 @@ ghostscript	libjpeg.so.62	libjpeg-turbo
 ghostscript	libleptonica.so.6	leptonica
 ghostscript	libm.so.6	aaa_glibc-solibs
 ghostscript	libm.so.6	glibc
+ghostscript	libopenjp2.so.7	openjpeg
 ghostscript	libpango-1.0.so.0	pango
 ghostscript	libpangocairo-1.0.so.0	pango
 ghostscript	libpaper.so.2	libpaper
