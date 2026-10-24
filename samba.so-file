@@ -107,8 +107,8 @@ libndr.so.6
 libnet-keytab-private-samba.so
 libnetapi.so.1
 libnetif-private-samba.so
-libngtcp2-crypto-gnutls-private-samba.so
-libngtcp2-private-samba.so
+libngtcp2.so.16
+libngtcp2_crypto_gnutls.so.8
 libnpa-tstream-private-samba.so
 libnss-info-private-samba.so
 libpac-private-samba.so

@@ -101,6 +101,7 @@ MPlayer	libxml2	lib
 MPlayer	lzo	linked
 MPlayer	mpg123	linked
 MPlayer	nettle	lib
+MPlayer	ngtcp2	lib
 MPlayer	ocl-icd	lib
 MPlayer	openal-soft	linked
 MPlayer	openjpeg	lib
@@ -2263,6 +2264,7 @@ aubio	libxcb	lib
 aubio	libxml2	lib
 aubio	mpg123	lib
 aubio	nettle	lib
+aubio	ngtcp2	lib
 aubio	ocl-icd	lib
 aubio	openjpeg	lib
 aubio	openssl	lib
@@ -5916,6 +5918,7 @@ ffmpeg	libxcb	linked
 ffmpeg	libxml2	linked
 ffmpeg	mpg123	lib
 ffmpeg	nettle	lib
+ffmpeg	ngtcp2	lib
 ffmpeg	ocl-icd	linked
 ffmpeg	openal-soft	linked
 ffmpeg	openjpeg	linked
@@ -5982,6 +5985,7 @@ ffmpegthumbnailer	libxcb	lib
 ffmpegthumbnailer	libxml2	lib
 ffmpegthumbnailer	mpg123	lib
 ffmpegthumbnailer	nettle	lib
+ffmpegthumbnailer	ngtcp2	lib
 ffmpegthumbnailer	ocl-icd	lib
 ffmpegthumbnailer	openjpeg	lib
 ffmpegthumbnailer	openssl	lib
@@ -6437,6 +6441,7 @@ freerdp	libxkbfile	linked
 freerdp	libxml2	lib
 freerdp	mpg123	lib
 freerdp	nettle	lib
+freerdp	ngtcp2	lib
 freerdp	ocl-icd	lib
 freerdp	openal-soft	lib
 freerdp	openjpeg	lib
@@ -8533,6 +8538,7 @@ gst-plugins-libav	libxcb	lib
 gst-plugins-libav	libxml2	lib
 gst-plugins-libav	mpg123	lib
 gst-plugins-libav	nettle	lib
+gst-plugins-libav	ngtcp2	lib
 gst-plugins-libav	ocl-icd	lib
 gst-plugins-libav	openjpeg	lib
 gst-plugins-libav	openssl	lib
@@ -9021,6 +9027,7 @@ gvfs	libusbmuxd	lib
 gvfs	libxml2	linked
 gvfs	nettle	lib
 gvfs	nghttp2	lib
+gvfs	ngtcp2	lib
 gvfs	openssl	lib
 gvfs	openssl-solibs	lib
 gvfs	p11-kit	lib
@@ -29985,6 +29992,7 @@ mpv	mesa	linked
 mpv	mpg123	lib
 mpv	mujs	linked
 mpv	nettle	lib
+mpv	ngtcp2	lib
 mpv	ocl-icd	lib
 mpv	openal-soft	linked
 mpv	openjpeg	lib
@@ -31585,6 +31593,7 @@ phonon-backend-mpv	mpg123	lib
 phonon-backend-mpv	mpv	linked
 phonon-backend-mpv	mujs	lib
 phonon-backend-mpv	nettle	lib
+phonon-backend-mpv	ngtcp2	lib
 phonon-backend-mpv	ocl-icd	lib
 phonon-backend-mpv	openal-soft	lib
 phonon-backend-mpv	openjpeg	lib
@@ -32286,6 +32295,7 @@ pipewire	libxcb	lib
 pipewire	libxml2	lib
 pipewire	mpg123	lib
 pipewire	nettle	lib
+pipewire	ngtcp2	lib
 pipewire	ocl-icd	lib
 pipewire	openjpeg	lib
 pipewire	openssl	linked
@@ -34851,6 +34861,7 @@ qt5	mozilla-nss	linked
 qt5	mpg123	lib
 qt5	mtdev	linked
 qt5	nettle	lib
+qt5	ngtcp2	lib
 qt5	ocl-icd	lib
 qt5	openal-soft	linked
 qt5	openjpeg	lib
@@ -35291,6 +35302,7 @@ samba	libxml2	lib
 samba	lmdb	linked
 samba	lz4	lib
 samba	nettle	lib
+samba	ngtcp2	linked
 samba	openssl	lib
 samba	openssl-solibs	lib
 samba	p11-kit	lib
@@ -36245,6 +36257,7 @@ ssr	libxcb	lib
 ssr	libxml2	lib
 ssr	mpg123	lib
 ssr	nettle	lib
+ssr	ngtcp2	lib
 ssr	ocl-icd	lib
 ssr	openjpeg	lib
 ssr	openssl	lib
@@ -39495,6 +39508,7 @@ xine-lib	libxml2	lib
 xine-lib	libzip	lib
 xine-lib	mpg123	lib
 xine-lib	nettle	lib
+xine-lib	ngtcp2	lib
 xine-lib	ocl-icd	lib
 xine-lib	openjpeg	lib
 xine-lib	openssl	linked
@@ -40085,6 +40099,7 @@ xscreensaver	libxcb	lib
 xscreensaver	libxml2	linked
 xscreensaver	mpg123	lib
 xscreensaver	nettle	lib
+xscreensaver	ngtcp2	lib
 xscreensaver	ocl-icd	lib
 xscreensaver	openjpeg	lib
 xscreensaver	openssl	lib

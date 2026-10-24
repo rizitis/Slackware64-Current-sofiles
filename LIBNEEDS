@@ -16807,8 +16807,8 @@ libauthkrb5-private-samba.so	libkrb5-private-samba.so
 libauthkrb5-private-samba.so	libkrb5samba-private-samba.so
 libauthkrb5-private-samba.so	libndr-krb5pac.so.0
 libauthkrb5-private-samba.so	libndr.so.6
-libauthkrb5-private-samba.so	libngtcp2-crypto-gnutls-private-samba.so
-libauthkrb5-private-samba.so	libngtcp2-private-samba.so
+libauthkrb5-private-samba.so	libngtcp2.so.16
+libauthkrb5-private-samba.so	libngtcp2_crypto_gnutls.so.8
 libauthkrb5-private-samba.so	libquic-private-samba.so
 libauthkrb5-private-samba.so	libsamba-debug-private-samba.so
 libauthkrb5-private-samba.so	libsamba-errors.so.1
@@ -31063,10 +31063,6 @@ libnftnl.so.11	libc.so.6
 libnftnl.so.11	libmnl.so.0
 libnghttp2.so.14	libc.so.6
 libnghttp3.so.9	libc.so.6
-libngtcp2-crypto-gnutls-private-samba.so	libc.so.6
-libngtcp2-crypto-gnutls-private-samba.so	libgnutls.so.30
-libngtcp2-crypto-gnutls-private-samba.so	libngtcp2-private-samba.so
-libngtcp2-private-samba.so	libc.so.6
 libngtcp2.so.16	libc.so.6
 libngtcp2_crypto_gnutls.so.8	libc.so.6
 libngtcp2_crypto_gnutls.so.8	libgnutls.so.30

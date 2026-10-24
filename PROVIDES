@@ -2883,8 +2883,6 @@ libnftables.so.1 nftables
 libnftnl.so.11 libnftnl
 libnghttp2.so.14 nghttp2
 libnghttp3.so.9 nghttp3
-libngtcp2-crypto-gnutls-private-samba.so samba
-libngtcp2-private-samba.so samba
 libngtcp2.so.16 ngtcp2
 libngtcp2_crypto_gnutls.so.8 ngtcp2
 libngtcp2_crypto_ossl.so.0 ngtcp2

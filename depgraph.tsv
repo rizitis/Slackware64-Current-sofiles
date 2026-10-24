@@ -26760,6 +26760,8 @@ samba	libldap.so.2	openldap
 samba	liblmdb.so.1	lmdb
 samba	libncursesw.so.6	aaa_libraries
 samba	libncursesw.so.6	ncurses
+samba	libngtcp2.so.16	ngtcp2
+samba	libngtcp2_crypto_gnutls.so.8	ngtcp2
 samba	libpam.so.0	pam
 samba	libpanelw.so.6	aaa_libraries
 samba	libpanelw.so.6	ncurses
