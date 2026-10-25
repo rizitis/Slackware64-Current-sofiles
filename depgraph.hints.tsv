@@ -280,6 +280,7 @@ kernel-firmware	dlopen	libc++abi.so.1	llvm	guess
 kexec-tools	exec	/usr/bin/shutdown	sysvinit	guess
 kinit5	dlopen	libKF5Parts.so.5	kparts5	guess
 kinit5	dlopen	libKF5Plasma.so.5	plasma-framework5	guess
+kmscon	exec	/usr/bin/login	util-linux	guess
 krb5	dlopen	opensc-pkcs11.so	opensc	guess
 krita	import	PyQt5	PyQt5_sip	guess
 krita	import	PyQt6	PyQt6_sip	guess

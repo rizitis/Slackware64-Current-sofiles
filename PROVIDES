@@ -3576,6 +3576,7 @@ libtraceevent.so.1 libtraceevent
 libtracefs.so.1 libtracefs
 libtree-sitter.so.0.27 tree-sitter
 libtsan.so.2 gcc
+libtsm.so.4 libtsm
 libtumbler-1.so.0 tumbler
 libturbojpeg.so.0 aaa_libraries
 libturbojpeg.so.0 libjpeg-turbo

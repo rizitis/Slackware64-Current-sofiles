@@ -35957,6 +35957,7 @@ libtsan.so.2	libc.so.6
 libtsan.so.2	libgcc_s.so.1
 libtsan.so.2	libm.so.6
 libtsan.so.2	libstdc++.so.6
+libtsm.so.4	libc.so.6
 libtumbler-1.so.0	libc.so.6
 libtumbler-1.so.0	libgdk_pixbuf-2.0.so.0
 libtumbler-1.so.0	libgio-2.0.so.0
