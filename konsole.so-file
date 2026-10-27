@@ -43,8 +43,8 @@ libQt6Xml.so.6
 libX11.so.6
 libc.so.6
 libgcc_s.so.1
-libicui18n.so.78
-libicuuc.so.78
+libicui18n.so.79
+libicuuc.so.79
 libkonsoleapp.so.26.08.2
 libkonsoleprivate.so.26.08.2
 libm.so.6

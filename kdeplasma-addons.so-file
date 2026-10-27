@@ -48,8 +48,8 @@ libQt6Widgets.so.6
 libQt6Xml.so.6
 libc.so.6
 libgcc_s.so.1
-libicui18n.so.78
-libicuuc.so.78
+libicui18n.so.79
+libicuuc.so.79
 libm.so.6
 libplasmapotdprovidercore.so.2
 libplasmaweatherdata.so.6

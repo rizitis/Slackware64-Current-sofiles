@@ -20,8 +20,8 @@ libdovecot-storage.so.0
 libdovecot.so.0
 libgcc_s.so.1
 libgssapi_krb5.so.2
-libicui18n.so.78
-libicuuc.so.78
+libicui18n.so.79
+libicuuc.so.79
 libk5crypto.so.3
 libkrb5.so.3
 liblber.so.2

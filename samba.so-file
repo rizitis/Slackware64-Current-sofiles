@@ -70,8 +70,8 @@ libhdb-private-samba.so
 libheimbase-private-samba.so
 libhttp-private-samba.so
 libhx509-private-samba.so
-libicui18n.so.78
-libicuuc.so.78
+libicui18n.so.79
+libicuuc.so.79
 libidmap-private-samba.so
 libinterfaces-private-samba.so
 libiov-buf-private-samba.so

@@ -33,10 +33,10 @@ libfreerdp-shadow3.so.3
 libfreerdp3.so.3
 libfuse3.so.3
 libgcc_s.so.1
-libicudata.so.78
-libicui18n.so.78
-libicuio.so.78
-libicuuc.so.78
+libicudata.so.79
+libicui18n.so.79
+libicuio.so.79
+libicuuc.so.79
 libjansson.so.4
 libk5crypto.so.3
 libkrb5.so.3
