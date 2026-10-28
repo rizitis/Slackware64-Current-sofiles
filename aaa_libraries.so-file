@@ -37,6 +37,7 @@ libicutu.so.78
 libicuuc.so.78
 libidn2.so.0
 libjpeg.so.62
+libjson-c.so.5
 libk5crypto.so.3
 libkeyutils.so.1
 libkrb5.so.3

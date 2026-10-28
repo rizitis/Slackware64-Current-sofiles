@@ -252,6 +252,7 @@ libavcodec.so.63
 libavformat.so.63
 libavutil.so.61
 libbluetooth.so.3
+libbrotlicommon.so.1
 libbrotlidec.so.1
 libc.so.6
 libcairo-gobject.so.2

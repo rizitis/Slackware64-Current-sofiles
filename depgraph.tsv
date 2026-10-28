@@ -396,6 +396,7 @@ aaa_libraries	libgmp.so.10	gmp
 aaa_libraries	libgssapi_krb5.so.2	krb5
 aaa_libraries	libidn2.so.0	libidn2
 aaa_libraries	libjpeg.so.62	libjpeg-turbo
+aaa_libraries	libjson-c.so.5	json-c
 aaa_libraries	libk5crypto.so.3	krb5
 aaa_libraries	libkeyutils.so.1	keyutils
 aaa_libraries	libkrb5.so.3	krb5
@@ -18100,6 +18101,7 @@ libblockdev	libndctl.so.6	ndctl
 libblockdev	libnspr4.so	mozilla-nss
 libblockdev	libnss3.so	mozilla-nss
 libblockdev	libnssutil3.so	mozilla-nss
+libblockdev	libnvme.so.1	aaa_libraries
 libblockdev	libnvme.so.1	libnvme
 libblockdev	libparted-fs-resize.so.0	parted
 libblockdev	libparted.so.2	parted
@@ -19404,6 +19406,7 @@ libnvme	libjson-c.so.5	aaa_libraries
 libnvme	libjson-c.so.5	json-c
 libnvme	libkeyutils.so.1	aaa_libraries
 libnvme	libkeyutils.so.1	keyutils
+libnvme	libnvme.so.1	aaa_libraries
 libodfgen	libc.so.6	aaa_glibc-solibs
 libodfgen	libc.so.6	glibc
 libodfgen	libgcc_s.so.1	aaa_libraries
@@ -20557,6 +20560,7 @@ lvm2	libc.so.6	glibc
 lvm2	libdevmapper.so.1.02	aaa_libraries
 lvm2	libm.so.6	aaa_glibc-solibs
 lvm2	libm.so.6	glibc
+lvm2	libnvme.so.1	aaa_libraries
 lvm2	libnvme.so.1	libnvme
 lvm2	libudev.so.1	aaa_libraries
 lvm2	libudev.so.1	eudev
@@ -26236,6 +26240,7 @@ qt6	libavcodec.so.63	ffmpeg
 qt6	libavformat.so.63	ffmpeg
 qt6	libavutil.so.61	ffmpeg
 qt6	libbluetooth.so.3	bluez
+qt6	libbrotlicommon.so.1	brotli
 qt6	libbrotlidec.so.1	brotli
 qt6	libc.so.6	aaa_glibc-solibs
 qt6	libc.so.6	glibc
@@ -30242,6 +30247,7 @@ xload	libc.so.6	glibc
 xlockmore	libGL.so.1	libglvnd
 xlockmore	libGLU.so.1	glu
 xlockmore	libICE.so.6	libICE
+xlockmore	libSM.so.6	libSM
 xlockmore	libX11.so.6	libX11
 xlockmore	libXext.so.6	libXext
 xlockmore	libXinerama.so.1	libXinerama

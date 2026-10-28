@@ -6,7 +6,7 @@ GConf	import	lxml	python-lxml	guess
 Mako	import	babel	python-babel	guess
 Mako	import	markupsafe	python-MarkupSafe	guess
 Mako	import	pygments	python-pygments	guess
-NetworkManager	dlopen	libnvme.so.1	libnvme	guess
+NetworkManager	dlopen	libnvme.so.1	aaa_libraries	guess
 NetworkManager	exec	/usr/bin/dhcpcd	dhcpcd	guess
 NetworkManager	exec	/usr/bin/dnsmasq	dnsmasq	guess
 NetworkManager	exec	/usr/bin/netconfig	network-scripts	guess

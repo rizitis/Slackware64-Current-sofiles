@@ -184,7 +184,6 @@ NetworkManager	elogind	linked
 NetworkManager	glib2	linked
 NetworkManager	jansson	linked
 NetworkManager	libndp	linked
-NetworkManager	libnvme	hint:dlopen
 NetworkManager	mozilla-nss	linked
 NetworkManager	network-scripts	hint:exec
 NetworkManager	newt	linked
@@ -25594,7 +25593,6 @@ libblockdev	kmod	linked
 libblockdev	libassuan	lib
 libblockdev	libatasmart	linked
 libblockdev	libbytesize	linked
-libblockdev	libnvme	linked
 libblockdev	libyaml	linked
 libblockdev	mozilla-nss	linked
 libblockdev	ndctl	linked
@@ -28113,7 +28111,6 @@ luit	aaa_libraries	lib
 luit	libfontenc	linked
 lvm2	aaa_glibc-solibs	linked
 lvm2	aaa_libraries	linked
-lvm2	libnvme	linked
 lvm2	openssl	lib
 lvm2	openssl-solibs	lib
 lvm2	util-linux	linked
@@ -39594,7 +39591,7 @@ xlockmore	aaa_glibc-solibs	linked
 xlockmore	aaa_libraries	linked
 xlockmore	glu	linked
 xlockmore	libICE	linked
-xlockmore	libSM	lib
+xlockmore	libSM	linked
 xlockmore	libX11	linked
 xlockmore	libXau	lib
 xlockmore	libXdmcp	lib

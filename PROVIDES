@@ -2953,6 +2953,7 @@ libnutclientstub.so.1 nut
 libnutscan.so.4 nut
 libnvidia-egl-wayland.so.1 egl-wayland
 libnvme-mi.so.1 libnvme
+libnvme.so.1 aaa_libraries
 libnvme.so.1 libnvme
 libnvme3.so.1 nvme-cli
 libobexftp.so.0 obexftp
