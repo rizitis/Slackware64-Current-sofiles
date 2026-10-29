@@ -28111,6 +28111,7 @@ luit	aaa_libraries	lib
 luit	libfontenc	linked
 lvm2	aaa_glibc-solibs	linked
 lvm2	aaa_libraries	linked
+lvm2	liburing	linked
 lvm2	openssl	lib
 lvm2	openssl-solibs	lib
 lvm2	util-linux	linked

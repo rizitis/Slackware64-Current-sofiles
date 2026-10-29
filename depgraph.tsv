@@ -20564,6 +20564,7 @@ lvm2	libnvme.so.1	aaa_libraries
 lvm2	libnvme.so.1	libnvme
 lvm2	libudev.so.1	aaa_libraries
 lvm2	libudev.so.1	eudev
+lvm2	liburing.so.2	liburing
 lxc	ld-linux-x86-64.so.2	aaa_glibc-solibs
 lxc	ld-linux-x86-64.so.2	glibc
 lxc	libc.so.6	aaa_glibc-solibs
