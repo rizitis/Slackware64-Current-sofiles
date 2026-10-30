@@ -1825,7 +1825,7 @@ libfdt.so.1 dtc
 libferret.so gtk+2
 libffi.so.8 aaa_libraries
 libffi.so.8 libffi
-libffmpegthumbnailer.so.4 ffmpegthumbnailer
+libffmpegthumbnailer.so.5 ffmpegthumbnailer
 libfftw3.so.3 fftw
 libfftw3_omp.so.3 fftw
 libfftw3_threads.so.3 fftw
@@ -4037,6 +4037,7 @@ org.kde.plasma.kicker.so plasma-desktop
 org.kde.plasma.kickoff.so plasma-desktop
 org.kde.plasma.kimpanel.so plasma-desktop
 org.kde.plasma.konsoleprofiles.so kdeplasma-addons
+org.kde.plasma.kweather_1x4.so kweather
 org.kde.plasma.lock_logout.so plasma-workspace
 org.kde.plasma.manage-inputmethod.so plasma-workspace
 org.kde.plasma.marginsseparator.so plasma-workspace
