@@ -5,5 +5,4 @@ libfreeradius-client.so.2
 libnsl.so.3
 libpam.so.0
 libpcap.so.1
-libresolv.so.2
 libssl.so.3

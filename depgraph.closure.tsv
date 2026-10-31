@@ -30503,6 +30503,9 @@ nvi	postfix	hint:exec
 nvme-cli	aaa_glibc-solibs	linked
 nvme-cli	aaa_libraries	linked
 nvme-cli	kmod	linked
+nvme-cli	libarchive	linked
+nvme-cli	libxml2	lib
+nvme-cli	lz4	lib
 nvme-cli	openssl	linked
 nvme-cli	openssl-solibs	linked
 obexftp	aaa_glibc-solibs	linked

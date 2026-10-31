@@ -10269,7 +10269,7 @@ kdenlive	libc.so.6	aaa_glibc-solibs
 kdenlive	libc.so.6	glibc
 kdenlive	libgcc_s.so.1	aaa_libraries
 kdenlive	libgcc_s.so.1	gcc
-kdenlive	libkddockwidgets-qt6.so.3	kddockwidgets
+kdenlive	libkddockwidgets-qt6.so.4	kddockwidgets
 kdenlive	libm.so.6	aaa_glibc-solibs
 kdenlive	libm.so.6	glibc
 kdenlive	libmlt++-7.so.7	mlt
@@ -22590,6 +22590,7 @@ nvi	libncursesw.so.6	aaa_libraries
 nvi	libncursesw.so.6	ncurses
 nvi	libtinfo.so.6	aaa_libraries
 nvi	libtinfo.so.6	ncurses
+nvme-cli	libarchive.so.13	libarchive
 nvme-cli	libc.so.6	aaa_glibc-solibs
 nvme-cli	libc.so.6	glibc
 nvme-cli	libcrypto.so.3	openssl
@@ -25210,8 +25211,6 @@ ppp	libnsl.so.3	aaa_libraries
 ppp	libnsl.so.3	libnsl
 ppp	libpam.so.0	pam
 ppp	libpcap.so.1	libpcap
-ppp	libresolv.so.2	aaa_glibc-solibs
-ppp	libresolv.so.2	glibc
 ppp	libssl.so.3	openssl
 ppp	libssl.so.3	openssl-solibs
 print-manager	libGLX.so.0	libglvnd

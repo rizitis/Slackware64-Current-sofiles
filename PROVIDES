@@ -2505,7 +2505,7 @@ libkcups.so print-manager
 libkdb5.so.10 krb5
 libkdb_ldap.so.1 krb5
 libkdc-private-samba.so samba
-libkddockwidgets-qt6.so.3 kddockwidgets
+libkddockwidgets-qt6.so.4 kddockwidgets
 libkdebugsettings.so.6 kdebugsettings
 libkdebugsettingscore.so.6 kdebugsettings
 libkdeconnectcore.so.26 kdeconnect-kde
