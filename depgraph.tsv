@@ -7267,6 +7267,7 @@ haruna	libKF6CoreAddons.so.6	kcoreaddons
 haruna	libKF6Crash.so.6	kcrash
 haruna	libKF6FileMetaData.so.3	kfilemetadata
 haruna	libKF6I18n.so.6	ki18n
+haruna	libKF6I18nQml.so.6	ki18n
 haruna	libKF6IconThemes.so.6	kiconthemes
 haruna	libKF6JobWidgets.so.6	kjobwidgets
 haruna	libKF6KIOCore.so.6	kio
@@ -12736,6 +12737,7 @@ kirigami-addons	libKF6GlobalAccel.so.6	kglobalaccel
 kirigami-addons	libKF6GuiAddons.so.6	kguiaddons
 kirigami-addons	libKF6I18n.so.6	ki18n
 kirigami-addons	libKF6IconThemes.so.6	kiconthemes
+kirigami-addons	libKirigamiPlatform.so.6	kirigami
 kirigami-addons	libOpenGL.so.0	libglvnd
 kirigami-addons	libQt6Core.so.6	qt6
 kirigami-addons	libQt6DBus.so.6	qt6

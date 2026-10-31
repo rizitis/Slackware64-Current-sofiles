@@ -17307,6 +17307,7 @@ kirigami-addons	kglobalaccel	linked
 kirigami-addons	kguiaddons	linked
 kirigami-addons	ki18n	linked
 kirigami-addons	kiconthemes	linked
+kirigami-addons	kirigami	linked
 kirigami-addons	libX11	lib
 kirigami-addons	libXau	lib
 kirigami-addons	libXdmcp	lib
