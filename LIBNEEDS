@@ -9633,7 +9633,6 @@ libOpenEXRCore-3_5.so.34	libc.so.6
 libOpenEXRCore-3_5.so.34	libdeflate.so.0
 libOpenEXRCore-3_5.so.34	libgcc_s.so.1
 libOpenEXRCore-3_5.so.34	libm.so.6
-libOpenEXRCore-3_5.so.34	libopenjph.so.0.32
 libOpenEXRCore-3_5.so.34	libstdc++.so.6
 libOpenEXRCore-3_5.so.34	libzstd.so.1
 libOpenEXRUtil-3_5.so.34	libIex-3_5.so.34
@@ -31843,11 +31842,11 @@ libopencv_xstereo.so.500	libopencv_video.so.500
 libopencv_xstereo.so.500	libstdc++.so.6
 libopenjp2.so.7	libc.so.6
 libopenjp2.so.7	libm.so.6
-libopenjph.so.0.32	ld-linux-x86-64.so.2
-libopenjph.so.0.32	libc.so.6
-libopenjph.so.0.32	libgcc_s.so.1
-libopenjph.so.0.32	libm.so.6
-libopenjph.so.0.32	libstdc++.so.6
+libopenjph.so.0.33	ld-linux-x86-64.so.2
+libopenjph.so.0.33	libc.so.6
+libopenjph.so.0.33	libgcc_s.so.1
+libopenjph.so.0.33	libm.so.6
+libopenjph.so.0.33	libstdc++.so.6
 libopenjpip.so.7	libc.so.6
 libopenjpip.so.7	libm.so.6
 libopenjpip.so.7	libopenjp2.so.7

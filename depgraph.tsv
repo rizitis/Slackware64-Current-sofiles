@@ -5453,6 +5453,7 @@ geeqie	libstdc++.so.6	gcc-g++
 geeqie	libtiff.so.6	aaa_libraries
 geeqie	libtiff.so.6	libtiff
 geeqie	libwebp.so.7	libwebp
+geeqie	libwebpdemux.so.2	libwebp
 gegl	libOpenEXR-3_5.so.34	openexr
 gegl	libSDL2-2.0.so.0	SDL2
 gegl	libSDL3.so.0	SDL3
@@ -22837,7 +22838,6 @@ openexr	libgcc_s.so.1	aaa_libraries
 openexr	libgcc_s.so.1	gcc
 openexr	libm.so.6	aaa_glibc-solibs
 openexr	libm.so.6	glibc
-openexr	libopenjph.so.0.32	openjph
 openexr	libstdc++.so.6	aaa_libraries
 openexr	libstdc++.so.6	gcc-g++
 openexr	libzstd.so.1	aaa_libraries

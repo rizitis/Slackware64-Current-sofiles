@@ -3033,7 +3033,7 @@ libopencv_xobjdetect.so.500 opencv
 libopencv_xphoto.so.500 opencv
 libopencv_xstereo.so.500 opencv
 libopenjp2.so.7 openjpeg
-libopenjph.so.0.32 openjph
+libopenjph.so.0.33 openjph
 libopenjpip.so.7 openjpeg
 libopenobex.so.2 openobex
 libopensc.so.13 opensc
