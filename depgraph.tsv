@@ -5686,6 +5686,7 @@ gimp	libcairo.so.2	cairo
 gimp	libcfitsio.so.10	cfitsio
 gimp	libfontconfig.so.1	fontconfig
 gimp	libfreetype.so.6	freetype
+gimp	libfribidi.so.0	fribidi
 gimp	libgcc_s.so.1	aaa_libraries
 gimp	libgcc_s.so.1	gcc
 gimp	libgdk-3.so.0	gtk+3

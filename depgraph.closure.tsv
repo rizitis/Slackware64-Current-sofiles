@@ -7218,7 +7218,7 @@ gimp	e2fsprogs	lib
 gimp	exiv2	lib
 gimp	fontconfig	linked
 gimp	freetype	linked
-gimp	fribidi	lib
+gimp	fribidi	linked
 gimp	gd	lib
 gimp	gdk-pixbuf2	linked
 gimp	gegl	linked
