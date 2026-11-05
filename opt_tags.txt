@@ -204,6 +204,7 @@ xpdf
 xsane
 bsd-games
 gnugo
+moon-buggy
 nethack
 expect
 hfsutils

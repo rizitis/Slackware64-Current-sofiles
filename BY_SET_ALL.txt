@@ -325,6 +325,7 @@ xap/xpdf
 xap/xsane
 y/bsd-games
 y/gnugo
+y/moon-buggy
 y/nethack
 tcl/expect
 tcl/hfsutils
