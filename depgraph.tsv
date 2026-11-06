@@ -13447,6 +13447,7 @@ kmail	libqt6keychain.so.1	qtkeychain
 kmail	libstdc++.so.6	aaa_libraries
 kmail	libstdc++.so.6	gcc-g++
 kmail-account-wizard	libGLX.so.0	libglvnd
+kmail-account-wizard	libKF6Codecs.so.6	kcodecs
 kmail-account-wizard	libKF6ColorScheme.so.6	kcolorscheme
 kmail-account-wizard	libKF6ConfigCore.so.6	kconfig
 kmail-account-wizard	libKF6ConfigGui.so.6	kconfig
@@ -21984,9 +21985,12 @@ mpv	libcaca.so.0	libcaca
 mpv	libcdio.so.21	libcdio
 mpv	libcdio_cdda.so.2	libcdio-paranoia
 mpv	libcdio_paranoia.so.2	libcdio-paranoia
+mpv	libcurl.so.4	aaa_libraries
+mpv	libcurl.so.4	curl
 mpv	libdisplay-info.so.4	libdisplay-info
 mpv	libdrm.so.2	libdrm
 mpv	libdvdnav.so.4	libdvdnav
+mpv	libdvdread.so.8	libdvdread
 mpv	libgbm.so.1	mesa
 mpv	libjack.so.0	pipewire
 mpv	libjpeg.so.62	aaa_libraries

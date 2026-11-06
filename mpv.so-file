@@ -22,9 +22,11 @@ libcaca.so.0
 libcdio.so.21
 libcdio_cdda.so.2
 libcdio_paranoia.so.2
+libcurl.so.4
 libdisplay-info.so.4
 libdrm.so.2
 libdvdnav.so.4
+libdvdread.so.8
 libgbm.so.1
 libjack.so.0
 libjpeg.so.62

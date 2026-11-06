@@ -18291,7 +18291,7 @@ kmail-account-wizard	graphite2	lib
 kmail-account-wizard	harfbuzz	lib
 kmail-account-wizard	icu4c	lib
 kmail-account-wizard	karchive	lib
-kmail-account-wizard	kcodecs	lib
+kmail-account-wizard	kcodecs	linked
 kmail-account-wizard	kcolorscheme	linked
 kmail-account-wizard	kconfig	linked
 kmail-account-wizard	kconfigwidgets	linked
@@ -29957,7 +29957,7 @@ mpv	libcdio-paranoia	linked
 mpv	libdisplay-info	linked
 mpv	libdrm	linked
 mpv	libdvdnav	linked
-mpv	libdvdread	lib
+mpv	libdvdread	linked
 mpv	libgcrypt	lib
 mpv	libglvnd	linked
 mpv	libjxl	lib
@@ -29981,6 +29981,8 @@ mpv	mesa	linked
 mpv	mpg123	lib
 mpv	mujs	linked
 mpv	nettle	lib
+mpv	nghttp2	lib
+mpv	nghttp3	lib
 mpv	ngtcp2	lib
 mpv	ocl-icd	lib
 mpv	openal-soft	linked
@@ -31582,6 +31584,8 @@ phonon-backend-mpv	mpg123	lib
 phonon-backend-mpv	mpv	linked
 phonon-backend-mpv	mujs	lib
 phonon-backend-mpv	nettle	lib
+phonon-backend-mpv	nghttp2	lib
+phonon-backend-mpv	nghttp3	lib
 phonon-backend-mpv	ngtcp2	lib
 phonon-backend-mpv	ocl-icd	lib
 phonon-backend-mpv	openal-soft	lib
