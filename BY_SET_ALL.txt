@@ -312,6 +312,7 @@ xap/gparted
 xap/gucharmap
 xap/hexchat
 xap/mpv
+xap/mpv-mpris
 xap/pidgin
 xap/rdesktop
 xap/sane

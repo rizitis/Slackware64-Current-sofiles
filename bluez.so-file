@@ -6,6 +6,7 @@ libical.so.3
 libicalss.so.3
 libicalvcal.so.3
 libjson-c.so.5
+libm.so.6
 libncursesw.so.6
 libreadline.so.8
 libtinfo.so.6

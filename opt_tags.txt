@@ -191,6 +191,7 @@ gparted
 gucharmap
 hexchat
 mpv
+mpv-mpris
 pidgin
 rdesktop
 sane

@@ -2052,6 +2052,8 @@ bluez	libicalss.so.3	libical
 bluez	libicalvcal.so.3	libical
 bluez	libjson-c.so.5	aaa_libraries
 bluez	libjson-c.so.5	json-c
+bluez	libm.so.6	aaa_glibc-solibs
+bluez	libm.so.6	glibc
 bluez	libncursesw.so.6	aaa_libraries
 bluez	libncursesw.so.6	ncurses
 bluez	libreadline.so.8	aaa_libraries
@@ -2447,7 +2449,7 @@ calligra	libodfgen-0.1.so.1	libodfgen
 calligra	libphonon4qt6.so.4	phonon
 calligra	libphonon4qt6experimental.so.4	phonon
 calligra	libpoppler-qt6.so.3	poppler
-calligra	libpoppler.so.165	poppler
+calligra	libpoppler.so.166	poppler
 calligra	libqca-qt6.so.2	qca
 calligra	libqt6keychain.so.1	qtkeychain
 calligra	librevenge-0.0.so.0	librevenge
@@ -2578,7 +2580,7 @@ cantor	libluajit-5.1.so.2	luajit
 cantor	libm.so.6	aaa_glibc-solibs
 cantor	libm.so.6	glibc
 cantor	libpoppler-qt6.so.3	poppler
-cantor	libpoppler.so.165	poppler
+cantor	libpoppler.so.166	poppler
 cantor	libpython3.12.so.1.0	python3
 cantor	libqalculate.so.23	libqalculate
 cantor	libstdc++.so.6	aaa_libraries
@@ -11274,7 +11276,7 @@ kfilemetadata	libgcc_s.so.1	gcc
 kfilemetadata	libm.so.6	aaa_glibc-solibs
 kfilemetadata	libm.so.6	glibc
 kfilemetadata	libpoppler-qt6.so.3	poppler
-kfilemetadata	libpoppler.so.165	poppler
+kfilemetadata	libpoppler.so.166	poppler
 kfilemetadata	libstdc++.so.6	aaa_libraries
 kfilemetadata	libstdc++.so.6	gcc-g++
 kfilemetadata	libtag.so.2	taglib
@@ -11298,7 +11300,7 @@ kfilemetadata5	libgcc_s.so.1	gcc
 kfilemetadata5	libm.so.6	aaa_glibc-solibs
 kfilemetadata5	libm.so.6	glibc
 kfilemetadata5	libpoppler-qt5.so.1	poppler
-kfilemetadata5	libpoppler.so.165	poppler
+kfilemetadata5	libpoppler.so.166	poppler
 kfilemetadata5	libstdc++.so.6	aaa_libraries
 kfilemetadata5	libstdc++.so.6	gcc-g++
 kfilemetadata5	libtag.so.2	taglib
@@ -12219,7 +12221,7 @@ kile	libgcc_s.so.1	gcc
 kile	libm.so.6	aaa_glibc-solibs
 kile	libm.so.6	glibc
 kile	libpoppler-qt6.so.3	poppler
-kile	libpoppler.so.165	poppler
+kile	libpoppler.so.166	poppler
 kile	libstdc++.so.6	aaa_libraries
 kile	libstdc++.so.6	gcc-g++
 killbots	libGLX.so.0	libglvnd
@@ -12949,7 +12951,7 @@ kitinerary	libgcc_s.so.1	aaa_libraries
 kitinerary	libgcc_s.so.1	gcc
 kitinerary	libm.so.6	aaa_glibc-solibs
 kitinerary	libm.so.6	glibc
-kitinerary	libpoppler.so.165	poppler
+kitinerary	libpoppler.so.166	poppler
 kitinerary	libstdc++.so.6	aaa_libraries
 kitinerary	libstdc++.so.6	gcc-g++
 kitinerary	libxml2.so.16	libxml2
@@ -15633,7 +15635,7 @@ krita	libopenjp2.so.7	openjpeg
 krita	libpng16.so.16	aaa_libraries
 krita	libpng16.so.16	libpng
 krita	libpoppler-qt6.so.3	poppler
-krita	libpoppler.so.165	poppler
+krita	libpoppler.so.166	poppler
 krita	libpython3.12.so.1.0	python3
 krita	libquazip1-qt6.so.1.7	quazip
 krita	libstdc++.so.6	aaa_libraries
@@ -22019,6 +22021,14 @@ mpv	libxkbcommon.so.0	aaa_libraries
 mpv	libxkbcommon.so.0	libxkbcommon
 mpv	libz.so.1	aaa_libraries
 mpv	libz.so.1	zlib
+mpv-mpris	libavformat.so.63	ffmpeg
+mpv-mpris	libc.so.6	aaa_glibc-solibs
+mpv-mpris	libc.so.6	glibc
+mpv-mpris	libgio-2.0.so.0	glib2
+mpv-mpris	libglib-2.0.so.0	aaa_libraries
+mpv-mpris	libglib-2.0.so.0	glib2
+mpv-mpris	libgobject-2.0.so.0	aaa_libraries
+mpv-mpris	libgobject-2.0.so.0	glib2
 mpvqt	libGLX.so.0	libglvnd
 mpvqt	libOpenGL.so.0	libglvnd
 mpvqt	libQt6Core.so.6	qt6
@@ -22736,7 +22746,7 @@ okular	libm.so.6	aaa_glibc-solibs
 okular	libm.so.6	glibc
 okular	libphonon4qt6.so.4	phonon
 okular	libpoppler-qt6.so.3	poppler
-okular	libpoppler.so.165	poppler
+okular	libpoppler.so.166	poppler
 okular	libspectre.so.1	libspectre
 okular	libstdc++.so.6	aaa_libraries
 okular	libstdc++.so.6	gcc-g++
