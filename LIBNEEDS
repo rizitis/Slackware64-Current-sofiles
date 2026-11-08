@@ -19649,7 +19649,6 @@ libdevmapper-event.so.1.02	libc.so.6
 libdevmapper-event.so.1.02	libdevmapper.so.1.02
 libdevmapper.so.1.02	libc.so.6
 libdevmapper.so.1.02	libm.so.6
-libdevmapper.so.1.02	libudev.so.1
 libdfs-server-ad-private-samba.so	libc.so.6
 libdfs-server-ad-private-samba.so	libldb.so.2
 libdfs-server-ad-private-samba.so	libsamba-debug-private-samba.so
