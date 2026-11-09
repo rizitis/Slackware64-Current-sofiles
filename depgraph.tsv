@@ -20428,6 +20428,13 @@ lmdb	libc.so.6	aaa_glibc-solibs
 lmdb	libc.so.6	glibc
 lndir	libc.so.6	aaa_glibc-solibs
 lndir	libc.so.6	glibc
+localed	libc.so.6	aaa_glibc-solibs
+localed	libc.so.6	glibc
+localed	libgio-2.0.so.0	glib2
+localed	libglib-2.0.so.0	aaa_libraries
+localed	libglib-2.0.so.0	glib2
+localed	libgobject-2.0.so.0	aaa_libraries
+localed	libgobject-2.0.so.0	glib2
 log4cplus	ld-linux-x86-64.so.2	aaa_glibc-solibs
 log4cplus	ld-linux-x86-64.so.2	glibc
 log4cplus	libc.so.6	aaa_glibc-solibs

@@ -11,6 +11,7 @@ l/keyutils
 l/libcaca
 l/libnvme
 l/lmdb
+l/localed
 l/log4cplus
 l/loudmouth
 l/lzo

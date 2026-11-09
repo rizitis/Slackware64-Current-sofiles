@@ -27990,6 +27990,10 @@ llvm	tree-sitter	linked
 lm_sensors	aaa_glibc-solibs	linked
 lmdb	aaa_glibc-solibs	linked
 lndir	aaa_glibc-solibs	linked
+localed	aaa_glibc-solibs	linked
+localed	aaa_libraries	linked
+localed	glib2	linked
+localed	util-linux	lib
 log4cplus	aaa_glibc-solibs	linked
 log4cplus	aaa_libraries	linked
 logrotate	aaa_glibc-solibs	linked

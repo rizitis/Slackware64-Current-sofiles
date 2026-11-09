@@ -11,6 +11,7 @@ keyutils
 libcaca
 libnvme
 lmdb
+localed
 log4cplus
 loudmouth
 lzo
