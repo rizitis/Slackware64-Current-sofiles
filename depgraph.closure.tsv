@@ -25988,7 +25988,6 @@ libgnome-keyring	dbus	linked
 libgnome-keyring	libgcrypt	linked
 libgnt	aaa_glibc-solibs	linked
 libgnt	aaa_libraries	linked
-libgnt	libxml2	linked
 libgpg-error	aaa_glibc-solibs	linked
 libgpg-error	aaa_libraries	linked
 libgphoto2	aaa_glibc-solibs	linked

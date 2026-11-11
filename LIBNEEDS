@@ -21976,7 +21976,6 @@ libgnt.so.0	libgobject-2.0.so.0
 libgnt.so.0	libncursesw.so.6
 libgnt.so.0	libpanelw.so.6
 libgnt.so.0	libtinfo.so.6
-libgnt.so.0	libxml2.so.16
 libgnuintl.so.8	libc.so.6
 libgnutls-openssl.so.27	libc.so.6
 libgnutls-openssl.so.27	libgnutls.so.30

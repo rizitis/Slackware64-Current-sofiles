@@ -18572,7 +18572,6 @@ libgnt	libpanelw.so.6	aaa_libraries
 libgnt	libpanelw.so.6	ncurses
 libgnt	libtinfo.so.6	aaa_libraries
 libgnt	libtinfo.so.6	ncurses
-libgnt	libxml2.so.16	libxml2
 libgpg-error	libc.so.6	aaa_glibc-solibs
 libgpg-error	libc.so.6	glibc
 libgpg-error	libgpg-error.so.0	aaa_libraries
