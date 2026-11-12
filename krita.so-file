@@ -56,8 +56,8 @@ libgslcblas.so.0
 libharfbuzz.so.0
 libjpeg.so.62
 libjson-c.so.5
-libjxl.so.0.12
-libjxl_threads.so.0.12
+libjxl.so.0.13
+libjxl_threads.so.0.13
 libkritabasicflakes.so.21
 libkritacommand.so.21
 libkritaexifcommon.so.21

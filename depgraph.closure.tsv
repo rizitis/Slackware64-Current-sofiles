@@ -297,7 +297,6 @@ SDL2_image	SDL2	linked
 SDL2_image	aaa_glibc-solibs	linked
 SDL2_image	aaa_libraries	linked
 SDL2_image	libdeflate	lib
-SDL2_image	libjxl	hint:dlopen
 SDL2_image	libwebp	linked
 SDL2_mixer	SDL2	linked
 SDL2_mixer	aaa_glibc-solibs	linked

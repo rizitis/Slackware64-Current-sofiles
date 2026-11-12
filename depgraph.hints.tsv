@@ -46,7 +46,6 @@ SDL2	dlopen	libwayland-client.so.0	wayland	guess
 SDL2	dlopen	libwayland-cursor.so.0	wayland	guess
 SDL2	dlopen	libwayland-egl.so.1	wayland	guess
 SDL2	dlopen	libxkbcommon.so.0	aaa_libraries	guess
-SDL2_image	dlopen	libjxl.so.0.12	libjxl	guess
 SDL2_mixer	dlopen	libfluidsynth.so.3	fluidsynth	guess
 SDL2_mixer	dlopen	libopusfile.so.0	opusfile	guess
 SDL2_mixer	dlopen	libwavpack.so.1	wavpack	guess

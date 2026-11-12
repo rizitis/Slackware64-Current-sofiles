@@ -1889,7 +1889,7 @@ libfyaml.so.0 libfyaml
 libgail.so gtk+2
 libgailutil-3.so.0 gtk+3
 libgailutil.so.18 gtk+2
-libgallium-26.2.6.so mesa
+libgallium-26.2.7.so mesa
 libgarcon-1.so.0 garcon
 libgarcon-gtk3-1.so.0 garcon
 libgbm.so.1 mesa
@@ -2468,9 +2468,9 @@ libjq.so.1 jq
 libjson-c.so.5 aaa_libraries
 libjson-c.so.5 json-c
 libjson-glib-1.0.so.0 json-glib
-libjxl.so.0.12 libjxl
-libjxl_cms.so.0.12 libjxl
-libjxl_threads.so.0.12 libjxl
+libjxl.so.0.13 libjxl
+libjxl_cms.so.0.13 libjxl
+libjxl_threads.so.0.13 libjxl
 libk3bdevice.so.8 k3b
 libk3blib.so.8 k3b
 libk5crypto.so.3 aaa_libraries
