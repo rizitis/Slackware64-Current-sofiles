@@ -1858,6 +1858,7 @@ appstream	nghttp3	lib
 appstream	ngtcp2	lib
 appstream	openexr	lib
 appstream	openjpeg	lib
+appstream	openjph	lib
 appstream	openssl	lib
 appstream	openssl-solibs	lib
 appstream	pango	linked
@@ -4450,6 +4451,7 @@ digikam	openblas	lib
 digikam	opencv	linked
 digikam	openexr	lib
 digikam	openjpeg	lib
+digikam	openjph	lib
 digikam	openssl	lib
 digikam	openssl-solibs	lib
 digikam	opus	lib
@@ -6480,6 +6482,7 @@ frei0r-plugins	openblas	lib
 frei0r-plugins	opencv	linked
 frei0r-plugins	openexr	lib
 frei0r-plugins	openjpeg	lib
+frei0r-plugins	openjph	lib
 frei0r-plugins	openssl	lib
 frei0r-plugins	openssl-solibs	lib
 frei0r-plugins	opus	lib
@@ -6913,6 +6916,7 @@ geeqie	ngtcp2	lib
 geeqie	ocl-icd	lib
 geeqie	openexr	linked
 geeqie	openjpeg	linked
+geeqie	openjph	lib
 geeqie	openssl	lib
 geeqie	openssl-solibs	lib
 geeqie	opus	lib
@@ -6976,6 +6980,7 @@ gegl	ocl-icd	hint:dlopen
 gegl	openblas	lib
 gegl	openexr	linked
 gegl	openjpeg	lib
+gegl	openjph	lib
 gegl	openssl	lib
 gegl	openssl-solibs	lib
 gegl	pango	linked
@@ -7279,6 +7284,7 @@ gimp	nghttp3	lib
 gimp	ngtcp2	lib
 gimp	openexr	linked
 gimp	openjpeg	linked
+gimp	openjph	lib
 gimp	openssl	lib
 gimp	openssl-solibs	lib
 gimp	pango	linked
@@ -8279,6 +8285,7 @@ gst-plugins-bad-free	openblas	lib
 gst-plugins-bad-free	opencv	linked
 gst-plugins-bad-free	openexr	linked
 gst-plugins-bad-free	openjpeg	linked
+gst-plugins-bad-free	openjph	lib
 gst-plugins-bad-free	openssl	linked
 gst-plugins-bad-free	openssl-solibs	linked
 gst-plugins-bad-free	opus	linked
@@ -9620,6 +9627,7 @@ imagemagick	libzip	linked
 imagemagick	ocl-icd	linked
 imagemagick	openexr	linked
 imagemagick	openjpeg	linked
+imagemagick	openjph	lib
 imagemagick	openssl	lib
 imagemagick	openssl-solibs	lib
 imagemagick	pango	linked
@@ -16560,6 +16568,7 @@ kimageformats	liburing	lib
 kimageformats	libxcb	lib
 kimageformats	openexr	linked
 kimageformats	openjpeg	linked
+kimageformats	openjph	lib
 kimageformats	openssl	lib
 kimageformats	openssl-solibs	lib
 kimageformats	pcre2	lib
@@ -16582,6 +16591,7 @@ kimageformats5	libglvnd	lib
 kimageformats5	libjxl	linked
 kimageformats5	libxcb	lib
 kimageformats5	openexr	linked
+kimageformats5	openjph	lib
 kimageformats5	pcre2	lib
 kimageformats5	qt5	linked
 kimagemapeditor	aaa_glibc-solibs	linked
@@ -16972,6 +16982,7 @@ kio-extras	nghttp2	lib
 kio-extras	nghttp3	lib
 kio-extras	ngtcp2	lib
 kio-extras	openexr	linked
+kio-extras	openjph	lib
 kio-extras	openssl	lib
 kio-extras	openssl-solibs	lib
 kio-extras	p11-kit	lib
@@ -22054,6 +22065,7 @@ krita	nghttp3	lib
 krita	ngtcp2	lib
 krita	openexr	linked
 krita	openjpeg	linked
+krita	openjph	lib
 krita	openssl	lib
 krita	openssl-solibs	lib
 krita	pcre2	lib
@@ -23017,6 +23029,7 @@ kstars	openblas	lib
 kstars	opencv	linked
 kstars	openexr	lib
 kstars	openjpeg	lib
+kstars	openjph	lib
 kstars	openssl	lib
 kstars	openssl-solibs	lib
 kstars	pcre2	lib
@@ -27602,6 +27615,7 @@ libvips	ngtcp2	lib
 libvips	ocl-icd	lib
 libvips	openexr	linked
 libvips	openjpeg	linked
+libvips	openjph	lib
 libvips	openssl	lib
 libvips	openssl-solibs	lib
 libvips	pango	linked
@@ -29632,6 +29646,7 @@ mlt	openblas	lib
 mlt	opencv	linked
 mlt	openexr	lib
 mlt	openjpeg	lib
+mlt	openjph	lib
 mlt	openssl	lib
 mlt	openssl-solibs	lib
 mlt	opus	lib
@@ -30843,6 +30858,7 @@ opencv	openal-soft	lib
 opencv	openblas	linked
 opencv	openexr	linked
 opencv	openjpeg	linked
+opencv	openjph	lib
 opencv	openssl	lib
 opencv	openssl-solibs	lib
 opencv	opus	lib
@@ -30867,6 +30883,7 @@ openexr	Imath	linked
 openexr	aaa_glibc-solibs	linked
 openexr	aaa_libraries	linked
 openexr	libdeflate	linked
+openexr	openjph	linked
 openjpeg	aaa_glibc-solibs	linked
 openjph	aaa_glibc-solibs	linked
 openjph	aaa_libraries	linked

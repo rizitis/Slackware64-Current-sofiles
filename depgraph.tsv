@@ -22859,6 +22859,7 @@ openexr	libgcc_s.so.1	aaa_libraries
 openexr	libgcc_s.so.1	gcc
 openexr	libm.so.6	aaa_glibc-solibs
 openexr	libm.so.6	glibc
+openexr	libopenjph.so.0.33	openjph
 openexr	libstdc++.so.6	aaa_libraries
 openexr	libstdc++.so.6	gcc-g++
 openexr	libzstd.so.1	aaa_libraries

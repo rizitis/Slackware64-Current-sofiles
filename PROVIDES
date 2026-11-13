@@ -739,7 +739,7 @@ libKirigamiPrivate.so.6 kirigami
 libKirigamiTemplates.so.6 kirigami
 libLIBWBCLIENT-OLD-private-samba.so samba
 libLLVM.so.23.1 llvm
-libLLVM.so.23.1-rust-1.99.1-stable rust
+libLLVM.so.23.1-rust-1.100.0-stable rust
 libLLVMSPIRVLib.so.23.1 spirv-llvm-translator
 libLTO.so.23.1 llvm
 libLayerShellQtInterface.so.6 layer-shell-qt
@@ -3320,7 +3320,7 @@ librtp.so pulseaudio
 librttr_core.so.0.9.6 rttr
 libruby.so.4.0 ruby
 librunnermodelplugin.so krunner5
-librustc_driver-1b23c14e9192cbfc.so rust
+librustc_driver-1eb92c61fc593fed.so rust
 librva.so normalize
 libsamba-cluster-support-private-samba.so samba
 libsamba-credentials.so.1 samba
@@ -3468,7 +3468,7 @@ libssl_iostream_openssl.so dovecot
 libssr-glinject.so ssr
 libstable-sort-private-samba.so samba
 libstartup-notification-1.so.0 startup-notification
-libstd-04ced1bba2e6cdf6.so rust
+libstd-c60c688103682068.so rust
 libstdc++.so.5 aaa_libraries
 libstdc++.so.6 aaa_libraries
 libstdc++.so.6 gcc-g++
