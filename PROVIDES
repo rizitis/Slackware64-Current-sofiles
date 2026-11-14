@@ -733,7 +733,6 @@ libKirigamiLayouts.so.6 kirigami
 libKirigamiLayoutsPrivate.so.6 kirigami
 libKirigamiPlatform.so.6 kirigami
 libKirigamiPlugin.so kirigami5
-libKirigamiPolyfill.so.6 kirigami
 libKirigamiPrimitives.so.6 kirigami
 libKirigamiPrivate.so.6 kirigami
 libKirigamiTemplates.so.6 kirigami
