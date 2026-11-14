@@ -1,10 +1,10 @@
-libKF6I18n.so.6
+libc.so.6
+libgcc_s.so.1
 libKF6I18nLocaleData.so.6
 libKF6I18nQml.so.6
+libKF6I18n.so.6
+libm.so.6
 libQt6Core.so.6
 libQt6Network.so.6
 libQt6Qml.so.6
-libc.so.6
-libgcc_s.so.1
-libm.so.6
 libstdc++.so.6

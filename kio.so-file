@@ -1,4 +1,9 @@
 ld-linux-x86-64.so.2
+libacl.so.1
+libattr.so.1
+libc.so.6
+libexslt.so.0
+libgcc_s.so.1
 libGLX.so.0
 libKF6Archive.so.6
 libKF6Bookmarks.so.6
@@ -26,6 +31,9 @@ libKF6Solid.so.6
 libKF6Wallet.so.6
 libKF6WidgetsAddons.so.6
 libKF6WindowSystem.so.6
+libkuriikwsfiltereng_private.so
+libmount.so.1
+libm.so.6
 libOpenGL.so.0
 libQt6Concurrent.so.6
 libQt6Core.so.6
@@ -34,15 +42,7 @@ libQt6Gui.so.6
 libQt6Network.so.6
 libQt6Widgets.so.6
 libQt6Xml.so.6
-libX11.so.6
-libacl.so.1
-libattr.so.1
-libc.so.6
-libexslt.so.0
-libgcc_s.so.1
-libkuriikwsfiltereng_private.so
-libm.so.6
-libmount.so.1
 libstdc++.so.6
+libX11.so.6
 libxkbcommon.so.0
 libxml2.so.16

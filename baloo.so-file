@@ -1,6 +1,8 @@
+libc.so.6
+libgcc_s.so.1
 libGLX.so.0
-libKF6Baloo.so.6
 libKF6BalooEngine.so.6
+libKF6Baloo.so.6
 libKF6ConfigCore.so.6
 libKF6CoreAddons.so.6
 libKF6Crash.so.6
@@ -10,14 +12,12 @@ libKF6I18n.so.6
 libKF6IdleTime.so.6
 libKF6KIOCore.so.6
 libKF6Solid.so.6
+liblmdb.so.1
+libm.so.6
 libOpenGL.so.0
 libQt6Core.so.6
 libQt6DBus.so.6
 libQt6Gui.so.6
 libQt6Network.so.6
 libQt6Qml.so.6
-libc.so.6
-libgcc_s.so.1
-liblmdb.so.1
-libm.so.6
 libstdc++.so.6

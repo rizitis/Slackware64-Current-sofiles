@@ -1,4 +1,8 @@
+libc.so.6
+libgcc_s.so.1
 libGLX.so.0
+libkalarmcalendar.so.6
+libkalarmplugin.so.6
 libKF6AuthCore.so.6
 libKF6Bookmarks.so.6
 libKF6CalendarCore.so.6
@@ -48,6 +52,8 @@ libKPim6GrantleeTheme.so.6
 libKPim6IdentityManagementCore.so.6
 libKPim6IdentityManagementWidgets.so.6
 libKPim6MailTransport.so.6
+libmpv.so.2
+libm.so.6
 libOpenGL.so.0
 libQt6Core.so.6
 libQt6DBus.so.6
@@ -57,11 +63,5 @@ libQt6Network.so.6
 libQt6TextToSpeech.so.6
 libQt6Widgets.so.6
 libQt6Xml.so.6
-libX11.so.6
-libc.so.6
-libgcc_s.so.1
-libkalarmcalendar.so.6
-libkalarmplugin.so.6
-libm.so.6
-libmpv.so.2
 libstdc++.so.6
+libX11.so.6

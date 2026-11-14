@@ -1,6 +1,6 @@
-libGLX.so.0
+libc.so.6
 libGLdispatch.so.0
+libGLX.so.0
+libm.so.6
 libX11.so.6
 libXext.so.6
-libc.so.6
-libm.so.6

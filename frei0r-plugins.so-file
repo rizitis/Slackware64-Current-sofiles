@@ -1,11 +1,10 @@
 ld-linux-x86-64.so.2
+libcairo.so.2
+libc.so.6
 libEGL.so.1
+libgcc_s.so.1
 libGLU.so.1
 libGLX.so.0
-libOpenGL.so.0
-libc.so.6
-libcairo.so.2
-libgcc_s.so.1
 libm.so.6
 libopencv_alphamat.so.500
 libopencv_bgsegm.so.500
@@ -15,8 +14,8 @@ libopencv_ccalib.so.500
 libopencv_core.so.500
 libopencv_cvv.so.500
 libopencv_datasets.so.500
-libopencv_dnn.so.500
 libopencv_dnn_objdetect.so.500
+libopencv_dnn.so.500
 libopencv_dnn_superres.so.500
 libopencv_dpm.so.500
 libopencv_face.so.500
@@ -28,8 +27,8 @@ libopencv_gapi.so.500
 libopencv_geometry.so.500
 libopencv_hfs.so.500
 libopencv_highgui.so.500
-libopencv_img_hash.so.500
 libopencv_imgcodecs.so.500
+libopencv_img_hash.so.500
 libopencv_imgproc.so.500
 libopencv_intensity_transform.so.500
 libopencv_line_descriptor.so.500
@@ -54,8 +53,8 @@ libopencv_superres.so.500
 libopencv_surface_matching.so.500
 libopencv_text.so.500
 libopencv_tracking.so.500
-libopencv_video.so.500
 libopencv_videoio.so.500
+libopencv_video.so.500
 libopencv_videostab.so.500
 libopencv_wechat_qrcode.so.500
 libopencv_xfeatures2d.so.500
@@ -63,4 +62,5 @@ libopencv_ximgproc.so.500
 libopencv_xobjdetect.so.500
 libopencv_xphoto.so.500
 libopencv_xstereo.so.500
+libOpenGL.so.0
 libstdc++.so.6

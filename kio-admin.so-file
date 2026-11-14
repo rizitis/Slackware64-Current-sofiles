@@ -1,3 +1,6 @@
+libatomic.so.1
+libc.so.6
+libgcc_s.so.1
 libGLX.so.0
 libKF6Completion.so.6
 libKF6ConfigCore.so.6
@@ -9,15 +12,12 @@ libKF6KIOGui.so.6
 libKF6KIOWidgets.so.6
 libKF6Service.so.6
 libKF6WidgetsAddons.so.6
+libm.so.6
 libOpenGL.so.0
+libpolkit-qt6-core-1.so.1
 libQt6Core.so.6
 libQt6DBus.so.6
 libQt6Gui.so.6
 libQt6Network.so.6
 libQt6Widgets.so.6
-libatomic.so.1
-libc.so.6
-libgcc_s.so.1
-libm.so.6
-libpolkit-qt6-core-1.so.1
 libstdc++.so.6

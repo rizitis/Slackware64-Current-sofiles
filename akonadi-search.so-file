@@ -1,4 +1,6 @@
 ld-linux-x86-64.so.2
+libc.so.6
+libgcc_s.so.1
 libGLX.so.0
 libKF6CalendarCore.so.6
 libKF6Codecs.so.6
@@ -11,9 +13,9 @@ libKF6Contacts.so.6
 libKF6CoreAddons.so.6
 libKF6I18n.so.6
 libKF6ItemModels.so.6
-libKF6KCMUtils.so.6
 libKF6KCMUtilsCore.so.6
 libKF6KCMUtilsQuick.so.6
+libKF6KCMUtils.so.6
 libKF6Mime.so.6
 libKF6Runner.so.6
 libKF6SyntaxHighlighting.so.6
@@ -26,6 +28,7 @@ libKPim6AkonadiPrivate.so.6
 libKPim6AkonadiSearchCore.so.6
 libKPim6AkonadiSearchPIM.so.6
 libKPim6AkonadiSearchXapian.so.6
+libm.so.6
 libOpenGL.so.0
 libQt6Core.so.6
 libQt6DBus.so.6
@@ -33,8 +36,5 @@ libQt6Gui.so.6
 libQt6Network.so.6
 libQt6Qml.so.6
 libQt6Widgets.so.6
-libc.so.6
-libgcc_s.so.1
-libm.so.6
 libstdc++.so.6
 libxapian.so.45

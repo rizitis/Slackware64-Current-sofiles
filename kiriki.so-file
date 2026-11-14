@@ -1,3 +1,5 @@
+libc.so.6
+libgcc_s.so.1
 libGLX.so.0
 libKDEGames6.so.6
 libKF6ColorScheme.so.6
@@ -12,6 +14,7 @@ libKF6I18n.so.6
 libKF6IconThemes.so.6
 libKF6WidgetsAddons.so.6
 libKF6XmlGui.so.6
+libm.so.6
 libOpenGL.so.0
 libQt6Core.so.6
 libQt6DBus.so.6
@@ -21,7 +24,4 @@ libQt6PrintSupport.so.6
 libQt6Qml.so.6
 libQt6Widgets.so.6
 libQt6Xml.so.6
-libc.so.6
-libgcc_s.so.1
-libm.so.6
 libstdc++.so.6

@@ -1,3 +1,8 @@
+libcdio_cdda.so.2
+libcdio_paranoia.so.2
+libcdio.so.21
+libc.so.6
+libgcc_s.so.1
 libGLX.so.0
 libKCddb6.so.5
 libKF6ColorScheme.so.6
@@ -12,9 +17,9 @@ libKF6I18n.so.6
 libKF6IconThemes.so.6
 libKF6IconWidgets.so.6
 libKF6JobWidgets.so.6
-libKF6KCMUtils.so.6
 libKF6KCMUtilsCore.so.6
 libKF6KCMUtilsQuick.so.6
+libKF6KCMUtils.so.6
 libKF6KIOCore.so.6
 libKF6KIOGui.so.6
 libKF6KIOWidgets.so.6
@@ -24,6 +29,7 @@ libKF6SonnetUi.so.6
 libKF6TextWidgets.so.6
 libKF6WidgetsAddons.so.6
 libKF6XmlGui.so.6
+libm.so.6
 libOpenGL.so.0
 libQt6Core.so.6
 libQt6DBus.so.6
@@ -32,10 +38,4 @@ libQt6Network.so.6
 libQt6Qml.so.6
 libQt6Widgets.so.6
 libQt6Xml.so.6
-libc.so.6
-libcdio.so.21
-libcdio_cdda.so.2
-libcdio_paranoia.so.2
-libgcc_s.so.1
-libm.so.6
 libstdc++.so.6

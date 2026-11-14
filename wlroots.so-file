@@ -1,9 +1,9 @@
-libEGL.so.1
-libGLESv2.so.2
 libc.so.6
 libdisplay-info.so.4
 libdrm.so.2
+libEGL.so.1
 libgbm.so.1
+libGLESv2.so.2
 libinput.so.10
 liblcms2.so.2
 libm.so.6
@@ -19,11 +19,11 @@ libxcb-errors.so.0
 libxcb-ewmh.so.2
 libxcb-icccm.so.4
 libxcb-present.so.0
-libxcb-render-util.so.0
 libxcb-render.so.0
+libxcb-render-util.so.0
 libxcb-res.so.0
 libxcb-shm.so.0
+libxcb.so.1
 libxcb-xfixes.so.0
 libxcb-xinput.so.0
-libxcb.so.1
 libxkbcommon.so.0

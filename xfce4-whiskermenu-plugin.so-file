@@ -1,6 +1,6 @@
 libaccountsservice.so.1
-libc.so.6
 libcairo.so.2
+libc.so.6
 libexo-2.so.0
 libgarcon-1.so.0
 libgcc_s.so.1

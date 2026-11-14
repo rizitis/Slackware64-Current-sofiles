@@ -1,4 +1,8 @@
+libc.so.6
+libgcc_s.so.1
 libGLX.so.0
+libgslcblas.so.0
+libgsl.so.28
 libKF6Attica.so.6
 libKF6ColorScheme.so.6
 libKF6Completion.so.6
@@ -22,7 +26,9 @@ libKF6SonnetUi.so.6
 libKF6TextWidgets.so.6
 libKF6WidgetsAddons.so.6
 libKF6XmlGui.so.6
+libm.so.6
 libOpenGL.so.0
+libqalculate.so.23
 libQt6Core.so.6
 libQt6DBus.so.6
 libQt6Gui.so.6
@@ -31,10 +37,4 @@ libQt6OpenGL.so.6
 libQt6OpenGLWidgets.so.6
 libQt6Widgets.so.6
 libQt6Xml.so.6
-libc.so.6
-libgcc_s.so.1
-libgsl.so.28
-libgslcblas.so.0
-libm.so.6
-libqalculate.so.23
 libstdc++.so.6

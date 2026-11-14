@@ -3,6 +3,7 @@ Cython	aaa_glibc-solibs	linked
 Cython	python-lxml	hint:import
 Cython	python-numpy	hint:import
 Cython	python-pygments	hint:import
+Cython	python-setuptools	hint:import
 GConf	aaa_glibc-solibs	linked
 GConf	aaa_libraries	linked
 GConf	cyrus-sasl	lib
@@ -2539,13 +2540,13 @@ autofs	libxml2	linked
 autofs	nfs-utils	hint:exec
 autofs	openssl	lib
 autofs	openssl-solibs	lib
+avahi	PyQt6	hint:import
 avahi	aaa_glibc-solibs	linked
 avahi	aaa_libraries	linked
 avahi	at-spi2-core	linked
 avahi	brotli	lib
 avahi	cairo	linked
 avahi	dbus	linked
-avahi	dbus-python	hint:import
 avahi	fontconfig	linked
 avahi	freetype	linked
 avahi	fribidi	lib
@@ -4197,6 +4198,7 @@ dbus-glib	aaa_libraries	linked
 dbus-glib	dbus	linked
 dbus-glib	glib2	linked
 dbus-glib	util-linux	lib
+dbus-python	PyQt6	hint:import
 dbus-python	aaa_glibc-solibs	linked
 dbus-python	aaa_libraries	linked
 dbus-python	dbus	linked
@@ -9263,6 +9265,7 @@ hfsutils	libxcb	lib
 highway	aaa_glibc-solibs	linked
 highway	aaa_libraries	linked
 hostname	aaa_glibc-solibs	linked
+hplip	PyQt6	hint:import
 hplip	aaa_glibc-solibs	linked
 hplip	aaa_libraries	linked
 hplip	avahi	linked
@@ -9270,7 +9273,6 @@ hplip	brotli	lib
 hplip	cairo	lib
 hplip	cyrus-sasl	lib
 hplip	dbus	linked
-hplip	dbus-python	hint:import
 hplip	e2fsprogs	lib
 hplip	fontconfig	lib
 hplip	freetype	lib
@@ -25801,13 +25803,13 @@ libdbusmenu-qt	libglvnd	lib
 libdbusmenu-qt	libxcb	lib
 libdbusmenu-qt	pcre2	lib
 libdbusmenu-qt	qt5	linked
+libdbusmenu	PyQt6	hint:import
 libdbusmenu	aaa_glibc-solibs	linked
 libdbusmenu	aaa_libraries	linked
 libdbusmenu	at-spi2-core	linked
 libdbusmenu	brotli	lib
 libdbusmenu	cairo	linked
 libdbusmenu	dbus	lib
-libdbusmenu	dbus-python	hint:import
 libdbusmenu	fontconfig	linked
 libdbusmenu	freetype	linked
 libdbusmenu	fribidi	lib
@@ -31819,6 +31821,7 @@ pidentd	aaa_glibc-solibs	linked
 pidentd	aaa_libraries	lib
 pidentd	openssl	linked
 pidentd	openssl-solibs	linked
+pidgin	PyQt6	hint:import
 pidgin	aaa_glibc-solibs	linked
 pidgin	aaa_libraries	linked
 pidgin	at-spi2-core	linked
@@ -31828,7 +31831,6 @@ pidgin	cairo	linked
 pidgin	cyrus-sasl	linked
 pidgin	dbus	linked
 pidgin	dbus-glib	linked
-pidgin	dbus-python	hint:import
 pidgin	e2fsprogs	lib
 pidgin	elfutils	lib
 pidgin	enchant	lib
@@ -34006,11 +34008,11 @@ pulseaudio-qt	pcre2	lib
 pulseaudio-qt	pulseaudio	linked
 pulseaudio-qt	qt6	linked
 pulseaudio	PyQt5_sip	hint:import
+pulseaudio	PyQt6	hint:import
 pulseaudio	aaa_glibc-solibs	linked
 pulseaudio	aaa_libraries	linked
 pulseaudio	avahi	linked
 pulseaudio	dbus	linked
-pulseaudio	dbus-python	hint:import
 pulseaudio	e2fsprogs	lib
 pulseaudio	elfutils	lib
 pulseaudio	elogind	linked
@@ -34207,8 +34209,10 @@ python-MarkupSafe	aaa_glibc-solibs	linked
 python-PyYAML	aaa_glibc-solibs	linked
 python-PyYAML	libyaml	linked
 python-accessible-pygments	python-pygments	hint:import
+python-accessible-pygments	python-setuptools	hint:import
 python-alabaster	python-pygments	hint:import
 python-appdirs	libwebp	hint:import
+python-babel	python-setuptools	hint:import
 python-build	python-importlib_metadata	hint:import
 python-build	python-packaging	hint:import
 python-build	python-pyproject-hooks	hint:import
@@ -34216,6 +34220,7 @@ python-build	python-setuptools	hint:import
 python-cffi	aaa_glibc-solibs	linked
 python-cffi	aaa_libraries	linked
 python-cffi	python-pycparser	hint:import
+python-cffi	python-setuptools	hint:import
 python-dnspython	python-idna	hint:import
 python-docutils	python-pillow	hint:import
 python-docutils	python-pygments	hint:import
@@ -34246,7 +34251,7 @@ python-lxml	libxslt	linked
 python-lxml	python-html5lib	hint:import
 python-markdown	python-PyYAML	hint:import
 python-markdown	python-pygments	hint:import
-python-notify2	dbus-python	hint:import
+python-notify2	PyQt6	hint:import
 python-numpy	aaa_glibc-solibs	linked
 python-numpy	aaa_libraries	linked
 python-numpy	gcc-gfortran	lib
@@ -34255,6 +34260,7 @@ python-numpy	python-PyYAML	hint:import
 python-numpy	python-cffi	hint:import
 python-numpy	python-charset-normalizer	hint:import
 python-numpy	python-psutil	hint:import
+python-numpy	python-setuptools	hint:import
 python-pbr	python-importlib_metadata	hint:import
 python-pbr	python-packaging	hint:import
 python-pbr	python-setuptools	hint:import
@@ -34280,7 +34286,9 @@ python-pip	python-attrs	hint:import
 python-pip	python-docutils	hint:import
 python-pip	python-sphinx	hint:import
 python-poetry-core	python-packaging	hint:import
+python-poetry-core	python-setuptools	hint:import
 python-psutil	aaa_glibc-solibs	linked
+python-pybind11	python-setuptools	hint:import
 python-pygments	python-chardet	hint:import
 python-pygments	python-docutils	hint:import
 python-pygments	python-pillow	hint:import
@@ -34396,7 +34404,9 @@ python2	python-docutils	hint:import
 python2	python-importlib_metadata	hint:import
 python2	python-lxml	hint:import
 python2	python-numpy	hint:import
+python2	python-pip	hint:import
 python2	python-pygments	hint:import
+python2	python-setuptools	hint:import
 python2	python-urllib3	hint:import
 python2	python-wheel	hint:import
 python2	python-zipp	hint:import
@@ -34410,7 +34420,9 @@ python3	icu4c	lib
 python3	openssl	linked
 python3	openssl-solibs	linked
 python3	python-numpy	hint:import
+python3	python-pip	hint:import
 python3	python-psutil	hint:import
+python3	python-setuptools	hint:import
 python3	sqlite	linked
 python3	util-linux	linked
 qalculate-gtk	aaa_glibc-solibs	linked
@@ -35068,6 +35080,7 @@ qt6	pcsc-lite	linked
 qt6	pixman	lib
 qt6	protobuf	linked
 qt6	pulseaudio	linked
+qt6	python-pip	hint:import
 qt6	samba	lib
 qt6	speech-dispatcher	linked
 qt6	speex	lib
@@ -36816,11 +36829,11 @@ syslinux	aaa_glibc-solibs	linked
 syslinux	util-linux	linked
 sysstat	aaa_glibc-solibs	linked
 sysstat	lm_sensors	linked
+system-config-printer	PyQt6	hint:import
 system-config-printer	aaa_glibc-solibs	linked
 system-config-printer	aaa_libraries	linked
 system-config-printer	avahi	lib
 system-config-printer	dbus	lib
-system-config-printer	dbus-python	hint:import
 system-config-printer	openssl	lib
 system-config-printer	openssl-solibs	lib
 system-config-printer	pygobject3	hint:import
@@ -37493,9 +37506,9 @@ universal-ctags	jansson	linked
 universal-ctags	libseccomp	linked
 universal-ctags	libxml2	linked
 universal-ctags	libyaml	linked
+upower	PyQt6	hint:import
 upower	aaa_glibc-solibs	linked
 upower	aaa_libraries	linked
-upower	dbus-python	hint:import
 upower	elogind	lib
 upower	glib2	linked
 upower	libgudev	linked
@@ -39419,9 +39432,9 @@ xfsdump	util-linux	linked
 xfsdump	xfsprogs	linked
 xfsinfo	aaa_glibc-solibs	linked
 xfsinfo	libFS	linked
+xfsprogs	PyQt6	hint:import
 xfsprogs	aaa_glibc-solibs	linked
 xfsprogs	aaa_libraries	linked
-xfsprogs	dbus-python	hint:import
 xfsprogs	icu4c	linked
 xfsprogs	inih	linked
 xfsprogs	userspace-rcu	linked

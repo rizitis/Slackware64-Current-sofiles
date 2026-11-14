@@ -1,4 +1,6 @@
+libc.so.6
 libICE.so.6
+libm.so.6
 libSM.so.6
 libX11.so.6
 libXaw3d.so.8
@@ -7,5 +9,3 @@ libXinerama.so.1
 libXmu.so.6
 libXpm.so.4
 libXt.so.6
-libc.so.6
-libm.so.6

@@ -1,14 +1,11 @@
-libSDL2-2.0.so.0
-libSDL2_image-2.0.so.0
-libX11.so.6
 libaio.so.1
 libasound.so.2
 libbz2.so.1
-libc.so.6
 libcacard.so.0
 libcairo.so.2
 libcap-ng.so.0
 libcbor.so.0.14
+libc.so.6
 libcurl.so.4
 libdaxctl.so.1
 libdw.so.1
@@ -40,6 +37,8 @@ libpixman-1.so.0
 libpng16.so.16
 libpulse.so.0
 libsasl2.so.3
+libSDL2-2.0.so.0
+libSDL2_image-2.0.so.0
 libseccomp.so.2
 libslirp.so.0
 libspice-server.so.1
@@ -52,6 +51,7 @@ libusbredirparser.so.1
 libvdeplug.so.3
 libvirglrenderer.so.1
 libvte-2.91.so.0
+libX11.so.6
 libxkbcommon.so.0
 libz.so.1
 libzstd.so.1

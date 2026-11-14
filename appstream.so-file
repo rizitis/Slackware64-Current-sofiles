@@ -1,10 +1,8 @@
-libLLVM.so.23.1
-libQt6Core.so.6
 libappstream-compose.so.1
 libappstream.so.5
 libblake3.so.0
-libc.so.6
 libcairo.so.2
+libc.so.6
 libcurl.so.4
 libfontconfig.so.1
 libfreetype.so.6
@@ -14,8 +12,10 @@ libgio-2.0.so.0
 libglib-2.0.so.0
 libgmodule-2.0.so.0
 libgobject-2.0.so.0
+libLLVM.so.23.1
 libm.so.6
 libpango-1.0.so.0
+libQt6Core.so.6
 libstdc++.so.6
 libvips.so.42
 libxml2.so.16

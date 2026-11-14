@@ -1,13 +1,8 @@
-libICE.so.6
-libSM.so.6
-libX11.so.6
-libXext.so.6
-libXt.so.6
 libarchive.so.13
 libatk-1.0.so.0
-libc.so.6
 libcairo-gobject.so.2
 libcairo.so.2
+libc.so.6
 libcups.so.2
 libcurl.so.4
 libfontconfig.so.1
@@ -21,6 +16,7 @@ libgobject-2.0.so.0
 libgs.so.10
 libgtk-3.so.0
 libharfbuzz.so.0
+libICE.so.6
 libidn.so.12
 libijs-0.35.so
 libjpeg.so.62
@@ -31,7 +27,11 @@ libpango-1.0.so.0
 libpangocairo-1.0.so.0
 libpaper.so.2
 libpng16.so.16
+libSM.so.6
 libstdc++.so.6
 libtesseract.so.5
 libtiff.so.6
+libX11.so.6
+libXext.so.6
+libXt.so.6
 libz.so.1

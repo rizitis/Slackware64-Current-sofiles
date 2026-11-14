@@ -1,6 +1,5 @@
-libX11.so.6
-libc.so.6
 libcairo.so.2
+libc.so.6
 libevdev.so.2
 libglib-2.0.so.0
 libgobject-2.0.so.0
@@ -12,3 +11,4 @@ libmtdev.so.1
 libudev.so.1
 libwacom.so.9
 libwayland-client.so.0
+libX11.so.6

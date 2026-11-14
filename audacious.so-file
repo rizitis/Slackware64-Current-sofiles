@@ -1,10 +1,7 @@
 ld-linux-x86-64.so.2
-libQt6Core.so.6
-libQt6Gui.so.6
-libQt6Widgets.so.6
 libaudcore.so.6
-libc.so.6
 libcairo.so.2
+libc.so.6
 libgcc_s.so.1
 libgdk-3.so.0
 libgdk_pixbuf-2.0.so.0
@@ -16,4 +13,7 @@ libgtk-3.so.0
 libm.so.6
 libmvec.so.1
 libpango-1.0.so.0
+libQt6Core.so.6
+libQt6Gui.so.6
+libQt6Widgets.so.6
 libstdc++.so.6

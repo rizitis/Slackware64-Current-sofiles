@@ -3,8 +3,8 @@ libatopology.so.2
 libc.so.6
 libfftw3f.so.3
 libformw.so.6
-libm.so.6
 libmenuw.so.6
+libm.so.6
 libncursesw.so.6
 libpanelw.so.6
 libsamplerate.so.0

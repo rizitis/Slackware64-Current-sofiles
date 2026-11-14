@@ -1,3 +1,5 @@
+libc.so.6
+libgcc_s.so.1
 libGLX.so.0
 libKF6Archive.so.6
 libKF6Attica.so.6
@@ -21,19 +23,20 @@ libKF6SyntaxHighlighting.so.6
 libKF6TextAddonsWidgets.so.1
 libKF6TextAutoCorrectionCore.so.1
 libKF6TextAutoCorrectionWidgets.so.1
-libKF6TextAutoGenerateText.so.1
 libKF6TextAutoGenerateTextMcpProtocolCore.so.1
+libKF6TextAutoGenerateText.so.1
 libKF6TextCustomEditor.so.1
 libKF6TextEditTextToSpeech.so.1
 libKF6TextUtils.so.1
 libKF6WidgetsAddons.so.6
 libKPim6IdentityManagementCore.so.6
 libKPim6KManageSieve.so.6
-libKPim6KSieve.so.6
 libKPim6KSieveCore.so.6
+libKPim6KSieve.so.6
 libKPim6Libkdepim.so.6
 libKPim6MailTransport.so.6
 libKPim6PimCommon.so.6
+libm.so.6
 libOpenGL.so.0
 libQt6Core.so.6
 libQt6DBus.so.6
@@ -51,8 +54,5 @@ libQt6WebChannel.so.6
 libQt6WebEngineCore.so.6
 libQt6WebEngineWidgets.so.6
 libQt6Widgets.so.6
-libc.so.6
-libgcc_s.so.1
-libm.so.6
 libsasl2.so.3
 libstdc++.so.6

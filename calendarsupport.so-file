@@ -1,3 +1,5 @@
+libc.so.6
+libgcc_s.so.1
 libGLX.so.0
 libKF6CalendarCore.so.6
 libKF6Codecs.so.6
@@ -21,13 +23,14 @@ libKF6SonnetUi.so.6
 libKF6SyntaxHighlighting.so.6
 libKF6TextCustomEditor.so.1
 libKF6WidgetsAddons.so.6
-libKPim6AkonadiCalendar.so.6
 libKPim6AkonadiCalendarCore.so.6
+libKPim6AkonadiCalendar.so.6
 libKPim6AkonadiCore.so.6
 libKPim6AkonadiPrivate.so.6
 libKPim6AkonadiWidgets.so.6
 libKPim6CalendarUtils.so.6
 libKPim6IdentityManagementCore.so.6
+libm.so.6
 libOpenGL.so.0
 libQt6Core.so.6
 libQt6DBus.so.6
@@ -35,7 +38,4 @@ libQt6Gui.so.6
 libQt6Network.so.6
 libQt6PrintSupport.so.6
 libQt6Widgets.so.6
-libc.so.6
-libgcc_s.so.1
-libm.so.6
 libstdc++.so.6

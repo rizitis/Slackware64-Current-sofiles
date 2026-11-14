@@ -1,7 +1,7 @@
 libblkid.so.1
-libc.so.6
 libcap.so.2
 libcom_err.so.2
+libc.so.6
 libdevmapper.so.1.02
 libevent_core-2.1.so.7
 libgssapi_krb5.so.2

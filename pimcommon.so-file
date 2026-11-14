@@ -1,3 +1,5 @@
+libc.so.6
+libgcc_s.so.1
 libGLX.so.0
 libKF6Attica.so.6
 libKF6Codecs.so.6
@@ -12,9 +14,9 @@ libKF6GuiAddons.so.6
 libKF6I18n.so.6
 libKF6ItemModels.so.6
 libKF6JobWidgets.so.6
-libKF6KCMUtils.so.6
 libKF6KCMUtilsCore.so.6
 libKF6KCMUtilsQuick.so.6
+libKF6KCMUtils.so.6
 libKF6KIOCore.so.6
 libKF6KIOGui.so.6
 libKF6KIOWidgets.so.6
@@ -44,8 +46,9 @@ libKPim6IMAP.so.6
 libKPim6LdapCore.so.6
 libKPim6LdapWidgets.so.6
 libKPim6Libkdepim.so.6
-libKPim6PimCommon.so.6
 libKPim6PimCommonAkonadi.so.6
+libKPim6PimCommon.so.6
+libm.so.6
 libOpenGL.so.0
 libPlasmaActivities.so.7
 libQt6Core.so.6
@@ -55,7 +58,4 @@ libQt6Network.so.6
 libQt6Qml.so.6
 libQt6Widgets.so.6
 libQt6Xml.so.6
-libc.so.6
-libgcc_s.so.1
-libm.so.6
 libstdc++.so.6

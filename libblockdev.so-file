@@ -4,8 +4,8 @@ libbd_utils.so.3
 libblkid.so.1
 libblockdev.so.3
 libbytesize.so.1
-libc.so.6
 libcryptsetup.so.12
+libc.so.6
 libdevmapper.so.1.02
 libe2p.so.2
 libext2fs.so.2
@@ -16,8 +16,8 @@ libgobject-2.0.so.0
 libjson-glib-1.0.so.0
 libkeyutils.so.1
 libkmod.so.2
-libm.so.6
 libmount.so.1
+libm.so.6
 libndctl.so.6
 libnspr4.so
 libnss3.so

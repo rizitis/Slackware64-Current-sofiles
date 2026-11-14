@@ -1,8 +1,8 @@
 libc.so.6
 libip4tc.so.2
 libip6tc.so.2
-libm.so.6
 libmnl.so.0
+libm.so.6
 libnetfilter_conntrack.so.3
 libnfnetlink.so.0
 libnftnl.so.11

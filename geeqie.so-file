@@ -1,13 +1,10 @@
 ld-linux-x86-64.so.2
-libIex-3_5.so.34
-libImath-3_2.so.30
-libOpenEXR-3_5.so.34
 libarchive.so.13
 libavformat.so.63
 libavutil.so.61
-libc.so.6
 libcairo.so.2
 libcfitsio.so.10
+libc.so.6
 libdjvulibre.so.21
 libexiv2.so.28
 libffmpegthumbnailer.so.5
@@ -18,11 +15,14 @@ libglib-2.0.so.0
 libgobject-2.0.so.0
 libgraphene-1.0.so.0
 libgtk-4.so.1
+libIex-3_5.so.34
+libImath-3_2.so.30
 libjpeg.so.62
 libjxl.so.0.13
 liblcms2.so.2
 liblua.so.5
 libm.so.6
+libOpenEXR-3_5.so.34
 libopenjp2.so.7
 libpango-1.0.so.0
 libpangocairo-1.0.so.0
@@ -30,5 +30,5 @@ libpoppler-glib.so.8
 libraw.so.25
 libstdc++.so.6
 libtiff.so.6
-libwebp.so.7
 libwebpdemux.so.2
+libwebp.so.7

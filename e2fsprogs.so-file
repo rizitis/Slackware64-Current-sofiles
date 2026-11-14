@@ -1,7 +1,7 @@
 ld-linux-x86-64.so.2
 libblkid.so.1
-libc.so.6
 libcom_err.so.2
+libc.so.6
 libe2p.so.2
 libext2fs.so.2
 libfuse3.so.3

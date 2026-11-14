@@ -1,4 +1,7 @@
 ld-linux-x86-64.so.2
+libc.so.6
+libdrm.so.2
+libgcc_s.so.1
 libGLX.so.0
 libKF6AuthCore.so.6
 libKF6ConfigCore.so.6
@@ -13,7 +16,12 @@ libKSysGuardFormatter.so.2
 libKSysGuardSensorFaces.so.2
 libKSysGuardSensors.so.2
 libKSysGuardSystemStats.so.2
+libm.so.6
+libnl-3.so.200
+libnl-route-3.so.200
 libOpenGL.so.0
+libpcap.so.1
+libprocesscore.so.11
 libQt6Core.so.6
 libQt6DBus.so.6
 libQt6Gui.so.6
@@ -21,14 +29,6 @@ libQt6Network.so.6
 libQt6OpenGL.so.6
 libQt6Qml.so.6
 libQt6Quick.so.6
-libc.so.6
-libdrm.so.2
-libgcc_s.so.1
-libm.so.6
-libnl-3.so.200
-libnl-route-3.so.200
-libpcap.so.1
-libprocesscore.so.11
 libsensors.so.5
 libstdc++.so.6
 libudev.so.1

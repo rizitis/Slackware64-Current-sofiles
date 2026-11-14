@@ -1,6 +1,10 @@
 ld-linux-x86-64.so.2
+libc.so.6
+libgcc_s.so.1
 libGLX.so.0
+libm.so.6
 libOpenGL.so.0
+libpam.so.0
 libQt6Core.so.6
 libQt6DBus.so.6
 libQt6Gui.so.6
@@ -8,11 +12,7 @@ libQt6Network.so.6
 libQt6OpenGL.so.6
 libQt6Qml.so.6
 libQt6Quick.so.6
-libXau.so.6
-libc.so.6
-libgcc_s.so.1
-libm.so.6
-libpam.so.0
 libstdc++.so.6
-libxcb-xkb.so.1
+libXau.so.6
 libxcb.so.1
+libxcb-xkb.so.1

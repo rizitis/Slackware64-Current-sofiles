@@ -1,4 +1,8 @@
+libc.so.6
+libgcc_s.so.1
 libGLX.so.0
+libicui18n.so.79
+libicuuc.so.79
 libKF6Attica.so.6
 libKF6Bookmarks.so.6
 libKF6BookmarksWidgets.so.6
@@ -31,6 +35,9 @@ libKF6TextWidgets.so.6
 libKF6WidgetsAddons.so.6
 libKF6WindowSystem.so.6
 libKF6XmlGui.so.6
+libkonsoleapp.so.26.08.3
+libkonsoleprivate.so.26.08.3
+libm.so.6
 libOpenGL.so.0
 libQt6Core.so.6
 libQt6DBus.so.6
@@ -40,14 +47,7 @@ libQt6Network.so.6
 libQt6PrintSupport.so.6
 libQt6Widgets.so.6
 libQt6Xml.so.6
-libX11.so.6
-libc.so.6
-libgcc_s.so.1
-libicui18n.so.79
-libicuuc.so.79
-libkonsoleapp.so.26.08.3
-libkonsoleprivate.so.26.08.3
-libm.so.6
 libssh.so.4
 libstdc++.so.6
+libX11.so.6
 libxkbcommon.so.0

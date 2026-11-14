@@ -1,6 +1,6 @@
 libc.so.6
 libkbdfile.so.1
 libkeymap.so.1
-libpam.so.0
 libpam_misc.so.0
+libpam.so.0
 libxkbcommon.so.0

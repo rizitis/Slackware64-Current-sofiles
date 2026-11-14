@@ -1,8 +1,8 @@
 ld-linux-x86-64.so.2
-libc.so.6
 libcap.so.2
 libcom_err.so.2
 libcrypto.so.3
+libc.so.6
 libdns-9.20.30.so
 libedit.so.0
 libgssapi_krb5.so.2
@@ -15,8 +15,8 @@ libjson-c.so.5
 libk5crypto.so.3
 libkrb5.so.3
 liblmdb.so.1
-libm.so.6
 libmaxminddb.so.0
+libm.so.6
 libnghttp2.so.14
 libns-9.20.30.so
 libssl.so.3

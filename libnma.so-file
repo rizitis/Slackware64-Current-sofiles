@@ -1,5 +1,5 @@
-libc.so.6
 libcairo.so.2
+libc.so.6
 libgck-2.so.2
 libgcr-4.so.4
 libgdk-3.so.0

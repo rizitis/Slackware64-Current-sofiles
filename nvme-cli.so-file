@@ -1,6 +1,6 @@
 libarchive.so.13
-libc.so.6
 libcrypto.so.3
+libc.so.6
 libjson-c.so.5
 libkeyutils.so.1
 libkmod.so.2

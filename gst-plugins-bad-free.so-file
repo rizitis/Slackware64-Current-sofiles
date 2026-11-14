@@ -1,15 +1,10 @@
 ld-linux-x86-64.so.2
-libIex-3_5.so.34
-libImath-3_2.so.30
-libOpenEXR-3_5.so.34
-libX11.so.6
-libZXing.so.4
 libaom.so.3
 libass.so.9
 libbz2.so.1
-libc.so.6
 libcairo.so.2
 libcrypto.so.3
+libc.so.6
 libcurl.so.4
 libdrm.so.2
 libfluidsynth.so.3
@@ -56,6 +51,8 @@ libgstwebrtc-1.0.so.0
 libgstwebrtcnice-1.0.so.0
 libgtk-3.so.0
 libgudev-1.0.so.0
+libIex-3_5.so.34
+libImath-3_2.so.30
 libjson-glib-1.0.so.0
 liblcms2.so.2
 libm.so.6
@@ -76,6 +73,7 @@ libopencv_stereo.so.500
 libopencv_tracking.so.500
 libopencv_video.so.500
 libopencv_xobjdetect.so.500
+libOpenEXR-3_5.so.34
 libopenjp2.so.7
 libopus.so.0
 liborc-0.4.so.0
@@ -92,9 +90,11 @@ libva-drm.so.2
 libva.so.2
 libvulkan.so.1
 libwayland-client.so.0
-libwebp.so.7
 libwebpmux.so.3
+libwebp.so.7
+libX11.so.6
 libxcb.so.1
-libxkbcommon-x11.so.0
 libxkbcommon.so.0
+libxkbcommon-x11.so.0
 libxml2.so.16
+libZXing.so.4

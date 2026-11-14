@@ -1,13 +1,5 @@
-libX11.so.6
-libXext.so.6
-libXft.so.2
-libXinerama.so.1
-libXss.so.1
-libXtst.so.6
-libXv.so.1
-libXxf86vm.so.1
-libc.so.6
 libcaca.so.0
+libc.so.6
 libcurl.so.4
 libjpeg.so.62
 libm.so.6
@@ -16,4 +8,12 @@ libnsl.so.3
 libpng16.so.16
 libreadline.so.8
 libtinfo.so.6
+libX11.so.6
+libXext.so.6
+libXft.so.2
+libXinerama.so.1
 libxine.so.2
+libXss.so.1
+libXtst.so.6
+libXv.so.1
+libXxf86vm.so.1

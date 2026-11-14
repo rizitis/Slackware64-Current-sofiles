@@ -16,12 +16,12 @@ pidgin	libtk8.6.so
 python3	libtcl8.6.so
 python3	libtk8.6.so
 rxvt-unicode	libperl.so
+speech-dispatcher	libbaratinoo.so
+speech-dispatcher	libKali.so
 speech-dispatcher	libKAnalyse.so
 speech-dispatcher	libKGlobal.so
 speech-dispatcher	libKParle.so
 speech-dispatcher	libKTrans.so
-speech-dispatcher	libKali.so
-speech-dispatcher	libbaratinoo.so
 speech-dispatcher	libvoxin.so
 subversion	libperl.so
 tcl	libtcl8.6.so

@@ -1,11 +1,11 @@
-libc.so.6
 libcfitsio.so.10
+libc.so.6
 libcurl.so.4
 libev.so.4
 libfftw3.so.3
 libgcc_s.so.1
-libgsl.so.28
 libgslcblas.so.0
+libgsl.so.28
 libindiAlignmentDriver.so.2
 libindiclient.so.2
 libindidriver.so.2

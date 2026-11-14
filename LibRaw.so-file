@@ -4,7 +4,7 @@ libgomp.so.1
 libjpeg.so.62
 liblcms2.so.2
 libm.so.6
-libraw.so.25
 libraw_r.so.25
+libraw.so.25
 libstdc++.so.6
 libz.so.1

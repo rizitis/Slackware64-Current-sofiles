@@ -5,8 +5,8 @@ liblcms2.so.2
 libm.so.6
 libopenjp2.so.7
 libtiff.so.6
-libwebp.so.7
 libwebpdemux.so.2
 libwebpmux.so.3
+libwebp.so.7
 libxcb.so.1
 libz.so.1

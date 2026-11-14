@@ -1,3 +1,5 @@
+libc.so.6
+libm.so.6
 libX11.so.6
 libXcmDDC.so.0
 libXcmEDID.so.0
@@ -5,5 +7,3 @@ libXcmX11.so.0
 libXfixes.so.3
 libXmu.so.6
 libXt.so.6
-libc.so.6
-libm.so.6

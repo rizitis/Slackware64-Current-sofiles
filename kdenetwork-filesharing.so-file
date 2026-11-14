@@ -1,3 +1,5 @@
+libc.so.6
+libgcc_s.so.1
 libGLX.so.0
 libKF6AuthCore.so.6
 libKF6Completion.so.6
@@ -10,6 +12,7 @@ libKF6KIOGui.so.6
 libKF6KIOWidgets.so.6
 libKF6Service.so.6
 libKF6WidgetsAddons.so.6
+libm.so.6
 libOpenGL.so.0
 libQCoro6Core.so.0
 libQCoro6DBus.so.0
@@ -22,7 +25,4 @@ libQt6Qml.so.6
 libQt6Quick.so.6
 libQt6QuickWidgets.so.6
 libQt6Widgets.so.6
-libc.so.6
-libgcc_s.so.1
-libm.so.6
 libstdc++.so.6

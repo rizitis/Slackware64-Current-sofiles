@@ -1,8 +1,8 @@
-libc.so.6
 libcap.so.2
+libc.so.6
 libdb-4.8.so
 libelf.so.1
-libm.so.6
 libmnl.so.0
+libm.so.6
 libtirpc.so.3
 libxtables.so.12

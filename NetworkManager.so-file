@@ -10,8 +10,8 @@ libjansson.so.4
 libmm-glib.so.0
 libndp.so.0
 libnewt.so.0.52
-libnm-wwan.so
 libnm.so.0
+libnm-wwan.so
 libnspr4.so
 libnss3.so
 libpsl.so.5

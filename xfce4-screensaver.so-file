@@ -1,8 +1,5 @@
-libX11.so.6
-libXext.so.6
-libXss.so.1
-libc.so.6
 libcairo.so.2
+libc.so.6
 libdbus-1.so.3
 libdbus-glib-1.so.2
 libelogind.so.0
@@ -17,7 +14,10 @@ libm.so.6
 libpam.so.0
 libpango-1.0.so.0
 libwnck-3.so.0
+libX11.so.6
+libXext.so.6
 libxfce4ui-2.so.0
 libxfce4util.so.7
 libxfconf-0.so.3
 libxklavier.so.16
+libXss.so.1
