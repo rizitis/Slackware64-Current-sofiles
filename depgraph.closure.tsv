@@ -30794,7 +30794,7 @@ opencv	ffmpeg	linked
 opencv	flac	lib
 opencv	fontconfig	lib
 opencv	freeglut	lib
-opencv	freetype	linked
+opencv	freetype	lib
 opencv	fribidi	lib
 opencv	gcc-gfortran	lib
 opencv	gdk-pixbuf2	lib
