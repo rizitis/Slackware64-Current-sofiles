@@ -38,6 +38,7 @@ bluez	exec	/usr/bin/pipewire	pipewire	guess
 bsd-finger	exec	/usr/bin/uptime	procps-ng	guess
 bsd-games	exec	/usr/bin/less	less	guess
 c-ares	dlopen	libcares.so.2	aaa_libraries	guess
+cargo-c	dlopen	libsecret-1.so.0	libsecret	guess
 compiz	exec	/usr/bin/xfwm4	xfwm4	guess
 cups	dlopen	libcupsimage.so.2	aaa_libraries	guess
 cvs	exec	/usr/bin/pr	coreutils	guess

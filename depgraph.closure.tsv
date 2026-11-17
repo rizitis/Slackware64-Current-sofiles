@@ -3717,6 +3717,8 @@ cargo-c	aaa_libraries	linked
 cargo-c	brotli	lib
 cargo-c	cyrus-sasl	lib
 cargo-c	e2fsprogs	lib
+cargo-c	libgit2	linked
+cargo-c	libsecret	hint:dlopen
 cargo-c	nghttp2	lib
 cargo-c	nghttp3	lib
 cargo-c	ngtcp2	lib
@@ -6577,8 +6579,8 @@ fwupd	nettle	lib
 fwupd	nghttp2	lib
 fwupd	nghttp3	lib
 fwupd	ngtcp2	lib
-fwupd	openssl	lib
-fwupd	openssl-solibs	lib
+fwupd	openssl	linked
+fwupd	openssl-solibs	linked
 fwupd	p11-kit	lib
 fwupd	polkit	linked
 fwupd	sqlite	linked

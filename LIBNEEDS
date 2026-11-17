@@ -8230,7 +8230,7 @@ libcap-ng.so.0	ld-linux-x86-64.so.2
 libcap-ng.so.0	libc.so.6
 libcap.so.2	libc.so.6
 libcares.so.2	libc.so.6
-libcbor.so.0.14	libc.so.6
+libcbor.so.0.15	libc.so.6
 libcc1plugin.so.0	libc.so.6
 libcc1plugin.so.0	libgcc_s.so.1
 libcc1plugin.so.0	libm.so.6
@@ -10412,7 +10412,7 @@ libfftw3_threads.so.3	libc.so.6
 libfftw3_threads.so.3	libfftw3.so.3
 libfftw3_threads.so.3	libm.so.6
 libfido2.so.1	ld-linux-x86-64.so.2
-libfido2.so.1	libcbor.so.0.14
+libfido2.so.1	libcbor.so.0.15
 libfido2.so.1	libcrypto.so.3
 libfido2.so.1	libc.so.6
 libfido2.so.1	libudev.so.1
@@ -10737,6 +10737,7 @@ libfuzzy-3.2.0.so	libm.so.6
 libfuzzy-3.2.0.so	libssl.so.3
 libfuzzy-3.2.0.so	libstdc++.so.6
 libfuzzy-3.2.0.so	libz.so.1
+libfwupdengine.so	libcrypto.so.3
 libfwupdengine.so	libc.so.6
 libfwupdengine.so	libcurl.so.4
 libfwupdengine.so	libdrm_amdgpu.so.1
@@ -25991,11 +25992,13 @@ libmailfilteragentprivate.so.6	libQt6Gui.so.6
 libmailfilteragentprivate.so.6	libQt6Network.so.6
 libmailfilteragentprivate.so.6	libQt6Widgets.so.6
 libmailfilteragentprivate.so.6	libstdc++.so.6
-libman-2.13.1.so	libc.so.6
-libman-2.13.1.so	libseccomp.so.2
-libmandb-2.13.1.so	libc.so.6
-libmandb-2.13.1.so	libgdbm.so.6
-libmandb-2.13.1.so	libman-2.13.1.so
+libman-2.13.2.so	libc.so.6
+libman-2.13.2.so	libpipeline.so.1
+libman-2.13.2.so	libseccomp.so.2
+libmandb-2.13.2.so	libc.so.6
+libmandb-2.13.2.so	libgdbm.so.6
+libmandb-2.13.2.so	libman-2.13.2.so
+libmandb-2.13.2.so	libpipeline.so.1
 libmarble_part.so	libc.so.6
 libmarble_part.so	libgcc_s.so.1
 libmarble_part.so	libGLX.so.0
