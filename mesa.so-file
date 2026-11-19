@@ -10,7 +10,7 @@ libdrm.so.2
 libEGL.so.1
 libelf.so.1
 libexpat.so.1
-libgallium-26.2.7.so
+libgallium-26.3.1.so
 libgbm.so.1
 libgcc_s.so.1
 libglapi.so.0

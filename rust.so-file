@@ -5,7 +5,7 @@ libgcc_s.so.1
 libgit2.so.1.9
 libLLVM.so.23.1-rust-1.100.0-stable
 libm.so.6
-librustc_driver-1eb92c61fc593fed.so
+librustc_driver-ea457c8e2ac7e54b.so
 libssl.so.3
 libstdc++.so.6
 libz.so.1

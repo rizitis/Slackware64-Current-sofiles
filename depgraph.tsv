@@ -27390,6 +27390,7 @@ sox	libmp3lame.so.0	lame
 sox	libm.so.6	aaa_glibc-solibs
 sox	libm.so.6	glibc
 sox	libogg.so.0	libogg
+sox	libopusenc.so.0	libopusenc
 sox	libopusfile.so.0	opusfile
 sox	libopus.so.0	opus
 sox	libpng16.so.16	aaa_libraries

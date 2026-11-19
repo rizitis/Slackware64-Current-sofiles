@@ -575,6 +575,7 @@ rdist	exec	/usr/bin/rsh	netkit-rsh	guess
 rdist	exec	/usr/bin/sendmail	postfix	guess
 rp-pppoe	exec	/usr/bin/pppd	ppp	guess
 rust	build	/usr/bin/as	binutils	guess
+rust	dlopen	libsecret-1.so.0	libsecret	guess
 rust	exec	/usr/bin/env	coreutils	guess
 rust	import	lldb	llvm	guess
 samba	exec	/usr/bin/false	coreutils	guess

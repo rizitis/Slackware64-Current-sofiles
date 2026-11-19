@@ -29620,6 +29620,7 @@ mlt	libid3tag	lib
 mlt	libjxl	lib
 mlt	libmad	lib
 mlt	libogg	lib
+mlt	libopusenc	lib
 mlt	libplacebo	linked
 mlt	libproxy	lib
 mlt	librsvg	lib
@@ -35331,6 +35332,7 @@ rust	coreutils	hint:exec
 rust	cyrus-sasl	lib
 rust	e2fsprogs	lib
 rust	libgit2	linked
+rust	libsecret	hint:dlopen
 rust	llvm	hint:import
 rust	nghttp2	lib
 rust	nghttp3	lib
@@ -36083,6 +36085,7 @@ sox	libasyncns	lib
 sox	libid3tag	linked
 sox	libmad	linked
 sox	libogg	linked
+sox	libopusenc	linked
 sox	libsndfile	linked
 sox	libvorbis	linked
 sox	libxcb	lib

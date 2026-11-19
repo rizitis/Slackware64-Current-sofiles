@@ -25,6 +25,7 @@ libKF6SyntaxHighlighting.so.6
 libKF6TextAddonsWidgets.so.1
 libKF6TextAutoCorrectionCore.so.1
 libKF6TextAutoGenerateTextMcpProtocolCore.so.1
+libKF6TextAutoGenerateTextMcpProtocolWidgets.so.1
 libKF6TextAutoGenerateText.so.1
 libKF6TextCustomEditor.so.1
 libKF6TextEditTextToSpeech.so.1

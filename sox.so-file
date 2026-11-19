@@ -11,6 +11,7 @@ libmagic.so.1
 libmp3lame.so.0
 libm.so.6
 libogg.so.0
+libopusenc.so.0
 libopusfile.so.0
 libopus.so.0
 libpng16.so.16
