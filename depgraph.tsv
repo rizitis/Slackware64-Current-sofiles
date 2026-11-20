@@ -5826,6 +5826,7 @@ gnutls	libnettle.so.8	nettle
 gnutls	libp11-kit.so.0	p11-kit
 gnutls	libstdc++.so.6	aaa_libraries
 gnutls	libstdc++.so.6	gcc-g++
+gnutls	libtasn1.so.6	libtasn1
 gnutls	libunistring.so.5	aaa_libraries
 gnutls	libunistring.so.5	libunistring
 gobject-introspection	libc.so.6	aaa_glibc-solibs
@@ -21582,8 +21583,6 @@ mozilla-firefox	libz.so.1	zlib
 mozilla-nss	libc.so.6	aaa_glibc-solibs
 mozilla-nss	libc.so.6	glibc
 mozilla-nss	libsqlite3.so.0	sqlite
-mozilla-nss	libz.so.1	aaa_libraries
-mozilla-nss	libz.so.1	zlib
 mozilla-thunderbird	ld-linux-x86-64.so.2	aaa_glibc-solibs
 mozilla-thunderbird	ld-linux-x86-64.so.2	glibc
 mozilla-thunderbird	libasound.so.2	aaa_libraries

@@ -11562,6 +11562,7 @@ libgnutls.so.30	libhogweed.so.6
 libgnutls.so.30	libidn2.so.0
 libgnutls.so.30	libnettle.so.8
 libgnutls.so.30	libp11-kit.so.0
+libgnutls.so.30	libtasn1.so.6
 libgnutls.so.30	libunistring.so.5
 libgnutlsxx.so.30	libc.so.6
 libgnutlsxx.so.30	libgcc_s.so.1
@@ -34699,7 +34700,6 @@ libssl3.so	libnspr4.so
 libssl3.so	libnss3.so
 libssl3.so	libnssutil3.so
 libssl3.so	libplc4.so
-libssl3.so	libplds4.so
 libssl_iostream_openssl.so	libcrypto.so.3
 libssl_iostream_openssl.so	libc.so.6
 libssl_iostream_openssl.so	libssl.so.3

@@ -90,6 +90,7 @@ MPlayer	libogg	linked
 MPlayer	librsvg	lib
 MPlayer	libsndfile	lib
 MPlayer	libssh	lib
+MPlayer	libtasn1	lib
 MPlayer	libtheora	linked
 MPlayer	libunibreak	lib
 MPlayer	libva	lib
@@ -540,6 +541,7 @@ akonadi-calendar-tools	librsvg	lib
 akonadi-calendar-tools	libsecret	lib
 akonadi-calendar-tools	libsndfile	lib
 akonadi-calendar-tools	libssh	lib
+akonadi-calendar-tools	libtasn1	lib
 akonadi-calendar-tools	libtheora	lib
 akonadi-calendar-tools	liburing	lib
 akonadi-calendar-tools	libusbmuxd	lib
@@ -697,6 +699,7 @@ akonadi-calendar	librsvg	lib
 akonadi-calendar	libsecret	lib
 akonadi-calendar	libsndfile	lib
 akonadi-calendar	libssh	lib
+akonadi-calendar	libtasn1	lib
 akonadi-calendar	libtheora	lib
 akonadi-calendar	liburing	lib
 akonadi-calendar	libusbmuxd	lib
@@ -940,6 +943,7 @@ akonadi-import-wizard	librsvg	lib
 akonadi-import-wizard	libsecret	lib
 akonadi-import-wizard	libsndfile	lib
 akonadi-import-wizard	libssh	lib
+akonadi-import-wizard	libtasn1	lib
 akonadi-import-wizard	libtheora	lib
 akonadi-import-wizard	liburing	lib
 akonadi-import-wizard	libusbmuxd	lib
@@ -1264,6 +1268,7 @@ akonadiconsole	librsvg	lib
 akonadiconsole	libsecret	lib
 akonadiconsole	libsndfile	lib
 akonadiconsole	libssh	lib
+akonadiconsole	libtasn1	lib
 akonadiconsole	libtheora	lib
 akonadiconsole	liburing	lib
 akonadiconsole	libusbmuxd	lib
@@ -1415,6 +1420,7 @@ akregator	libproxy	lib
 akregator	librsvg	lib
 akregator	libsndfile	lib
 akregator	libssh	lib
+akregator	libtasn1	lib
 akregator	libtheora	lib
 akregator	liburing	lib
 akregator	libusbmuxd	lib
@@ -1530,6 +1536,7 @@ alkimia	libproxy	lib
 alkimia	librsvg	lib
 alkimia	libsndfile	lib
 alkimia	libssh	lib
+alkimia	libtasn1	lib
 alkimia	libtheora	lib
 alkimia	liburing	lib
 alkimia	libva	lib
@@ -1941,6 +1948,7 @@ arianna	libplist	lib
 arianna	libproxy	lib
 arianna	librsvg	lib
 arianna	libssh	lib
+arianna	libtasn1	lib
 arianna	libtheora	lib
 arianna	liburing	lib
 arianna	libusbmuxd	lib
@@ -2186,6 +2194,7 @@ aubio	librsvg	lib
 aubio	libsamplerate	linked
 aubio	libsndfile	linked
 aubio	libssh	lib
+aubio	libtasn1	lib
 aubio	libtheora	lib
 aubio	libva	lib
 aubio	libvdpau	lib
@@ -2275,6 +2284,7 @@ audacious-plugins	librsvg	lib
 audacious-plugins	libsamplerate	linked
 audacious-plugins	libsndfile	linked
 audacious-plugins	libssh	lib
+audacious-plugins	libtasn1	lib
 audacious-plugins	libtheora	lib
 audacious-plugins	liburing	lib
 audacious-plugins	libva	lib
@@ -3314,6 +3324,7 @@ calendarsupport	librsvg	lib
 calendarsupport	libsecret	lib
 calendarsupport	libsndfile	lib
 calendarsupport	libssh	lib
+calendarsupport	libtasn1	lib
 calendarsupport	libtheora	lib
 calendarsupport	liburing	lib
 calendarsupport	libusbmuxd	lib
@@ -3451,6 +3462,7 @@ calligra	librsvg	lib
 calligra	libsecret	lib
 calligra	libsndfile	lib
 calligra	libssh	lib
+calligra	libtasn1	lib
 calligra	libtheora	lib
 calligra	liburing	lib
 calligra	libusbmuxd	lib
@@ -3668,6 +3680,7 @@ cantor	libqalculate	linked
 cantor	librsvg	lib
 cantor	libsndfile	lib
 cantor	libssh	lib
+cantor	libtasn1	lib
 cantor	libtheora	lib
 cantor	liburing	lib
 cantor	libusbmuxd	lib
@@ -4105,6 +4118,7 @@ cups-browsed	libcupsfilters	linked
 cups-browsed	libdeflate	lib
 cups-browsed	libexif	lib
 cups-browsed	libppd	linked
+cups-browsed	libtasn1	lib
 cups-browsed	libwebp	lib
 cups-browsed	mozilla-nss	lib
 cups-browsed	nettle	lib
@@ -4138,6 +4152,7 @@ cups-filters	libcupsfilters	linked
 cups-filters	libdeflate	lib
 cups-filters	libexif	lib
 cups-filters	libppd	linked
+cups-filters	libtasn1	lib
 cups-filters	libwebp	lib
 cups-filters	mozilla-nss	lib
 cups-filters	nettle	lib
@@ -4427,6 +4442,7 @@ digikam	libproxy	lib
 digikam	librsvg	lib
 digikam	libsndfile	lib
 digikam	libssh	lib
+digikam	libtasn1	lib
 digikam	libtheora	lib
 digikam	libunibreak	lib
 digikam	liburing	lib
@@ -5061,6 +5077,7 @@ emacs	libdeflate	lib
 emacs	libepoxy	lib
 emacs	libgccjit	linked
 emacs	librsvg	linked
+emacs	libtasn1	lib
 emacs	libwebp	linked
 emacs	libxcb	linked
 emacs	libxml2	linked
@@ -5228,6 +5245,7 @@ eventviews	librsvg	lib
 eventviews	libsecret	lib
 eventviews	libsndfile	lib
 eventviews	libssh	lib
+eventviews	libtasn1	lib
 eventviews	libtheora	lib
 eventviews	liburing	lib
 eventviews	libusbmuxd	lib
@@ -5410,6 +5428,7 @@ falkon	libplist	lib
 falkon	libproxy	lib
 falkon	librsvg	lib
 falkon	libssh	lib
+falkon	libtasn1	lib
 falkon	libtheora	lib
 falkon	liburing	lib
 falkon	libusbmuxd	lib
@@ -5456,6 +5475,7 @@ farstream	gnutls	lib
 farstream	gst-plugins-base	linked
 farstream	gstreamer	linked
 farstream	libnice	linked
+farstream	libtasn1	lib
 farstream	nettle	lib
 farstream	p11-kit	lib
 farstream	util-linux	lib
@@ -5513,6 +5533,7 @@ fcitx5-chinese-addons	libogg	lib
 fcitx5-chinese-addons	libproxy	lib
 fcitx5-chinese-addons	librsvg	lib
 fcitx5-chinese-addons	libssh	lib
+fcitx5-chinese-addons	libtasn1	lib
 fcitx5-chinese-addons	libtheora	lib
 fcitx5-chinese-addons	liburing	lib
 fcitx5-chinese-addons	libuv	lib
@@ -5842,6 +5863,7 @@ ffmpeg	libplacebo	linked
 ffmpeg	librsvg	linked
 ffmpeg	libsndfile	lib
 ffmpeg	libssh	linked
+ffmpeg	libtasn1	lib
 ffmpeg	libtheora	linked
 ffmpeg	libunibreak	lib
 ffmpeg	libva	linked
@@ -5909,6 +5931,7 @@ ffmpegthumbnailer	libogg	lib
 ffmpegthumbnailer	libplacebo	lib
 ffmpegthumbnailer	librsvg	lib
 ffmpegthumbnailer	libssh	lib
+ffmpegthumbnailer	libtasn1	lib
 ffmpegthumbnailer	libtheora	lib
 ffmpegthumbnailer	libunibreak	lib
 ffmpegthumbnailer	libva	lib
@@ -5987,6 +6010,7 @@ ffmpegthumbs	libplist	lib
 ffmpegthumbs	libproxy	lib
 ffmpegthumbs	librsvg	lib
 ffmpegthumbs	libssh	lib
+ffmpegthumbs	libtasn1	lib
 ffmpegthumbs	libtheora	lib
 ffmpegthumbs	libunibreak	lib
 ffmpegthumbs	liburing	lib
@@ -6364,6 +6388,7 @@ freerdp	libplacebo	lib
 freerdp	librsvg	lib
 freerdp	libsndfile	lib
 freerdp	libssh	lib
+freerdp	libtasn1	lib
 freerdp	libtheora	lib
 freerdp	libunibreak	lib
 freerdp	libva	lib
@@ -6464,6 +6489,7 @@ frei0r-plugins	libplacebo	lib
 frei0r-plugins	librsvg	lib
 frei0r-plugins	libsndfile	lib
 frei0r-plugins	libssh	lib
+frei0r-plugins	libtasn1	lib
 frei0r-plugins	libtheora	lib
 frei0r-plugins	libunibreak	lib
 frei0r-plugins	liburing	lib
@@ -6574,6 +6600,7 @@ fwupd	libmbim	linked
 fwupd	libmnl	linked
 fwupd	libqmi	linked
 fwupd	libqrtr-glib	lib
+fwupd	libtasn1	lib
 fwupd	libxmlb	linked
 fwupd	nettle	lib
 fwupd	nghttp2	lib
@@ -6898,6 +6925,7 @@ geeqie	libogg	lib
 geeqie	libplacebo	lib
 geeqie	librsvg	lib
 geeqie	libssh	lib
+geeqie	libtasn1	lib
 geeqie	libtheora	lib
 geeqie	libunibreak	lib
 geeqie	libva	lib
@@ -7164,6 +7192,7 @@ ghostwriter	libogg	lib
 ghostwriter	libproxy	lib
 ghostwriter	librsvg	lib
 ghostwriter	libssh	lib
+ghostwriter	libtasn1	lib
 ghostwriter	libtheora	lib
 ghostwriter	liburing	lib
 ghostwriter	libva	lib
@@ -7457,6 +7486,7 @@ glaxnimate	libogg	lib
 glaxnimate	libproxy	lib
 glaxnimate	librsvg	lib
 glaxnimate	libssh	lib
+glaxnimate	libtasn1	lib
 glaxnimate	libtheora	lib
 glaxnimate	liburing	lib
 glaxnimate	libva	lib
@@ -7506,6 +7536,7 @@ glib-networking	e2fsprogs	lib
 glib-networking	glib2	linked
 glib-networking	gnutls	linked
 glib-networking	libproxy	linked
+glib-networking	libtasn1	lib
 glib-networking	nettle	lib
 glib-networking	nghttp2	lib
 glib-networking	nghttp3	lib
@@ -7656,6 +7687,7 @@ gnupg2	icu4c	lib
 gnupg2	libassuan	linked
 gnupg2	libgcrypt	linked
 gnupg2	libksba	linked
+gnupg2	libtasn1	lib
 gnupg2	lvm2	hint:exec
 gnupg2	nettle	lib
 gnupg2	npth	linked
@@ -7714,6 +7746,7 @@ gnuplot	util-linux	lib
 gnutls	aaa_glibc-solibs	linked
 gnutls	aaa_libraries	linked
 gnutls	brotli	hint:dlopen
+gnutls	libtasn1	linked
 gnutls	nettle	linked
 gnutls	p11-kit	linked
 gobject-introspection	Mako	hint:import
@@ -7979,6 +8012,7 @@ grantlee-editor	libproxy	lib
 grantlee-editor	librsvg	lib
 grantlee-editor	libsndfile	lib
 grantlee-editor	libssh	lib
+grantlee-editor	libtasn1	lib
 grantlee-editor	libtheora	lib
 grantlee-editor	liburing	lib
 grantlee-editor	libusbmuxd	lib
@@ -8270,6 +8304,7 @@ gst-plugins-bad-free	libogg	lib
 gst-plugins-bad-free	libproxy	lib
 gst-plugins-bad-free	librsvg	linked
 gst-plugins-bad-free	libsndfile	linked
+gst-plugins-bad-free	libtasn1	lib
 gst-plugins-bad-free	libunibreak	lib
 gst-plugins-bad-free	libva	linked
 gst-plugins-bad-free	libvorbis	lib
@@ -8462,6 +8497,7 @@ gst-plugins-libav	libogg	lib
 gst-plugins-libav	libplacebo	lib
 gst-plugins-libav	librsvg	lib
 gst-plugins-libav	libssh	lib
+gst-plugins-libav	libtasn1	lib
 gst-plugins-libav	libtheora	lib
 gst-plugins-libav	libunibreak	lib
 gst-plugins-libav	libva	lib
@@ -8958,6 +8994,7 @@ gvfs	libmtp	linked
 gvfs	libplist	linked
 gvfs	libsecret	linked
 gvfs	libsoup3	linked
+gvfs	libtasn1	lib
 gvfs	libusbmuxd	lib
 gvfs	libxml2	linked
 gvfs	nettle	lib
@@ -9160,6 +9197,7 @@ haruna	libproxy	lib
 haruna	librsvg	lib
 haruna	libsndfile	lib
 haruna	libssh	lib
+haruna	libtasn1	lib
 haruna	libtheora	lib
 haruna	libunibreak	lib
 haruna	liburing	lib
@@ -9748,6 +9786,7 @@ incidenceeditor	librsvg	lib
 incidenceeditor	libsecret	lib
 incidenceeditor	libsndfile	lib
 incidenceeditor	libssh	lib
+incidenceeditor	libtasn1	lib
 incidenceeditor	libtheora	lib
 incidenceeditor	liburing	lib
 incidenceeditor	libusbmuxd	lib
@@ -10188,6 +10227,7 @@ k3b	librsvg	lib
 k3b	libsamplerate	linked
 k3b	libsndfile	linked
 k3b	libssh	lib
+k3b	libtasn1	lib
 k3b	libtheora	lib
 k3b	liburing	lib
 k3b	libusbmuxd	lib
@@ -10553,6 +10593,7 @@ kalarm	librsvg	lib
 kalarm	libsecret	lib
 kalarm	libsndfile	lib
 kalarm	libssh	lib
+kalarm	libtasn1	lib
 kalarm	libtheora	lib
 kalarm	libunibreak	lib
 kalarm	liburing	lib
@@ -10667,6 +10708,7 @@ kalgebra	libogg	lib
 kalgebra	libproxy	lib
 kalgebra	librsvg	lib
 kalgebra	libssh	lib
+kalgebra	libtasn1	lib
 kalgebra	libtheora	lib
 kalgebra	liburing	lib
 kalgebra	libva	lib
@@ -13336,6 +13378,7 @@ kdenlive	libproxy	lib
 kdenlive	librsvg	lib
 kdenlive	libsndfile	lib
 kdenlive	libssh	lib
+kdenlive	libtasn1	lib
 kdenlive	libtheora	lib
 kdenlive	liburing	lib
 kdenlive	libusbmuxd	lib
@@ -13494,6 +13537,7 @@ kdepim-addons	librsvg	lib
 kdepim-addons	libsecret	lib
 kdepim-addons	libsndfile	lib
 kdepim-addons	libssh	lib
+kdepim-addons	libtasn1	lib
 kdepim-addons	libtheora	lib
 kdepim-addons	liburing	lib
 kdepim-addons	libusbmuxd	lib
@@ -13659,6 +13703,7 @@ kdepim-runtime	librsvg	lib
 kdepim-runtime	libsecret	lib
 kdepim-runtime	libsndfile	lib
 kdepim-runtime	libssh	lib
+kdepim-runtime	libtasn1	lib
 kdepim-runtime	libtheora	lib
 kdepim-runtime	liburing	lib
 kdepim-runtime	libusbmuxd	lib
@@ -13792,6 +13837,7 @@ kdeplasma-addons	libplist	lib
 kdeplasma-addons	libproxy	lib
 kdeplasma-addons	librsvg	lib
 kdeplasma-addons	libssh	lib
+kdeplasma-addons	libtasn1	lib
 kdeplasma-addons	libtheora	lib
 kdeplasma-addons	liburing	lib
 kdeplasma-addons	libusbmuxd	lib
@@ -14040,6 +14086,7 @@ kdev-php	libproxy	lib
 kdev-php	librsvg	lib
 kdev-php	libsndfile	lib
 kdev-php	libssh	lib
+kdev-php	libtasn1	lib
 kdev-php	libtheora	lib
 kdev-php	liburing	lib
 kdev-php	libusbmuxd	lib
@@ -14262,6 +14309,7 @@ kdevelop	libproxy	lib
 kdevelop	librsvg	lib
 kdevelop	libsndfile	lib
 kdevelop	libssh	lib
+kdevelop	libtasn1	lib
 kdevelop	libtheora	lib
 kdevelop	liburing	lib
 kdevelop	libusbmuxd	lib
@@ -14961,6 +15009,7 @@ kfilemetadata	libjxl	lib
 kfilemetadata	libogg	lib
 kfilemetadata	librsvg	lib
 kfilemetadata	libssh	lib
+kfilemetadata	libtasn1	lib
 kfilemetadata	libtheora	lib
 kfilemetadata	liburing	lib
 kfilemetadata	libva	lib
@@ -15041,6 +15090,7 @@ kfilemetadata5	libjxl	lib
 kfilemetadata5	libogg	lib
 kfilemetadata5	librsvg	lib
 kfilemetadata5	libssh	lib
+kfilemetadata5	libtasn1	lib
 kfilemetadata5	libtheora	lib
 kfilemetadata5	libva	lib
 kfilemetadata5	libvdpau	lib
@@ -15846,6 +15896,7 @@ khelpcenter	libplist	lib
 khelpcenter	libproxy	lib
 khelpcenter	librsvg	lib
 khelpcenter	libssh	lib
+khelpcenter	libtasn1	lib
 khelpcenter	libtheora	lib
 khelpcenter	liburing	lib
 khelpcenter	libusbmuxd	lib
@@ -16667,6 +16718,7 @@ kimagemapeditor	libplist	lib
 kimagemapeditor	libproxy	lib
 kimagemapeditor	librsvg	lib
 kimagemapeditor	libssh	lib
+kimagemapeditor	libtasn1	lib
 kimagemapeditor	libtheora	lib
 kimagemapeditor	liburing	lib
 kimagemapeditor	libusbmuxd	lib
@@ -16977,6 +17029,7 @@ kio-extras	libogg	lib
 kio-extras	libplist	linked
 kio-extras	libproxy	linked
 kio-extras	libssh	linked
+kio-extras	libtasn1	lib
 kio-extras	liburing	lib
 kio-extras	libusbmuxd	lib
 kio-extras	libvorbis	lib
@@ -18013,6 +18066,7 @@ klevernotes	libogg	lib
 klevernotes	libproxy	lib
 klevernotes	librsvg	lib
 klevernotes	libssh	lib
+klevernotes	libtasn1	lib
 klevernotes	libtheora	lib
 klevernotes	liburing	lib
 klevernotes	libva	lib
@@ -18457,6 +18511,7 @@ kmail	librsvg	lib
 kmail	libsecret	lib
 kmail	libsndfile	lib
 kmail	libssh	lib
+kmail	libtasn1	lib
 kmail	libtheora	lib
 kmail	liburing	lib
 kmail	libusbmuxd	lib
@@ -19202,6 +19257,7 @@ kmymoney	librsvg	lib
 kmymoney	libsecret	lib
 kmymoney	libsndfile	lib
 kmymoney	libssh	lib
+kmymoney	libtasn1	lib
 kmymoney	libtheora	lib
 kmymoney	liburing	lib
 kmymoney	libusbmuxd	lib
@@ -20162,6 +20218,7 @@ konqueror	libproxy	lib
 konqueror	librsvg	lib
 konqueror	libsndfile	lib
 konqueror	libssh	lib
+konqueror	libtasn1	lib
 konqueror	libtheora	lib
 konqueror	liburing	lib
 konqueror	libusbmuxd	lib
@@ -20425,6 +20482,7 @@ kontact	libproxy	lib
 kontact	librsvg	lib
 kontact	libsndfile	lib
 kontact	libssh	lib
+kontact	libtasn1	lib
 kontact	libtheora	lib
 kontact	liburing	lib
 kontact	libusbmuxd	lib
@@ -20781,6 +20839,7 @@ korganizer	librsvg	lib
 korganizer	libsecret	lib
 korganizer	libsndfile	lib
 korganizer	libssh	lib
+korganizer	libtasn1	lib
 korganizer	libtheora	lib
 korganizer	liburing	lib
 korganizer	libusbmuxd	lib
@@ -21262,6 +21321,7 @@ kpipewire	libplacebo	lib
 kpipewire	libproxy	lib
 kpipewire	librsvg	lib
 kpipewire	libssh	lib
+kpipewire	libtasn1	lib
 kpipewire	libtheora	lib
 kpipewire	libunibreak	lib
 kpipewire	liburing	lib
@@ -21632,6 +21692,7 @@ krdc	librsvg	lib
 krdc	libsecret	lib
 krdc	libsndfile	lib
 krdc	libssh	linked
+krdc	libtasn1	lib
 krdc	libtheora	lib
 krdc	libunibreak	lib
 krdc	liburing	lib
@@ -21753,6 +21814,7 @@ krdp	librsvg	lib
 krdp	libsecret	lib
 krdp	libsndfile	lib
 krdp	libssh	lib
+krdp	libtasn1	lib
 krdp	libtheora	lib
 krdp	libunibreak	lib
 krdp	liburing	lib
@@ -21986,6 +22048,7 @@ krfb	libgcrypt	linked
 krfb	libglvnd	linked
 krfb	libogg	lib
 krfb	libproxy	lib
+krfb	libtasn1	lib
 krfb	liburing	lib
 krfb	libva	lib
 krfb	libvncserver	linked
@@ -23907,6 +23970,7 @@ ktorrent	libproxy	lib
 ktorrent	librsvg	lib
 ktorrent	libsndfile	lib
 ktorrent	libssh	lib
+ktorrent	libtasn1	lib
 ktorrent	libtheora	lib
 ktorrent	liburing	lib
 ktorrent	libusbmuxd	lib
@@ -25780,6 +25844,7 @@ libcupsfilters	lcms2	linked
 libcupsfilters	libassuan	lib
 libcupsfilters	libdeflate	lib
 libcupsfilters	libexif	linked
+libcupsfilters	libtasn1	lib
 libcupsfilters	libwebp	lib
 libcupsfilters	mozilla-nss	lib
 libcupsfilters	nettle	lib
@@ -26867,6 +26932,7 @@ libksieve	librsvg	lib
 libksieve	libsecret	lib
 libksieve	libsndfile	lib
 libksieve	libssh	lib
+libksieve	libtasn1	lib
 libksieve	libtheora	lib
 libksieve	liburing	lib
 libksieve	libusbmuxd	lib
@@ -27057,6 +27123,7 @@ libnice	elfutils	lib
 libnice	glib2	linked
 libnice	gnutls	linked
 libnice	gstreamer	linked
+libnice	libtasn1	lib
 libnice	nettle	lib
 libnice	p11-kit	lib
 libnice	util-linux	lib
@@ -27309,6 +27376,7 @@ libppd	libassuan	lib
 libppd	libcupsfilters	linked
 libppd	libdeflate	lib
 libppd	libexif	lib
+libppd	libtasn1	lib
 libppd	libwebp	lib
 libppd	mozilla-nss	lib
 libppd	nettle	lib
@@ -27695,6 +27763,7 @@ libvncserver	aaa_libraries	linked
 libvncserver	cyrus-sasl	linked
 libvncserver	gnutls	linked
 libvncserver	libgcrypt	linked
+libvncserver	libtasn1	lib
 libvncserver	lzo	linked
 libvncserver	nettle	lib
 libvncserver	openssl	linked
@@ -28092,6 +28161,7 @@ loudmouth	aaa_glibc-solibs	linked
 loudmouth	aaa_libraries	linked
 loudmouth	e2fsprogs	linked
 loudmouth	gnutls	linked
+loudmouth	libtasn1	lib
 loudmouth	nettle	lib
 loudmouth	p11-kit	lib
 lrzip	aaa_glibc-solibs	linked
@@ -28348,6 +28418,7 @@ mailcommon	librsvg	lib
 mailcommon	libsecret	lib
 mailcommon	libsndfile	lib
 mailcommon	libssh	lib
+mailcommon	libtasn1	lib
 mailcommon	libtheora	lib
 mailcommon	liburing	lib
 mailcommon	libusbmuxd	lib
@@ -28566,6 +28637,7 @@ marble	libproxy	lib
 marble	librsvg	lib
 marble	libsndfile	lib
 marble	libssh	lib
+marble	libtasn1	lib
 marble	libtheora	lib
 marble	liburing	lib
 marble	libusbmuxd	lib
@@ -28902,6 +28974,7 @@ mbox-importer	librsvg	lib
 mbox-importer	libsecret	lib
 mbox-importer	libsndfile	lib
 mbox-importer	libssh	lib
+mbox-importer	libtasn1	lib
 mbox-importer	libtheora	lib
 mbox-importer	liburing	lib
 mbox-importer	libusbmuxd	lib
@@ -28971,6 +29044,7 @@ mcabber	e2fsprogs	lib
 mcabber	gnutls	lib
 mcabber	gpgme	linked
 mcabber	libassuan	linked
+mcabber	libtasn1	lib
 mcabber	loudmouth	linked
 mcabber	nettle	lib
 mcabber	p11-kit	lib
@@ -29095,6 +29169,7 @@ merkuro	librsvg	lib
 merkuro	libsecret	lib
 merkuro	libsndfile	lib
 merkuro	libssh	lib
+merkuro	libtasn1	lib
 merkuro	libtheora	lib
 merkuro	liburing	lib
 merkuro	libusbmuxd	lib
@@ -29283,6 +29358,7 @@ messagelib	librsvg	lib
 messagelib	libsecret	lib
 messagelib	libsndfile	lib
 messagelib	libssh	lib
+messagelib	libtasn1	lib
 messagelib	libtheora	lib
 messagelib	liburing	lib
 messagelib	libusbmuxd	lib
@@ -29509,6 +29585,7 @@ minuet	librsvg	lib
 minuet	libsamplerate	lib
 minuet	libsndfile	lib
 minuet	libssh	lib
+minuet	libtasn1	lib
 minuet	libtheora	lib
 minuet	liburing	lib
 minuet	libva	lib
@@ -29627,6 +29704,7 @@ mlt	librsvg	lib
 mlt	libsamplerate	linked
 mlt	libsndfile	lib
 mlt	libssh	lib
+mlt	libtasn1	lib
 mlt	libtheora	lib
 mlt	libunibreak	lib
 mlt	liburing	lib
@@ -29851,7 +29929,7 @@ mozilla-firefox	util-linux	lib
 mozilla-firefox	vulkan-sdk	hint:dlopen
 mozilla-firefox	wayland	lib
 mozilla-nss	aaa_glibc-solibs	linked
-mozilla-nss	aaa_libraries	linked
+mozilla-nss	aaa_libraries	lib
 mozilla-nss	icu4c	lib
 mozilla-nss	sqlite	linked
 mozilla-thunderbird	aaa_glibc-solibs	linked
@@ -29965,6 +30043,7 @@ mpv-mpris	libjxl	lib
 mpv-mpris	libogg	lib
 mpv-mpris	librsvg	lib
 mpv-mpris	libssh	lib
+mpv-mpris	libtasn1	lib
 mpv-mpris	libtheora	lib
 mpv-mpris	libva	lib
 mpv-mpris	libvdpau	lib
@@ -30047,6 +30126,7 @@ mpv	libplacebo	linked
 mpv	librsvg	lib
 mpv	libsndfile	lib
 mpv	libssh	lib
+mpv	libtasn1	lib
 mpv	libtheora	lib
 mpv	libunibreak	lib
 mpv	libva	linked
@@ -30145,6 +30225,7 @@ mpvqt	libproxy	lib
 mpvqt	librsvg	lib
 mpvqt	libsndfile	lib
 mpvqt	libssh	lib
+mpvqt	libtasn1	lib
 mpvqt	libtheora	lib
 mpvqt	libunibreak	lib
 mpvqt	liburing	lib
@@ -30487,6 +30568,7 @@ nghttp3	aaa_glibc-solibs	linked
 ngtcp2	aaa_glibc-solibs	linked
 ngtcp2	aaa_libraries	lib
 ngtcp2	gnutls	linked
+ngtcp2	libtasn1	lib
 ngtcp2	nettle	lib
 ngtcp2	openssl	linked
 ngtcp2	openssl-solibs	linked
@@ -30842,6 +30924,7 @@ opencv	libplacebo	lib
 opencv	librsvg	lib
 opencv	libsndfile	lib
 opencv	libssh	lib
+opencv	libtasn1	lib
 opencv	libtheora	lib
 opencv	libunibreak	lib
 opencv	liburing	lib
@@ -31177,6 +31260,7 @@ pan	libepoxy	lib
 pan	libgcrypt	lib
 pan	libnotify	linked
 pan	libsecret	linked
+pan	libtasn1	lib
 pan	libxcb	lib
 pan	nettle	lib
 pan	p11-kit	linked
@@ -31325,6 +31409,7 @@ parley	libproxy	lib
 parley	librsvg	lib
 parley	libsndfile	lib
 parley	libssh	lib
+parley	libtasn1	lib
 parley	libtheora	lib
 parley	liburing	lib
 parley	libusbmuxd	lib
@@ -31650,6 +31735,7 @@ phonon-backend-mpv	libplacebo	lib
 phonon-backend-mpv	librsvg	lib
 phonon-backend-mpv	libsndfile	lib
 phonon-backend-mpv	libssh	lib
+phonon-backend-mpv	libtasn1	lib
 phonon-backend-mpv	libtheora	lib
 phonon-backend-mpv	libunibreak	lib
 phonon-backend-mpv	liburing	lib
@@ -31984,6 +32070,7 @@ pim-data-exporter	librsvg	lib
 pim-data-exporter	libsecret	lib
 pim-data-exporter	libsndfile	lib
 pim-data-exporter	libssh	lib
+pim-data-exporter	libtasn1	lib
 pim-data-exporter	libtheora	lib
 pim-data-exporter	liburing	lib
 pim-data-exporter	libusbmuxd	lib
@@ -32122,6 +32209,7 @@ pim-sieve-editor	librsvg	lib
 pim-sieve-editor	libsecret	lib
 pim-sieve-editor	libsndfile	lib
 pim-sieve-editor	libssh	lib
+pim-sieve-editor	libtasn1	lib
 pim-sieve-editor	libtheora	lib
 pim-sieve-editor	liburing	lib
 pim-sieve-editor	libusbmuxd	lib
@@ -32360,6 +32448,7 @@ pipewire	libplacebo	lib
 pipewire	librsvg	lib
 pipewire	libsndfile	linked
 pipewire	libssh	lib
+pipewire	libtasn1	lib
 pipewire	libtheora	lib
 pipewire	libunibreak	lib
 pipewire	libva	lib
@@ -32511,6 +32600,7 @@ plasma-bigscreen	libplist	lib
 plasma-bigscreen	libproxy	lib
 plasma-bigscreen	librsvg	lib
 plasma-bigscreen	libssh	lib
+plasma-bigscreen	libtasn1	lib
 plasma-bigscreen	libtheora	lib
 plasma-bigscreen	liburing	lib
 plasma-bigscreen	libusbmuxd	lib
@@ -34605,6 +34695,7 @@ qemu	libseccomp	linked
 qemu	libslirp	linked
 qemu	libsndfile	lib
 qemu	libssh	linked
+qemu	libtasn1	lib
 qemu	liburing	linked
 qemu	libvorbis	lib
 qemu	libwebp	lib
@@ -34681,6 +34772,7 @@ qml-box2d	util-linux	lib
 qpdf	aaa_glibc-solibs	linked
 qpdf	aaa_libraries	linked
 qpdf	gnutls	linked
+qpdf	libtasn1	lib
 qpdf	nettle	lib
 qpdf	openssl	linked
 qpdf	openssl-solibs	linked
@@ -34929,6 +35021,7 @@ qt5	libogg	lib
 qt5	librsvg	lib
 qt5	libsndfile	lib
 qt5	libssh	lib
+qt5	libtasn1	lib
 qt5	libtheora	lib
 qt5	libva	lib
 qt5	libvdpau	lib
@@ -35045,6 +35138,7 @@ qt6	libproxy	linked
 qt6	librsvg	lib
 qt6	libsndfile	lib
 qt6	libssh	lib
+qt6	libtasn1	lib
 qt6	libtheora	lib
 qt6	liburing	linked
 qt6	libva	linked
@@ -36180,6 +36274,7 @@ spectacle	libproxy	lib
 spectacle	librsvg	lib
 spectacle	libsndfile	lib
 spectacle	libssh	lib
+spectacle	libtasn1	lib
 spectacle	libtheora	lib
 spectacle	libunibreak	lib
 spectacle	liburing	lib
@@ -36336,6 +36431,7 @@ ssr	libogg	lib
 ssr	librsvg	lib
 ssr	libsndfile	lib
 ssr	libssh	lib
+ssr	libtasn1	lib
 ssr	libtheora	lib
 ssr	libva	lib
 ssr	libvdpau	lib
@@ -36569,6 +36665,7 @@ subtitlecomposer	libproxy	lib
 subtitlecomposer	librsvg	lib
 subtitlecomposer	libsndfile	lib
 subtitlecomposer	libssh	lib
+subtitlecomposer	libtasn1	lib
 subtitlecomposer	libtheora	lib
 subtitlecomposer	libunibreak	lib
 subtitlecomposer	liburing	lib
@@ -37316,6 +37413,7 @@ tumbler	libogg	lib
 tumbler	libplacebo	lib
 tumbler	librsvg	lib
 tumbler	libssh	lib
+tumbler	libtasn1	lib
 tumbler	libtheora	lib
 tumbler	libunibreak	lib
 tumbler	libva	lib
@@ -37737,6 +37835,7 @@ vte	libdrm	lib
 vte	libepoxy	lib
 vte	libglvnd	lib
 vte	libgudev	lib
+vte	libtasn1	lib
 vte	libwebp	lib
 vte	libxcb	lib
 vte	lz4	linked
@@ -37892,6 +37991,7 @@ wget2	ca-certificates	hint:use
 wget2	gnutls	linked
 wget2	gpgme	linked
 wget2	libassuan	lib
+wget2	libtasn1	lib
 wget2	lzlib	linked
 wget2	nettle	lib
 wget2	nghttp2	linked
@@ -39128,6 +39228,7 @@ xfce4-terminal	libXrandr	lib
 xfce4-terminal	libXrender	lib
 xfce4-terminal	libXres	lib
 xfce4-terminal	libepoxy	lib
+xfce4-terminal	libtasn1	lib
 xfce4-terminal	libxcb	lib
 xfce4-terminal	libxfce4ui	linked
 xfce4-terminal	libxfce4util	linked
@@ -39586,6 +39687,7 @@ xine-lib	libogg	linked
 xine-lib	librsvg	lib
 xine-lib	libsndfile	lib
 xine-lib	libssh	lib
+xine-lib	libtasn1	lib
 xine-lib	libtheora	linked
 xine-lib	libva	linked
 xine-lib	libvdpau	linked
@@ -40178,6 +40280,7 @@ xscreensaver	libjxl	lib
 xscreensaver	libogg	lib
 xscreensaver	librsvg	lib
 xscreensaver	libssh	lib
+xscreensaver	libtasn1	lib
 xscreensaver	libtheora	lib
 xscreensaver	libva	lib
 xscreensaver	libvdpau	lib
@@ -40534,6 +40637,7 @@ zanshin	librsvg	lib
 zanshin	libsecret	lib
 zanshin	libsndfile	lib
 zanshin	libssh	lib
+zanshin	libtasn1	lib
 zanshin	libtheora	lib
 zanshin	liburing	lib
 zanshin	libusbmuxd	lib
