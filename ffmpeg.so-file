@@ -13,6 +13,7 @@ libcairo.so.2
 libcdio_cdda.so.2
 libcdio_paranoia.so.2
 libc.so.6
+libcurl.so.4
 libdav1d.so.7
 libdrm.so.2
 libfontconfig.so.1

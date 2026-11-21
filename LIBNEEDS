@@ -6394,6 +6394,7 @@ libavformat.so.63	libavutil.so.61
 libavformat.so.63	libbluray.so.4
 libavformat.so.63	libbz2.so.1
 libavformat.so.63	libc.so.6
+libavformat.so.63	libcurl.so.4
 libavformat.so.63	libgcrypt.so.20
 libavformat.so.63	libgnutls.so.30
 libavformat.so.63	libm.so.6
@@ -8565,9 +8566,9 @@ lib-clx.so	libXpm.so.4
 libc_malloc_debug.so.0	ld-linux.so.2
 libc_malloc_debug.so.0	ld-linux-x86-64.so.2
 libc_malloc_debug.so.0	libc.so.6
-libcmark-gfm-extensions.so.0.29.0.gfm.13	libcmark-gfm.so.0.29.0.gfm.13
-libcmark-gfm-extensions.so.0.29.0.gfm.13	libc.so.6
-libcmark-gfm.so.0.29.0.gfm.13	libc.so.6
+libcmark-gfm-extensions.so.0.29.0.gfm.14	libcmark-gfm.so.0.29.0.gfm.14
+libcmark-gfm-extensions.so.0.29.0.gfm.14	libc.so.6
+libcmark-gfm.so.0.29.0.gfm.14	libc.so.6
 libcmark.so.0.31.2	libc.so.6
 libcmdline-contexts-private-samba.so	libc.so.6
 libcmdline-contexts-private-samba.so	libsamba-debug-private-samba.so

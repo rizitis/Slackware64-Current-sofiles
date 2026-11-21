@@ -103,6 +103,8 @@ MPlayer	libxml2	lib
 MPlayer	lzo	linked
 MPlayer	mpg123	linked
 MPlayer	nettle	lib
+MPlayer	nghttp2	lib
+MPlayer	nghttp3	lib
 MPlayer	ngtcp2	lib
 MPlayer	ocl-icd	lib
 MPlayer	openal-soft	linked
@@ -2205,6 +2207,8 @@ aubio	libxcb	lib
 aubio	libxml2	lib
 aubio	mpg123	lib
 aubio	nettle	lib
+aubio	nghttp2	lib
+aubio	nghttp3	lib
 aubio	ngtcp2	lib
 aubio	ocl-icd	lib
 aubio	openjpeg	lib
@@ -5875,6 +5879,8 @@ ffmpeg	libxcb	linked
 ffmpeg	libxml2	linked
 ffmpeg	mpg123	lib
 ffmpeg	nettle	lib
+ffmpeg	nghttp2	lib
+ffmpeg	nghttp3	lib
 ffmpeg	ngtcp2	lib
 ffmpeg	ocl-icd	linked
 ffmpeg	openal-soft	linked
@@ -5943,6 +5949,8 @@ ffmpegthumbnailer	libxcb	lib
 ffmpegthumbnailer	libxml2	lib
 ffmpegthumbnailer	mpg123	lib
 ffmpegthumbnailer	nettle	lib
+ffmpegthumbnailer	nghttp2	lib
+ffmpegthumbnailer	nghttp3	lib
 ffmpegthumbnailer	ngtcp2	lib
 ffmpegthumbnailer	ocl-icd	lib
 ffmpegthumbnailer	openjpeg	lib
@@ -6401,6 +6409,8 @@ freerdp	libxkbfile	linked
 freerdp	libxml2	lib
 freerdp	mpg123	lib
 freerdp	nettle	lib
+freerdp	nghttp2	lib
+freerdp	nghttp3	lib
 freerdp	ngtcp2	lib
 freerdp	ocl-icd	lib
 freerdp	openal-soft	lib
@@ -8509,6 +8519,8 @@ gst-plugins-libav	libxcb	lib
 gst-plugins-libav	libxml2	lib
 gst-plugins-libav	mpg123	lib
 gst-plugins-libav	nettle	lib
+gst-plugins-libav	nghttp2	lib
+gst-plugins-libav	nghttp3	lib
 gst-plugins-libav	ngtcp2	lib
 gst-plugins-libav	ocl-icd	lib
 gst-plugins-libav	openjpeg	lib
@@ -30054,6 +30066,8 @@ mpv-mpris	libxcb	lib
 mpv-mpris	libxml2	lib
 mpv-mpris	mpg123	lib
 mpv-mpris	nettle	lib
+mpv-mpris	nghttp2	lib
+mpv-mpris	nghttp3	lib
 mpv-mpris	ngtcp2	lib
 mpv-mpris	ocl-icd	lib
 mpv-mpris	openjpeg	lib
@@ -32460,6 +32474,8 @@ pipewire	libxcb	lib
 pipewire	libxml2	lib
 pipewire	mpg123	lib
 pipewire	nettle	lib
+pipewire	nghttp2	lib
+pipewire	nghttp3	lib
 pipewire	ngtcp2	lib
 pipewire	ocl-icd	lib
 pipewire	openjpeg	lib
@@ -35040,6 +35056,8 @@ qt5	mozilla-nss	linked
 qt5	mpg123	lib
 qt5	mtdev	linked
 qt5	nettle	lib
+qt5	nghttp2	lib
+qt5	nghttp3	lib
 qt5	ngtcp2	lib
 qt5	ocl-icd	lib
 qt5	openal-soft	linked
@@ -36442,6 +36460,8 @@ ssr	libxcb	lib
 ssr	libxml2	lib
 ssr	mpg123	lib
 ssr	nettle	lib
+ssr	nghttp2	lib
+ssr	nghttp3	lib
 ssr	ngtcp2	lib
 ssr	ocl-icd	lib
 ssr	openjpeg	lib
@@ -39699,6 +39719,8 @@ xine-lib	libxml2	lib
 xine-lib	libzip	lib
 xine-lib	mpg123	lib
 xine-lib	nettle	lib
+xine-lib	nghttp2	lib
+xine-lib	nghttp3	lib
 xine-lib	ngtcp2	lib
 xine-lib	ocl-icd	lib
 xine-lib	openjpeg	lib
@@ -40291,6 +40313,8 @@ xscreensaver	libxcb	lib
 xscreensaver	libxml2	linked
 xscreensaver	mpg123	lib
 xscreensaver	nettle	lib
+xscreensaver	nghttp2	lib
+xscreensaver	nghttp3	lib
 xscreensaver	ngtcp2	lib
 xscreensaver	ocl-icd	lib
 xscreensaver	openjpeg	lib

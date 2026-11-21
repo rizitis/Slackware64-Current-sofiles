@@ -806,8 +806,8 @@ libcluster-private-samba.so samba
 lib-clx.so clisp
 libc_malloc_debug.so.0 aaa_glibc-solibs
 libc_malloc_debug.so.0 glibc
-libcmark-gfm-extensions.so.0.29.0.gfm.13 cmark-gfm
-libcmark-gfm.so.0.29.0.gfm.13 cmark-gfm
+libcmark-gfm-extensions.so.0.29.0.gfm.14 cmark-gfm
+libcmark-gfm.so.0.29.0.gfm.14 cmark-gfm
 libcmark.so.0.31.2 cmark
 libcmdline-contexts-private-samba.so samba
 libcmdline-private-samba.so samba

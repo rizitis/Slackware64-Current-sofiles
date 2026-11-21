@@ -4084,6 +4084,8 @@ ffmpeg	libcdio_cdda.so.2	libcdio-paranoia
 ffmpeg	libcdio_paranoia.so.2	libcdio-paranoia
 ffmpeg	libc.so.6	aaa_glibc-solibs
 ffmpeg	libc.so.6	glibc
+ffmpeg	libcurl.so.4	aaa_libraries
+ffmpeg	libcurl.so.4	curl
 ffmpeg	libdav1d.so.7	dav1d
 ffmpeg	libdrm.so.2	libdrm
 ffmpeg	libfontconfig.so.1	fontconfig
