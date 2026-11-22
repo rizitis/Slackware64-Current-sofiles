@@ -569,6 +569,17 @@ qt6	dlopen	libvulkan_radeon.so	mesa	guess
 qt6	dlopen	libvulkan.so.1	vulkan-sdk	guess
 qt6	dlopen	libxcb-present.so.0	libxcb	guess
 qt6	import	pip	python-pip	guess
+qt6-webengine	dlopen	libEGL.so.1	libglvnd	guess
+qt6-webengine	dlopen	libGL.so.1	libglvnd	guess
+qt6-webengine	dlopen	libnssckbi.so	mozilla-nss	guess
+qt6-webengine	dlopen	libpci.so.3	pciutils	guess
+qt6-webengine	dlopen	libQt6PdfWidgets.so.6	qt6	guess
+qt6-webengine	dlopen	libvulkan_intel.so	mesa	guess
+qt6-webengine	dlopen	libvulkan_radeon.so	mesa	guess
+qt6-webengine	dlopen	libvulkan.so.1	vulkan-sdk	guess
+qt6-webengine	dlopen	libxcb-glx.so.0	libxcb	guess
+qt6-webengine	dlopen	libxcb-present.so.0	libxcb	guess
+qt6-webengine	dlopen	libxcb-sync.so.1	libxcb	guess
 rcs	exec	/usr/bin/diff3	diffutils	guess
 rcs	exec	/usr/bin/diff	diffutils	guess
 rdist	exec	/usr/bin/rsh	netkit-rsh	guess

@@ -129,12 +129,10 @@ libicui18n.so.79
 libicuuc.so.79
 libinput.so.10
 libiodbc.so.2
-libjasper.so.7
 libjpeg.so.62
 liblcms2.so.2
 libLLVM.so.23.1
 libmariadb.so.3
-libmng.so.2
 libm.so.6
 libmtdev.so.1
 libnspr4.so
@@ -166,6 +164,8 @@ libQt63DQuickScene2D.so.6
 libQt63DQuickScene3D.so.6
 libQt63DQuick.so.6
 libQt63DRender.so.6
+libQt6Canvas2D.so.6
+libQt6CanvasPainter.so.6
 libQt6ChartsQml.so.6
 libQt6Charts.so.6
 libQt6Concurrent.so.6
@@ -179,6 +179,7 @@ libQt6Designer.so.6
 libQt6EglFSDeviceIntegration.so.6
 libQt6EglFsKmsGbmSupport.so.6
 libQt6EglFsKmsSupport.so.6
+libQt6Graphs2DImpl.so.6
 libQt6Graphs.so.6
 libQt6GrpcQuick.so.6
 libQt6Grpc.so.6
@@ -215,6 +216,7 @@ libQt6ProtobufQuick.so.6
 libQt6Protobuf.so.6
 libQt6QmlCompiler.so.6
 libQt6QmlCore.so.6
+libQt6QmlDesignSupport.so.6
 libQt6QmlLocalStorage.so.6
 libQt6QmlMeta.so.6
 libQt6QmlModels.so.6
@@ -239,6 +241,7 @@ libQt6Quick3DSpatialAudio.so.6
 libQt6Quick3DUtils.so.6
 libQt6QuickControls2Basic.so.6
 libQt6QuickControls2BasicStyleImpl.so.6
+libQt6QuickControls2FluentWinUI3.so.6
 libQt6QuickControls2FluentWinUI3StyleImpl.so.6
 libQt6QuickControls2Fusion.so.6
 libQt6QuickControls2FusionStyleImpl.so.6
@@ -247,6 +250,7 @@ libQt6QuickControls2ImagineStyleImpl.so.6
 libQt6QuickControls2Impl.so.6
 libQt6QuickControls2Material.so.6
 libQt6QuickControls2MaterialStyleImpl.so.6
+libQt6QuickControls2Native.so.6
 libQt6QuickControls2.so.6
 libQt6QuickControls2Universal.so.6
 libQt6QuickControls2UniversalStyleImpl.so.6

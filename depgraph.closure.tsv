@@ -264,7 +264,6 @@ PyQt6	mpg123	lib
 PyQt6	nghttp2	lib
 PyQt6	nghttp3	lib
 PyQt6	ngtcp2	lib
-PyQt6	openjpeg	lib
 PyQt6	openssl	lib
 PyQt6	openssl-solibs	lib
 PyQt6	opus	lib
@@ -580,6 +579,7 @@ akonadi-calendar-tools	purpose	lib
 akonadi-calendar-tools	qgpgme	lib
 akonadi-calendar-tools	qrencode	lib
 akonadi-calendar-tools	qt6	linked
+akonadi-calendar-tools	qt6-webengine	lib
 akonadi-calendar-tools	qtkeychain	lib
 akonadi-calendar-tools	samba	lib
 akonadi-calendar-tools	solid	lib
@@ -738,6 +738,7 @@ akonadi-calendar	purpose	lib
 akonadi-calendar	qgpgme	linked
 akonadi-calendar	qrencode	lib
 akonadi-calendar	qt6	linked
+akonadi-calendar	qt6-webengine	lib
 akonadi-calendar	qtkeychain	lib
 akonadi-calendar	samba	lib
 akonadi-calendar	solid	lib
@@ -985,6 +986,7 @@ akonadi-import-wizard	purpose	lib
 akonadi-import-wizard	qgpgme	linked
 akonadi-import-wizard	qrencode	lib
 akonadi-import-wizard	qt6	linked
+akonadi-import-wizard	qt6-webengine	lib
 akonadi-import-wizard	qtkeychain	linked
 akonadi-import-wizard	samba	lib
 akonadi-import-wizard	solid	lib
@@ -1307,6 +1309,7 @@ akonadiconsole	purpose	lib
 akonadiconsole	qgpgme	linked
 akonadiconsole	qrencode	lib
 akonadiconsole	qt6	linked
+akonadiconsole	qt6-webengine	lib
 akonadiconsole	qtkeychain	lib
 akonadiconsole	samba	lib
 akonadiconsole	solid	lib
@@ -1460,6 +1463,7 @@ akregator	purpose	lib
 akregator	qgpgme	linked
 akregator	qrencode	lib
 akregator	qt6	linked
+akregator	qt6-webengine	linked
 akregator	samba	lib
 akregator	solid	lib
 akregator	sonnet	linked
@@ -1568,6 +1572,7 @@ alkimia	pcre2	lib
 alkimia	pixman	lib
 alkimia	pulseaudio	lib
 alkimia	qt6	linked
+alkimia	qt6-webengine	linked
 alkimia	samba	lib
 alkimia	sonnet	linked
 alkimia	speex	lib
@@ -1981,6 +1986,7 @@ arianna	pango	lib
 arianna	pcre2	lib
 arianna	pixman	lib
 arianna	qt6	linked
+arianna	qt6-webengine	linked
 arianna	samba	lib
 arianna	solid	lib
 arianna	speex	lib
@@ -2356,6 +2362,8 @@ audacious	libepoxy	lib
 audacious	libglvnd	lib
 audacious	liburing	lib
 audacious	libxcb	lib
+audacious	openssl	lib
+audacious	openssl-solibs	lib
 audacious	pango	linked
 audacious	pcre2	lib
 audacious	pixman	lib
@@ -3087,6 +3095,8 @@ breeze-icons	libXext	lib
 breeze-icons	libglvnd	linked
 breeze-icons	liburing	lib
 breeze-icons	libxcb	lib
+breeze-icons	openssl	lib
+breeze-icons	openssl-solibs	lib
 breeze-icons	pcre2	lib
 breeze-icons	qt6	linked
 breeze	aaa_glibc-solibs	linked
@@ -3365,6 +3375,7 @@ calendarsupport	purpose	lib
 calendarsupport	qgpgme	lib
 calendarsupport	qrencode	lib
 calendarsupport	qt6	linked
+calendarsupport	qt6-webengine	lib
 calendarsupport	qtkeychain	lib
 calendarsupport	samba	lib
 calendarsupport	solid	lib
@@ -3504,6 +3515,7 @@ calligra	poppler	linked
 calligra	pulseaudio	lib
 calligra	qca	linked
 calligra	qt6	linked
+calligra	qt6-webengine	linked
 calligra	qtkeychain	linked
 calligra	samba	lib
 calligra	solid	linked
@@ -3718,6 +3730,7 @@ cantor	poppler	linked
 cantor	pulseaudio	lib
 cantor	python3	linked
 cantor	qt6	linked
+cantor	qt6-webengine	linked
 cantor	samba	lib
 cantor	solid	linked
 cantor	sonnet	linked
@@ -4095,6 +4108,8 @@ crystal-dock	libXext	lib
 crystal-dock	libglvnd	linked
 crystal-dock	liburing	lib
 crystal-dock	libxcb	lib
+crystal-dock	openssl	lib
+crystal-dock	openssl-solibs	lib
 crystal-dock	pcre2	lib
 crystal-dock	qt6	linked
 crystal-dock	wayland	linked
@@ -4486,6 +4501,7 @@ digikam	pixman	lib
 digikam	poppler	lib
 digikam	pulseaudio	lib
 digikam	qt6	linked
+digikam	qt6-webengine	linked
 digikam	samba	lib
 digikam	sane	lib
 digikam	solid	linked
@@ -4747,6 +4763,8 @@ doxygen	libXext	lib
 doxygen	libglvnd	linked
 doxygen	liburing	lib
 doxygen	libxcb	lib
+doxygen	openssl	lib
+doxygen	openssl-solibs	lib
 doxygen	pcre2	lib
 doxygen	qt6	linked
 doxygen	util-linux	lib
@@ -5286,6 +5304,7 @@ eventviews	purpose	lib
 eventviews	qgpgme	lib
 eventviews	qrencode	lib
 eventviews	qt6	linked
+eventviews	qt6-webengine	lib
 eventviews	qtkeychain	lib
 eventviews	samba	lib
 eventviews	solid	lib
@@ -5463,6 +5482,7 @@ falkon	pcre2	lib
 falkon	pixman	lib
 falkon	purpose	linked
 falkon	qt6	linked
+falkon	qt6-webengine	linked
 falkon	samba	lib
 falkon	solid	lib
 falkon	speex	lib
@@ -5568,6 +5588,7 @@ fcitx5-chinese-addons	pango	lib
 fcitx5-chinese-addons	pcre2	lib
 fcitx5-chinese-addons	pixman	lib
 fcitx5-chinese-addons	qt6	linked
+fcitx5-chinese-addons	qt6-webengine	linked
 fcitx5-chinese-addons	samba	lib
 fcitx5-chinese-addons	speex	lib
 fcitx5-chinese-addons	talloc	lib
@@ -5717,6 +5738,8 @@ fcitx5-kkc	liburing	lib
 fcitx5-kkc	libuv	lib
 fcitx5-kkc	libxcb	lib
 fcitx5-kkc	marisa	lib
+fcitx5-kkc	openssl	lib
+fcitx5-kkc	openssl-solibs	lib
 fcitx5-kkc	pcre2	lib
 fcitx5-kkc	qt6	linked
 fcitx5-kkc	util-linux	lib
@@ -5746,6 +5769,8 @@ fcitx5-qt	libglvnd	linked
 fcitx5-qt	liburing	lib
 fcitx5-qt	libuv	lib
 fcitx5-qt	libxcb	linked
+fcitx5-qt	openssl	lib
+fcitx5-qt	openssl-solibs	lib
 fcitx5-qt	pcre2	lib
 fcitx5-qt	qt5	linked
 fcitx5-qt	qt6	linked
@@ -5775,6 +5800,8 @@ fcitx5-unikey	libglvnd	lib
 fcitx5-unikey	liburing	lib
 fcitx5-unikey	libuv	lib
 fcitx5-unikey	libxcb	lib
+fcitx5-unikey	openssl	lib
+fcitx5-unikey	openssl-solibs	lib
 fcitx5-unikey	pcre2	lib
 fcitx5-unikey	qt6	linked
 fcitx5-unikey	util-linux	lib
@@ -6560,6 +6587,8 @@ futuresql	aaa_glibc-solibs	linked
 futuresql	aaa_libraries	linked
 futuresql	icu4c	lib
 futuresql	liburing	lib
+futuresql	openssl	lib
+futuresql	openssl-solibs	lib
 futuresql	pcre2	lib
 futuresql	qt5	linked
 futuresql	qt6	linked
@@ -7231,6 +7260,7 @@ ghostwriter	pango	lib
 ghostwriter	pcre2	lib
 ghostwriter	pixman	lib
 ghostwriter	qt6	linked
+ghostwriter	qt6-webengine	linked
 ghostwriter	samba	lib
 ghostwriter	sonnet	linked
 ghostwriter	speex	lib
@@ -8059,6 +8089,7 @@ grantlee-editor	purpose	lib
 grantlee-editor	qgpgme	linked
 grantlee-editor	qrencode	lib
 grantlee-editor	qt6	linked
+grantlee-editor	qt6-webengine	linked
 grantlee-editor	samba	lib
 grantlee-editor	solid	lib
 grantlee-editor	sonnet	linked
@@ -9835,6 +9866,7 @@ incidenceeditor	purpose	lib
 incidenceeditor	qgpgme	lib
 incidenceeditor	qrencode	lib
 incidenceeditor	qt6	linked
+incidenceeditor	qt6-webengine	lib
 incidenceeditor	qtkeychain	lib
 incidenceeditor	samba	lib
 incidenceeditor	solid	lib
@@ -10269,6 +10301,7 @@ k3b	pango	lib
 k3b	pcre2	lib
 k3b	pixman	lib
 k3b	qt6	linked
+k3b	qt6-webengine	linked
 k3b	samba	lib
 k3b	solid	linked
 k3b	speex	lib
@@ -10295,6 +10328,8 @@ kColorPicker	libXext	lib
 kColorPicker	libglvnd	linked
 kColorPicker	liburing	lib
 kColorPicker	libxcb	lib
+kColorPicker	openssl	lib
+kColorPicker	openssl-solibs	lib
 kColorPicker	pcre2	lib
 kColorPicker	qt6	linked
 kImageAnnotator	aaa_glibc-solibs	linked
@@ -10314,6 +10349,8 @@ kImageAnnotator	libXext	lib
 kImageAnnotator	libglvnd	linked
 kImageAnnotator	liburing	lib
 kImageAnnotator	libxcb	lib
+kImageAnnotator	openssl	lib
+kImageAnnotator	openssl-solibs	lib
 kImageAnnotator	pcre2	lib
 kImageAnnotator	qt6	linked
 kactivities-stats5	aaa_glibc-solibs	linked
@@ -10749,6 +10786,7 @@ kalgebra	pango	lib
 kalgebra	pcre2	lib
 kalgebra	pixman	lib
 kalgebra	qt6	linked
+kalgebra	qt6-webengine	linked
 kalgebra	samba	lib
 kalgebra	speex	lib
 kalgebra	talloc	lib
@@ -11421,6 +11459,8 @@ kauth	libXfixes	lib
 kauth	libglvnd	linked
 kauth	liburing	lib
 kauth	libxcb	lib
+kauth	openssl	lib
+kauth	openssl-solibs	lib
 kauth	pcre2	lib
 kauth	polkit	lib
 kauth	polkit-qt-1	linked
@@ -11657,6 +11697,8 @@ kbookmarks	libXext	lib
 kbookmarks	libglvnd	linked
 kbookmarks	liburing	lib
 kbookmarks	libxcb	lib
+kbookmarks	openssl	lib
+kbookmarks	openssl-solibs	lib
 kbookmarks	pcre2	lib
 kbookmarks	qt6	linked
 kbookmarks	util-linux	lib
@@ -12228,6 +12270,8 @@ kcodecs	aaa_glibc-solibs	linked
 kcodecs	aaa_libraries	linked
 kcodecs	icu4c	lib
 kcodecs	liburing	lib
+kcodecs	openssl	lib
+kcodecs	openssl-solibs	lib
 kcodecs	pcre2	lib
 kcodecs	qt6	linked
 kcodecs5	aaa_glibc-solibs	linked
@@ -12298,6 +12342,8 @@ kcolorscheme	libXext	lib
 kcolorscheme	libglvnd	linked
 kcolorscheme	liburing	lib
 kcolorscheme	libxcb	lib
+kcolorscheme	openssl	lib
+kcolorscheme	openssl-solibs	lib
 kcolorscheme	pcre2	lib
 kcolorscheme	qt6	linked
 kcolorscheme	wayland	lib
@@ -12320,6 +12366,8 @@ kcompletion	libXext	lib
 kcompletion	libglvnd	linked
 kcompletion	liburing	lib
 kcompletion	libxcb	lib
+kcompletion	openssl	lib
+kcompletion	openssl-solibs	lib
 kcompletion	pcre2	lib
 kcompletion	qt6	linked
 kcompletion5	aaa_glibc-solibs	linked
@@ -12403,6 +12451,8 @@ kconfigwidgets	libXext	lib
 kconfigwidgets	libglvnd	linked
 kconfigwidgets	liburing	lib
 kconfigwidgets	libxcb	lib
+kconfigwidgets	openssl	lib
+kconfigwidgets	openssl-solibs	lib
 kconfigwidgets	pcre2	lib
 kconfigwidgets	qt6	linked
 kconfigwidgets	util-linux	lib
@@ -12522,6 +12572,8 @@ kcrash	libXext	lib
 kcrash	libglvnd	linked
 kcrash	liburing	lib
 kcrash	libxcb	lib
+kcrash	openssl	lib
+kcrash	openssl-solibs	lib
 kcrash	pcre2	lib
 kcrash	qt6	linked
 kcrash	util-linux	lib
@@ -12655,6 +12707,8 @@ kdbusaddons	libXext	lib
 kdbusaddons	libglvnd	linked
 kdbusaddons	liburing	lib
 kdbusaddons	libxcb	lib
+kdbusaddons	openssl	lib
+kdbusaddons	openssl-solibs	lib
 kdbusaddons	pcre2	lib
 kdbusaddons	qt6	linked
 kdbusaddons5	aaa_glibc-solibs	linked
@@ -12867,6 +12921,8 @@ kde-gtk-config	libepoxy	lib
 kde-gtk-config	libglvnd	linked
 kde-gtk-config	liburing	lib
 kde-gtk-config	libxcb	lib
+kde-gtk-config	openssl	lib
+kde-gtk-config	openssl-solibs	lib
 kde-gtk-config	pango	linked
 kde-gtk-config	pcre2	lib
 kde-gtk-config	pixman	lib
@@ -12899,6 +12955,8 @@ kde-inotify-survey	libogg	lib
 kde-inotify-survey	liburing	lib
 kde-inotify-survey	libvorbis	lib
 kde-inotify-survey	libxcb	lib
+kde-inotify-survey	openssl	lib
+kde-inotify-survey	openssl-solibs	lib
 kde-inotify-survey	pcre2	lib
 kde-inotify-survey	qt6	linked
 kde-inotify-survey	util-linux	lib
@@ -13139,6 +13197,8 @@ kdecoration	libXext	lib
 kdecoration	libglvnd	linked
 kdecoration	liburing	lib
 kdecoration	libxcb	lib
+kdecoration	openssl	lib
+kdecoration	openssl-solibs	lib
 kdecoration	pcre2	lib
 kdecoration	qt6	linked
 kded	aaa_glibc-solibs	linked
@@ -13162,6 +13222,8 @@ kded	libXext	lib
 kded	libglvnd	linked
 kded	liburing	lib
 kded	libxcb	lib
+kded	openssl	lib
+kded	openssl-solibs	lib
 kded	pcre2	lib
 kded	qt6	linked
 kded	util-linux	lib
@@ -13199,6 +13261,8 @@ kdegraphics-mobipocket	libXext	lib
 kdegraphics-mobipocket	libglvnd	linked
 kdegraphics-mobipocket	liburing	lib
 kdegraphics-mobipocket	libxcb	lib
+kdegraphics-mobipocket	openssl	lib
+kdegraphics-mobipocket	openssl-solibs	lib
 kdegraphics-mobipocket	pcre2	lib
 kdegraphics-mobipocket	qt6	linked
 kdegraphics-thumbnailers	LibRaw	lib
@@ -13590,6 +13654,7 @@ kdepim-addons	purpose	lib
 kdepim-addons	qgpgme	linked
 kdepim-addons	qrencode	lib
 kdepim-addons	qt6	linked
+kdepim-addons	qt6-webengine	linked
 kdepim-addons	qtkeychain	lib
 kdepim-addons	samba	lib
 kdepim-addons	solid	lib
@@ -13754,6 +13819,7 @@ kdepim-runtime	qca	linked
 kdepim-runtime	qgpgme	lib
 kdepim-runtime	qrencode	lib
 kdepim-runtime	qt6	linked
+kdepim-runtime	qt6-webengine	linked
 kdepim-runtime	qtkeychain	linked
 kdepim-runtime	samba	lib
 kdepim-runtime	solid	linked
@@ -13880,6 +13946,7 @@ kdeplasma-addons	pcre2	lib
 kdeplasma-addons	pixman	lib
 kdeplasma-addons	plasma-activities	lib
 kdeplasma-addons	qt6	linked
+kdeplasma-addons	qt6-webengine	linked
 kdeplasma-addons	samba	lib
 kdeplasma-addons	solid	lib
 kdeplasma-addons	sonnet	linked
@@ -13992,6 +14059,8 @@ kdesu	libXdmcp	lib
 kdesu	libXext	linked
 kdesu	liburing	lib
 kdesu	libxcb	lib
+kdesu	openssl	lib
+kdesu	openssl-solibs	lib
 kdesu	pcre2	lib
 kdesu	qt6	linked
 kdesu	util-linux	lib
@@ -14129,6 +14198,7 @@ kdev-php	pcre2	lib
 kdev-php	pixman	lib
 kdev-php	pulseaudio	lib
 kdev-php	qt6	linked
+kdev-php	qt6-webengine	linked
 kdev-php	samba	lib
 kdev-php	solid	lib
 kdev-php	sonnet	lib
@@ -14225,6 +14295,8 @@ kdevelop-pg-qt	aaa_glibc-solibs	linked
 kdevelop-pg-qt	aaa_libraries	linked
 kdevelop-pg-qt	icu4c	lib
 kdevelop-pg-qt	liburing	lib
+kdevelop-pg-qt	openssl	lib
+kdevelop-pg-qt	openssl-solibs	lib
 kdevelop-pg-qt	pcre2	lib
 kdevelop-pg-qt	qt6	linked
 kdevelop	aaa_glibc-solibs	linked
@@ -14358,6 +14430,7 @@ kdevelop	plasma-activities	lib
 kdevelop	pulseaudio	lib
 kdevelop	purpose	linked
 kdevelop	qt6	linked
+kdevelop	qt6-webengine	linked
 kdevelop	samba	lib
 kdevelop	serf	lib
 kdevelop	solid	linked
@@ -14453,6 +14526,8 @@ kdiagram	libXext	lib
 kdiagram	libglvnd	linked
 kdiagram	liburing	lib
 kdiagram	libxcb	lib
+kdiagram	openssl	lib
+kdiagram	openssl-solibs	lib
 kdiagram	pcre2	lib
 kdiagram	qt6	linked
 kdiagram5	aaa_glibc-solibs	linked
@@ -15438,6 +15513,8 @@ kglobalaccel	libXext	lib
 kglobalaccel	libglvnd	linked
 kglobalaccel	liburing	lib
 kglobalaccel	libxcb	lib
+kglobalaccel	openssl	lib
+kglobalaccel	openssl-solibs	lib
 kglobalaccel	pcre2	lib
 kglobalaccel	qt6	linked
 kglobalaccel5	aaa_glibc-solibs	linked
@@ -15938,6 +16015,7 @@ khelpcenter	pango	lib
 khelpcenter	pcre2	lib
 khelpcenter	pixman	lib
 khelpcenter	qt6	linked
+khelpcenter	qt6-webengine	linked
 khelpcenter	samba	lib
 khelpcenter	solid	lib
 khelpcenter	speex	lib
@@ -16285,6 +16363,8 @@ kidletime	libXext	linked
 kidletime	libglvnd	linked
 kidletime	liburing	lib
 kidletime	libxcb	linked
+kidletime	openssl	lib
+kidletime	openssl-solibs	lib
 kidletime	pcre2	lib
 kidletime	qt6	linked
 kidletime	util-linux	lib
@@ -16760,6 +16840,7 @@ kimagemapeditor	pango	lib
 kimagemapeditor	pcre2	lib
 kimagemapeditor	pixman	lib
 kimagemapeditor	qt6	linked
+kimagemapeditor	qt6-webengine	linked
 kimagemapeditor	samba	lib
 kimagemapeditor	solid	lib
 kimagemapeditor	speex	lib
@@ -17603,6 +17684,8 @@ kitemviews	libXext	lib
 kitemviews	libglvnd	linked
 kitemviews	liburing	lib
 kitemviews	libxcb	lib
+kitemviews	openssl	lib
+kitemviews	openssl-solibs	lib
 kitemviews	pcre2	lib
 kitemviews	qt6	linked
 kitemviews5	aaa_glibc-solibs	linked
@@ -17738,6 +17821,8 @@ kjobwidgets	libogg	lib
 kjobwidgets	liburing	lib
 kjobwidgets	libvorbis	lib
 kjobwidgets	libxcb	lib
+kjobwidgets	openssl	lib
+kjobwidgets	openssl-solibs	lib
 kjobwidgets	pcre2	lib
 kjobwidgets	qt6	linked
 kjobwidgets	util-linux	lib
@@ -18107,6 +18192,7 @@ klevernotes	pango	lib
 klevernotes	pcre2	lib
 klevernotes	pixman	lib
 klevernotes	qt6	linked
+klevernotes	qt6-webengine	linked
 klevernotes	samba	lib
 klevernotes	speex	lib
 klevernotes	talloc	lib
@@ -18563,6 +18649,7 @@ kmail	purpose	lib
 kmail	qgpgme	linked
 kmail	qrencode	lib
 kmail	qt6	linked
+kmail	qt6-webengine	linked
 kmail	qtkeychain	linked
 kmail	samba	lib
 kmail	solid	linked
@@ -18648,6 +18735,8 @@ kmbox	icu4c	lib
 kmbox	kcodecs	lib
 kmbox	kmime	linked
 kmbox	liburing	lib
+kmbox	openssl	lib
+kmbox	openssl-solibs	lib
 kmbox	pcre2	lib
 kmbox	qt6	linked
 kmediaplayer5	aaa_glibc-solibs	linked
@@ -18770,6 +18859,8 @@ kmime	aaa_libraries	linked
 kmime	icu4c	lib
 kmime	kcodecs	linked
 kmime	liburing	lib
+kmime	openssl	lib
+kmime	openssl-solibs	lib
 kmime	pcre2	lib
 kmime	qt6	linked
 kmines	aaa_glibc-solibs	linked
@@ -19301,6 +19392,7 @@ kmymoney	pixman	lib
 kmymoney	pulseaudio	lib
 kmymoney	python3	linked
 kmymoney	qt6	linked
+kmymoney	qt6-webengine	lib
 kmymoney	qtkeychain	linked
 kmymoney	samba	lib
 kmymoney	solid	lib
@@ -19618,6 +19710,8 @@ knighttime	libXext	lib
 knighttime	libglvnd	linked
 knighttime	liburing	lib
 knighttime	libxcb	lib
+knighttime	openssl	lib
+knighttime	openssl-solibs	lib
 knighttime	pcre2	lib
 knighttime	qt6	linked
 knighttime	util-linux	lib
@@ -20262,6 +20356,7 @@ konqueror	pixman	lib
 konqueror	plasma-activities	linked
 konqueror	pulseaudio	lib
 konqueror	qt6	linked
+konqueror	qt6-webengine	linked
 konqueror	samba	lib
 konqueror	solid	linked
 konqueror	sonnet	linked
@@ -20527,6 +20622,7 @@ kontact	pixman	lib
 kontact	pulseaudio	lib
 kontact	purpose	lib
 kontact	qt6	linked
+kontact	qt6-webengine	linked
 kontact	samba	lib
 kontact	solid	lib
 kontact	sonnet	linked
@@ -20889,6 +20985,7 @@ korganizer	purpose	lib
 korganizer	qgpgme	lib
 korganizer	qrencode	lib
 korganizer	qt6	linked
+korganizer	qt6-webengine	lib
 korganizer	qtkeychain	lib
 korganizer	samba	lib
 korganizer	solid	lib
@@ -21214,6 +21311,8 @@ kpeoplevcard	libXext	lib
 kpeoplevcard	libglvnd	linked
 kpeoplevcard	liburing	lib
 kpeoplevcard	libxcb	lib
+kpeoplevcard	openssl	lib
+kpeoplevcard	openssl-solibs	lib
 kpeoplevcard	pcre2	lib
 kpeoplevcard	qt6	linked
 kpeoplevcard	util-linux	lib
@@ -21414,6 +21513,8 @@ kplotting	libXext	lib
 kplotting	libglvnd	linked
 kplotting	liburing	lib
 kplotting	libxcb	lib
+kplotting	openssl	lib
+kplotting	openssl-solibs	lib
 kplotting	pcre2	lib
 kplotting	qt6	linked
 kplotting5	aaa_glibc-solibs	linked
@@ -21448,6 +21549,8 @@ kpmcore	libXext	lib
 kpmcore	libglvnd	linked
 kpmcore	liburing	lib
 kpmcore	libxcb	lib
+kpmcore	openssl	lib
+kpmcore	openssl-solibs	lib
 kpmcore	pcre2	lib
 kpmcore	polkit	lib
 kpmcore	polkit-qt-1	linked
@@ -21460,6 +21563,8 @@ kpty	icu4c	lib
 kpty	kcoreaddons	linked
 kpty	ki18n	linked
 kpty	liburing	lib
+kpty	openssl	lib
+kpty	openssl-solibs	lib
 kpty	pcre2	lib
 kpty	qt6	linked
 kpty	util-linux	lib
@@ -22282,6 +22387,8 @@ krunner	libXfixes	lib
 krunner	libglvnd	linked
 krunner	liburing	lib
 krunner	libxcb	lib
+krunner	openssl	lib
+krunner	openssl-solibs	lib
 krunner	pcre2	lib
 krunner	qt6	linked
 krunner	util-linux	lib
@@ -22635,6 +22742,8 @@ kseexpr	libXext	lib
 kseexpr	libglvnd	linked
 kseexpr	liburing	lib
 kseexpr	libxcb	lib
+kseexpr	openssl	lib
+kseexpr	openssl-solibs	lib
 kseexpr	pcre2	lib
 kseexpr	qt6	linked
 kservice	aaa_glibc-solibs	linked
@@ -22645,6 +22754,8 @@ kservice	kconfig	linked
 kservice	kcoreaddons	linked
 kservice	ki18n	linked
 kservice	liburing	lib
+kservice	openssl	lib
+kservice	openssl-solibs	lib
 kservice	pcre2	lib
 kservice	qt6	linked
 kservice	util-linux	lib
@@ -23028,6 +23139,8 @@ ksshaskpass	libglvnd	linked
 ksshaskpass	libsecret	lib
 ksshaskpass	liburing	lib
 ksshaskpass	libxcb	lib
+ksshaskpass	openssl	lib
+ksshaskpass	openssl-solibs	lib
 ksshaskpass	pcre2	lib
 ksshaskpass	qt6	linked
 ksshaskpass	qtkeychain	linked
@@ -23139,6 +23252,8 @@ kstatusnotifieritem	libXfixes	lib
 kstatusnotifieritem	libglvnd	linked
 kstatusnotifieritem	liburing	lib
 kstatusnotifieritem	libxcb	lib
+kstatusnotifieritem	openssl	lib
+kstatusnotifieritem	openssl-solibs	lib
 kstatusnotifieritem	pcre2	lib
 kstatusnotifieritem	qt6	linked
 kstatusnotifieritem	xcb-util-keysyms	lib
@@ -24013,6 +24128,7 @@ ktorrent	pcre2	lib
 ktorrent	pixman	lib
 ktorrent	pulseaudio	lib
 ktorrent	qt6	linked
+ktorrent	qt6-webengine	linked
 ktorrent	samba	lib
 ktorrent	solid	linked
 ktorrent	sonnet	linked
@@ -24385,6 +24501,8 @@ kwallet	libsecret	linked
 kwallet	liburing	lib
 kwallet	libvorbis	lib
 kwallet	libxcb	lib
+kwallet	openssl	lib
+kwallet	openssl-solibs	lib
 kwallet	pcre2	lib
 kwallet	qca	linked
 kwallet	qt6	linked
@@ -24582,6 +24700,8 @@ kwayland	libXext	lib
 kwayland	libglvnd	linked
 kwayland	liburing	lib
 kwayland	libxcb	lib
+kwayland	openssl	lib
+kwayland	openssl-solibs	lib
 kwayland	pcre2	lib
 kwayland	qt6	linked
 kwayland	wayland	linked
@@ -24695,6 +24815,8 @@ kwidgetsaddons	libXext	lib
 kwidgetsaddons	libglvnd	linked
 kwidgetsaddons	liburing	lib
 kwidgetsaddons	libxcb	lib
+kwidgetsaddons	openssl	lib
+kwidgetsaddons	openssl-solibs	lib
 kwidgetsaddons	pcre2	lib
 kwidgetsaddons	qt6	linked
 kwidgetsaddons5	aaa_glibc-solibs	linked
@@ -25020,6 +25142,8 @@ kwrited	libogg	lib
 kwrited	liburing	lib
 kwrited	libvorbis	lib
 kwrited	libxcb	lib
+kwrited	openssl	lib
+kwrited	openssl-solibs	lib
 kwrited	pcre2	lib
 kwrited	qt6	linked
 kwrited	util-linux	lib
@@ -26476,6 +26600,8 @@ libkdcraw	libXext	lib
 libkdcraw	libglvnd	linked
 libkdcraw	liburing	lib
 libkdcraw	libxcb	lib
+libkdcraw	openssl	lib
+libkdcraw	openssl-solibs	lib
 libkdcraw	pcre2	lib
 libkdcraw	qt6	linked
 libkdegames	aaa_glibc-solibs	linked
@@ -26557,6 +26683,8 @@ libkdepim	libXext	lib
 libkdepim	libglvnd	linked
 libkdepim	liburing	lib
 libkdepim	libxcb	lib
+libkdepim	openssl	lib
+libkdepim	openssl-solibs	lib
 libkdepim	pcre2	lib
 libkdepim	qt6	linked
 libkeduvocdocument	aaa_glibc-solibs	linked
@@ -26694,6 +26822,8 @@ libkleo	libassuan	lib
 libkleo	libglvnd	linked
 libkleo	liburing	lib
 libkleo	libxcb	lib
+libkleo	openssl	lib
+libkleo	openssl-solibs	lib
 libkleo	pcre2	lib
 libkleo	qgpgme	linked
 libkleo	qt6	linked
@@ -26723,6 +26853,8 @@ libkmahjongg	libXext	lib
 libkmahjongg	libglvnd	linked
 libkmahjongg	liburing	lib
 libkmahjongg	libxcb	lib
+libkmahjongg	openssl	lib
+libkmahjongg	openssl-solibs	lib
 libkmahjongg	pcre2	lib
 libkmahjongg	qt6	linked
 libkmahjongg	util-linux	lib
@@ -26859,6 +26991,8 @@ libkscreen	libXext	lib
 libkscreen	libglvnd	linked
 libkscreen	liburing	lib
 libkscreen	libxcb	linked
+libkscreen	openssl	lib
+libkscreen	openssl-solibs	lib
 libkscreen	pcre2	lib
 libkscreen	qt6	linked
 libkscreen	wayland	linked
@@ -26977,6 +27111,7 @@ libksieve	pixman	lib
 libksieve	pulseaudio	lib
 libksieve	purpose	lib
 libksieve	qt6	linked
+libksieve	qt6-webengine	linked
 libksieve	qtkeychain	lib
 libksieve	samba	lib
 libksieve	solid	lib
@@ -27438,6 +27573,8 @@ libqaccessibilityclient	libXext	lib
 libqaccessibilityclient	libglvnd	linked
 libqaccessibilityclient	liburing	lib
 libqaccessibilityclient	libxcb	lib
+libqaccessibilityclient	openssl	lib
+libqaccessibilityclient	openssl-solibs	lib
 libqaccessibilityclient	pcre2	lib
 libqaccessibilityclient	qt6	linked
 libqalculate	aaa_glibc-solibs	linked
@@ -28469,6 +28606,7 @@ mailcommon	purpose	lib
 mailcommon	qgpgme	linked
 mailcommon	qrencode	lib
 mailcommon	qt6	linked
+mailcommon	qt6-webengine	lib
 mailcommon	qtkeychain	lib
 mailcommon	samba	lib
 mailcommon	solid	lib
@@ -28682,6 +28820,7 @@ marble	pixman	lib
 marble	protobuf	linked
 marble	pulseaudio	lib
 marble	qt6	linked
+marble	qt6-webengine	linked
 marble	samba	lib
 marble	solid	lib
 marble	speex	lib
@@ -29026,6 +29165,7 @@ mbox-importer	purpose	lib
 mbox-importer	qgpgme	linked
 mbox-importer	qrencode	lib
 mbox-importer	qt6	linked
+mbox-importer	qt6-webengine	lib
 mbox-importer	qtkeychain	lib
 mbox-importer	samba	lib
 mbox-importer	solid	lib
@@ -29222,6 +29362,7 @@ merkuro	purpose	lib
 merkuro	qgpgme	linked
 merkuro	qrencode	lib
 merkuro	qt6	linked
+merkuro	qt6-webengine	lib
 merkuro	qtkeychain	lib
 merkuro	samba	lib
 merkuro	solid	lib
@@ -29406,6 +29547,7 @@ messagelib	purpose	lib
 messagelib	qgpgme	linked
 messagelib	qrencode	lib
 messagelib	qt6	linked
+messagelib	qt6-webengine	linked
 messagelib	qtkeychain	lib
 messagelib	samba	lib
 messagelib	solid	linked
@@ -29799,6 +29941,8 @@ modemmanager-qt	aaa_libraries	linked
 modemmanager-qt	dbus	lib
 modemmanager-qt	icu4c	lib
 modemmanager-qt	liburing	lib
+modemmanager-qt	openssl	lib
+modemmanager-qt	openssl-solibs	lib
 modemmanager-qt	pcre2	lib
 modemmanager-qt	qt6	linked
 mold	aaa_glibc-solibs	linked
@@ -30871,6 +31015,8 @@ openal-soft	libXext	lib
 openal-soft	libglvnd	linked
 openal-soft	liburing	lib
 openal-soft	libxcb	lib
+openal-soft	openssl	lib
+openal-soft	openssl-solibs	lib
 openal-soft	pcre2	lib
 openal-soft	pipewire	hint:dlopen
 openal-soft	pulseaudio	hint:dlopen
@@ -31454,6 +31600,7 @@ parley	pcre2	lib
 parley	pixman	lib
 parley	pulseaudio	lib
 parley	qt6	linked
+parley	qt6-webengine	linked
 parley	samba	lib
 parley	solid	lib
 parley	sonnet	linked
@@ -31677,6 +31824,8 @@ phonon-backend-gstreamer	libvorbis	lib
 phonon-backend-gstreamer	libxcb	linked
 phonon-backend-gstreamer	libxkbcommon	linked
 phonon-backend-gstreamer	mpg123	lib
+phonon-backend-gstreamer	openssl	lib
+phonon-backend-gstreamer	openssl-solibs	lib
 phonon-backend-gstreamer	opus	lib
 phonon-backend-gstreamer	orc	lib
 phonon-backend-gstreamer	pcre2	lib
@@ -31818,6 +31967,8 @@ phonon	liburing	lib
 phonon	libvorbis	lib
 phonon	libxcb	lib
 phonon	mpg123	lib
+phonon	openssl	lib
+phonon	openssl-solibs	lib
 phonon	opus	lib
 phonon	pcre2	lib
 phonon	pulseaudio	linked
@@ -32124,6 +32275,7 @@ pim-data-exporter	purpose	lib
 pim-data-exporter	qgpgme	linked
 pim-data-exporter	qrencode	lib
 pim-data-exporter	qt6	linked
+pim-data-exporter	qt6-webengine	lib
 pim-data-exporter	qtkeychain	lib
 pim-data-exporter	samba	lib
 pim-data-exporter	solid	linked
@@ -32256,6 +32408,7 @@ pim-sieve-editor	pixman	lib
 pim-sieve-editor	pulseaudio	lib
 pim-sieve-editor	purpose	lib
 pim-sieve-editor	qt6	linked
+pim-sieve-editor	qt6-webengine	lib
 pim-sieve-editor	qtkeychain	linked
 pim-sieve-editor	samba	lib
 pim-sieve-editor	solid	lib
@@ -32405,6 +32558,8 @@ pinentry	libglvnd	lib
 pinentry	libsecret	linked
 pinentry	liburing	lib
 pinentry	libxcb	lib
+pinentry	openssl	lib
+pinentry	openssl-solibs	lib
 pinentry	p11-kit	linked
 pinentry	pango	linked
 pinentry	pcre2	lib
@@ -32503,6 +32658,8 @@ plasma-activities-stats	dbus	lib
 plasma-activities-stats	icu4c	lib
 plasma-activities-stats	kconfig	linked
 plasma-activities-stats	liburing	lib
+plasma-activities-stats	openssl	lib
+plasma-activities-stats	openssl-solibs	lib
 plasma-activities-stats	pcre2	lib
 plasma-activities-stats	plasma-activities	linked
 plasma-activities-stats	qt6	linked
@@ -32650,6 +32807,7 @@ plasma-bigscreen	plasma-activities-stats	linked
 plasma-bigscreen	plasma-workspace	linked
 plasma-bigscreen	qcoro	linked
 plasma-bigscreen	qt6	linked
+plasma-bigscreen	qt6-webengine	linked
 plasma-bigscreen	samba	lib
 plasma-bigscreen	solid	linked
 plasma-bigscreen	speex	lib
@@ -33770,6 +33928,8 @@ polkit-qt-1	libXext	lib
 polkit-qt-1	libglvnd	linked
 polkit-qt-1	liburing	lib
 polkit-qt-1	libxcb	lib
+polkit-qt-1	openssl	lib
+polkit-qt-1	openssl-solibs	lib
 polkit-qt-1	pcre2	lib
 polkit-qt-1	polkit	linked
 polkit-qt-1	qt5	linked
@@ -33931,6 +34091,8 @@ poxml	aaa_libraries	linked
 poxml	gettext-tools	linked
 poxml	icu4c	lib
 poxml	liburing	lib
+poxml	openssl	lib
+poxml	openssl-solibs	lib
 poxml	pcre2	lib
 poxml	qt6	linked
 ppp	aaa_glibc-solibs	linked
@@ -34112,6 +34274,8 @@ pulseaudio-qt	liburing	lib
 pulseaudio-qt	libvorbis	lib
 pulseaudio-qt	libxcb	lib
 pulseaudio-qt	mpg123	lib
+pulseaudio-qt	openssl	lib
+pulseaudio-qt	openssl-solibs	lib
 pulseaudio-qt	opus	lib
 pulseaudio-qt	pcre2	lib
 pulseaudio-qt	pulseaudio	linked
@@ -34754,6 +34918,8 @@ qgpgme	gpgmepp	linked
 qgpgme	icu4c	lib
 qgpgme	libassuan	lib
 qgpgme	liburing	lib
+qgpgme	openssl	lib
+qgpgme	openssl-solibs	lib
 qgpgme	pcre2	lib
 qgpgme	qt6	linked
 qml-box2d	aaa_glibc-solibs	linked
@@ -35085,6 +35251,85 @@ qt5	xcb-util-image	linked
 qt5	xcb-util-keysyms	linked
 qt5	xcb-util-renderutil	linked
 qt5	xcb-util-wm	linked
+qt6-webengine	aaa_glibc-solibs	linked
+qt6-webengine	aaa_libraries	linked
+qt6-webengine	aom	lib
+qt6-webengine	brotli	lib
+qt6-webengine	cairo	lib
+qt6-webengine	cyrus-sasl	lib
+qt6-webengine	dav1d	lib
+qt6-webengine	dbus	linked
+qt6-webengine	duktape	lib
+qt6-webengine	e2fsprogs	lib
+qt6-webengine	ffmpeg	linked
+qt6-webengine	fontconfig	linked
+qt6-webengine	freetype	linked
+qt6-webengine	fribidi	lib
+qt6-webengine	gdk-pixbuf2	lib
+qt6-webengine	glib2	linked
+qt6-webengine	gnutls	lib
+qt6-webengine	graphite2	lib
+qt6-webengine	harfbuzz	linked
+qt6-webengine	highway	lib
+qt6-webengine	icu4c	linked
+qt6-webengine	jansson	lib
+qt6-webengine	lame	lib
+qt6-webengine	lcms2	linked
+qt6-webengine	libX11	linked
+qt6-webengine	libXau	lib
+qt6-webengine	libXcomposite	linked
+qt6-webengine	libXdamage	linked
+qt6-webengine	libXdmcp	lib
+qt6-webengine	libXext	linked
+qt6-webengine	libXfixes	linked
+qt6-webengine	libXrandr	linked
+qt6-webengine	libXrender	lib
+qt6-webengine	libbluray	lib
+qt6-webengine	libdeflate	lib
+qt6-webengine	libdrm	lib
+qt6-webengine	libgcrypt	lib
+qt6-webengine	libglvnd	linked
+qt6-webengine	libjxl	lib
+qt6-webengine	libogg	lib
+qt6-webengine	libproxy	lib
+qt6-webengine	librsvg	lib
+qt6-webengine	libssh	lib
+qt6-webengine	libtasn1	lib
+qt6-webengine	libtheora	lib
+qt6-webengine	liburing	lib
+qt6-webengine	libva	lib
+qt6-webengine	libvdpau	lib
+qt6-webengine	libvorbis	lib
+qt6-webengine	libvpx	lib
+qt6-webengine	libwebp	linked
+qt6-webengine	libxcb	linked
+qt6-webengine	libxkbfile	linked
+qt6-webengine	libxml2	linked
+qt6-webengine	libxslt	linked
+qt6-webengine	mesa	linked
+qt6-webengine	mozilla-nss	linked
+qt6-webengine	mpg123	lib
+qt6-webengine	nettle	lib
+qt6-webengine	nghttp2	lib
+qt6-webengine	nghttp3	lib
+qt6-webengine	ngtcp2	lib
+qt6-webengine	ocl-icd	lib
+qt6-webengine	openjpeg	linked
+qt6-webengine	openssl	lib
+qt6-webengine	openssl-solibs	lib
+qt6-webengine	opus	linked
+qt6-webengine	p11-kit	lib
+qt6-webengine	pango	lib
+qt6-webengine	pciutils	hint:dlopen
+qt6-webengine	pcre2	lib
+qt6-webengine	pixman	lib
+qt6-webengine	qt6	linked
+qt6-webengine	samba	lib
+qt6-webengine	speex	lib
+qt6-webengine	talloc	lib
+qt6-webengine	tevent	lib
+qt6-webengine	util-linux	lib
+qt6-webengine	vulkan-sdk	hint:dlopen
 qt6	aaa_glibc-solibs	linked
 qt6	aaa_libraries	linked
 qt6	abseil-cpp	linked
@@ -35119,7 +35364,6 @@ qt6	highway	lib
 qt6	hunspell	linked
 qt6	icu4c	linked
 qt6	jansson	lib
-qt6	jasper	linked
 qt6	lame	lib
 qt6	lcms2	linked
 qt6	libICE	linked
@@ -35150,7 +35394,6 @@ qt6	libgudev	lib
 qt6	libinput	linked
 qt6	libiodbc	linked
 qt6	libjxl	lib
-qt6	libmng	linked
 qt6	libogg	lib
 qt6	libproxy	linked
 qt6	librsvg	lib
@@ -35196,6 +35439,7 @@ qt6	pixman	lib
 qt6	protobuf	linked
 qt6	pulseaudio	linked
 qt6	python-pip	hint:import
+qt6	qt6-webengine	linked
 qt6	samba	lib
 qt6	speech-dispatcher	linked
 qt6	speex	lib
@@ -35219,6 +35463,8 @@ qtkeychain	icu4c	lib
 qtkeychain	libgcrypt	lib
 qtkeychain	libsecret	linked
 qtkeychain	liburing	lib
+qtkeychain	openssl	lib
+qtkeychain	openssl-solibs	lib
 qtkeychain	pcre2	lib
 qtkeychain	qt6	linked
 qtkeychain	util-linux	lib
@@ -35226,6 +35472,8 @@ quazip	aaa_glibc-solibs	linked
 quazip	aaa_libraries	linked
 quazip	icu4c	lib
 quazip	liburing	lib
+quazip	openssl	lib
+quazip	openssl-solibs	lib
 quazip	pcre2	lib
 quazip	qt6	linked
 quota	aaa_glibc-solibs	linked
@@ -35981,6 +36229,7 @@ skanpage	pixman	lib
 skanpage	poppler	lib
 skanpage	purpose	linked
 skanpage	qt6	linked
+skanpage	qt6-webengine	linked
 skanpage	sane	lib
 skanpage	solid	lib
 skanpage	tesseract	linked
@@ -36893,6 +37142,8 @@ syndication	aaa_libraries	linked
 syndication	icu4c	lib
 syndication	kcodecs	linked
 syndication	liburing	lib
+syndication	openssl	lib
+syndication	openssl-solibs	lib
 syndication	pcre2	lib
 syndication	qt6	linked
 syndication5	aaa_glibc-solibs	linked
@@ -37164,6 +37415,8 @@ threadweaver	aaa_glibc-solibs	linked
 threadweaver	aaa_libraries	linked
 threadweaver	icu4c	lib
 threadweaver	liburing	lib
+threadweaver	openssl	lib
+threadweaver	openssl-solibs	lib
 threadweaver	pcre2	lib
 threadweaver	qt6	linked
 threadweaver5	aaa_glibc-solibs	linked
@@ -37694,6 +37947,8 @@ v4l-utils	libXext	lib
 v4l-utils	libglvnd	linked
 v4l-utils	liburing	lib
 v4l-utils	libxcb	lib
+v4l-utils	openssl	lib
+v4l-utils	openssl-solibs	lib
 v4l-utils	pcre2	lib
 v4l-utils	qt6	linked
 vala	aaa_glibc-solibs	linked
@@ -38164,6 +38419,8 @@ xaos	libXext	lib
 xaos	libglvnd	linked
 xaos	liburing	lib
 xaos	libxcb	lib
+xaos	openssl	lib
+xaos	openssl-solibs	lib
 xaos	pcre2	lib
 xaos	qt6	linked
 xapian-core	aaa_glibc-solibs	linked
@@ -40698,6 +40955,7 @@ zanshin	purpose	lib
 zanshin	qgpgme	lib
 zanshin	qrencode	lib
 zanshin	qt6	linked
+zanshin	qt6-webengine	lib
 zanshin	qtkeychain	lib
 zanshin	samba	lib
 zanshin	solid	lib
@@ -40781,6 +41039,8 @@ zint	libXext	lib
 zint	libglvnd	linked
 zint	liburing	lib
 zint	libxcb	lib
+zint	openssl	lib
+zint	openssl-solibs	lib
 zint	pcre2	lib
 zint	qt6	linked
 zlib	aaa_glibc-solibs	linked

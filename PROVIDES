@@ -3020,6 +3020,7 @@ libQt63DQuickScene3D.so.6 qt6
 libQt63DQuick.so.6 qt6
 libQt63DRender.so.6 qt6
 libQt6Bluetooth.so.6 qt6
+libQt6Canvas2D.so.6 qt6
 libQt6CanvasPainter.so.6 qt6
 libQt6ChartsQml.so.6 qt6
 libQt6Charts.so.6 qt6
@@ -3036,6 +3037,7 @@ libQt6Designer.so.6 qt6
 libQt6EglFSDeviceIntegration.so.6 qt6
 libQt6EglFsKmsGbmSupport.so.6 qt6
 libQt6EglFsKmsSupport.so.6 qt6
+libQt6Graphs2DImpl.so.6 qt6
 libQt6Graphs.so.6 qt6
 libQt6GraphsWidgets.so.6 qt6
 libQt6GrpcQuick.so.6 qt6
@@ -3070,8 +3072,11 @@ libQt6OpcUa.so.6 qt6
 libQt6OpenGL.so.6 qt6
 libQt6OpenGLWidgets.so.6 qt6
 libQt6PdfQuick.so.6 qt6
+libQt6PdfQuick.so.6 qt6-webengine
 libQt6Pdf.so.6 qt6
+libQt6Pdf.so.6 qt6-webengine
 libQt6PdfWidgets.so.6 qt6
+libQt6PdfWidgets.so.6 qt6-webengine
 libQt6PositioningQuick.so.6 qt6
 libQt6Positioning.so.6 qt6
 libQt6PrintSupport.so.6 qt6
@@ -3082,6 +3087,7 @@ libQt6Protobuf.so.6 qt6
 libQt6ProtobufWellKnownTypes.so.6 qt6
 libQt6QmlCompiler.so.6 qt6
 libQt6QmlCore.so.6 qt6
+libQt6QmlDesignSupport.so.6 qt6
 libQt6QmlLocalStorage.so.6 qt6
 libQt6QmlMeta.so.6 qt6
 libQt6QmlModels.so.6 qt6
@@ -3106,6 +3112,7 @@ libQt6Quick3DSpatialAudio.so.6 qt6
 libQt6Quick3DUtils.so.6 qt6
 libQt6QuickControls2Basic.so.6 qt6
 libQt6QuickControls2BasicStyleImpl.so.6 qt6
+libQt6QuickControls2FluentWinUI3.so.6 qt6
 libQt6QuickControls2FluentWinUI3StyleImpl.so.6 qt6
 libQt6QuickControls2Fusion.so.6 qt6
 libQt6QuickControls2FusionStyleImpl.so.6 qt6
@@ -3114,6 +3121,7 @@ libQt6QuickControls2ImagineStyleImpl.so.6 qt6
 libQt6QuickControls2Impl.so.6 qt6
 libQt6QuickControls2Material.so.6 qt6
 libQt6QuickControls2MaterialStyleImpl.so.6 qt6
+libQt6QuickControls2Native.so.6 qt6
 libQt6QuickControls2.so.6 qt6
 libQt6QuickControls2Universal.so.6 qt6
 libQt6QuickControls2UniversalStyleImpl.so.6 qt6
@@ -3166,9 +3174,13 @@ libQt6WaylandEglCompositorHwIntegration.so.6 qt6
 libQt6WebChannelQuick.so.6 qt6
 libQt6WebChannel.so.6 qt6
 libQt6WebEngineCore.so.6 qt6
+libQt6WebEngineCore.so.6 qt6-webengine
 libQt6WebEngineQuickDelegatesQml.so.6 qt6
+libQt6WebEngineQuickDelegatesQml.so.6 qt6-webengine
 libQt6WebEngineQuick.so.6 qt6
+libQt6WebEngineQuick.so.6 qt6-webengine
 libQt6WebEngineWidgets.so.6 qt6
+libQt6WebEngineWidgets.so.6 qt6-webengine
 libQt6WebSockets.so.6 qt6
 libQt6WebViewQuick.so.6 qt6
 libQt6WebView.so.6 qt6

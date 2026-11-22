@@ -417,6 +417,7 @@ python-zipp
 qrencode
 qt5
 qt6
+qt6-webengine
 qtkeychain
 quazip
 range-v3

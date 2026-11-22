@@ -751,6 +751,7 @@ l/python-zipp
 l/qrencode
 l/qt5
 l/qt6
+l/qt6-webengine
 l/qtkeychain
 l/quazip
 l/range-v3
