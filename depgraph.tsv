@@ -28919,7 +28919,7 @@ vte	libpango-1.0.so.0	pango
 vte	libpangocairo-1.0.so.0	pango
 vte	libpcre2-8.so.0	aaa_libraries
 vte	libpcre2-8.so.0	pcre2
-vte	libsimdutf.so.38	simdutf
+vte	libsimdutf.so.39	simdutf
 vte	libstdc++.so.6	aaa_libraries
 vte	libstdc++.so.6	gcc-g++
 vulkan-sdk	ld-linux-x86-64.so.2	aaa_glibc-solibs

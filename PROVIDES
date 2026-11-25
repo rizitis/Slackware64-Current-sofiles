@@ -3318,7 +3318,7 @@ libsigc-2.0.so.0 libsigc++
 libsigc-3.0.so.0 libsigc++3
 libsigsegv.so.2 aaa_libraries
 libsigsegv.so.2 libsigsegv
-libsimdutf.so.38 simdutf
+libsimdutf.so.39 simdutf
 libsimple.so pidgin
 libslang.so.1 aaa_libraries
 libslang.so.1 slang1
