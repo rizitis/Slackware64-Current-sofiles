@@ -38,7 +38,6 @@ bluez	exec	/usr/bin/pipewire	pipewire	guess
 bsd-finger	exec	/usr/bin/uptime	procps-ng	guess
 bsd-games	exec	/usr/bin/less	less	guess
 c-ares	dlopen	libcares.so.2	aaa_libraries	guess
-cargo-c	dlopen	libsecret-1.so.0	libsecret	guess
 compiz	exec	/usr/bin/xfwm4	xfwm4	guess
 cups	dlopen	libcupsimage.so.2	aaa_libraries	guess
 cvs	exec	/usr/bin/pr	coreutils	guess
@@ -391,6 +390,8 @@ nodejs	import	packaging	python-packaging	guess
 ntfs-3g	exec	/usr/bin/mount	util-linux	guess
 ntfs-3g	exec	/usr/bin/umount	util-linux	guess
 nvi	exec	/usr/bin/sendmail	postfix	guess
+nvme-cli	dlopen	libarchive.so.13	libarchive	guess
+nvme-cli	dlopen	libkmod.so.2	kmod	guess
 openal-soft	dlopen	libasound.so.2	aaa_libraries	guess
 openal-soft	dlopen	libdbus-1.so.3	dbus	guess
 openal-soft	dlopen	libjack.so.0	pipewire	guess

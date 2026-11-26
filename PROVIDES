@@ -77,6 +77,12 @@ cirrus_drv.so xf86-video-cirrus
 cldap.so samba
 client.so subversion
 clip.so imagemagick
+cmds-fabrics.so nvme-cli
+cmds-feat.so nvme-cli
+cmds-id.so nvme-cli
+cmds-list.so nvme-cli
+cmds-log.so nvme-cli
+cmds-ocp.so nvme-cli
 cmyk.so imagemagick
 collect.so.2 openldap
 color-traditional.so gutenprint
@@ -4469,6 +4475,7 @@ wacom_drv.so xf86-input-wacom
 wbinfo.so imagemagick
 wbmp.so imagemagick
 wc.so subversion
+wdc.so nvme-cli
 webp.so imagemagick
 whoami bash
 widelinks.so samba

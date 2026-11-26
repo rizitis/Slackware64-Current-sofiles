@@ -722,6 +722,15 @@ clip.so	libxml2.so.16
 clip.so	libXt.so.6
 clip.so	libzip.so.5
 clip.so	libz.so.1
+cmds-fabrics.so	libc.so.6
+cmds-feat.so	libc.so.6
+cmds-id.so	libc.so.6
+cmds-list.so	libc.so.6
+cmds-log.so	cmds-feat.so
+cmds-log.so	libc.so.6
+cmds-ocp.so	cmds-feat.so
+cmds-ocp.so	cmds-log.so
+cmds-ocp.so	libc.so.6
 cmyk.so	libbz2.so.1
 cmyk.so	libc.so.6
 cmyk.so	libfftw3.so.3
@@ -42532,6 +42541,8 @@ wc.so	libsvn_swig_ruby-1.so.0
 wc.so	libsvn_wc-1.so.0
 wc.so	libutf8proc.so.3
 wc.so	libz.so.1
+wdc.so	cmds-id.so
+wdc.so	libc.so.6
 webp.so	libbz2.so.1
 webp.so	libc.so.6
 webp.so	libfftw3.so.3

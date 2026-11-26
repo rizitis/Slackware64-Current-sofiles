@@ -22496,7 +22496,6 @@ nvi	libncursesw.so.6	aaa_libraries
 nvi	libncursesw.so.6	ncurses
 nvi	libtinfo.so.6	aaa_libraries
 nvi	libtinfo.so.6	ncurses
-nvme-cli	libarchive.so.13	libarchive
 nvme-cli	libcrypto.so.3	openssl
 nvme-cli	libcrypto.so.3	openssl-solibs
 nvme-cli	libc.so.6	aaa_glibc-solibs
@@ -22505,7 +22504,6 @@ nvme-cli	libjson-c.so.5	aaa_libraries
 nvme-cli	libjson-c.so.5	json-c
 nvme-cli	libkeyutils.so.1	aaa_libraries
 nvme-cli	libkeyutils.so.1	keyutils
-nvme-cli	libkmod.so.2	kmod
 obexftp	ld-linux-x86-64.so.2	aaa_glibc-solibs
 obexftp	ld-linux-x86-64.so.2	glibc
 obexftp	libbluetooth.so.3	bluez
